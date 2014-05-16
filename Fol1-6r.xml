@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href=""?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+
+            <titleStmt>
+                <title>Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+                <author>Aurelius Augustinus</author>
+                <editor>Greta Franzini</editor>
+                <respStmt>
+                    <persName>Greta Franzini</persName>
+                    <resp>PhD student</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Melissa Terras</persName>
+                    <resp>PhD first supervisor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Simon Mahony</persName>
+                    <resp>PhD second supervisor</resp>
+                </respStmt>
+            </titleStmt>
+
+            <editionStmt>
+                <edition n="1">First (digital) edition</edition>
+            </editionStmt>
+
+            <publicationStmt>
+                <authority>Greta Franzini</authority>
+                <idno>Fol1-6r.xml</idno>
+                <authority>UCL Centre for Digital Humanities</authority>
+                <availability>
+                    <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+                </availability>
+                <date>2014</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Verona</settlement>
+                        <repository>Biblioteca Capitolare</repository>
+                        <idno>MS XXVIII (26)</idno>
+                    </msIdentifier>
+
+                    <msContents>
+                        <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+                   </msContents>
+
+
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="parchment">
+                                <support><p>Parchment</p></support>
+                                <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+                                        <height>292</height>
+                                        <width>190</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"><p>In a single column</p></layout>
+                            </layoutDesc>
+                        </objectDesc>
+
+                        <bindingDesc>
+                            <binding contemporary="unknown">
+                                <p>Bound in <material>rigid parchment</material>, possibly in 18th
+                                    century, and rebound using the same support in 1926.</p>
+                            </binding>
+                        </bindingDesc>
+
+                    </physDesc>
+
+                    <history>
+                        <origin>
+                            <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+                            </p>
+                        </origin>
+                    </history>
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+
+        <encodingDesc>
+            <p>The following text was encoded in accordance with EpiDoc standards and with the
+                CTS/CITE Architecture.</p>
+        </encodingDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+
+
+    </teiHeader>
+
+
+    <text>
+
+        <body>
+            <head>
+                <title>INCP:CAPITULA:LIB:XI:DECIUITATEDI:</title>
+                
+            </head>
+
+
+            <pb n="fol_1v"/>  
+            <div type="edition">
+
+                <ab>
+                    <lb n="1"/><num value="1">I</num>. De ea parte operis qua duarum ciuitatum id est 
+                    <lb n="2"/>celestis atque terrenae initia et fines incipient 
+                    <lb n="3"/>demonstrari; 
+                    <lb n="4"/><num value="2">II</num>. De cognoscendo <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> ad cuius notitiam nemo <choice><abbr>hominu&#772;</abbr><expan><ex>m</ex></expan></choice>
+                    <lb n="5"/>peruenit &#183; nisi per mediatorem <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> et hominum &#772; &#183; 
+                    <lb n="6"/>hominem <choice><abbr>xp&#772;m&#772;</abbr><expan>Chr<ex>istu</ex>m</expan></choice> <choice><abbr>ih&#772;m&#772;</abbr><expan>Ih<ex>esu</ex>m</expan></choice>;
+                    <lb n="7"/><num value="3">III</num>. De auctoritate canonic<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> scripturae diuino <choice><abbr>sp&#772;u&#772;</abbr><expan>sp<ex>irit</ex>u</expan></choice>
+                    <lb n="8"/>conditae; 
+                    <lb n="9"/><num value="4">IIII</num>. De conditione mundi
+                    qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> nec in temporalis sit 
+                    <lb n="10"/>nec nobo <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ordinata consiljo quasi postea <w part="I">uolue</w>
+                    <lb n="11"/><w part="F">rit</w> quod ante noluerat; 
+                    <lb n="12"/><num value="5">V</num>. Tam non esse cogitandum de infinitus temporum 
+                    <lb n="13"/>spatiis ante mundum quam nec de infinitis <choice><abbr>locoru&#772;</abbr><expan><ex>m</ex></expan></choice>
+                    <lb n="14"/>spatiis axtra mundum &#183; quia sicut nulla ante 
+                    <lb n="15"/><choice><abbr>ipsu&#772;</abbr><expan><ex>m</ex></expan></choice> sunt tempora &#183; ita nulla extra <choice><abbr>ipsu &#772;</abbr><expan><ex>m</ex></expan></choice> sunt loca. 
+                    <lb n="16"/><num value="6">VI</num>. Creationis mundi et temporum unum esse <w part="I">prin</w>
+                    <lb n="17"/><w part="F">cipium</w> nec aljud aljo praeueniri; 
+                    <lb n="18"/><num value="7">VII</num>. De qualjtate primorum dierum qui <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> ante
+                    <lb n="19"/>quam sol <choice><abbr>fier&#38;</abbr><expan>fier<ex>et</ex></expan></choice> uesperam et mane traduntur
+                    <lb n="20"/>habuisse; 
+                    <lb n="21"/><num value="8">VIII</num>. Qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> qualjs que
+                    intelegenda sit <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> requies &#183; qua post
+                    <lb n="22"/>opera ex dierum requiebit in septimo; 
+                    <lb n="23"/><num value="8">VIII</num>. De angelorum conditione quid secundum diuina 
+                    <lb n="24"/>testimonia sentiendum sit; 
+                    <lb n="25"/><num value="9">VIIII</num>. De <choice><abbr>simplici&#38;</abbr><expan>simplici<ex>et</ex></expan></choice> incommutabiljis intacte <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> patris
+                    <lb n="26"/><choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> filji &#183; et <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> <choice><abbr>sp&#772;s&#772;</abbr><expan>sp<ex>iritu</ex>s</expan></choice> <choice><abbr>sc&#772;i&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>i</expan></choice>
+                    &#183; unius <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> &#183;
+                    cui non est alju<add place="above">d</add> <w part="I">qualj</w> 
+                    <lb n="27"/><w part="F">tas</w> aljud que substantia; 
+                    <lb n="28"/><num value="10">X</num>. An eius beatitudinis &#183; quam <choice><abbr>sc&#772;i&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>i</expan></choice> &#183; angelj an initio
+                
+                </ab>
+            </div>
+
+           
+            <pb n="fol_2r"/>
+            <div type="edition"> 
+                <ab>
+                    <lb n="1"/>sui semper habuerunt &#183; etiam illos <choice><abbr>sp&#772;s</abbr><expan>sp<ex>iritu</ex>s</expan></choice> qui in <w part="I">ueri</w>
+                    <lb n="2"/><w part="F">tate</w> non steterunt participes fuisse <choice><abbr>credendu&#772;</abbr><expan>credendu<ex>m</ex></expan></choice> sit; 
+                    <lb n="3"/><num value="12">XII</num>. De comparatione beatitudinis iustorum nec <choice><abbr>du &#772;</abbr><expan>du<ex>m</ex></expan></choice>
+                    <lb n="4"/>optinentium promissionis diuin<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> praemium <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <w part="I">pri</w>
+                    <lb n="5"/><w part="F"><choice><abbr>moru &#772;</abbr><expan>moru<ex>m</ex></expan></choice></w> in paradyso hominum ante peccatum; 
+                    <lb n="6"/><num value="13">XIII</num>. An ita unius felicitatis omnes angeli sint creati &#183; 
+                    <lb n="7"/>ut neque lapsuros repossent nos sequi lapsi sunt &#183; 
+                    <lb n="8"/><choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> post ruinam la<corr>b</corr>entium perseueranti <choice><abbr>+&#38;</abbr><expan><ex>et</ex></expan></choice><choice><abbr>+&#38;</abbr><expan><ex>et</ex></expan></choice> <choice><abbr>su&#281;</abbr><expan>su<ex>ae</ex></expan></choice> prae
+                    <lb n="9"/>scientiam ac ceperint qui steterunt; 
+                    <lb n="10"/><num value="14">XIIII</num>. Quo genere locutionis <choice><abbr>dictu &#772;</abbr><expan>dictu<ex>m</ex></expan>
+                    </choice> sit de diabolo quod in 
+                    <lb n="11"/>ueritate non ste<add place="above">te</add>rit quia ueritas non est in eo;
+                    <lb n="12"/><num value="15">XV</num>. Quid sentiendum sit de eo quod dictum est, ab initio 
+                    <lb n="13"/>diabolus p<choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice>cat;
+                    <lb n="14"/><num value="16">XVI</num>. De gradibus et differentiis creaturarum quas 
+                    <lb n="15"/>aljter perdit usus utiljtatis. alyter ordo rationis; 
+                    <lb n="16"/><num value="17">XVII</num>. Vitium maljti<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> non naturam esse &#183; sed contra <w part="I">na</w>                    
+                    <lb n="17"/><w part="F">turam</w> cui ad peccandum no<add place="above">n</add> conditor causa est
+                    <lb n="18"/>sed uoluntas; 
+                    <lb n="19"/><num value="18">XVIII</num>. De pulchritudine uniuersitatis  qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> per <w part="I">ordina</w> 
+                    <lb n="20"/><w part="F">tionem</w> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> ex contrariorum sit oppositione                     
+                    <lb n="21"/>luculentior; <lb n="22"/><num value="19">XVIIII</num>. Quid sentiendum uideatur de eo quod <choice><abbr>scriptu&#772;</abbr><expan>scriptu<ex>m</ex></expan></choice> est 
+                    <lb n="23"/>diuisit <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> inter lucem <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> tenebras; 
+                    <lb n="24"/><num value="20">XX</num>. De eo quod post discretionem lucis atque <choice><abbr>tenebraru&#772;</abbr><expan>tenebraru<ex>m</ex></expan></choice>
+                    <lb n="25"/>dictum est &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> uidit <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> lucem quia bona est;
+                    <lb n="26"/><num value="21">XXI</num>. De aeternam <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> inconmutabilj scientia <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ac <w part="I">bonita</w> 
+                    <lb n="27"/><w part="F">te</w>&#183; qua rem per illj uniuersa quae fecit sic placuerunt
+                    <lb n="28"/>facienda quem admodum facta; 
+                    <lb n="29"/><num value="22">XXII</num>. De his quibus in uniuersitate rerum a bono creatore 
+                    <lb n="30"/>bene conditarum quaedam displjcent &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> putant <choice><abbr>ulla&#772;</abbr><expan>ulla<ex>m</ex></expan></choice>
+                   
+                </ab>
+            </div>
+
+            
+            <pb n="fol_2v"/>
+            <div type="edition"> 
+                <ab>
+                <lb n="1" />malam esse naturam;
+                <lb n="2" /><num value="23">XXIII</num>. De errore in quo origenis doctrina culpatus;
+                <lb n="3" /><num value="24">XXIIII</num>. De trinitate diuina quae peri omnia opera sua <w part="I">signi</w>
+                <lb n="4" /><w part="F">ficationis</w> suae sparsit indicia;
+                <lb n="5" /><num value="25">XXV</num>. De tripertita totius filosophi <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice>  disciplina; 
+                <lb n="6" /><num value="26">XXVI</num>. De imagine summae trinitatis quae secundum <w part="I">quaen</w> 
+                <lb n="7" /><w part="F">dam</w> modum maturam <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> nec dum beatificati
+                <lb n="8" />hominis inuenitur;
+                <lb n="9" /><num value="27">XXVII</num>. De e<add place="above">s</add>sentia <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> scienti <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> utriusque amore;
+                <lb n="10" /><num value="28">XXVIII</num>. An etiam ipsum amorem quo <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> esse et scire <w part="I">diligi</w>
+                <lb n="11" /><w part="F">mus</w> &#183; diligere debeamus &#183; quo magis diuinae <w part="I">trinita</w>
+                <lb n="12" /><w part="F">tis</w> &#183; imagini propinquemus;
+                    <lb n="13" /><num value="29">XXVIIII</num>. De <choice><abbr>sc&#772;o&#772;rum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> angelorum scientia &#183; <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> trinitate in ipsa
+                <lb n="14" />eius <choice><abbr>di&#772;tate</abbr><expan>d<ex>e</ex>itate</expan></choice> nouerunt &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> qua operum causas prius
+                <lb n="15" />in operantis arte &#183; quam in ipsis operibus artificis
+                <lb n="16" />intuentur;
+                <lb n="17" /><num value="30">XXX</num>. De senarii numeri perfectione qui primus partium
+                <lb n="18" /><num value="31">XXXI</num>. suarum quantitate <choice><abbr>compl&#38;ur</abbr><expan>compl<ex>et</ex>ur</expan></choice>, de die septimo &#183; in quo
+                <lb n="19" />plenitudo <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> requies commendatur;
+                <lb n="20" /><num value="32">XXXII</num>. De opinione eorum qui angelorum creationem
+                <lb n="21" />anteriorem uolunt esse quam mundi;
+                <lb n="22" /><num value="33">XXXIII</num>. De duabus angelorum sociaetatibus diuersis atque
+                <lb n="23" />disparibus quae non incom<add>g</add>rue intelleguntur lucis
+                <lb n="24" /><choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> tenebrarum nominibus;
+                <lb n="25" /><num value="34">XXXIIII</num>. De eo quod quidam putant in conditione <w part="I">firmamen</w>
+                <lb n="26" /><w part="F">ti</w> aquarum discretarum nomine angelow <w part="I">signifi</w>
+                <lb n="27" /><w part="F">cator</w>. <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> quo quidam aquas oestimant non creatas;
+                <lb n="28" /><choice><abbr>EX&#772;P&#772;L&#772;</abbr><expan>EXPL<ex>ICIT</ex></expan></choice> &#183; CAPITULA <choice><abbr>IN&#772;C&#772;P&#772;</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice> &#183; CAPITULA &#183; <choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice> &#183; XII;  
+                <lb n="29" /><num value="1">I</num>. De una bonorum angelorum malorumque natura; 
+                <lb n="30" /><num value="2">II</num>. Nullam essent iam <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> esse comtrariam &#183; quia ab eo &#183;
+                </ab>
+            </div>
+
+            <pb n="fol_3r"/>
+            <div type="edition"> 
+                <ab>
+                <lb n="1" />qui summe <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> semper est &#183; hoc in totum uidetur <w part="I">diuer</w> 
+                <lb n="2" /><w part="F">sum</w> esse quod non est;
+                <lb n="3" /><num value="3">III</num>. De inimicis <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> &#183; non per naturam sed per contrariam
+                <lb n="4" />uoluntate <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> cum ipsis <choice><abbr>noc&#38;</abbr><expan>noc<ex>et</ex></expan></choice> &#183; <choice><abbr>bon&#281;</abbr><expan>bon<ex>ae</ex></expan></choice> utique naturae
+                <lb n="5" /><choice><abbr>noc&#38;</abbr><expan>noc<ex>et</ex></expan></choice> &#183; quia uitium si non <choice><abbr>noc&#38;</abbr><expan>noc<ex>et</ex></expan></choice> non est;
+                <lb n="6" /><num value="4">IIII</num>. De naturis in rationabiljum aut uita carentium
+                <lb n="7" /><choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> in suo genere atque ordine ab uniuersitatis &#183; decorem 
+                <lb n="8" />non discrepunt;
+                <lb n="9" /><num value="5">V</num>. Quod in omnium natura <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> speciae ac modo <w part="I">laudabi</w>
+                <lb n="10" /><w part="F">lis</w> sit creator;
+                <lb n="11" /><num value="6">VI</num>. Qua causa sit beatitudinis angelorum bonorum <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> que 
+                <lb n="12" />causa sit miseriae angelorum malorum;
+                <lb n="13" /><num value="7">VII</num>. Causam efficientem male uoluntatis non esse <w part="I">quae</w> 
+                <lb n="14" /><w part="F">rendam</w>;
+                <lb n="15" /><num value="8">VIII</num>. De amore peruerso quod uolumtas ab <w part="I">inconmuta</w>
+                <lb n="16" /><w part="F">bilj</w> bono &#183; ad mutabile bonum deficit;
+                <lb n="17" /><num value="9">VIIII</num>. An <choice><abbr>sc&#772;i&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>i</expan></choice> angelj quem habent creatorem <choice><abbr>natur&#281;</abbr><expan>natur<ex>ae</ex></expan></choice> &#183; eundem
+                    <lb n="18" />habeant bonae uolumtatis auctore &#183; per <choice><abbr>sp&#772;m&#772;</abbr><expan>sp<ex>iritu</ex>m</expan></choice> <choice><abbr>sc&#772;m&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>um</expan></choice> 
+                <lb n="19" />in eis caritate diffusa;
+                <lb n="20" /><num value="10">X</num>. De opinione eorum qui humanum genus sicut ipsum 
+                <lb n="21" />mundum semper fuisse existimant;
+                <lb n="22" /><num value="11">XI</num>. De fulsitate eius storiae <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> multa milja annorum 
+                <lb n="23" /><choice><abbr>pr&#281;teritis</abbr><expan>pr<ex>ae</ex>teritis</expan></choice> temporjbus ascribit;
+                <lb n="24" /><num value="12">XII</num>. De his qui hunc quidem mundum non sempiternum
+                <lb n="25" />putant sed aut innumerabiles aut eundem certa
+                <lb n="26" />conclusione <choice><abbr>s&#281;culorum</abbr><expan>s<ex>ae</ex>culorum</expan></choice> semper nasci <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> resolui opinantur;
+                <lb n="27" /><num value="13">XIII</num>. Quid respondendum sit his qui primam <w part="I">con</w> 
+                <lb n="28" /><w part="F">ditionem</w> hominis tardam esse causantur;
+                <lb n="29" /><num value="14">XIIII</num>. De reuolutione saeculorum quibus certo fine <w part="I">com</w> 
+                <lb n="30" /><w part="F">clusis</w> uniuersa semper in eundem ordinem <choice><abbr>eande&#772;</abbr><expan>eande<ex>m</ex></expan></choice>. 
+                </ab>
+            </div>
+           
+
+            <pb n="fol_3v"/>
+            <div type="edition">
+                <ab>
+                <lb n="1" />que speciem reditura &#183; quidam philosophi crediderunt;
+                <lb n="2" /><num value="15">XV</num>. De temporalj conditione genesis humani quam <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> n <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <w part="I">no</w>
+                <lb n="3" /><w part="F">uo</w> consiljo instituerit nec mutabilj uoluntate.
+                <lb n="4" /><num value="16">XVI</num>. An ut <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> semper etiam <choice><abbr>dn&#772;s&#772;</abbr><expan>d<ex>omi</ex>n<ex>u</ex>s</expan></choice> fuisse intellegatur <w part="I">creden</w>
+                <lb n="5" /><w part="F">dum</w> sit creaturam quoque numquam defuisse cui <w part="I">domi</w>
+                <lb n="6" /><w part="F">naretur</w> &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> quomodo dicatur semper creatum quod dici
+                <lb n="7" />non postest co aeternum;
+                <lb n="8" /><num value="17">XVII</num>. Quomodo intellegenda sit promissa homini a <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> uita
+                <lb n="9" />aeterna ante tempora aeterna;
+                <lb n="10" /><num value="18">XVIII</num>. Quid de incommutabilj cosiljo ac uoluntate <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> fides
+                <lb n="11" />sana defendat contra ratio cinationes eorum qui
+                <lb n="12" />opera <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ex aeternitate repetita per eosdem semper
+                <lb n="13" />uolunt <choice><abbr>s&#281;culorum</abbr><expan>s<ex>ae</ex>culorum</expan></choice> redire circuitus;
+                <lb n="14" /><num value="19">XVIIII</num>. Contra eos qui dicunt <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <choice><abbr>aqu&#281;</abbr><expan>aqu<ex>ae</ex></expan></choice> infinita sunt &#183; nec <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> <w part="I">pos</w>
+                <lb n="15" /><w part="F">se</w> scientia comprehendi;
+                <lb n="16" /><num value="20">XX</num>. De <choice><abbr>s&#281;culis</abbr><expan>s<ex>ae</ex>culis</expan></choice> <choice><abbr>s&#281;culorum</abbr><expan>s<ex>ae</ex>culorum</expan></choice>;
+                <lb n="17" /><num value="21">XXI</num>. De <choice><abbr>impi&#281;tate</abbr><expan>impi<ex>ae</ex>tate</expan></choice> eorum qui adserunt animas summe <w part="I">be</w>
+                <lb n="18" /><w part="F">reque</w> beatitudinis participes &#183; iterum atque iterum
+                <lb n="19" />per circuitus temporum ad easdem miserias lauores
+                <lb n="20" />que &#183; redituras;
+                <lb n="21" /><num value="22">XXII</num>. De conditione unius primi hominis atque ine generis 
+                <lb n="22" />humani;
+                <lb n="23" /><num value="23">XXIII</num>. Quod <choice><abbr>pr&#281;scierit</abbr><expan>pr<ex>ae</ex>scierit</expan></choice> <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> hominem quem primum condidit
+                <lb n="24" />peccaturum &#183; simul &#183; que <choice><abbr>pr&#281;uiderit</abbr><expan>pr<ex>ae</ex>uiderit</expan></choice> quantum piorum
+                <lb n="25" />populum ex eius genere in angeljcum consortium
+                <lb n="26" />sua esset gratia translaturus;
+                <lb n="27" /><num value="24">XXIIII</num>. De natura <choice><abbr>human&#281;</abbr><expan>human<ex>ae</ex></expan></choice> <choice><abbr>anim&#281;</abbr><expan>anim<ex>ae</ex></expan></choice> <choice><abbr>creat&#281;</abbr><expan>creat<ex>ae</ex></expan></choice> ad imaginem <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice>,
+                <lb n="28" /><num value="25">XXV</num>. An ulljus uel minime <choice><abbr>creatur&#281;</abbr><expan>creatur<ex>ae</ex></expan></choice> possint dici angelj
+                <lb n="29" />creatores;
+                <lb n="30" /><num value="26">XXVI</num>. Omnem naturam <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> omnem speciem <choice><abbr>uniuers&#281;</abbr><expan>uniuers<ex>ae</ex></expan></choice> creature &#183;
+                </ab>
+            </div>
+            
+            
+            <pb n="fol_4r"/>
+            <div type="edition">
+                <ab>
+                <lb n="1" />non nisi operae dei fieri atque formari; <!--abbr-->
+                <lb n="2" /><num value="27">XXVII</num>. De plathonicorum opinione qua putauerunt
+                <lb n="3" />angelos quidem a deo conditor sed ipsos esse huma <!--abbr and word break-->
+                <lb n="4" />norum &#183; corporum conditiones;
+                <lb n="5" />XXVIII. In primo homine exortam fuisse omnem pleni<!--word break-->
+                <lb n="6" />tudinem generis humani in qua praeuiderit deus <!--abbr-->
+                <lb n="7" />quae pars honoranda essae praemio quae damnanda <!--abbr-->
+                <lb n="8" />supljcio; FINIUNT CAPITULA &#183; INCIPIT &#183; LIBRI &#183; XIII <!--abbr-->
+                <lb n="9" />INCIPIT &#183; CAPITULA; 
+                <lb n="10" /><num value="1">I</num>. De lapsu pimorum hominum per quem est contrata <!--two spelling mistakes-->
+                <lb n="11" />mortalitas;
+                <lb n="12" /><num value="2">II</num>. De ea morte que anime semper utcumque uicturae <!--abbr-->
+                <lb n="13" />accidaere potest et ea cui corpus obnoxium est; <!--abbr-->
+                <lb n="14" /><num value="3">III</num>. Utrum mors quae per peccatum primorum hominum <!--abbr e macron-->
+                <lb n="15" />in omnes homines per transiit &#183; etiam in sanctis poena <!--abbr-->
+                <lb n="16" />peccati sit;
+                <lb n="17" /><num value="4">IIII</num>. Cur ab his qui per gratiam regenerationis absolutis
+                <lb n="18" />sunt &#183; a peccato non auferatur mors id est poena peccati;
+                <lb n="19" /><num value="5">V</num>. Quod sicut iniqui male utuntur 
+                <lb n="20" />
+                <lb n="21" />
+                <lb n="22" />
+                <lb n="23" />
+                <lb n="24" />
+                <lb n="25" />
+                <lb n="26" />
+                <lb n="27" />
+                <lb n="28" /> 
+                <lb n="29" /> 
+                <lb n="30" />
+                
+                </ab>
+            </div>
+           
+
+            <pb n="fol_4v"/>
+            <div type="edition"/>
+            
+
+            <pb n="fol_5r"/>
+            <div type="edition"/>
+          
+
+            <pb n="fol_5v"/>
+            <div type="edition"/>
+          
+
+            <pb n="fol_6r"/>
+            <div type="edition"/>
+            
+            <pb n="fol_6v"/>
+            <div type="edition"/>
+           
+
+        </body>
+
+    </text>
+</TEI>
