@@ -226,6 +226,7 @@
                 </ab>
             </div>
 
+           
             <pb n="fol_3r"/>
             <div type="edition"> 
                 <ab>
@@ -333,28 +334,193 @@
                 <lb n="28" />In morientibus an in mortuis esse <choice><abbr>dicendu&#772;</abbr><expan>dicendu<ex>m</ex></expan></choice> sit;
                 <lb n="29" />An uita mortaljum mors potius quam uita
                 <lb n="30" />dicenda sit;
-                                
                 </ab>
             </div>
            
 
             <pb n="fol_4v"/>
-            <div type="edition"/>
+            <div type="edition">
+                <ab>
+                    <lb n="1" /><num value="11">XI</num>. An quisquam simul <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> uiuens esse possit <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> mortuus;
+                    <lb n="2" /><num value="12">XII</num>. Quam mortem primis hominibus <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> si mandatum
+                    <lb n="3" />eius transgrederentur fuerit conminatur;
+                    <lb n="4" /><num value="13">XIII</num>. <choice><abbr>pr&#281;uaricatio</abbr><expan>pr<ex>ae</ex>uaricatio</expan></choice> primorum hominum quam primam
+                    <lb n="5" />senserit poenam;
+                    <lb n="6" /><num value="14">XIIII</num>. Qualjs homo sit factus a <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> in quam sortem <w part="I">deci</w>
+                    <lb n="7" /><w part="F">derit</w> <choice><abbr>su&#281;</abbr><expan>su<ex>ae</ex></expan></choice> uoluntatis aruitrio; 
+                    <lb n="8" /><num value="15">XV</num>. Quod adam peccaturus prius ipse reljnquerit
+                    <lb n="9" /><choice><abbr>dm&#772;</abbr><expan>d<ex>eu</ex>m</expan></choice> quam relinqueretur a <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> primam fuisse
+                    <lb n="10" /><choice><abbr>anim&#281;</abbr><expan>anim<ex>ae</ex></expan></choice> mortem a <choice><abbr>dn&#772;o&#772;</abbr><expan>d<ex>omi</ex>no</expan></choice> recessisse;
+                    <lb n="11" /><num value="16">XVI</num>. De phylosophis qui <choice><abbr>anim&#281;</abbr><expan>anim<ex>ae</ex></expan></choice> reparationem a corpore
+                    <lb n="12" />non putant esse poenalem cum plato inducat <choice><abbr>su&#772;mu&#772;</abbr><expan>su<ex>m</ex>nu<ex>m</ex></expan></choice>
+                    <lb n="13" /><choice><abbr>dm&#772;</abbr><expan>d<ex>eu</ex>m</expan></choice> diis minoribus promittentem quod numquam
+                    <lb n="14" />sint &#183; corporibus exuendi;
+                    <lb n="15" /><num value="17">XVII</num>. Contra eos qui adserunt corpora <choice><abbr>terr&#281;na</abbr><expan>terr<ex>ae</ex>na</expan></choice> <w part="I">incorrup</w>
+                    <lb n="16" /><w part="F">tibilia</w> fueri <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> aeterna non posse;
+                    <lb n="17" /><num value="18">XVIII</num>. De terrenis corporibus <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> philosophi affirmant
+                    <lb n="18" />in celestibus esse non posse quia quod terrenum est &#183;
+                    <lb n="19" />naturali pondere reuocetur ad terram;
+                    <lb n="20" /><num value="19">XVIIII</num>. Contra eorum dogmata qui primos homines &#183; si non
+                    <lb n="21" />peccarent inmortales futuros fuisse non credunt
+                    <lb n="22" />aeternitatem animarum uolunt carere corporibus; 
+                    <lb n="23" /><num value="20">XX</num>. Quod caro <choice><abbr>sc&#772;orum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> nunc requiescit in spem
+                    <lb n="24" />in meljorem reparanda sit qualitatem <choice><abbr>qua &#772;</abbr><expan>qua<ex>m</ex></expan></choice>
+                    <lb n="25" />fuit primorum hominu ante petcatum;
+                    <lb n="26" /><num value="21">XXI</num>. De paradyso in quo primi homines <w part="I">fue</w>
+                    <lb n="27" /><w part="F">runt</w> &#183; quod recte per significationem eius &#183;
+                    <lb n="28" />spiritale aljquid intellegatur &#183; salua <w part="I">ueri</w> 
+                    <lb n="29" /><w part="F">tate</w> narrationis historicae &#183; de corporalj loco; 
+                    <lb n="30" /><num value="22">XXII</num>. De corporibus <choice><abbr>sc&#772;orum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> post.    
+                </ab>
+            </div>
             
 
             <pb n="fol_5r"/>
-            <div type="edition"/>
+            <div type="edition">
+                <ab>
+                    <lb n="1" />
+                    <lb n="2" /> 
+                    <lb n="3" />
+                    <lb n="4" />
+                    <lb n="5" />
+                    <lb n="6" />
+                    <lb n="7" />
+                    <lb n="8" />
+                    <lb n="9" /> 
+                    <lb n="10" />
+                    <lb n="11" />
+                    <lb n="12" />
+                    <lb n="13" />
+                    <lb n="14" />
+                    <lb n="15" />
+                    <lb n="16" />
+                    <lb n="17" />
+                    <lb n="18" />
+                    <lb n="19" />
+                    <lb n="20" />
+                    <lb n="21" />
+                    <lb n="22" />
+                    <lb n="23" />
+                    <lb n="24" />
+                    <lb n="25" />
+                    <lb n="26" />
+                    <lb n="27" />
+                    <lb n="28" /> 
+                    <lb n="29" /> 
+                    <lb n="30" /> 
+                </ab>
+            </div>
           
 
             <pb n="fol_5v"/>
-            <div type="edition"/>
+            <div type="edition">
+                <ab>
+                    <lb n="1" />
+                    <lb n="2" /> 
+                    <lb n="3" />
+                    <lb n="4" />
+                    <lb n="5" />
+                    <lb n="6" />
+                    <lb n="7" />
+                    <lb n="8" />
+                    <lb n="9" /> 
+                    <lb n="10" />
+                    <lb n="11" />
+                    <lb n="12" />
+                    <lb n="13" />
+                    <lb n="14" />
+                    <lb n="15" />
+                    <lb n="16" />
+                    <lb n="17" />
+                    <lb n="18" />
+                    <lb n="19" />
+                    <lb n="20" />
+                    <lb n="21" />
+                    <lb n="22" />
+                    <lb n="23" />
+                    <lb n="24" />
+                    <lb n="25" />
+                    <lb n="26" />
+                    <lb n="27" />
+                    <lb n="28" /> 
+                    <lb n="29" /> 
+                    <lb n="30" /> 
+                </ab>
+            </div>
           
 
             <pb n="fol_6r"/>
-            <div type="edition"/>
+            <div type="edition">
+                <ab>
+                    <lb n="1" />
+                    <lb n="2" /> 
+                    <lb n="3" />
+                    <lb n="4" />
+                    <lb n="5" />
+                    <lb n="6" />
+                    <lb n="7" />
+                    <lb n="8" />
+                    <lb n="9" /> 
+                    <lb n="10" />
+                    <lb n="11" />
+                    <lb n="12" />
+                    <lb n="13" />
+                    <lb n="14" />
+                    <lb n="15" />
+                    <lb n="16" />
+                    <lb n="17" />
+                    <lb n="18" />
+                    <lb n="19" />
+                    <lb n="20" />
+                    <lb n="21" />
+                    <lb n="22" />
+                    <lb n="23" />
+                    <lb n="24" />
+                    <lb n="25" />
+                    <lb n="26" />
+                    <lb n="27" />
+                    <lb n="28" /> 
+                    <lb n="29" /> 
+                    <lb n="30" /> 
+                </ab>
+            </div>
+            
             
             <pb n="fol_6v"/>
-            <div type="edition"/>
+            <div type="edition">
+                <ab>
+                    <lb n="1" />
+                    <lb n="2" /> 
+                    <lb n="3" />
+                    <lb n="4" />
+                    <lb n="5" />
+                    <lb n="6" />
+                    <lb n="7" />
+                    <lb n="8" />
+                    <lb n="9" /> 
+                    <lb n="10" />
+                    <lb n="11" />
+                    <lb n="12" />
+                    <lb n="13" />
+                    <lb n="14" />
+                    <lb n="15" />
+                    <lb n="16" />
+                    <lb n="17" />
+                    <lb n="18" />
+                    <lb n="19" />
+                    <lb n="20" />
+                    <lb n="21" />
+                    <lb n="22" />
+                    <lb n="23" />
+                    <lb n="24" />
+                    <lb n="25" />
+                    <lb n="26" />
+                    <lb n="27" />
+                    <lb n="28" /> 
+                    <lb n="29" /> 
+                    <lb n="30" /> 
+                </ab>
+            </div>
            
 
         </body>
