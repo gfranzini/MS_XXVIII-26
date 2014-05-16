@@ -175,7 +175,8 @@
                     <lb n="18"/>sed uoluntas; 
                     <lb n="19"/><num value="18">XVIII</num>. De pulchritudine uniuersitatis  qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> per <w part="I">ordina</w> 
                     <lb n="20"/><w part="F">tionem</w> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> ex contrariorum sit oppositione                     
-                    <lb n="21"/>luculentior; <lb n="22"/><num value="19">XVIIII</num>. Quid sentiendum uideatur de eo quod <choice><abbr>scriptu&#772;</abbr><expan>scriptu<ex>m</ex></expan></choice> est 
+                    <lb n="21"/>luculentior; 
+                    <lb n="22"/><num value="19">XVIIII</num>. Quid sentiendum uideatur de eo quod <choice><abbr>scriptu&#772;</abbr><expan>scriptu<ex>m</ex></expan></choice> est 
                     <lb n="23"/>diuisit <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> inter lucem <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> tenebras; 
                     <lb n="24"/><num value="20">XX</num>. De eo quod post discretionem lucis atque <choice><abbr>tenebraru&#772;</abbr><expan>tenebraru<ex>m</ex></expan></choice>
                     <lb n="25"/>dictum est &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> uidit <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> lucem quia bona est;
@@ -245,7 +246,7 @@
                 <lb n="15" /><num value="8">VIII</num>. De amore peruerso quod uolumtas ab <w part="I">inconmuta</w>
                 <lb n="16" /><w part="F">bilj</w> bono &#183; ad mutabile bonum deficit;
                 <lb n="17" /><num value="9">VIIII</num>. An <choice><abbr>sc&#772;i&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>i</expan></choice> angelj quem habent creatorem <choice><abbr>natur&#281;</abbr><expan>natur<ex>ae</ex></expan></choice> &#183; eundem
-                    <lb n="18" />habeant bonae uolumtatis auctore &#183; per <choice><abbr>sp&#772;m&#772;</abbr><expan>sp<ex>iritu</ex>m</expan></choice> <choice><abbr>sc&#772;m&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>um</expan></choice> 
+                <lb n="18" />habeant bonae uolumtatis auctore &#183; per <choice><abbr>sp&#772;m&#772;</abbr><expan>sp<ex>iritu</ex>m</expan></choice> <choice><abbr>sc&#772;m&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>um</expan></choice> 
                 <lb n="19" />in eis caritate diffusa;
                 <lb n="20" /><num value="10">X</num>. De opinione eorum qui humanum genus sicut ipsum 
                 <lb n="21" />mundum semper fuisse existimant;
@@ -302,37 +303,37 @@
             <pb n="fol_4r"/>
             <div type="edition">
                 <ab>
-                <lb n="1" />non nisi operae dei fieri atque formari; <!--abbr-->
+                <lb n="1" />non nisi <choice><abbr>oper&#281;</abbr><expan>oper<ex>ae</ex></expan></choice> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> fieri atque formari; 
                 <lb n="2" /><num value="27">XXVII</num>. De plathonicorum opinione qua putauerunt
-                <lb n="3" />angelos quidem a deo conditor sed ipsos esse huma <!--abbr and word break-->
-                <lb n="4" />norum &#183; corporum conditiones;
-                <lb n="5" />XXVIII. In primo homine exortam fuisse omnem pleni<!--word break-->
-                <lb n="6" />tudinem generis humani in qua praeuiderit deus <!--abbr-->
-                <lb n="7" />quae pars honoranda essae praemio quae damnanda <!--abbr-->
-                <lb n="8" />supljcio; FINIUNT CAPITULA &#183; INCIPIT &#183; LIBRI &#183; XIII <!--abbr-->
-                <lb n="9" />INCIPIT &#183; CAPITULA; 
-                <lb n="10" /><num value="1">I</num>. De lapsu pimorum hominum per quem est contrata <!--two spelling mistakes-->
+                <lb n="3" />angelos quidem a <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> conditor sed ipsos esse <w part="I">huma</w> 
+                <lb n="4" /><w part="F">norum</w> &#183; corporum conditiones;
+                <lb n="5" />XXVIII. In primo homine exortam fuisse omnem <w part="I">pleni</w>
+                <lb n="6" /><w part="F">tudinem</w> generis humani in qua praeuiderit <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> 
+                <lb n="7" /><choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> pars honoranda <choice><abbr>ess&#281;</abbr><expan>ess<ex>ae</ex></expan></choice> <choice><abbr>pr&#281;mio</abbr><expan>pr<ex>ae</ex>mio</expan></choice> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> damnanda 
+                <lb n="8" />supljcio; FINIUNT CAPITULA &#183; <choice><abbr>IN&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice> &#183; <choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice> &#183; XIII
+                <lb n="9" /><choice><abbr>IN&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice> &#183; CAPITULA; 
+                <lb n="10" /><num value="1">I</num>. De lapsu pimorum hominum per quem est contrata
                 <lb n="11" />mortalitas;
-                <lb n="12" /><num value="2">II</num>. De ea morte que anime semper utcumque uicturae <!--abbr-->
-                <lb n="13" />accidaere potest et ea cui corpus obnoxium est; <!--abbr-->
-                <lb n="14" /><num value="3">III</num>. Utrum mors quae per peccatum primorum hominum <!--abbr e macron-->
-                <lb n="15" />in omnes homines per transiit &#183; etiam in sanctis poena <!--abbr-->
+                <lb n="12" /><num value="2">II</num>. De ea morte que anime semper utcumque <choice><abbr>uictur&#281;</abbr><expan>uictur<ex>ae</ex></expan></choice>
+                <lb n="13" />accidaere potest et ea cui corpus obnoxium est;
+                <lb n="14" /><num value="3">III</num>. Utrum mors <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> per peccatum primorum <choice><abbr>hominu &#772;</abbr><expan>hominu<ex>m</ex></expan></choice>
+                <lb n="15" />in omnes homines per transiit &#183; etiam in <choice><abbr>sc&#772;i&#772;s</abbr><expan>s<ex>an</ex>c<ex>t</ex>is</expan></choice> poena
                 <lb n="16" />peccati sit;
                 <lb n="17" /><num value="4">IIII</num>. Cur ab his qui per gratiam regenerationis absolutis
                 <lb n="18" />sunt &#183; a peccato non auferatur mors id est poena peccati;
-                <lb n="19" /><num value="5">V</num>. Quod sicut iniqui male utuntur 
-                <lb n="20" />
-                <lb n="21" />
-                <lb n="22" />
-                <lb n="23" />
-                <lb n="24" />
-                <lb n="25" />
-                <lb n="26" />
-                <lb n="27" />
-                <lb n="28" /> 
-                <lb n="29" /> 
-                <lb n="30" />
-                
+                <lb n="19" /><num value="5">V</num>. Quod sicut iniqui male utuntur lege <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> bona est &#183; ita
+                <lb n="20" />iusti bene utantur morte <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> mala est; 
+                <lb n="21" /><num value="6">VI</num>. De generalj mortis malo qui animi et corporis <w part="I"><choice><abbr>soci&#281;</abbr><expan>soci<ex>ae</ex></expan></choice></w>
+                <lb n="22" /><w part="F">tas</w> &#183; separatur;
+                <lb n="23" /><num value="7">VII</num>. De morte quam quidam non regenerati pro <choice><abbr>xp&#772;i</abbr><expan>chr<ex>ist</ex>i</expan></choice>
+                <lb n="24" />confessione suscipiunt;
+                <lb n="25" /><num value="8">VIII</num>. Quod in <choice><abbr>sc&#772;i&#772;s</abbr><expan>s<ex>an</ex>c<ex>t</ex>is</expan></choice> primae mortis pro ueritate
+                <lb n="26" />susceptio secundae sit mortis aboljtio,
+                <lb n="27" /><num value="9">VIIII</num>. Tempus mortis quo uitae semsus aufertur
+                <lb n="28" />In morientibus an in mortuis esse <choice><abbr>dicendu&#772;</abbr><expan>dicendu<ex>m</ex></expan></choice> sit;
+                <lb n="29" />An uita mortaljum mors potius quam uita
+                <lb n="30" />dicenda sit;
+                                
                 </ab>
             </div>
            
