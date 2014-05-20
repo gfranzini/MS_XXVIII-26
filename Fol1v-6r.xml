@@ -29,7 +29,7 @@
 
             <publicationStmt>
                 <authority>Greta Franzini</authority>
-                <idno>Fol1-6r.xml</idno>
+                <idno>Fol1v-6r.xml</idno>
                 <authority>UCL Centre for Digital Humanities</authority>
                 <availability>
                     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
@@ -485,43 +485,6 @@
                 </ab>
             </div>
             
-            
-            <pb n="fol_6v"/>
-            <div type="edition">
-                <ab>
-                    <lb n="1" />
-                    <lb n="2" /> 
-                    <lb n="3" />
-                    <lb n="4" />
-                    <lb n="5" />
-                    <lb n="6" />
-                    <lb n="7" />
-                    <lb n="8" />
-                    <lb n="9" /> 
-                    <lb n="10" />
-                    <lb n="11" />
-                    <lb n="12" />
-                    <lb n="13" />
-                    <lb n="14" />
-                    <lb n="15" />
-                    <lb n="16" />
-                    <lb n="17" />
-                    <lb n="18" />
-                    <lb n="19" />
-                    <lb n="20" />
-                    <lb n="21" />
-                    <lb n="22" />
-                    <lb n="23" />
-                    <lb n="24" />
-                    <lb n="25" />
-                    <lb n="26" />
-                    <lb n="27" />
-                    <lb n="28" /> 
-                    <lb n="29" /> 
-                    <lb n="30" /> 
-                </ab>
-            </div>
-           
 
         </body>
 
