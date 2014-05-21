@@ -42,7 +42,7 @@
                     <msIdentifier>
                         <settlement>Verona</settlement>
                         <repository>Biblioteca Capitolare</repository>
-                        <idno>MS XXVIII (26)</idno>
+                        <idno>MS XXVIII(26)</idno>
                     </msIdentifier>
 
                     <msContents>
@@ -105,7 +105,7 @@
 
         <body>
             <head>
-                <title>INCP:CAPITULA:LIB:XI:DECIUITATEDI:</title>
+                <title><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</title>
                 
             </head>
 
@@ -205,7 +205,7 @@
                 <lb n="10" /><num value="28">XXVIII</num>. An etiam ipsum amorem quo <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> esse et scire <w part="I">diligi</w>
                 <lb n="11" /><w part="F">mus</w> &#183; diligere debeamus &#183; quo magis diuinae <w part="I">trinita</w>
                 <lb n="12" /><w part="F">tis</w> &#183; imagini propinquemus;
-                    <lb n="13" /><num value="29">XXVIIII</num>. De <choice><abbr>sc&#772;o&#772;rum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> angelorum scientia &#183; <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> trinitate in ipsa
+                <lb n="13" /><num value="29">XXVIIII</num>. De <choice><abbr>sc&#772;o&#772;rum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> angelorum scientia &#183; <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> trinitate in ipsa
                 <lb n="14" />eius <choice><abbr>di&#772;tate</abbr><expan>d<ex>e</ex>itate</expan></choice> nouerunt &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> qua operum causas prius
                 <lb n="15" />in operantis arte &#183; quam in ipsis operibus artificis
                 <lb n="16" />intuentur;
@@ -378,36 +378,36 @@
             <pb n="fol_5r"/>
             <div type="edition">
                 <ab>
-                    <lb n="1" />
-                    <lb n="2" /> 
-                    <lb n="3" />
-                    <lb n="4" />
-                    <lb n="5" />
-                    <lb n="6" />
-                    <lb n="7" />
-                    <lb n="8" />
-                    <lb n="9" /> 
-                    <lb n="10" />
-                    <lb n="11" />
-                    <lb n="12" />
-                    <lb n="13" />
-                    <lb n="14" />
-                    <lb n="15" />
-                    <lb n="16" />
-                    <lb n="17" />
-                    <lb n="18" />
-                    <lb n="19" />
-                    <lb n="20" />
-                    <lb n="21" />
-                    <lb n="22" />
-                    <lb n="23" />
-                    <lb n="24" />
-                    <lb n="25" />
-                    <lb n="26" />
-                    <lb n="27" />
-                    <lb n="28" /> 
-                    <lb n="29" /> 
-                    <lb n="30" /> 
+                    <lb n="1" />resurrectionem que sic spiritalja erunt ut non in spiritum
+                    <lb n="2" />caro uertatur:
+                    <lb n="3" /><num value="23">XXIII</num>. Quid intellegendum sit de corpore animalj &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> de cor
+                    <lb n="4" />pore spiritalj &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> qui moriantur in adam qui uero
+                    <lb n="5" />uiui centur in xpo;
+                    <lb n="6" /><num value="24">XXIIII</num>. Qualjter accipienda sit uel illa in suflatio dei qua
+                    <lb n="7" />primus &#183; homo factus est in animam uiuentem
+                    <lb n="8" />uel illa quam dominus fecit dicens discipulis suis accipite spiritum sanctum;
+                    <lb n="9" />EXPLICIT LIBRI XIII INCIPIT LIBRI XIIII. 
+                    <lb n="10" /><num value="1">I</num>. Per in oboedientiam primi hominis &#183; omnes in saecundae
+                    <lb n="11" />mortis perpetuitatem ruit uror fuisse nisi multos
+                    <lb n="12" />dei gratia ljberaret;
+                    <lb n="13" /><num value="2">II</num>. De uita carnalj quae non ax corporis tantum sed etiam &#183;
+                    <lb n="14" />ax animi intellegenda sit uitiis;
+                    <lb n="15" /><num value="3">III</num>. Petcati causam ex anima non ex carne prodisse
+                    <lb n="16" />et corruptionem ex peccato contractam &#183;
+                    <lb n="17" />non peccatum esse sed penam;
+                    <lb n="18" /><num value="4">IIII</num>. Quid sit secundum hominem quid autem secundum deum
+                    <lb n="19" />deum uiuere; 
+                    <lb n="20" /><num value="5">V</num>. Quid de corporis animae2 que natura tolerabilior
+                    <lb n="21" />quidem platonicorum quam manicheorum sit
+                    <lb n="22" />opinio sed et ipsa reprobanda &#183; quoniam uitiorum 
+                    <lb n="23" />omium causas naturae carnis ascripti &#183;
+                    <lb n="24" /><num value="6">VI</num>. De qualjtate uoluntatis humanae sub cuius iuditio 
+                    <lb n="25" />adfectiones animi aut prabe habentur aut rette;
+                    <lb n="26" /><num value="7">VII</num>. Amorem et dilectionem indifferentes et in bono et in 
+                    <lb n="27" />malo &#183; aput sacras ljtteras inueniri;
+                    <lb n="28" /><num value="8">VIII</num>. De tribus perturbationibus quas in animo sapientis
+                    <lb n="29" />stoici esse uoluerunt &#183; excluso dolore siue tristitia &#183;  
+                    <lb n="30" />quam uirtus animi sentire non debeat;
                 </ab>
             </div>
           
@@ -415,36 +415,36 @@
             <pb n="fol_5v"/>
             <div type="edition">
                 <ab>
-                    <lb n="1" />
-                    <lb n="2" /> 
-                    <lb n="3" />
-                    <lb n="4" />
-                    <lb n="5" />
-                    <lb n="6" />
-                    <lb n="7" />
-                    <lb n="8" />
-                    <lb n="9" /> 
-                    <lb n="10" />
-                    <lb n="11" />
-                    <lb n="12" />
-                    <lb n="13" />
-                    <lb n="14" />
-                    <lb n="15" />
-                    <lb n="16" />
-                    <lb n="17" />
-                    <lb n="18" />
-                    <lb n="19" />
-                    <lb n="20" />
-                    <lb n="21" />
-                    <lb n="22" />
-                    <lb n="23" />
-                    <lb n="24" />
-                    <lb n="25" />
-                    <lb n="26" />
-                    <lb n="27" />
-                    <lb n="28" /> 
-                    <lb n="29" /> 
-                    <lb n="30" /> 
+                    <lb n="1" /><num value="9">VIIII</num>. De perturbationibus animi quarum adfectus rectos 
+                    <lb n="2" />habet uita iustorum; 
+                    <lb n="3" /><num value="10">X</num>. An primos omines in paradys constitutos ullis &#183; per
+                    <lb n="4" />turbationibus priusquam delinquerent affectos 
+                    <lb n="5" />fuisse credendum sit;
+                    <lb n="6" /><num value="11">XI</num>. De lapsu primi hominis in quo bene condita natura
+                    <lb n="7" />uitiata est nec potest nisi a suo autore separa<del>r</del>ri; 
+                    <lb n="8" /><num value="12">XII</num>. De qualitate peccati a primis hominibus ammissi;
+                    <lb n="9" /><num value="13">XIII</num>. Quod in praebaricatione adae opus malum uoluntas
+                    <lb n="10" />praecesserit mala;
+                    <lb n="11" />XIIII. De superuia transgressoris quae ipsa fuit transgres
+                    <lb n="12" />sione deterior;
+                    <lb n="13" /><num value="15">XV</num>. De Iustitia retributionis quam primi homines pro sua
+                    <lb n="14" />inoboedientia receperunt &#183;
+                    <lb n="15" /><num value="16">XVI</num>. De libidinis malo cuius nomen cum multis uitiis congruat &#183;
+                    <lb n="16" />propriae tamen motibus obsaeni caloris ascribitur;
+                    <lb n="17" /><num value="17">XVII</num>. De nuditate primorum hominum quam post peccatum
+                    <lb n="18" />turpem pudendam que uiderunt;
+                    <lb n="19" /><num value="18">XVIII</num>. De pudore concubitus &#183; non solum uulgaris sed etiam
+                    <lb n="20" />coniugaljs;
+                    <lb n="21" /><num value="19">XVIIII</num>. Quod pater irae adque liuidinis &#183; quae In homine &#183; tam 
+                    <lb n="22" />uitio remouentur &#183; ut eas necesse sit frenis sapientiae
+                    <lb n="23" />co<add place="above">h</add>iberi in illa ante peccatum naturae sanitate non fuerint; 
+                    <lb n="24" /><num value="20">XX</num>. De uanissima turpitudine cynicorum; 
+                    <lb n="25" /><num value="21">XXI</num>. De benedictione multiplicandae fecunditatis: humanae
+                    <lb n="26" />ante peccatum data quam preuaricatio non ademerit &#183;
+                    <lb n="27" />et cui liuidinis morbus accesserit; 
+                    <lb n="28" /><num value="22">XXII</num>. De copula coniugalia deo primitus instituta atque benedicta;
+                    <lb n="29" /><num value="23">XXIII</num>. An etiam in paradyso generamdum fuisset &#183;
+                    <lb n="30" />si nemo peccasset &#183; uel utrum contra aestum libidinis &#183; 
                 </ab>
             </div>
           
@@ -452,36 +452,19 @@
             <pb n="fol_6r"/>
             <div type="edition">
                 <ab>
-                    <lb n="1" />
-                    <lb n="2" /> 
-                    <lb n="3" />
-                    <lb n="4" />
-                    <lb n="5" />
-                    <lb n="6" />
-                    <lb n="7" />
-                    <lb n="8" />
-                    <lb n="9" /> 
-                    <lb n="10" />
-                    <lb n="11" />
-                    <lb n="12" />
-                    <lb n="13" />
-                    <lb n="14" />
-                    <lb n="15" />
-                    <lb n="16" />
-                    <lb n="17" />
-                    <lb n="18" />
-                    <lb n="19" />
-                    <lb n="20" />
-                    <lb n="21" />
-                    <lb n="22" />
-                    <lb n="23" />
-                    <lb n="24" />
-                    <lb n="25" />
-                    <lb n="26" />
-                    <lb n="27" />
-                    <lb n="28" /> 
-                    <lb n="29" /> 
-                    <lb n="30" /> 
+                    <lb n="1" />pugnatura illic fuisset ratio castitatis; 
+                    <lb n="2" /><num value="24">XXIIII</num>. Quod insontes homines et merito oboedientiae in paradyso
+                    <lb n="3" />permanentes &#183; ita genitalibus membris usuri fuissent &#183;
+                    <lb n="4" />ad generationem prolis &#183; sicut ceteris &#183; ad aruitrium 
+                    <lb n="5" />uoluntatis;
+                    <lb n="6" /><num value="25">XXV</num>. De uera beatitudine quam tem temporaljs uita non obtinet;
+                    <lb n="7" /><num value="26">XXVI</num>. Quod felicitas in paradysum uiuentium sine erubescendo &#183;
+                    <lb n="8" />ad petitu generandi offitium credenda sit implere
+                    <lb n="9" />potiusse
+                    <lb n="10" /><num value="27">XXVII</num>. De petcatoribus et angeljs et hominibus quorum 
+                    <lb n="11" />peruersitas &#183; non perturbat prouidentia; 
+                    <lb n="12" /><num value="28">XXVIII</num>. De qualitate duarum ciuitatum terraenae atque
+                    <lb n="13" />caelestis;
                 </ab>
             </div>
             
