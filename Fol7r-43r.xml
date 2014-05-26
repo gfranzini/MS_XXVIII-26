@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   
+   <titleStmt>
+    <title>Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author>Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>PhD first supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>PhD second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   
+   <editionStmt>
+    <edition n="1">First (digital) edition</edition>
+   </editionStmt>
+   
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol7r-43r.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     
+     <msContents>
+      <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+     </msContents>
+     
+     
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+      
+     </physDesc>
+     
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+     
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  
+  
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards and with the
+    CTS/CITE Architecture.</p>
+  </encodingDesc>
+  
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+  
+  
+ </teiHeader>
+    
+ 
+ <text>
+  
+  <body>
+   <head>
+    <title>Liber XI</title>
+   </head>
+   
+   <div n="fol_7r" type="edition">
+   <div type="textpart">
+    <ab>
+          <!--  monogram of christ -->
+          
+     <lb xml:id="fol_7r.1" n="1"/>CIUITATEM<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> DICIMUS CUIUS EA <w part="I">SCRIB</w>
+     <lb xml:id="fol_7r.2" n="2"/><w part="F">TURA</w> TESTIS EST QUAE NON FORTUITIS <w part="I">MO</w>
+     <lb xml:id="fol_7r.3" n="3"/><w part="F">TIBUS</w> ANIMORUM SED PLANE SUMM<choice><abbr>E&#0327;</abbr><expan><ex>A</ex>E</expan></choice> <w part="I">DIS</w> 
+     <lb xml:id="fol_7r.4" n="4"/><w part="F">POSITIONE</w> PROUIDENTIAE SUPER OMNES 
+     <lb xml:id="fol_7r.5" n="5"/>OMNIUM GENTIUM LITTERAS OMNIA SIBI <w part="I">GE</w>
+     <lb xml:id="fol_7r.6" n="6"/><w part="F">NERA</w> INGENIORUM UMANORUM DIUI<supplied reason="lost">NA</supplied>
+     <lb xml:id="fol_7r.7" n="7"/>EXCELLENS AUCTORITATE SUBIECIT. IBI <w part="I">QU<supplied reason="lost">IP</supplied></w>
+     <lb xml:id="fol_7r.8" n="8"/><w part="F">PE</w> SCRIBTUM EST <quote>GLORIOSA DICTA SUNT DE <supplied reason="lost">TE</supplied></quote>
+     <lb xml:id="fol_7r.9" n="9"/>CIUITAS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>ET IN ALIO PSALMO LEGITUR<w part="I"><supplied reason="lost">MAG</supplied></w>
+     <lb xml:id="fol_7r.10" n="10"/><w part="F">NUS</w><choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> ET LAUDABILIS NIMIS IN CIUITATE <supplied reason="lost"><choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice></supplied>
+     <lb xml:id="fol_7r.11" n="11"/>NOSTRI IN MONTE SANCTO EIUS DILATANS <w part="I">EX<supplied reason="lost">UL</supplied></w>
+     <lb xml:id="fol_7r.12" n="12"/><w part="F">TATIONI<add place="above">S</add></w> UNIVERSAE TERRAE ET PAULO POST IN
+     <lb xml:id="fol_7r.13" n="13"/>EODEM PSALMO SICUT AUDIUIMUS ITA ET <w part="I">UI<supplied reason="lost">DI</supplied></w>
+     <lb xml:id="fol_7r.14" n="14"/><w part="F">MUS</w> IN CIUITATE DOMINI <choice><abbr>D&#772;N&#772;I&#772;</abbr><expan>D<ex>OMI</ex>NI</expan></choice> VIRTUTIUM IN CIUI<supplied reason="lost">TATE</supplied>
+     <lb xml:id="fol_7r.15" n="15"/><choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> NOSTRI <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> FUNDAUIT EA<add place="above">M</add> IN AETERNUM 
+     <lb xml:id="fol_7r.16" n="16"/>ITEM IN ALIO <add>;</add> FLUMINIS IMPETUS LAETIFI<supplied reason="lost">CAT</supplied> 
+     <lb xml:id="fol_7r.17" n="17"/>CIUITATEM <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> &#183; SANCTIFICAUIT TABERNA<supplied reason="lost">CULUM</supplied>
+     <lb xml:id="fol_7r.18" n="18"/>SUUM ALTISSIMUS &#183; <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> IN MEDIO EJUS <supplied reason="lost">NON <w part="I">COM</w></supplied>      
+     <lb xml:id="fol_7r.19" n="19"/><w part="F">MOUEBITUR</w>: HIS <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> HUIUS MODI <w part="I">TESTI<supplied reason="lost">MO</supplied></w>
+     <lb xml:id="fol_7r.20" n="20"/><w part="F">NIIS</w> QUA<add place="above">E</add> OMNIA COMMEMORARE NIMIS <supplied reason="lost"><w part="I">LON</w></supplied>
+     <lb xml:id="fol_7r.21" n="21"/><w part="F">GUM</w> EST; DI<add place="above">DI</add>CIMUS ESSE QUANDAM <supplied reason="lost"><w part="I">CIUI</w></supplied>
+     <lb xml:id="fol_7r.22" n="22"/><w part="F">TATEM</w> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> CUIUS CIUES ESSE <w part="I">CON<supplied reason="lost">CUPISCI</supplied></w>
+     <lb xml:id="fol_7r.23" n="23"/><w part="F">MUS</w> ILLO AMORE QUEM NOBIS ILLIUS <supplied reason="lost"><w part="I">CONDI</w></supplied>
+     <lb xml:id="fol_7r.24" n="24"/><w part="F">TOR</w> INSPIRAUIT; HUIC CONDITORI S<supplied reason="lost">ANCTAE</supplied>
+     <lb xml:id="fol_7r.25" n="25"/>CIUITATIS CIUES TERRENAE CIUITATIS
+     <lb xml:id="fol_7r.26" n="26"/>SUOS PRAEFERUNT IGNORANTES <supplied reason="lost">EUM ESSE</supplied>
+     <lb xml:id="fol_7r.27" n="27"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> DEORUM NON DEORUM FALSO<supplied reason="lost">RUM HOC</supplied>
+     <lb xml:id="fol_7r.28" n="28"/>EST IMPIORUM ET SUPERBORUM <supplied reason="lost">QUI EJUS</supplied>
+     <lb xml:id="fol_7r.29" n="29"/>INCOMMUTABILI OMNIBUSQUE <supplied reason="lost">COMMU</supplied>
+     <lb xml:id="fol_7r.30" n="30"/><w part="F">N<choice><sic>E</sic><corr>I</corr></choice></w> LUCE PRIUATI ET OB HOC AD QUANDAM <supplied reason="lost"><w part="I">EGE</w></supplied>
+    </ab>
+   </div>
+   <div type="apparatus">
+    <listApp>
+     <app corresp="#fol_1r.1"><rdg wit="CSEL40">SCRIPTURA</rdg></app>
+     <app corresp="#fol_1r.3"><note>Cauda added later</note></app>
+     <app corresp="fol_7r.19"><rdg wit="CSEL40">ADQUE</rdg></app>     
+    </listApp>
+   </div>
+   </div>
+   
+   
+   <div n="fol_7v" type="edition">
+    <div type="textpart">
+     <ab>
+     <lb xml:id="fol_7v.1" n="1"/><w part="F">NAM</w> POTESTATEM REDACTI &#183; SUAS <choice><abbr>QUODA &#772;</abbr><expan>QUODA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_7v.2" n="2"/>MODO PRIUATAS POTENTIAS <w part="I">CONSECTAN</w>
+     <lb xml:id="fol_7v.3" n="3"/><w part="F">TUR</w> HONORESQUE DIUINOS A DECEPTIS <supplied reason="lost"><w part="I">SUB</w></supplied>
+     <lb xml:id="fol_7v.4" n="4"/><w part="F">DITIS</w> QUAERUNT SED DEORUM PIORUM 
+     <lb xml:id="fol_7v.5" n="5"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> SANCTORUM QUI POTIUS SE IPSOS UNI
+     <lb xml:id="fol_7v.6" n="6"/>SUBDERE QUAM MULTOS SIBI &#183; POTIUSQUE
+     <lb xml:id="fol_7v.7" n="7"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> &#183; COLERE QUAM PRO <add place="above">D</add>EO DELECTANTUR
+     <lb xml:id="fol_7v.8" n="8"/>COLI, SED HUIUS SANCTAE CIUITATIS <w part="I">INI</w>
+     <lb xml:id="fol_7v.9" n="9"/><w part="F">MICIS</w> DECEM <choice><abbr>SUPERIORIB&#183;</abbr><expan>SUPERIORIB<ex>US</ex></expan></choice> LIBRIS <choice><abbr>QUANTU &#772;</abbr><expan><ex>M</ex></expan></choice>
+     <lb xml:id="fol_7v.10" n="10"/>POTUIMUS <choice><abbr>D&#772;N&#772;O&#772;</abbr><expan>D<ex>OMI</ex>NO</expan></choice> ET REGE NOSTRO <w part="I"><choice><sic><choice><abbr>ADIUBA &#772;</abbr><expan>ADIUBA<ex>N</ex></expan></choice></sic><corr>ADIUUAN</corr></choice></w>
+     <lb xml:id="fol_7v.11" n="11"/><w part="F">TE</w> RESPONDIMUS; NUNC UERO QUID A M<add place="right">E</add>
+     <lb xml:id="fol_7v.12" n="12"/><choice><sic>ETIAM</sic><corr>IAM</corr></choice> EXPECTETUR AGNOSCENS MEIQUE
+     <lb xml:id="fol_7v.13" n="13"/>NON INMEMOR DEBITI DE DUARUM <w part="I">CIUI</w>
+     <lb xml:id="fol_7v.14" n="14"/><w part="F">TATUM</w> TERRENAE SCILICET ET CAELESTIS
+     <lb xml:id="fol_7v.15" n="15"/>QUAS IN HOC INTERIM SAECULO PERPLEXAS
+     <lb xml:id="fol_7v.16" n="16"/>QUODAM MODO DIXIMUS <choice><abbr>INUICEMQ&#183;</abbr><expan>INUICEMQ<ex>UE</ex></expan></choice> <w part="I">PER</w>
+     <lb xml:id="fol_7v.17" n="17"/><w part="F">MIXTAS</w> EXORTU ET EXCURSU ET DEBITIS <choice><abbr>FINIB&#183;</abbr><expan>FINIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_7v.18" n="18"/>QUANTUM UALUERO DISPUTARE EIUS <w part="I">IP</w>   
+     <lb xml:id="fol_7v.19" n="19"/><w part="F">SIUS</w> <choice><abbr>D&#772;N&#772;I&#772;</abbr><expan>D<ex>OMI</ex>NI</expan></choice> &#183; <add place="above">ET</add> REGIS NOSTRI UBIQUE <w part="I">OPITULA</w>
+     <lb xml:id="fol_7v.20" n="20"/><w part="F">TIONE</w> FRETUS AGGREDIAR; PRIMUMQUE
+     <lb xml:id="fol_7v.21" n="21"/>DICAM QUEM AMMODUM EXORDIA
+     <lb xml:id="fol_7v.22" n="22"/>DUARUM ISTARUM CIUITATUM IN <w part="I">AN</w>
+     <lb xml:id="fol_7v.23" n="23"/><w part="F">GELORUM</w> DIUERSITATE PRAECESSERINT,
+     <lb xml:id="fol_7v.24" n="24"/>MAGNUM EST ET AMMODUM RARUM <w part="I">UNI</w>
+     <lb xml:id="fol_7v.25" n="25"/><w part="F">UERSAM</w> CREATURAM CORPOREAM ET <w part="I">IN</w>
+     <lb xml:id="fol_7v.26" n="26"/><w part="F">CORPOREAM</w> CONSIDERATAM <w part="I"><choice><abbr>COMPERTA &#772;</abbr><expan><ex>M</ex></expan></choice></w>
+     <lb xml:id="fol_7v.27" n="27"/><w part="F">QUE</w> MUTABILEM INTENTIONE MENTIS <w part="I">EX</w> 
+     <lb xml:id="fol_7v.28" n="28"/><w part="F">CEDERE</w> <choice><sic>ADQUE</sic><corr>ATQUE</corr></choice> AD INCOMMUTABILEM <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>
+     <lb xml:id="fol_7v.29" n="29"/>SUBSTANTIAM PERUENIRE ET ILLIC DISCERE
+     <lb xml:id="fol_7v.30" n="30"/>EX IPSO QUOD CUNCTAM NATURAM QUAE
+    </ab>
+    </div>
+   <div type="apparatus">
+    <listApp>
+     <app corresp="#fol_7v.5"><rdg wit="CSEL40">ADQUE</rdg></app>
+     <app corresp="#fol_7v.7"><rdg wit="CSEL40">COLI DELECTANTUR</rdg></app>
+     <app corresp="#fol_7v.20"><rdg wit="CSEL40">ADGREDIAR</rdg></app>
+     <app corresp="#fol_7v.21"><rdg wit="CSEL40">AD MODUM</rdg></app>
+     <app corresp="#fol_7v.24"><rdg wit="CSEL40">ADMODUM</rdg></app>
+     <app corresp="#fol_7v.26"><rdg wit="CSEL40">CONPERTAMQUE</rdg></app>
+     <app corresp="#fol_7v.28"><rdg wit="CSEL40">ADQUE</rdg></app>
+    </listApp>
+   </div>
+   </div> 
+   
+   
+   <div n="fol_8r" type="edition">
+    <!-- illegible-->
+   </div>
+  
+   
+   <div n="fol_8v" type="edition">
+    <div type="textpart">
+     <p>+ hic est enim mediator...</p> <!-- illegible scholion-->
+     <!-- illegible-->
+    </div> 
+   </div>
+   
+   
+   <div n="fol_9r" type="edition">
+    <div type="textpart">
+    <ab>
+     <lb xml:id="fol_9r.1" n="1"/><w part="F">TRIS</w> QUONIAM NOSTRO TESTIMONIO <w part="I">SCI</w>  
+     <lb xml:id="fol_9r.2" n="2"/><w part="F">RE</w> NON POSSUMUS DE HIS ALIOS TESTES
+     <lb xml:id="fol_9r.3" n="3"/>REQUIRIMUS EISQUE CREDIMUS <choice><abbr>QUORU &#772;</abbr><expan>QUORU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_9r.4" n="4"/><choice><abbr>SENSIB&#183;</abbr><expan>SENSIB<ex>US</ex></expan></choice> REMOTA ESSE UEL FUISSE NON <w part="I">CRE</w>
+     <lb xml:id="fol_9r.5" n="5"/><w part="F">DIMUS</w> SICUT ERGO DE <choice><abbr>UISIBILIB&#183;</abbr><expan>UISIBILIB<ex>US</ex></expan></choice> QUAE
+     <lb xml:id="fol_9r.6" n="6"/>NON UIDIMUS EIS CREDIMUS QUI <w part="I">UIDE</w>
+     <lb xml:id="fol_9r.7" n="7"/><w part="F">RUNT</w> ATQUE ITA DE CETERIS QUAE AD SUUM 
+     <lb xml:id="fol_9r.8" n="8"/><choice><abbr>QUEMQ&#183;</abbr><expan>QUEMQ<ex>UE</ex></expan></choice> SE<add place="above">NS</add>UM ORPORIS PERTINENT &#183; ITA
+     <lb xml:id="fol_9r.9" n="9"/>DE HIS QUAE ANIMO AC MENTE <w part="I">SENTIUN</w>
+     <lb xml:id="fol_9r.10" n="10"/><w part="F">TUR</w> QUA ET IPSE RECTISSIME DICITUR <w part="I"><choice><abbr>SE &#772;</abbr><expan>SE<ex>N</ex></expan></choice></w>
+     <lb xml:id="fol_9r.11" n="11"/><w part="F">SUS</w> UNDE ET SENTENTIA UOCABULUM <w part="I">ACCE</w>
+     <lb xml:id="fol_9r.12" n="12"/><w part="F">PIT</w> HOC EST DE <choice><abbr>INUISIBILIB&#183;</abbr><expan>INUISIBILIB<ex>US</ex></expan></choice> QUAE A NOSTRO
+     <lb xml:id="fol_9r.13" n="13"/>SENSU INTERIORE REMOTA SUNT HIS NOS
+     <lb xml:id="fol_9r.14" n="14"/>OPORTET CREDERE QUI HAEC IN ILLO <w part="I">CORPO</w>
+     
+     <note type="scholion" place="margin">IIII</note><lb xml:id="fol_9r.15" n="15"/><w part="F">REO</w> LUMINE DISPOSITA DIDICERUNT UEL  <lb xml:id="fol_9r.16" n="16"/>MANENTIA CONTUENTUR; UISIBILIUM  <note type="scholion" place="margin">R&#772;</note> <!-- expansion?-->
+     <lb xml:id="fol_9r.17" n="17"/>OMNIUM MAXIMUS MUNDUS EST
+     <lb xml:id="fol_9r.18" n="18"/>INUISIBILIUM OMNIUM MAXIMUS <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST
+     <lb xml:id="fol_9r.19" n="19"/>SED MUNDUM ESSE CONSPICIMUS <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> ESSE
+     <lb xml:id="fol_9r.20" n="20"/>CREDIMUS; QUOD AUTEM <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> FECERIT <w part="I"><choice><abbr>MU &#772;</abbr><expan>MU<ex>N</ex></expan></choice></w>
+     <lb xml:id="fol_9r.21" n="21"/><w part="F">DUM</w> NULLI <choice><sic>TOTIUS</sic><corr>TUTIUS</corr></choice> CREDIMUS QUAM IPSI <add><choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice></add>
+     <lb xml:id="fol_9r.22" n="22"/>UBI EUM AUDIUIMUS NUSQUAM INTER<add place="right">IM</add>
+     <lb xml:id="fol_9r.23" n="23"/>NOS MELIUS QUAM IN SCRIBTURIS <choice><abbr>S&#772;C&#772;I&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>IS</expan></choice>
+     <lb xml:id="fol_9r.24" n="24"/>UBI DIXIT PROPHETA EIUS IN PRINCIPIO FECIT
+     <lb xml:id="fol_9r.25" n="25"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CAELUM ET TERRAM; NUMQUIDNAM
+     <lb xml:id="fol_9r.26" n="26"/>IBI FUIT ISTE PROPHETA QUANDO FECIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>
+     <lb xml:id="fol_9r.27" n="27"/>CAELUM ET TERRAM NON SED IBI FUIT <w part="I">SA</w> <note type="scholion" place="margin">R&#772; quod sapient<supplied reason="lost">ia</supplied> <!-- quod abbreviation--> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> erant...</note> <!-- illegible scholion -->
+     <lb xml:id="fol_9r.28" n="28"/><w part="F">PIENTIA</w> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> PER QUAM FACTA SUNT OMNIA
+     <lb xml:id="fol_9r.29" n="29"/>QUAE IN ANIMAS <choice><abbr>S&#772;C&#772;A&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>AS</expan></choice> ETIAM SE TRANSFERT
+     <lb xml:id="fol_9r.30" n="30"/>AMICOS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> ET PROPHETAS CONSTITUIT <choice><abbr>EISQ&#183;</abbr><expan>EISQ<ex>UE</ex></expan></choice>
+    </ab>
+   </div> 
+    
+   <div type="apparatus">
+    <listApp>
+     <app corresp="#fol_9r.3"><rdg wit="CSEL40">A QUORUM</rdg></app>
+     <app corresp="#fol_9r.7"><rdg wit="CSEL40">ADQUE</rdg></app>
+     <app corresp="#fol_9r.10"><rdg wit="CSEL40">QUIA</rdg></app>
+     <app corresp="#fol_9r.14"><rdg wit="CSEL40">INCORPOREO</rdg></app>
+     <app corresp="#fol_9r.16"><rdg><note>Chapter 4, annotated in line 15, starts with UISIBILIUM</note></rdg></app>
+     <app corresp="#fol_9r.22"><rdg><note>The macron over the <hi rend="italic">M</hi> of <hi rend="itallic">INTERIM</hi> is a mistake</note></rdg></app>
+     <app corresp="#fol_9r.23"><rdg wit="CSEL40">SCRIPTURIS</rdg></app>
+     <app corresp="#fol_9r.29"><rdg wit="CSEL40">TRANSFERENS</rdg></app>
+     <app></app>
+    </listApp>
+   </div>
+   </div>
+    
+   
+   <div n="fol_9v" type="edition">
+   <div type="textpart">
+    <ab>
+     <note type="scholion" place="margin">R&#772; quod ... sapientia&#772; per ... sua... narrat</note> <!-- expand QUOD and macron--><!--illegible scholion-->
+     <lb n="1"/>OPERA SUA SINE STREPITU INTUS <w part="I"><choice><sic>ERRAR</sic><corr>ENAR</corr></choice></w>
+     <lb n="2"/><w part="F">RAT</w>; <!-- three-dot group --> LOCUNTUR EIS <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> ANGELI <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUI
+     <lb n="3"/>SEMPER UIDENT FACIEM PATRIS <w part="I">UOLUN</w>
+     <lb n="4"/><w part="F">TATEMQUE</w> EIUS QUIBUS<del>Q</del> OPORTET <w part="I">AN</w>
+     <lb n="5"/><w part="F">NUNTIANT</w> EX HIS UNUS ERAT ISTE <w part="I">PRO</w>
+     <lb n="6"/><w part="F">PHETA</w> QUI DIXIT ET SCRIBSIT IN PRINCIPIO
+     <lb n="7"/>FECIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CAELUM ET TERRAM<add>;</add> QUI TAM <w part="I">IDO</w>
+     <lb n="8"/><w part="F">NEUS</w> TESTIS EST PER <choice><sic>QUEN</sic><corr>QUEM</corr></choice> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice>&#183;<w part="I">CREDEN</w>
+     <lb n="9"/><w part="F">DUM</w> SIT UT EODEM <choice><abbr>S&#772;P&#772;U&#772;</abbr><expan>SP<ex>IRIT</ex>U</expan></choice> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUO HAEC SIBI
+     <lb n="10"/>REUELATA COGNOUIT ETIAM IPSAM <choice><abbr>FIDE &#772;</abbr><expan><ex>M</ex></expan></choice>
+     <lb n="11"/>NOSTRAM FUTURAM TANTO ANTE <w part="I">PRAE</w>
+     <lb n="12"/><w part="F">DIXERIT</w>, SED QUID PLACUIT AETERNO <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice>
+     <lb n="13"/>TUNC FACERE CAELUM ET TERRAM QUAE <w part="I">AN</w>
+     <lb n="14"/><w part="F">TEA</w> NON FECISSET? QUI HOC DICUNT SI <w part="I">MU<add>N</add></w>
+     <lb n="15"/><w part="F">DUM</w> AETERNUM SINE ULLO INITIO ET IDEO
+     <lb n="16"/>NEC A <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> FACTUM UIDERI UOLUNT NIMIS
+     <lb n="17"/>AUERSI SUNT A UERITATE ET LETALI MORBO
+     <lb n="18"/>IMPIETATIS INSANIUNT EXCEPTIS ENIM
+     <lb n="19"/>PROPHETICIS <choice><abbr>UOCIB&#183;</abbr><expan>UOCIB<ex>US</ex></expan></choice> MUNDUS IPSE <w part="I">ORDINA</w>
+     <lb n="20"/><w part="F">TISSIMA</w> SUA MUTABILITATE ET MOBILITATE
+     <lb n="21"/>ET UISIBILIUM OMNIUM PULCHERRIMA
+     <lb n="22"/>SPECIE QUODAM MODO TACITUS ET FACTUM
+     <lb n="23"/>SE ESSE ET NON NISI A <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> INEFFABILITER <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice>
+     <lb n="24"/>INUISIBILITER <add>MAGNO ET INEFFABILITER ATQUE INUISIBILITER</add>PULCHRO FIERI SE POTUISSE
+     <lb n="25"/>PROCLAMAT, QUI AUTEM A <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> QUIDEM
+     <lb n="26"/>FACTUM FATENTUR NON TAMEN EUM <w part="I">TEM</w>
+     <lb n="27"/><w part="F">PORIS</w> UOLUNT HABERE SED SUAE CREATIONIS
+     <lb n="28"/>INITIUM UT MODO QUODAM UIX <w part="I">INTELLEGI</w>
+     <lb n="29"/><w part="F">BILI</w> SEMPER SIT FACTUS DICUNT QUIDEM
+     <lb n="30"/>ALIQUID UNDE SIBI <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> UIDENTUR UELUT
+   
+    </ab>
+   </div>
+   <div type="apparatus">
+    <listApp>
+     <app corresp="#fol_9v.2"><rdg wit="CSEL40">LOQUUNTUR</rdg></app>
+     <app corresp="#fol_9v.4"><rdg wit="CSEL40">ADNUNTIANT</rdg></app>
+     <app corresp="#fol_9v.6"><rdg wit="CSEL40">SCRIPSIT</rdg></app>
+    </listApp> 
+   </div>
+   </div>
+   
+   
+   <div n="fol_10r" type="edition">
+   <div type="textpart">
+    <ab>
+     <lb xml:id="fol_10r.1" n="1"/>A FORTUITA TEMERITATE DEFENDERE NE  
+     <lb xml:id="fol_10r.2" n="2"/>SUBITO ILLI UENISSE CREDATUR IN <choice><abbr>MENTE&#772;</abbr><expan>MENTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10r.3" n="3"/>QUOD NUMQUAM <choice><sic>INTE</sic><corr>ANTE</corr></choice> UENISSE<add place="above">T</add> FACERE <w part="I">MU&#772;</w>
+     <lb xml:id="fol_10r.4" n="4"/><w part="F">DUM</w> ET ACCIDISSE ILLI UOLUNTATEM <choice><abbr>NOUA&#772;</abbr><expan>NOUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10r.5" n="5"/>CUM IN <add place="above">N</add>ULLO SIT OMNINO MUTABILIS
+     <lb xml:id="fol_10r.6" n="6"/>SED NON UIDEO QUO MODO EIS POSSIT IN <w part="I">CETE</w>
+     <lb xml:id="fol_10r.7" n="7"/><w part="F">RIS</w> <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> RATIO ISTA SUBSISTERE <choice><abbr>MAXIMEQ&#183;</abbr><expan>MAXIMEQ<ex>UE</ex></expan></choice> IN
+     <lb xml:id="fol_10r.8" n="8"/>ANIMA QUAM SI <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> COAETERNAM ESSE <w part="I">CON</w>
+     <lb xml:id="fol_10r.9" n="9"/><w part="F">TENDERINT</w> UNDE ILLI ACCIDERIT NOUA
+     <lb xml:id="fol_10r.10" n="10"/>MISERIA QUAE NUMQUAM ANTEA PER <w part="I">AE</w>
+     <lb xml:id="fol_10r.11" n="11"/><w part="F">TERNUM</w> NULLO MODO POTERUNT <w part="I">EXPLICA</w>
+     <lb xml:id="fol_10r.12" n="12"/><w part="F">RE</w>. SI ENIM ALTERNASSE SEMPER EIUS <w part="I">MISE</w>
+     <lb xml:id="fol_10r.13" n="13"/><w part="F">RIAM</w> ET BEATITUDINEM DIXERINT NECESSE
+     <lb xml:id="fol_10r.14" n="14"/>EST DICANT ETIAM SEMPER <choice><abbr>ALTERNATURA&#772;</abbr><expan>ALTERNATURA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10r.15" n="15"/>UNDE ILLA EOS SEQUETUR ABSURDITAS UT
+     <lb xml:id="fol_10r.16" n="16"/>ETIAM CUM BEATA DICITUR IN HOC UTIQUE
+     <lb xml:id="fol_10r.17" n="17"/>NON SIT <add place="above">BEATA SI</add> FUTURA<add place="above">M</add> SUAM MISERIAM
+     <lb xml:id="fol_10r.18" n="18"/>ET TURPITUDINEM PRAEUIDET SI <choice><abbr>AUTE&#772;</abbr><expan>AUTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10r.19" n="19"/>NON PRAEUIDET <supplied reason="lost">NEC SE TURPEM AC <w part="I">MISE</w></supplied>
+     <lb xml:id="fol_10r.20" n="20"/><w part="F">RAM</w> FORE SED BEATAM SEMPER EXISTIMAT
+     <lb xml:id="fol_10r.21" n="21"/>FALSA OPINIONE SIT BEATA QUO DICI STULTIUS
+     <lb xml:id="fol_10r.22" n="22"/>NIHIL POTEST: SI AUTEM SEMPER QUIDEM
+     <lb xml:id="fol_10r.23" n="23"/>PER SAECULA RETRO INFINITA CUM <w part="I">BEATITU</w>
+     <lb xml:id="fol_10r.24" n="24"/><w part="F">DINE</w> ALTERNASSE ANIMAE MISERIAM <w part="I">PU</w>
+     <lb xml:id="fol_10r.25" n="25"/><w part="F">TANT</w> SED NUNC IAM DE CETERO CUM FUERIT
+     <lb xml:id="fol_10r.26" n="26"/>LIBERATA AD MISERIAM NON ESSE <choice><abbr>REDITURA&#772;</abbr><expan>REDITURA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10r.27" n="27"/>NIHILHOMINUS CONUINCUNTUR <w part="I">NUM</w>
+     <lb xml:id="fol_10r.28" n="28"/><w part="F">QUAM</w> EAM FUISSE UERAE BEATAM SED <w part="I">DE</w>
+     <lb xml:id="fol_10r.29" n="29"/><w part="F">INCEPS</w> ESSE INCIPERE NOUA QUADAM NEC
+     <lb xml:id="fol_10r.30" n="30"/>FALLACI BEATITUDINE AC PER HOC <w part="F"><choice><abbr>FATEBU&#772;</abbr><expan>FATEBU<ex>N</ex></expan></choice></w>
+    </ab>
+   </div>
+    <div type="apparatus">
+     <listApp>
+      <app corresp="fol_10r.4"><rdg wit="CSEL40">NOUAM UOLUNTATEM</rdg></app>
+      <app corresp="fol_10r.27"><rdg wit="CSEL40">NIHILO MINUS</rdg></app>
+      <app corresp="fol_10r.28"><rdg wit="CSEL40">UERE</rdg></app>
+     </listApp>
+    </div>
+   </div>
+   
+  
+   <div n="fol_10v" type="edition">
+   <div type="textpart">
+    <ab>
+     <lb xml:id="fol_10v.1" n="1"/><w part="F">TUR</w> ACCIDERE ILLI ALIQUID NOUI ET HOC  
+     <lb xml:id="fol_10v.2" n="2"/>MAGNUM <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> PRAECLARUM QUOD <w part="I"><choice><abbr>NU&#772;</abbr><expan>NU<ex>M</ex></expan></choice></w>
+     <lb xml:id="fol_10v.3" n="3"/><w part="F">QUAM</w> RETRO PER AETERNITATEM ACCIDISSET
+     <lb xml:id="fol_10v.4" n="4"/>CUIUS NOUITATIS CAUSAM SI <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> NEGABUNT
+     <lb xml:id="fol_10v.5" n="5"/>IN AETERNO HABUISSE CONSILIO <choice><sic>SI MALUM</sic><corr>SIMUL EUM</corr></choice>
+     <lb xml:id="fol_10v.6" n="6"/>NEGABUNT BEATITUDINIS EIUS <choice><abbr>AUCTORE&#772;</abbr><expan>AUCTORE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10v.7" n="7"/>QUOD NEFANDAE IMPIETATIS EST
+     <lb xml:id="fol_10v.8" n="8"/>SI AUTEM DICENT ETIAM IPSUM NOUO <w part="I">CON</w>
+     <lb xml:id="fol_10v.9" n="9"/><w part="F">SILIO</w> EXCOGITASSE UT DE CETERO SIT ANIMA
+     <lb xml:id="fol_10v.10" n="10"/>IN AETERNUM BEATA QUO MODO EUM <w part="I">ALIE</w>
+     <lb xml:id="fol_10v.11" n="11"/><w part="F">NUM</w> AB EA QUAE ILLIS <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> DISPLICET <w part="I">MU</w>
+     <lb xml:id="fol_10v.12" n="12"/><w part="F">TABILITATE</w> <choice><sic>MONSTRABANT</sic><corr>MONSTRABUNT</corr></choice> PORRO SI EX
+     <lb xml:id="fol_10v.13" n="13"/>TEMPORE CREATAM SED NULLO ULTERIUS
+     <lb xml:id="fol_10v.14" n="14"/>TEMPORE PERITURAM TAMQUAM <choice><abbr>NUMERU&#772;</abbr><expan>NUMERU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10v.15" n="15"/>HABERE INITIUM SED NON HABERE FINEM
+     <lb xml:id="fol_10v.16" n="16"/>FATENTUR ET IDEO SEMEL EXPERTAM <w part="I">MISER</w>
+     <lb xml:id="fol_10v.17" n="17"/><w part="F">IAS</w> SI AB EIS FUERIT LIBERATA NUMQUAM
+     <lb xml:id="fol_10v.18" n="18"/>MISERAM POSTEA FUTUR<supplied reason="lost">AM</supplied>
+     <lb xml:id="fol_10v.19" n="19"/><supplied reason="lost">NON UTIQUE DUBITABUNT HOC FIERI</supplied> MANENTE <w part="I">INCOMMU</w>
+     <lb xml:id="fol_10v.20" n="20"/><w part="F">TABILITATE</w> CONSILII <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>; SIC ERGO CREDANT <!-- NT ligature -->
+     <lb xml:id="fol_10v.21" n="21"/>ET MUNDUM EX TEMPORE FIERI POTUISSE
+     <lb xml:id="fol_10v.22" n="22"/>NEC TAMEN IDEO <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> IN EO FACIENDUM <w part="I">AE</w>
+     <lb xml:id="fol_10v.23" n="23"/><w part="F">TERNUM</w> CONSILIUM <choice><abbr>UOLUNTATEMQ&#183;</abbr><expan>UOLUNTATEMQ<ex>UE</ex></expan></choice> <w part="I">MU</w>
+     <note type="scholion" place="margin">V</note> <lb xml:id="fol_10v.24" n="24"/><w part="F">TASSE</w>; DEINDE UIDENDUM EST ISTI QUI <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
+     <lb xml:id="fol_10v.25" n="25"/>CONDITOREM MUNDI <add place="above">ESSE</add> CONSENTIUNT ET <w part="I">TA</w>
+     <lb xml:id="fol_10v.26" n="26"/><w part="F">MEN</w> QUAERUNT DE MUNDI TEMPORE QUID
+     <lb xml:id="fol_10v.27" n="27"/><choice><sic>RESPONDET UNUS</sic><corr>RESPONDEAMUS</corr></choice> QUID IPSI <del>RE</del> <w part="I">RESPON</w>
+     <lb xml:id="fol_10v.28" n="28"/><w part="F">DEANT</w> DE MUNDI LOCO ITA ENIM <w part="I">QUAE</w>
+     <lb xml:id="fol_10v.29" n="29"/><w part="F">RITUR</w> QUUR POTIUS TUNC ET NON ANTEA <w part="I">FAC</w> 
+     <lb xml:id="fol_10v.30" n="30"/><w part="F">TUS</w> SIT QUEMAMMODUM QUAERI POTEST
+    </ab>
+   </div>
+    <div type="apparatus">
+     <listApp>
+      <app corresp="fol_10v.2"><rdg wit="CSEL40">ADQUE</rdg></app>
+      <app corresp="fol_10v.22"><rdg wit="CSEL40">FACIENDO</rdg></app>
+      <app corresp="fol_10v.30"><rdg wit="CSEL40">QUEM AD MODUM</rdg></app>
+     </listApp>
+    </div>
+   </div>
+   
+   
+   <div n="fol_11r" type="edition">
+   <div type="textpart">
+    <ab>
+     <lb xml:id="fol_11r.1" n="1"/>QUUR HIC POTIUS UBI EST ET NON ALIBI  
+     <lb xml:id="fol_11r.2" n="2"/>NAM SI INFINITA SPATIA TEMPORIS ANTE <w part="I"><choice><abbr>MU&#772;</abbr><expan>MU<ex>N</ex></expan></choice></w>
+     <lb xml:id="fol_11r.3" n="3"/>DUM COGITANT <supplied reason="lost">IN QUIBUS EIS NON</supplied> UIDETUR
+     <lb xml:id="fol_11r.4" n="4"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> AB OPERE CESSARE POTUISSE SIMILITER
+     <lb xml:id="fol_11r.5" n="5"/>COGITENT <supplied reason="lost">EXTRA</supplied> MUNDUM INFINITA SPATIA 
+     <lb xml:id="fol_11r.6" n="6"/><supplied reason="lost">LOCORUM IN QUIBUS SI QUIS</supplied>QUAM DICAT NON
+     <lb xml:id="fol_11r.7" n="7"/>POTUISSE <supplied reason="lost">UACARE</supplied> OMNIPOTENTEM <w part="I">NON</w>
+     <lb xml:id="fol_11r.8" n="8"/><w part="F">NE</w> <supplied reason="lost">CONSEQUENS</supplied> ERIT UT <w part="I">INNUMERABI</w>
+     <lb xml:id="fol_11r.9" n="9"/><w part="F">LES</w> MUNDOS CUM EPICURO SOMNIARE <w part="I">CO</w>
+     <lb xml:id="fol_11r.10" n="10"/><w part="F">GANTUR</w>; EA TANTUM DIFFERENTIA QU<add>OD</add>
+     <lb xml:id="fol_11r.11" n="11"/>EOS ILLE FORTUITIS <choice><abbr>MOTIB&#183;</abbr><expan>MOTIB<ex>US</ex></expan></choice> <choice><sic>AT<add>H</add>OMORUM</sic><corr>ATOMORUM</corr></choice>
+     <lb xml:id="fol_11r.12" n="12"/><supplied reason="lost">GIGNI</supplied> ASSERIT ET RESOLUI ISTI AUTEM <w part="I">OPE</w>
+     <lb xml:id="fol_11r.13" n="13"/><w part="F">RE</w> <supplied reason="lost"><choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice></supplied> FACTOS DICTURI SUNT SI EUM PER <w part="I">INTER</w>
+     <lb xml:id="fol_11r.14" n="14"/><w part="F">MINABILEM</w> INMENSITATEM LOCORUM
+     <lb xml:id="fol_11r.15" n="15"/>EXTRA MUNDUM <choice><abbr>CIRCUMQUAQ&#183;</abbr><expan>CIRCUMQUAQ<ex>UE</ex></expan></choice> PATENT<supplied reason="lost">IUM</supplied>
+     <lb xml:id="fol_11r.16" n="16"/>UACARE NOLUERINT NEC EOSDEM <w part="I">MUN</w>
+     <lb xml:id="fol_11r.17" n="17"/><w part="F">DOS</w> QUOD ETIAM DE ISTO SENTIUNT ULLA <w part="I">CAU</w>
+     <lb xml:id="fol_11r.18" n="18"/><w part="F">SA</w> POSSE DISSOLUI CUM HIS ENIM AGIMUS
+     <lb xml:id="fol_11r.19" n="19"/>QUI ET <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> INCORPOREUM ET OMNIUM <w part="I">NA</w>
+     <lb xml:id="fol_11r.20" n="20"/><w part="F">TURARUM</w> QUAE NON SUNT QUOD IPSE <w part="I">CREA</w>
+     <lb xml:id="fol_11r.21" n="21"/><w part="F">TOREM</w> NOBISCUM SENTIUNT ALIOS <choice><abbr>AUTE &#772;</abbr><expan>AUTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_11r.22" n="22"/>NIMIS INDIGNUM EST AD ISTAM <w part="I">DISPUTA</w>
+     <lb xml:id="fol_11r.23" n="23"/><w part="F">TIONEM</w> RELIGIONIS AMMITTERE <w part="I">MAXI</w>
+     <lb xml:id="fol_11r.24" n="24"/><w part="F">ME</w> QUOD APUD EOS QUI MULTIS DES <w part="I">SACRO</w>
+     <lb xml:id="fol_11r.25" n="25"/><w part="F">RUM</w> OBSEQUIUM DEFERENDUM PUTANT <!-- NT LIGATURE-->
+     <lb xml:id="fol_11r.26" n="26"/>ISTI PHILOSOPHOS CETEROS <choice><sic>NOBITATE</sic><corr>NOUITATE</corr></choice> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_11r.27" n="27"/>AUCTORITATE UICERUNT NON OB ALIUD
+     <lb xml:id="fol_11r.28" n="28"/>NISI QUIA LONGO QUIDEM INTERUALLO
+     <lb xml:id="fol_11r.29" n="29"/>UERUM TAMEN RELIQUIS <w part="I">PROPINQUIO</w>
+     <lb xml:id="fol_11r.30" n="30"/><w part="F">RES</w> SUNT UERITATI AN FORTE <choice><abbr>SUBSTANTIA &#772;</abbr><expan>SUBSTANTIA<ex>M</ex></expan></choice>
+    </ab>
+   </div>
+   <div type="apparatus">
+    <listApp>
+     <app corresp="#fol_11r.12"><rdg wit="CSEL40">ADSERIT</rdg></app>
+    </listApp>
+   </div>
+   </div>
+  
+   
+   <div n="fol_11v" type="edition">
+    <div type="textpart">
+     <ab>
+      <lb xml:id="fol_11v.1" n="1"/><choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUAM NEC INCLUDUNT NEC DETERMI
+      <lb xml:id="fol_11v.2" n="2"/>NANT NEC DISTENDUNT LOCO SED EAM SI
+      <lb xml:id="fol_11v.3" n="3"/>CUT DE <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> SENTIRE DIGNUM EST FATENTUR
+      <lb xml:id="fol_11v.4" n="4"/>INCORPOREA PRAESENTIA UBIQUE TOTAM 
+      <lb xml:id="fol_11v.5" n="5"/>A TANTIS LOCORUM EXTRA MUNDUM SPA
+      <lb xml:id="fol_11v.6" n="6"/>TIIS ABSENTEM ESSE DICTURI SUNT ET 
+      <lb xml:id="fol_11v.7" n="7"/>UNO TANTUM <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> IN COMPARATIONEM
+      <lb xml:id="fol_11v.8" n="8"/>ILLIUS INFINITATIIS TAM EXIGUO LOCO IN
+      <lb xml:id="fol_11v.9" n="9"/>QUO MUNDUS EST OCCUPATAM NON
+      <lb xml:id="fol_11v.10" n="10"/>OPINOR EOS IN HAEC UANILOQUIA PRO
+      <lb xml:id="fol_11v.11" n="11"/>GRESSUROS CUM IGITUR UNUM MU &#772;
+      <lb xml:id="fol_11v.12" n="12"/>DUM INGENTI QUIDEM MOLE CORPOREA 
+      <lb xml:id="fol_11v.13" n="13"/>FINITUM TAMEN ET LOCO SUO DETERMINA
+      <lb xml:id="fol_11v.14" n="14"/>TUM ET OPERANTE <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> FACTUM ESSE
+      <lb xml:id="fol_11v.15" n="15"/>DICANT QUOD RESPONDENT DE <supplied reason="lost">INFINITIS</supplied>
+      <lb xml:id="fol_11v.16" n="16"/>
+      <lb xml:id="fol_11v.17" n="17"/>
+      <lb xml:id="fol_11v.18" n="18"/>
+      <lb xml:id="fol_11v.19" n="19"/>
+      <lb xml:id="fol_11v.20" n="20"/>
+      <lb xml:id="fol_11v.21" n="21"/>
+      <lb xml:id="fol_11v.22" n="22"/>
+      <lb xml:id="fol_11v.23" n="23"/>
+      <lb xml:id="fol_11v.24" n="24"/>
+      <lb xml:id="fol_11v.25" n="25"/>
+      <lb xml:id="fol_11v.26" n="26"/>
+      <lb xml:id="fol_11v.27" n="27"/>
+      <lb xml:id="fol_11v.28" n="28"/>
+      <lb xml:id="fol_11v.29" n="29"/>
+      <lb xml:id="fol_11v.30" n="30"/>
+     </ab>
+    </div>
+    
+    <div type="apparatus">
+     <listApp>
+      <app></app>
+     </listApp>
+    </div>
+   </div>
+   
+     
+      </body>
+    </text>  
+  
+</TEI>
