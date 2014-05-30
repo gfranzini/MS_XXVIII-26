@@ -632,6 +632,53 @@
    </div>
    
    
+   <div n="fol_13v" type="edition">
+    <div type="textpart">
+     <ab>
+      <lb xml:id="fol_13v.1" n="1"/><w part="F">POSUIT</w> UOCABULUM NOCTIS NON <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
+      <lb xml:id="fol_13v.2" n="2"/>AIT ALICUBI FACTA EST NOX SED FACTA EST 
+      <lb xml:id="fol_13v.3" n="3"/>UESPERA ET FACTUM EST MANE DIES UNUS
+      <lb xml:id="fol_13v.4" n="4"/>ITA DIES SECUNDUS ET CETERIS COGNITIO
+      <lb xml:id="fol_13v.5" n="5"/>QUIPPE CREATURAE IN SE IPSA <w part="I">DECOLORA</w>
+      <lb xml:id="fol_13v.6" n="6"/><w part="F">TIOR</w> EST UITA DICAM QUAM <supplied reason="lost">CUM</supplied> IN <choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> <w part="I">SA</w>
+      <lb xml:id="fol_13v.7" n="7"/><w part="F">PIENTIA</w> COGNOSCITUR <supplied reason="lost">UELUT</supplied> IN ARTE QUA
+      <lb xml:id="fol_13v.8" n="8"/>FACTA EST ID EO UESPERA QUAM NON <w part="I">CON</w>
+      <lb xml:id="fol_13v.9" n="9"/><w part="F">GRUENTIUS</w> DICI POTEST QUAE TAMEN UT <w part="I">DI</w>
+      <lb xml:id="fol_13v.10" n="10"/><supplied reason="lost"><w part="F">XI</w></supplied> CUM AD LAUDANDUM ET AMANDUM <w part="I">RE</w>
+      <lb xml:id="fol_13v.11" n="11"/><w part="F">FERTUR</w> CREATOREM <supplied reason="lost">RECU</supplied>RRIT IN MANE
+      <lb xml:id="fol_13v.12" n="12"/>ET HOC <supplied reason="lost">CUM FACIT</supplied> IN COGNITIONE SUI <supplied reason="lost">IPSI</supplied>US
+      <lb xml:id="fol_13v.13" n="13"/>DIES UNUS EST CUM IN COGNITIONEM
+      <lb xml:id="fol_13v.14" n="14"/><supplied reason="lost">FIRMA</supplied>MENTI QUOD INTER AQUAS <w part="I">INFERIO</w>
+      <lb xml:id="fol_13v.15" n="15"/><supplied reason="lost"><w part="F">RES</w></supplied> ET SUPERIORES CAELUM APPELLATUM
+      <lb xml:id="fol_13v.16" n="16"/><supplied reason="lost">EST DIES</supplied> SECUNDUS CUM IN COGNITIONE
+      <lb xml:id="fol_13v.17" n="17"/>TERRAE <supplied reason="lost">AC MARIS</supplied> OMNIUMQUE <w part="I"><choice><abbr>GIGNE &#772;</abbr><expan>GIGNE<ex>N</ex></expan></choice></w>
+      <lb xml:id="fol_13v.18" n="18"/><w part="F">TIUM</w> QUAE <choice><abbr>RADICIB&#183;</abbr><expan>RADICIB<ex>US</ex></expan></choice> CONTINUATA SUNT
+      <lb xml:id="fol_13v.19" n="19"/>TERRAE DIES TERTIUS CUM IN <w part="I">COGNITIO</w>
+      <lb xml:id="fol_13v.20" n="20"/>NE <supplied reason="lost">LUMINA</supplied>RIUM MAIORIS ET MINORIS
+      <lb xml:id="fol_13v.21" n="21"/><supplied reason="lost">OMNIUM</supplied>QUE SIDERUM DIES QUARTUS
+      <lb xml:id="fol_13v.22" n="22"/>QUUM IN COGNITIONE OMNIUM EX AQUIS 
+      <lb xml:id="fol_13v.23" n="23"/>IN <supplied reason="lost">ANIM</supplied>ALIUM NATATILIUM ATQUE <w part="I">UOLA</w>
+      <lb xml:id="fol_13v.24" n="24"/>TILIUM DIES QUINTUS CUM IN <w part="I">COGNI</w>
+      <lb xml:id="fol_13v.25" n="25"/><w part="F">TIONE</w> OMNIUM ANIMALIUM <w part="I">TERRENO</w>
+      <lb xml:id="fol_13v.26" n="26"/><w part="F">RUM</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> IPSIUS HOMINIS DIES SEXTUS
+      <note type="margin" subtype="chapter" n="8">V&#772;I&#772;I&#772;I&#772;</note> <lb xml:id="fol_13v.27" n="27"/>CUM UERO IN DIES SEPTIMO REQUIESCIT
+      <lb xml:id="fol_13v.28" n="28"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> AB <choice><abbr>OMNIB&#183;</abbr><expan>OMNIB<ex>US</ex></expan></choice> <choice><abbr>OPERIB&#183;</abbr><expan>OPERIB<ex>US</ex></expan></choice> SUIS ET SANCTIFICAT
+      <lb xml:id="fol_13v.29" n="29"/>EUM NEQUEQUAM EST ACCIPIENDUM
+      <lb xml:id="fol_13v.30" n="30"/>PUERILITER TAMQUAM <choice><abbr>DS&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> LABORAUERIT
+     </ab> 
+    </div>
+    <div type="apparatus">
+     
+     <listApp>
+      <app corresp="#fol_13v.3"><note>US ligature is found at the end of the word UNUS</note></app>
+      <app corresp="#fol_13v.12"><note>US ligature is found at the end of the word IPSIUS</note></app>
+      <app corresp="#fol_13v.22"><rdg wit="CSEL40">CUM</rdg></app>
+      <app corresp="#fol_13v.23"><rdg wit="CSEL40">ADQUE</rdg></app>
+      <app corresp="#fol_13v.26"><rdg wit="CSEL40">ADQUE</rdg></app>
+     </listApp>
+     
+    </div>  
+   </div>
                                          
    
    
