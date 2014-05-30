@@ -668,7 +668,6 @@
      </ab> 
     </div>
     <div type="apparatus">
-     
      <listApp>
       <app corresp="#fol_13v.3"><note>US ligature is found at the end of the word UNUS</note></app>
       <app corresp="#fol_13v.12"><note>US ligature is found at the end of the word IPSIUS</note></app>
@@ -676,11 +675,56 @@
       <app corresp="#fol_13v.23"><rdg wit="CSEL40">ADQUE</rdg></app>
       <app corresp="#fol_13v.26"><rdg wit="CSEL40">ADQUE</rdg></app>
      </listApp>
-     
     </div>  
    </div>
                                          
    
+   <div n="fol_14r" type="edition">
+    <div type="textpart">
+     <ab>
+      <lb xml:id="fol_14r.1" n="1"/>OPERANDO QUI DIXIT ET FACTA SUNT <w part="I">UER</w> <note type="scholion">uerbo...<!--illegible--></note>
+      <lb xml:id="fol_14r.2" n="2"/><w part="F">BO</w> INTELLEGIBILI ET SEMPITERNO NON
+      <lb xml:id="fol_14r.3" n="3"/>SONABILI ET TEMPORALI ET REQUIES <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> <w part="I">RE</w>
+      <lb xml:id="fol_14r.4" n="4"/><w part="F">QUIEM</w> SIGNIFICAT EORUM QUI <w part="I">REQUIES</w>
+      <lb xml:id="fol_14r.5" n="5"/><w part="F">CUNT</w> IN <choice><abbr>DO&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> SICUT LAETITIA DOMUS <w part="I">LAE</w>
+      <lb xml:id="fol_14r.6" n="6"/><w part="F">TITIAM</w> SIGNIFICAT EORUM QUI LAETANTUR
+      <lb xml:id="fol_14r.7" n="7"/>IN DOMO ETIAMSI NON EAS DOMUS IPSA
+      <lb xml:id="fol_14r.8" n="8"/>SED ALIA RES ALIQUA LAETOS FACIT
+      <lb xml:id="fol_14r.9" n="9"/>QUANTO MAGIS SI EADEM DOMUS <w part="I">PULCHRI</w>
+      <lb xml:id="fol_14r.10" n="10"/><w part="F">TUDINE</w> SUA FACIAT LAETOS HABITATORES
+      <lb xml:id="fol_14r.11" n="11"/>UT NON SOLUM EO LOQUENDI MODO <supplied reason="lost"><w part="I">LAE</w></supplied>
+      <lb xml:id="fol_14r.12" n="12"/><w part="F">TA</w> DICATUR QUO SIGNIFICAMUS PER <supplied reason="lost">ID</supplied> QUOD
+      <lb xml:id="fol_14r.13" n="13"/>CONTINET ID QUOD CONTINETUR SICUT <w part="I">THEA</w>
+      <lb xml:id="fol_14r.14" n="14"/><w part="F">TRA</w> PLAUDUNT PRATA MUGIUNT CUM <supplied reason="lost">IN <w part="I">IL</w></supplied>
+      <lb xml:id="fol_14r.15" n="15"/><w part="F">LIS</w> HOMINES PLAUDUNT IN HIS BOB<supplied reason="lost">ES <w part="I">MU</w></supplied>
+      <lb xml:id="fol_14r.16" n="16"/><w part="F"><choice><sic>GIUNT</sic><corr>GIANT</corr></choice></w> SED ETIAM ILLO QUO SIGNIFICAT<supplied reason="lost">UR</supplied>
+      <lb xml:id="fol_14r.17" n="17"/>PER EFFICIENTEM ID QUOD EFFICITUR SICUT
+      <lb xml:id="fol_14r.18" n="18"/>LA<add place="above">E</add>TA EPISTULA DICITUR SIGNIFICANS <choice><abbr>EORU &#772;</abbr><expan>EORU<ex>M</ex></expan></choice>
+      <lb xml:id="fol_14r.19" n="19"/>LAETITIAM QUOS LEGENTES EFFICIT LAETOS
+      <lb xml:id="fol_14r.20" n="20"/>CONUENIENTISSIME <choice><abbr>ITAQ&#183;</abbr><expan>ITAQ<ex>UE</ex></expan></choice> CUM <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> <w part="I">REQUIE</w>
+      <lb xml:id="fol_14r.21" n="21"/><w part="F">UISSE</w> PROPHETICA NARRAT AUC<add place="above">TO</add>RITAS <w part="I">SIG</w>
+      <lb xml:id="fol_14r.22" n="22"/><w part="F">NIFICATUR</w> REQUIES EORUM QUI IN ILLO
+      <lb xml:id="fol_14r.23" n="23"/>REQUIESCUNT ET QUOS FACIT IPSE <w part="I">REQUIES</w>
+      <lb xml:id="fol_14r.24" n="24"/><w part="F">CERE</w> HOC ETIAM <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice> <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> LOQUITUR
+      <lb xml:id="fol_14r.25" n="25"/>ET PROPTER QUOS UTIQUE CONSCRIPTA EST
+      <lb xml:id="fol_14r.26" n="26"/>PROMITTENTE PROPHETIA QUOD ETIAM
+      <lb xml:id="fol_14r.27" n="27"/>IPSI POST BONAM OPERAM QUAE IN EIS ET
+      <lb xml:id="fol_14r.28" n="28"/>PER EOS OPERATUR <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> SI AD ILLUM PRIUS
+      <lb xml:id="fol_14r.29" n="29"/>IN ISTA UITA PER FIDEM QUODAM MODO
+      <lb xml:id="fol_14r.30" n="30"/>ACCESSERIT IN ILLO HABEBUNT REQUIEM
+     </ab> 
+    </div>
+    <div type="apparatus">
+     <listApp>
+      <app corresp="#fol_14r.3"><rdg wit="CSEL40">SED REQUIES</rdg></app>
+      <app corresp="#fol_14r.7"><rdg wit="CSEL40">EOS</rdg></app>
+      <app corresp="#fol_14r.15"><rdg wit="CSEL40">BOUES</rdg></app>
+      <app corresp="#fol_14r.17"><note>UT ligature is found at the end of the word SICUT</note></app>
+      <app corresp="#fol_14r.27"><rdg wit="CSEL40">BONA OPERA</rdg></app>
+      <app corresp="#fol_14r.30"><rdg wit="CSEL40">ACCESSERINT</rdg></app>
+     </listApp>
+    </div>  
+   </div>
    
    
      
