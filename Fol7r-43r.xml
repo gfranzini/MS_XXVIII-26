@@ -196,55 +196,40 @@
    
    
    <div n="fol_9r" type="edition">
-    <div type="textpart">
+   
     <ab>
      <lb xml:id="fol_9r.1" n="1"/><w part="F">TRIS</w> QUONIAM NOSTRO TESTIMONIO <w part="I">SCI</w>  
      <lb xml:id="fol_9r.2" n="2"/><w part="F">RE</w> NON POSSUMUS DE HIS ALIOS TESTES
-     <lb xml:id="fol_9r.3" n="3"/>REQUIRIMUS EISQUE CREDIMUS <choice><abbr>QUORU &#772;</abbr><expan>QUORU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_9r.3" n="3"/>REQUIRIMUS EISQUE CREDIMUS <choice><abbr>QUORU &#772;</abbr><expan>QUORU<ex>M</ex></expan></choice> <app><rdg wit="#CSEL40">A QUORUM</rdg></app>
      <lb xml:id="fol_9r.4" n="4"/><choice><abbr>SENSIB&#183;</abbr><expan>SENSIB<ex>US</ex></expan></choice> REMOTA ESSE UEL FUISSE NON <w part="I">CRE</w>
      <lb xml:id="fol_9r.5" n="5"/><w part="F">DIMUS</w> SICUT ERGO DE <choice><abbr>UISIBILIB&#183;</abbr><expan>UISIBILIB<ex>US</ex></expan></choice> QUAE
      <lb xml:id="fol_9r.6" n="6"/>NON UIDIMUS EIS CREDIMUS QUI <w part="I">UIDE</w>
-     <lb xml:id="fol_9r.7" n="7"/><w part="F">RUNT</w> ATQUE ITA DE CETERIS QUAE AD SUUM 
+     <lb xml:id="fol_9r.7" n="7"/><w part="F">RUNT</w> ATQUE <app><rdg wit="#CSEL40">ADQUE</rdg></app> ITA DE CETERIS QUAE AD SUUM 
      <lb xml:id="fol_9r.8" n="8"/><choice><abbr>QUEMQ&#183;</abbr><expan>QUEMQ<ex>UE</ex></expan></choice> SE<add place="above">NS</add>UM ORPORIS PERTINENT &#183; ITA
      <lb xml:id="fol_9r.9" n="9"/>DE HIS QUAE ANIMO AC MENTE <w part="I">SENTIUN</w>
-     <lb xml:id="fol_9r.10" n="10"/><w part="F">TUR</w> QUA ET IPSE RECTISSIME DICITUR <w part="I"><choice><abbr>SE &#772;</abbr><expan>SE<ex>N</ex></expan></choice></w>
+     <lb xml:id="fol_9r.10" n="10"/><w part="F">TUR</w> QUA <app><rdg wit="#CSEL40">QUIA</rdg></app> ET IPSE RECTISSIME DICITUR <w part="I"><choice><abbr>SE &#772;</abbr><expan>SE<ex>N</ex></expan></choice></w>
      <lb xml:id="fol_9r.11" n="11"/><w part="F">SUS</w> UNDE ET SENTENTIA UOCABULUM <w part="I">ACCE</w>
      <lb xml:id="fol_9r.12" n="12"/><w part="F">PIT</w> HOC EST DE <choice><abbr>INUISIBILIB&#183;</abbr><expan>INUISIBILIB<ex>US</ex></expan></choice> QUAE A NOSTRO
      <lb xml:id="fol_9r.13" n="13"/>SENSU INTERIORE REMOTA SUNT HIS NOS
      <lb xml:id="fol_9r.14" n="14"/>OPORTET CREDERE QUI HAEC IN ILLO <w part="I">CORPO</w>
-     
-     <note type="subtype" place="chapter">IIII</note><lb xml:id="fol_9r.15" n="15"/><w part="F">REO</w> LUMINE DISPOSITA DIDICERUNT UEL  <lb xml:id="fol_9r.16" n="16"/>MANENTIA CONTUENTUR; UISIBILIUM  <note type="scholion">R&#772;</note> <!-- expansion?-->
+     <note type="subtype" place="chapter">IIII</note> 
+     <lb xml:id="fol_9r.15" n="15"/><w part="F">REO</w> <app><rdg wit="#CSEL40">INCORPOREO</rdg></app> LUMINE DISPOSITA DIDICERUNT UEL  
+     <lb xml:id="fol_9r.16" n="16"/><app><rdg><note>Chapter 4, annotated in line 15, starts with UISIBILIUM</note></rdg></app> MANENTIA CONTUENTUR; UISIBILIUM  <note type="scholion">R&#772;</note> <!-- expansion?-->
      <lb xml:id="fol_9r.17" n="17"/>OMNIUM MAXIMUS MUNDUS EST
      <lb xml:id="fol_9r.18" n="18"/>INUISIBILIUM OMNIUM MAXIMUS <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST
      <lb xml:id="fol_9r.19" n="19"/>SED MUNDUM ESSE CONSPICIMUS <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> ESSE
      <lb xml:id="fol_9r.20" n="20"/>CREDIMUS; QUOD AUTEM <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> FECERIT <w part="I"><choice><abbr>MU &#772;</abbr><expan>MU<ex>N</ex></expan></choice></w>
      <lb xml:id="fol_9r.21" n="21"/><w part="F">DUM</w> NULLI <choice><sic>TOTIUS</sic><corr>TUTIUS</corr></choice> CREDIMUS QUAM IPSI <add><choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice></add>
-     <lb xml:id="fol_9r.22" n="22"/>UBI EUM AUDIUIMUS NUSQUAM INTER<add place="right">IM</add>
-     <lb xml:id="fol_9r.23" n="23"/>NOS MELIUS QUAM IN SCRIBTURIS <choice><abbr>S&#772;C&#772;I&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>IS</expan></choice>
+     <lb xml:id="fol_9r.22" n="22"/>UBI EUM AUDIUIMUS NUSQUAM INTER<add place="right">IM</add> <app><rdg><note>The macron over the <hi rend="italic">M</hi> of <hi rend="italic">INTERIM</hi> is a mistake</note></rdg></app>
+     <lb xml:id="fol_9r.23" n="23"/>NOS MELIUS QUAM IN SCRIBTURIS <app><rdg wit="#CSEL40">SCRIPTURIS</rdg></app> <choice><abbr>S&#772;C&#772;I&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>IS</expan></choice>
      <lb xml:id="fol_9r.24" n="24"/>UBI DIXIT PROPHETA EIUS IN PRINCIPIO FECIT
      <lb xml:id="fol_9r.25" n="25"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CAELUM ET TERRAM; NUMQUIDNAM
      <lb xml:id="fol_9r.26" n="26"/>IBI FUIT ISTE PROPHETA QUANDO FECIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>
      <lb xml:id="fol_9r.27" n="27"/>CAELUM ET TERRAM NON SED IBI FUIT <w part="I">SA</w> <note type="scholion">R&#772; quod sapient<supplied reason="lost">ia</supplied> <!-- quod abbreviation--> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> erant...</note> <!-- illegible scholion -->
      <lb xml:id="fol_9r.28" n="28"/><w part="F">PIENTIA</w> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> PER QUAM FACTA SUNT OMNIA
-     <lb xml:id="fol_9r.29" n="29"/>QUAE IN ANIMAS <choice><abbr>S&#772;C&#772;A&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>AS</expan></choice> ETIAM SE TRANSFERT
+     <lb xml:id="fol_9r.29" n="29"/>QUAE IN ANIMAS <choice><abbr>S&#772;C&#772;A&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>AS</expan></choice> ETIAM SE TRANSFERT <app><rdg wit="#CSEL40">TRANSFERENS</rdg></app>
      <lb xml:id="fol_9r.30" n="30"/>AMICOS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> ET PROPHETAS CONSTITUIT <choice><abbr>EISQ&#183;</abbr><expan>EISQ<ex>UE</ex></expan></choice>
     </ab>
-   </div> 
-    
-   <div type="apparatus">
-    <head>Apparatus</head> 
-    <listApp>
-     <app corresp="#fol_9r.3"><rdg wit="#CSEL40">A QUORUM</rdg></app>
-     <app corresp="#fol_9r.7"><rdg wit="#CSEL40">ADQUE</rdg></app>
-     <app corresp="#fol_9r.10"><rdg wit="#CSEL40">QUIA</rdg></app>
-     <app corresp="#fol_9r.14"><rdg wit="#CSEL40">INCORPOREO</rdg></app>
-     <app corresp="#fol_9r.16"><rdg><note>Chapter 4, annotated in line 15, starts with UISIBILIUM</note></rdg></app>
-     <app corresp="#fol_9r.22"><rdg><note>The macron over the <hi rend="italic">M</hi> of <hi rend="itallic">INTERIM</hi> is a mistake</note></rdg></app>
-     <app corresp="#fol_9r.23"><rdg wit="#CSEL40">SCRIPTURIS</rdg></app>
-     <app corresp="#fol_9r.29"><rdg wit="#CSEL40">TRANSFERENS</rdg></app>
-     <app></app>
-    </listApp>
-   </div>
    </div>
     
    
