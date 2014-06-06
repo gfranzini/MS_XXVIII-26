@@ -272,12 +272,11 @@
    
    
    <div n="fol_10r" type="edition">
-   <div type="textpart">
     <ab>
      <lb xml:id="fol_10r.1" n="1"/>A FORTUITA TEMERITATE DEFENDERE NE  
      <lb xml:id="fol_10r.2" n="2"/>SUBITO ILLI UENISSE CREDATUR IN <choice><abbr>MENTE&#772;</abbr><expan>MENTE<ex>M</ex></expan></choice>
      <lb xml:id="fol_10r.3" n="3"/>QUOD NUMQUAM <choice><sic>INTE</sic><corr>ANTE</corr></choice> UENISSE<add place="above">T</add> FACERE <w part="I">MU&#772;</w>
-     <lb xml:id="fol_10r.4" n="4"/><w part="F">DUM</w> ET ACCIDISSE ILLI UOLUNTATEM <choice><abbr>NOUA&#772;</abbr><expan>NOUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_10r.4" n="4"/><w part="F">DUM</w> ET ACCIDISSE ILLI UOLUNTATEM <choice><abbr>NOUA&#772;</abbr><expan>NOUA<ex>M</ex></expan></choice> <app><rdg wit="#CSEL40">NOUAM UOLUNTATEM</rdg></app>
      <lb xml:id="fol_10r.5" n="5"/>CUM IN <add place="above">N</add>ULLO SIT OMNINO MUTABILIS
      <lb xml:id="fol_10r.6" n="6"/>SED NON UIDEO QUO MODO EIS POSSIT IN <w part="I">CETE</w>
      <lb xml:id="fol_10r.7" n="7"/><w part="F">RIS</w> <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> RATIO ISTA SUBSISTERE <choice><abbr>MAXIMEQ&#183;</abbr><expan>MAXIMEQ<ex>UE</ex></expan></choice> IN
@@ -300,28 +299,18 @@
      <lb xml:id="fol_10r.24" n="24"/><w part="F">DINE</w> ALTERNASSE ANIMAE MISERIAM <w part="I">PU</w>
      <lb xml:id="fol_10r.25" n="25"/><w part="F">TANT</w> SED NUNC IAM DE CETERO CUM FUERIT
      <lb xml:id="fol_10r.26" n="26"/>LIBERATA AD MISERIAM NON ESSE <choice><abbr>REDITURA&#772;</abbr><expan>REDITURA<ex>M</ex></expan></choice>
-     <lb xml:id="fol_10r.27" n="27"/>NIHILHOMINUS CONUINCUNTUR <w part="I">NUM</w>
-     <lb xml:id="fol_10r.28" n="28"/><w part="F">QUAM</w> EAM FUISSE UERAE BEATAM SED <w part="I">DE</w>
+     <lb xml:id="fol_10r.27" n="27"/>NIHILHOMINUS <app><rdg wit="#CSEL40">NIHILO MINUS</rdg></app> CONUINCUNTUR <w part="I">NUM</w>
+     <lb xml:id="fol_10r.28" n="28"/><w part="F">QUAM</w> EAM FUISSE UERAE  <app><rdg wit="#CSEL40">UERE</rdg></app> BEATAM SED <w part="I">DE</w>
      <lb xml:id="fol_10r.29" n="29"/><w part="F">INCEPS</w> ESSE INCIPERE NOUA QUADAM NEC
      <lb xml:id="fol_10r.30" n="30"/>FALLACI BEATITUDINE AC PER HOC <w part="F"><choice><abbr>FATEBU&#772;</abbr><expan>FATEBU<ex>N</ex></expan></choice></w>
     </ab>
    </div>
-    <div type="apparatus">
-    <head>Apparatus</head> 
-     <listApp>
-      <app corresp="fol_10r.4"><rdg wit="#CSEL40">NOUAM UOLUNTATEM</rdg></app>
-      <app corresp="fol_10r.27"><rdg wit="#CSEL40">NIHILO MINUS</rdg></app>
-      <app corresp="fol_10r.28"><rdg wit="#CSEL40">UERE</rdg></app>
-     </listApp>
-    </div>
-   </div>
    
   
    <div n="fol_10v" type="edition">
-   <div type="textpart">
     <ab>
      <lb xml:id="fol_10v.1" n="1"/><w part="F">TUR</w> ACCIDERE ILLI ALIQUID NOUI ET HOC  
-     <lb xml:id="fol_10v.2" n="2"/>MAGNUM <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> PRAECLARUM QUOD <w part="I"><choice><abbr>NU&#772;</abbr><expan>NU<ex>M</ex></expan></choice></w>
+     <lb xml:id="fol_10v.2" n="2"/>MAGNUM <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> PRAECLARUM QUOD <w part="I"><choice><abbr>NU&#772;</abbr><expan>NU<ex>M</ex></expan></choice></w>
      <lb xml:id="fol_10v.3" n="3"/><w part="F">QUAM</w> RETRO PER AETERNITATEM ACCIDISSET
      <lb xml:id="fol_10v.4" n="4"/>CUIUS NOUITATIS CAUSAM SI <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> NEGABUNT
      <lb xml:id="fol_10v.5" n="5"/>IN AETERNO HABUISSE CONSILIO <choice><sic>SI MALUM</sic><corr>SIMUL EUM</corr></choice>
@@ -339,29 +328,18 @@
      <lb xml:id="fol_10v.17" n="17"/><w part="F">IAS</w> SI AB EIS FUERIT LIBERATA NUMQUAM
      <lb xml:id="fol_10v.18" n="18"/>MISERAM POSTEA FUTUR<supplied reason="lost">AM</supplied>
      <lb xml:id="fol_10v.19" n="19"/><supplied reason="lost">NON UTIQUE DUBITABUNT HOC FIERI</supplied> MANENTE <w part="I">INCOMMU</w>
-     <lb xml:id="fol_10v.20" n="20"/><w part="F">TABILITATE</w> CONSILII <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>; SIC ERGO CREDANT
+     <lb xml:id="fol_10v.20" n="20"/><w part="F">TABILITATE</w> CONSILII <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>; SIC ERGO CREDANT <app><note>NT ligature is found at the end of the word CREDANT</note></app>
      <lb xml:id="fol_10v.21" n="21"/>ET MUNDUM EX TEMPORE FIERI POTUISSE
-     <lb xml:id="fol_10v.22" n="22"/>NEC TAMEN IDEO <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> IN EO FACIENDUM <w part="I">AE</w>
+     <lb xml:id="fol_10v.22" n="22"/>NEC TAMEN IDEO <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> IN EO FACIENDUM <app><rdg wit="#CSEL40">FACIENDO</rdg></app> <w part="I">AE</w>
      <lb xml:id="fol_10v.23" n="23"/><w part="F">TERNUM</w> CONSILIUM <choice><abbr>UOLUNTATEMQ&#183;</abbr><expan>UOLUNTATEMQ<ex>UE</ex></expan></choice> <w part="I">MU</w>
      <note type="margin" subtype="chapter">V</note> <lb xml:id="fol_10v.24" n="24"/><w part="F">TASSE</w>; DEINDE UIDENDUM EST ISTI QUI <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
      <lb xml:id="fol_10v.25" n="25"/>CONDITOREM MUNDI <add place="above">ESSE</add> CONSENTIUNT ET <w part="I">TA</w>
      <lb xml:id="fol_10v.26" n="26"/><w part="F">MEN</w> QUAERUNT DE MUNDI TEMPORE QUID
-     <lb xml:id="fol_10v.27" n="27"/><choice><sic>RESPONDET UNUS</sic><corr>RESPONDEAMUS</corr></choice> QUID IPSI <del rend="expunctuated">RE</del> <w part="I">RESPON</w>
+     <lb xml:id="fol_10v.27" n="27"/><choice><sic>RESPONDET UNUS</sic><corr>RESPONDEAMUS</corr></choice> QUID IPSI <del rend="expunctuated">RE</del> <app><note>Top expunction as opposed to the more common bottom expunction</note></app> <w part="I">RESPON</w>
      <lb xml:id="fol_10v.28" n="28"/><w part="F">DEANT</w> DE MUNDI LOCO ITA ENIM <w part="I">QUAE</w>
      <lb xml:id="fol_10v.29" n="29"/><w part="F">RITUR</w> QUUR POTIUS TUNC ET NON ANTEA <w part="I">FAC</w> 
-     <lb xml:id="fol_10v.30" n="30"/><w part="F">TUS</w> SIT QUEMAMMODUM QUAERI POTEST
+     <lb xml:id="fol_10v.30" n="30"/><w part="F">TUS</w> SIT QUEMAMMODUM <app><rdg wit="#CSEL40">QUEM AD MODUM</rdg></app> QUAERI POTEST
     </ab>
-   </div>
-    <div type="apparatus">
-    <head>Apparatus</head> 
-     <listApp>
-      <app corresp="fol_10v.2"><rdg wit="#CSEL40">ADQUE</rdg></app>
-      <app corresp="fol_10v.20"><note>NT ligature is found at the end of the word CREDANT</note></app>
-      <app corresp="fol_10v.22"><rdg wit="#CSEL40">FACIENDO</rdg></app>
-      <app corresp="fol_10v.27"><note>Top expunction as opposed to the more common bottom expunction</note></app>
-      <app corresp="fol_10v.30"><rdg wit="#CSEL40">QUEM AD MODUM</rdg></app>
-     </listApp>
-    </div>
    </div>
    
    
@@ -398,9 +376,6 @@
      <lb xml:id="fol_11r.29" n="29"/>UERUM TAMEN RELIQUIS <w part="I">PROPINQUIO</w>
      <lb xml:id="fol_11r.30" n="30"/><w part="F">RES</w> SUNT UERITATI AN FORTE <choice><abbr>SUBSTANTIA &#772;</abbr><expan>SUBSTANTIA<ex>M</ex></expan></choice>
     </ab>
-   
-        
-     
    </div>
   
    
