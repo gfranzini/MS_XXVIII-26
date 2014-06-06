@@ -366,7 +366,6 @@
    
    
    <div n="fol_11r" type="edition">
-   <div type="textpart">
     <ab>
      <lb xml:id="fol_11r.1" n="1"/>QUUR HIC POTIUS UBI EST ET NON ALIBI  
      <lb xml:id="fol_11r.2" n="2"/>NAM SI INFINITA SPATIA TEMPORIS ANTE <w part="I"><choice><abbr>MU&#772;</abbr><expan>MU<ex>N</ex></expan></choice></w>
@@ -379,7 +378,7 @@
      <lb xml:id="fol_11r.9" n="9"/><w part="F">LES</w> MUNDOS CUM EPICURO SOMNIARE <w part="I">CO</w>
      <lb xml:id="fol_11r.10" n="10"/><w part="F">GANTUR</w>; EA TANTUM DIFFERENTIA QU<add>OD</add>
      <lb xml:id="fol_11r.11" n="11"/>EOS ILLE FORTUITIS <choice><abbr>MOTIB&#183;</abbr><expan>MOTIB<ex>US</ex></expan></choice> <choice><sic>AT<add>H</add>OMORUM</sic><corr>ATOMORUM</corr></choice>
-     <lb xml:id="fol_11r.12" n="12"/><supplied reason="lost">GIGNI</supplied> ASSERIT ET RESOLUI ISTI AUTEM <w part="I">OPE</w>
+     <lb xml:id="fol_11r.12" n="12"/><supplied reason="lost">GIGNI</supplied> ASSERIT <app><rdg wit="#CSEL40">ADSERIT</rdg></app> ET RESOLUI ISTI AUTEM <w part="I">OPE</w>
      <lb xml:id="fol_11r.13" n="13"/><w part="F">RE</w> <supplied reason="lost"><choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice></supplied> FACTOS DICTURI SUNT SI EUM PER <w part="I">INTER</w>
      <lb xml:id="fol_11r.14" n="14"/><w part="F">MINABILEM</w> INMENSITATEM LOCORUM
      <lb xml:id="fol_11r.15" n="15"/>EXTRA MUNDUM <choice><abbr>CIRCUMQUAQ&#183;</abbr><expan>CIRCUMQUAQ<ex>UE</ex></expan></choice> PATENT<supplied reason="lost">IUM</supplied>
@@ -392,21 +391,16 @@
      <lb xml:id="fol_11r.22" n="22"/>NIMIS INDIGNUM EST AD ISTAM <w part="I">DISPUTA</w>
      <lb xml:id="fol_11r.23" n="23"/><w part="F">TIONEM</w> RELIGIONIS AMMITTERE <w part="I">MAXI</w>
      <lb xml:id="fol_11r.24" n="24"/><w part="F">ME</w> QUOD APUD EOS QUI MULTIS DES <w part="I">SACRO</w>
-     <lb xml:id="fol_11r.25" n="25"/><w part="F">RUM</w> OBSEQUIUM DEFERENDUM PUTANT
+     <lb xml:id="fol_11r.25" n="25"/><w part="F">RUM</w> OBSEQUIUM DEFERENDUM PUTANT <app><note>NT ligature is found at the end of the word PUTANT</note></app>
      <lb xml:id="fol_11r.26" n="26"/>ISTI PHILOSOPHOS CETEROS <choice><sic>NOBITATE</sic><corr>NOUITATE</corr></choice> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice>
      <lb xml:id="fol_11r.27" n="27"/>AUCTORITATE UICERUNT NON OB ALIUD
      <lb xml:id="fol_11r.28" n="28"/>NISI QUIA LONGO QUIDEM INTERUALLO
      <lb xml:id="fol_11r.29" n="29"/>UERUM TAMEN RELIQUIS <w part="I">PROPINQUIO</w>
      <lb xml:id="fol_11r.30" n="30"/><w part="F">RES</w> SUNT UERITATI AN FORTE <choice><abbr>SUBSTANTIA &#772;</abbr><expan>SUBSTANTIA<ex>M</ex></expan></choice>
     </ab>
-   </div>
-   <div type="apparatus">
-   <head>Apparatus</head> 
-    <listApp>
-     <app corresp="#fol_11r.12"><rdg wit="#CSEL40">ADSERIT</rdg></app>
-     <app corresp="#fol_11r.25"><note>NT ligature is found at the end of the word PUTANT</note></app>
-    </listApp>
-   </div>
+   
+        
+     
    </div>
   
    
