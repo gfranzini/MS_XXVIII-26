@@ -751,6 +751,42 @@
      <lb xml:id="fol_16v.30" n="30"/><w part="F">CIMUS</w> <supplied reason="lost">ET</supplied> <choice><abbr>UTRUMQ&#183;</abbr><expan>UTRUMQ<ex>UE</ex></expan></choice> HOC CUM <choice><abbr>S&#772;P&#772;U&#772;</abbr><expan>SP<ex>IRIT</ex>U</expan></choice> SUO UNUS <app><note>US ligature is found at the end of the word UNUS</note></app>
     </ab> 
    </div>
+   
+   
+   <div n="fol_17r" type="edition">
+    <ab>
+     <lb xml:id="fol_17r.1" n="1"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; EST QUI <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> &#183; PATRIS ET <sic>FILI</sic> <app><rdg wit="#CSEL40">FILII</rdg></app> <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> &#183; <w part="I">PRO</w>
+     <lb xml:id="fol_17r.2" n="2"/><w part="F">PRIA</w> QUADAM NOTIONE HUIUS NOMINIS
+     <lb xml:id="fol_17r.3" n="3"/>IN SACRIS LITTERIS NUNCUPATUR ALIUS EST
+     <lb xml:id="fol_17r.4" n="4"/>AUTEM QUAM PATER ET FILIUS QUIA NEC <w part="I">PA</w>
+     <lb xml:id="fol_17r.5" n="5"/><w part="F">TER</w> EST NEC FILIUS SED ALIUS DIXI NON <note type="scholion">alius <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> aliud</note>
+     <lb xml:id="fol_17r.6" n="6"/>ALIUD QUIA ET HOC PARITER SIMPLEX <w part="I">PARI</w>
+     <lb xml:id="fol_17r.7" n="7"/><w part="F">TERQUE</w> INCOMMUTABILE BONUM EST
+     <lb xml:id="fol_17r.8" n="8"/>ET COETERNUM <app><rdg wit="#CSEL40">COATERNUM</rdg></app> ET HAEC TRINITAS UNUS <app><note>US ligature is found at the end of the word UNUS</note></app>
+     <lb xml:id="fol_17r.9" n="9"/>EST <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; NEC IDEO NON SIMPLEX QUIA <w part="I">TRI</w>
+     <lb xml:id="fol_17r.10" n="10"/><w part="F">NITAS</w> NEQUE ENIM PROPTER HOC <w part="I">NA</w>
+     <lb xml:id="fol_17r.11" n="11"/><w part="F">TURAM</w> ISTAM BONI SIMPLICEM DICIMUS <app><note>US ligature is found at the end of the word DICIMUS</note></app>
+     <lb xml:id="fol_17r.12" n="12"/>QUIA PATER IN EA SOLUS <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> <note type="scholion">AUT SOLUS FILIUS AUT SOLUS</note> <app><rdg wit="#CSEL40">EA SOLUS AUT SOLUS FILIUS AUT SOLUS SPIRITUS SANCTUS</rdg></app> AUT UERO
+     <lb xml:id="fol_17r.13" n="13"/>SOLA EST ISTA NOMINIS TRINITAS SINE
+     <lb xml:id="fol_17r.14" n="14"/>SUBSISTENTIA PERSONARUM SICUT <w part="I">SA</w>
+     <lb xml:id="fol_17r.15" n="15"/><w part="F">BELLIANI</w> HERETICI <app><rdg wit="#CSEL40">HAERETICI</rdg></app> PUTAUERUNT SED IDEO
+     <lb xml:id="fol_17r.16" n="16"/>SIMPLEX DICITUR QUONIAM QUOD HABET
+     <lb xml:id="fol_17r.17" n="17"/>HOC <add place="above">EST</add> EXCEPTO QUOD RELATIUE QUAEQUE <w part="I">PER</w>
+     <lb xml:id="fol_17r.18" n="18"/><w part="F">SONA</w> AD ALTERAM DICITUR NAM UTIQUE 
+     <lb xml:id="fol_17r.19" n="19"/>PATER HABET FILIUM NEC TAMEN IPSE EST
+     <lb xml:id="fol_17r.20" n="20"/>FILIUS <app><rdg wit="CSEL40">Additional text: ET FILIUS HABET PATREM, NEC TAMEN IPSE EST PATER</rdg></app> IN QUO ERGO AD SEMET IPSUM <w part="I">DICI</w>
+     <lb xml:id="fol_17r.21" n="21"/><w part="F">TUR</w> NON AD ALTERUM HOC EST QUOD HABET 
+     <lb xml:id="fol_17r.22" n="22"/>SICUT AD SE IPSUM DICITUR UIUUS <w part="I">HABE<add>N</add>&#772;</w>
+     <lb xml:id="fol_17r.23" n="23"/><w part="F">DO</w> UTIQUE UITAM ET EADEM UITA IPSE EST
+     <lb xml:id="fol_17r.24" n="24"/>PROPTER HOC ITAQUE <app><rdg wit="#CSEL40">UTIQUE</rdg></app> NATURA DICITUR <choice><abbr><w part="I">SI &#772;</w>
+     <lb xml:id="fol_17r.25" n="25"/><w part="F">PLEX</w></abbr><expan>SI<ex>M</ex>PLEX</expan></choice> CUI NON SIT ALIQUID HABERE QUOD
+     <lb xml:id="fol_17r.26" n="26"/>UEL POSSIT AMITTERE UEL ALIUD SIT <w part="I">HA</w>
+     <lb xml:id="fol_17r.27" n="27"/><w part="F">BENS</w> ALIUD QUOD HABET SICUT UAS <w part="I">ALI</w>
+     <lb xml:id="fol_17r.28" n="28"/><w part="F">QUEM</w> LIQUOREM AUT CORPUS COLOREM
+     <lb xml:id="fol_17r.29" n="29"/>AUT AER LUCEM SIUE FERUOREM AUT <w part="I">ANI</w>
+     <lb xml:id="fol_17r.30" n="30"/><w part="F">MA</w> SAPIENTIAM NIHIL ENIM HORUM EST
+    </ab> 
+   </div>
      
       </body>
     </text>  
