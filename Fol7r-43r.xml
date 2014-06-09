@@ -715,6 +715,42 @@
      <lb xml:id="fol_16r.30" n="30"/>QUAE FECIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> ET SEPTIMAM <app><rdg wit="#CSEL40">SEPTENARIAM</rdg></app> QUIETIS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>
     </ab> 
    </div>
+   
+   
+   <div n="fol_16v" type="edition">
+    <ab>
+     <lb xml:id="fol_16v.1" n="1"/>CUM ENIM DIXIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> FIAT <supplied reason="lost">LUX ET</supplied> FACTA EST
+     <lb xml:id="fol_16v.2" n="2"/>LUX SI RECTE IN HAC LUCE CREATIO <w part="I">INTELLEGI</w>
+     <lb xml:id="fol_16v.3" n="3"/><note type="scholion">R&#772; creat...<!--illegible--></note><w part="F">TUR</w> ANGELORUM PROFECTO FACTI SUNT
+     <lb xml:id="fol_16v.4" n="4"/>PARTICIPES LUCIS AETERNAE QUOD EST IPSA
+     <lb xml:id="fol_16v.5" n="5"/>INCOMMUTABILIS SAPIENTIA <choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> PER <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_16v.6" n="6"/>FACTA SUNT OMNIA QUEM DICIMUS <w part="I">UNIGE</w>
+     <lb xml:id="fol_16v.7" n="7"/><w part="F">NITUM</w> DEI FILIUM UT EA LUCE <w part="I">INLUMINA</w>
+     <lb xml:id="fol_16v.8" n="8"/><w part="F">TI</w> Q<supplied reason="lost">UA C</supplied>REATI FIERENT LUX ET UOCARENTUR
+     <lb xml:id="fol_16v.9" n="9"/>DIES <choice><sic><supplied reason="lost">PARTI</supplied>CIPATIONIS</sic><corr>PARTICIPATIONE</corr></choice> INCOMMUTABILIS
+     <lb xml:id="fol_16v.10" n="10"/><supplied reason="lost">LUCIS ET DIEI</supplied> QUOD EST UERBUM <supplied reason="lost">DEI</supplied>
+     <lb xml:id="fol_16v.11" n="11"/><supplied reason="lost">PER QUOD ET</supplied> IPSI ET OMNIA FACTA SUNT <choice><abbr>LUME &#772;</abbr><expan>LUME<ex>N</ex></expan></choice>
+     <lb xml:id="fol_16v.12" n="12"/>QUIPPE UERUM QUOD INLUMINAT <choice><abbr>OMNE &#772;</abbr><expan>OMNE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_16v.13" n="13"/>HOMINEM UENIENTEM IN HUNC <choice><abbr>MUNDU &#772;</abbr><expan>MUNDU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_16v.14" n="14"/>HOC INLUMINAT ET OMNEM ANGELUM <w part="I">MUN</w>
+     <lb xml:id="fol_16v.15" n="15"/><w part="F">DUM</w> UT SIT LUX NON IN SE IPSO SED IN <choice><abbr>DO&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> &#183; A QUO 
+     <lb xml:id="fol_16v.16" n="16"/>SI AUERTITUR ANGELUS FIT IMMUNDUS <app><rdg wit="#CSEL40">INMUNDUS</rdg></app> SICUT <app><note>UT ligature is found at the end of the word SICUT</note></app>
+     <lb xml:id="fol_16v.17" n="17"/>SUNT OMNES QUI UOCANTUR INMUNDI <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice>
+     <lb xml:id="fol_16v.18" n="18"/>NEC IAM LUX IN <choice><abbr>D&#772;N&#772;O&#772;</abbr><expan>D<ex>OMI</ex>NO</expan></choice> SED IN SE IPSI<supplied reason="lost">S TENEBRAE</supplied>
+     <lb xml:id="fol_16v.19" n="19"/><supplied reason="lost">PRIUATI</supplied> PARTICIPATIONE LUCJS AETERNAE:
+     <lb xml:id="fol_16v.20" n="20"/><note type="scholion">R&#772;</note> <supplied reason="lost">MALI ENIM</supplied> NULLA NATURA EST &#183; SED AMISSIO <w part="I">BO</w>
+     <lb xml:id="fol_16v.21" n="21"/><supplied reason="lost"><w part="F">NI</w> MALI</supplied> NOMEN ACCEPIT <note type="margin" subtype="chapter" n="10">X</note> EST <choice><abbr>ITAQ&#183;</abbr><expan>ITAQ<ex>UE</ex></expan></choice> BONUM 
+     <lb xml:id="fol_16v.22" n="22"/>SOLUM SIMPLEX ET OB HOC SOLUM <w part="I">INCOM</w>
+     <lb xml:id="fol_16v.23" n="23"/><w part="F">MUTABILE</w> QUOD EST <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; AB HOC SONO <w part="I">CREA</w>
+     <lb xml:id="fol_16v.24" n="24"/><w part="F">TA</w> SUNT OMNIA BONA SED NON SIMPLICIA
+     <lb xml:id="fol_16v.25" n="25"/>ET <add place="above">OB</add> HOC MUTABILIA CREATA SANE I<supplied reason="lost">NQUAM</supplied>
+     <lb xml:id="fol_16v.26" n="26"/>ID EST FACTA NON GENITA QUOD ENIM DE
+     <lb xml:id="fol_16v.27" n="27"/>SIMPLICI BONO GENJTUM EST PARITER <w part="I">SIM</w>
+     <lb xml:id="fol_16v.28" n="28"/><supplied reason="lost"><w part="F">PLEX</w></supplied> EST ET O&#558;B&#7682; <app><note>Dots mark characters to be deleted. Top expunction as opposed to the more common bottom expunction</note></app> HOC EST QUOD ILLUD DE QUO <w part="I">GE</w>
+     <lb xml:id="fol_16v.29" n="29"/><w part="F">NITUM</w> EST; QUAE DUO PATREM ET FILIUM <w part="I">DI</w>
+     <lb xml:id="fol_16v.30" n="30"/><w part="F">CIMUS</w> <supplied reason="lost">ET</supplied> <choice><abbr>UTRUMQ&#183;</abbr><expan>UTRUMQ<ex>UE</ex></expan></choice> HOC CUM <choice><abbr>S&#772;P&#772;U&#772;</abbr><expan>SP<ex>IRIT</ex>U</expan></choice> SUO UNUS <app><note>US ligature is found at the end of the word UNUS</note></app>
+    </ab> 
+   </div>
      
       </body>
     </text>  
