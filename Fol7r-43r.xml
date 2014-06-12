@@ -864,36 +864,36 @@
    
    <div n="fol_18v" type="edition">
     <ab>
-     <lb xml:id="fol_18v.1" n="1"/>
-     <lb xml:id="fol_18v.2" n="2"/> 
-     <lb xml:id="fol_18v.3" n="3"/>
-     <lb xml:id="fol_18v.4" n="4"/>
-     <lb xml:id="fol_18v.5" n="5"/>
-     <lb xml:id="fol_18v.6" n="6"/>
-     <lb xml:id="fol_18v.7" n="7"/>
-     <lb xml:id="fol_18v.8" n="8"/>
-     <lb xml:id="fol_18v.9" n="9"/>
-     <lb xml:id="fol_18v.10" n="10"/>
-     <lb xml:id="fol_18v.11" n="11"/>
-     <lb xml:id="fol_18v.12" n="12"/>
-     <lb xml:id="fol_18v.13" n="13"/>
-     <lb xml:id="fol_18v.14" n="14"/>
-     <lb xml:id="fol_18v.15" n="15"/>
-     <lb xml:id="fol_18v.16" n="16"/>
-     <lb xml:id="fol_18v.17" n="17"/>
-     <lb xml:id="fol_18v.18" n="18"/>
-     <lb xml:id="fol_18v.19" n="19"/>
-     <lb xml:id="fol_18v.20" n="20"/>
-     <lb xml:id="fol_18v.21" n="21"/>
-     <lb xml:id="fol_18v.22" n="22"/>
-     <lb xml:id="fol_18v.23" n="23"/>
-     <lb xml:id="fol_18v.24" n="24"/>
-     <lb xml:id="fol_18v.25" n="25"/>
-     <lb xml:id="fol_18v.26" n="26"/>
-     <lb xml:id="fol_18v.27" n="27"/>
-     <lb xml:id="fol_18v.28" n="28"/>
-     <lb xml:id="fol_18v.29" n="29"/>
-     <lb xml:id="fol_18v.30" n="30"/>
+     <lb xml:id="fol_18v.1" n="1"/>SUNT ALIUD QUAE DICUNTUR <choice><abbr>COLORU &#772;</abbr><expan>COLORU<ex>M</ex></expan></choice> <app><rdg wit="#CSEL40">LOCORUM</rdg></app>
+     <lb xml:id="fol_18v.2" n="2"/><choice><abbr>QUORUMQ&#183;</abbr><expan>QUORUMQ<ex>UE</ex></expan></choice> <app><rdg wit="#CEL40">QUORUMCUMQUE</rdg></app> CORPORALIUM TENEBRAE
+     <lb xml:id="fol_18v.3" n="3"/>QUAM AER CARENS LUCE ITA <w part="I">TENEBRES</w>
+     <lb xml:id="fol_18v.4" n="4"/><w part="F">CERE</w> ANIMAM SAPIENTIAE LUCE <choice><abbr><w part="I">PRIUA</w>
+     <lb xml:id="fol_18v.5" n="5"/><w part="F">TA &#772;</w></abbr><expan>PRIUATA<ex>M</ex></expan></choice> SECUNDUM HOC ERGO DICUNTUR
+     <lb xml:id="fol_18v.6" n="6"/>ILLA SIMPLICIA QUAE PRINCIPALITER <choice><abbr><w part="I">UE</w>
+     <lb xml:id="fol_18v.7" n="7"/><w part="F">REQ&#183;</w></abbr><expan>UEREQ<ex>UE</ex></expan></choice> DIUINA SUNT QUOD NON ALIUD <add place="above">EST</add> IN
+     <lb xml:id="fol_18v.8" n="8"/>EIS <del rend="strikethrough">EST</del> QUALITAS ALIUD SUBSTANTIA NEC
+     <lb xml:id="fol_18v.9" n="9"/>ALIORUM PARTICIPATIONE UEL DIUINA
+     <lb xml:id="fol_18v.10" n="10"/>UEL SAPIENTIA UEL BEATA SUNT <choice><abbr>CETERU &#772;</abbr><expan>CETERU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_18v.11" n="11"/>DICTUS EST IN SCRIBTURIS <app><rdg wit="#CSEL40">SCRIPTURIS</rdg></app> <choice><abbr>S&#772;C&#772;I&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>IS</expan></choice> <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> &#183; <w part="I">SAPIEN</w>
+     <lb xml:id="fol_18v.12" n="12"/><w part="F">TIAE</w> MULTIPLEX EO QUOD MULTA IN SESE
+     <lb xml:id="fol_18v.13" n="13"/>HABEAT SED QUAE HABET HOC <app><rdg wit="#CSEL40">HAEC</rdg></app> ET EST ET EA
+     <lb xml:id="fol_18v.14" n="14"/>OMNIA UNUS EST <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM MULTAE SED
+     <lb xml:id="fol_18v.15" n="15"/>UNA SAPIENTIA EST IN QUA SUNT <w part="I">INFINI</w> 
+     <lb xml:id="fol_18v.16" n="16"/><w part="F">TI</w> QUIDAM <choice><abbr>EIQ&#183;</abbr><expan>EIQ<ex>UE</ex></expan></choice> FINITI THENSAURI <choice><abbr>RERU &#772;</abbr><expan>RERU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_18v.17" n="17"/>INTELLEGIBILIUM IN <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> SUNT OMNES
+     <lb xml:id="fol_18v.18" n="18"/>INUISIBILES <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INCOMMUTABILES <w part="I">RA</w>
+     <lb xml:id="fol_18v.19" n="19"/><w part="F">TIONES</w> RERUM ETIAM UISIBILIUM ET
+     <lb xml:id="fol_18v.20" n="20"/>MUTABILIUM QUAE PER IPSAM FACTAE
+     <lb xml:id="fol_18v.21" n="21"/>SUNT QUONIAM <choice><abbr>DS&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; NON ALIQUID <w part="I">NES</w>
+     <lb xml:id="fol_18v.22" n="22"/><w part="F">CIENS</w> FECIT QUOD NEC DE QUOLIBET <w part="I">HO</w>
+     <lb xml:id="fol_18v.23" n="23"/><w part="F">MINE</w> ARTIFICE RECTE DICI POTEST
+     <lb xml:id="fol_18v.24" n="24"/>PORRO SI SCIENS FECIT OMNIA EA <choice><abbr>UTIQ&#183;</abbr><expan>UTIQ<ex>UE</ex></expan></choice> FECIT
+     <lb xml:id="fol_18v.25" n="25"/>QUAE NOUERAT EX QUO OCCURRIT ANIMO
+     <lb xml:id="fol_18v.26" n="26"/>QUIDDAM MIRUM SED TAMEN UERUM
+     <lb xml:id="fol_18v.27" n="27"/>QUOD ISTE MUNDUS NOBIS NOTUS ESSE
+     <lb xml:id="fol_18v.28" n="28"/>NON POSSET NISI ESSET DEO AUTEM NISI
+     <lb xml:id="fol_18v.29" n="29"/>NOTUS ESSET ESSE NON POSSET <note type="scholion" subtype="chapter" n="11">XI</note> QUAE <choice><abbr>CU &#772;</abbr><expan>CU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_18v.30" n="30"/>ITA SINT NULLO MODO QUIDEM <w part="I">SECUN</w>
     </ab> 
    </div>
      
