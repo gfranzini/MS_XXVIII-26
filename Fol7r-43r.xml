@@ -787,6 +787,42 @@
      <lb xml:id="fol_17r.30" n="30"/><w part="F">MA</w> SAPIENTIAM NIHIL ENIM HORUM EST
     </ab> 
    </div>
+   
+   
+   <div n="fol_17v" type="edition">
+    <ab>
+     <lb xml:id="fol_17v.1" n="1"/>ID QUOD HABET NAM NEQUE UAS <w part="I">LI</w>
+     <lb xml:id="fol_17v.2" n="2"/><w part="F">QUOR<del rend="strikethrough">IS</del></w> EST NEC CORPUS COLOR NEC AER
+     <lb xml:id="fol_17v.3" n="3"/>LUX SIUE FERUOR <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ANIMA <w part="I">SAPIEN</w>
+     <lb xml:id="fol_17v.4" n="4"/><w part="F">TIA</w> EST HINC EST QUOD ETJAM PRIUARI
+     <lb xml:id="fol_17v.5" n="5"/>POSSUNT <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> QUAS HABENT ET IN ALIOS
+     <lb xml:id="fol_17v.6" n="6"/>HABITUS UEL QUALITATES UERTI <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> <w part="I">MU</w>
+     <lb xml:id="fol_17v.7" n="7"/><w part="F">TARI</w> UT ET UAS EUACUETUR UMORE QUO
+     <lb xml:id="fol_17v.8" n="8"/>PLENUM EST ET CORPUS DECOLORETUR ET
+     <lb xml:id="fol_17v.9" n="9"/>AER TENEBRESCAT SIUE FRIGESCAT ET <w part="I">ANI</w>
+     <lb xml:id="fol_17v.10" n="10"/><w part="F">MA</w> DESJPIAT SED ETSI SIT CORPUS <w part="I">INCOR</w>
+     <lb xml:id="fol_17v.11" n="11"/><w part="F">RUPTIBILE</w> QUALE SANCTIS IN <w part="I">RESURREC</w>
+     <lb xml:id="fol_17v.12" n="12"/><w part="F">TIONE</w> PROMITTITUR HABET QUIDEM
+     <lb xml:id="fol_17v.13" n="13"/>IPSIUS INCORRUPTIONIS <choice><abbr>INAMISSIBILE &#772;</abbr><expan>INAMISSIBILE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_17v.14" n="14"/>QUALITATEM SED MANENTE SUBSTANTIA
+     <lb xml:id="fol_17v.15" n="15"/>CORPORALI NON HOC EST QUOD IPSA <w part="I">IN</w>
+     <lb xml:id="fol_17v.16" n="16"/><w part="F">CORRUPTIO</w> &#183; NAM ILLA ETIAM PER <w part="I">SIN</w> 
+     <lb xml:id="fol_17v.17" n="17"/><w part="F">GULAS</w> PARTES CORPORIS TOTA EST NEC <w part="I">ALI</w>
+     <lb xml:id="fol_17v.18" n="18"/><w part="F">BI</w> MAJOR ALIBI MINOR <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM ULLA
+     <lb xml:id="fol_17v.19" n="19"/>PARS EST INCORRUPTIOR QUAM ALTERA
+     <lb xml:id="fol_17v.20" n="20"/>CORPUS UERO IPSUM MAIUS EST IN TOTO
+     <lb xml:id="fol_17v.21" n="21"/>QUAM IN PARTE ET CUM ALIA <app><rdg wit="#CSEL40">ALIQUA</rdg></app> PARS EST IN
+     <lb xml:id="fol_17v.22" n="22"/>EO AMPLIOR ALIA MINOR NON EA QUAE <choice><abbr><w part="I">A &#772;</w>
+     <lb xml:id="fol_17v.23" n="23"/><w part="F">PLIOR</w></abbr><expan>A<ex>M</ex>PLIOR</expan></choice> EST INCORRUPTIOR QUAM QUAE <app><rdg wit="#CSEL40">QUAM EA QUAE</rdg></app>
+     <lb xml:id="fol_17v.24" n="24"/>MINOR ALIUD EST ITAQUE CORPUS
+     <lb xml:id="fol_17v.25" n="25"/>QUOD NON <choice><abbr>UBIQ&#183;</abbr><expan>UBIQ<ex>UE</ex></expan></choice> SUI TOTUM EST ALIA <w part="I">IN</w>
+     <lb xml:id="fol_17v.26" n="26"/><w part="F">CORRUPTIO</w> QUAE UBIQUE EIUS TOTA EST
+     <lb xml:id="fol_17v.27" n="27"/>QUIA OMNIS PARS INCORRUPTIBILIS <w part="I">COR</w>
+     <lb xml:id="fol_17v.28" n="28"/><w part="F">PORIS</w> ETIAM CETERIS INAEQUALIS <w part="I">AEQUA</w>
+     <lb xml:id="fol_17v.29" n="29"/><w part="F">LITER</w> INCORRUPTA EST <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM
+     <lb xml:id="fol_17v.30" n="30"/>UER<supplied reason="lost">BI GRATIA QUIA D</supplied>IGITUS MINOR EST
+    </ab> 
+   </div>
      
       </body>
     </text>  
