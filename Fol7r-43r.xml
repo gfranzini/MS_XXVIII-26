@@ -823,6 +823,78 @@
      <lb xml:id="fol_17v.30" n="30"/>UER<supplied reason="lost">BI GRATIA QUIA D</supplied>IGITUS MINOR EST
     </ab> 
    </div>
+   
+   
+   <div n="fol_18r" type="edition">
+    <ab>
+     <lb xml:id="fol_18r.1" n="1"/>QUAM TOTA MANUS IDEO <w part="I">INCORRUP</w>
+     <lb xml:id="fol_18r.2" n="2"/><w part="F">TIBILIOR</w> MANUS QUAM DIGITUS ITA
+     <lb xml:id="fol_18r.3" n="3"/>CUM SINT INAEQUALIS <app><rdg wit="#CSEL40">INAEQUALES</rdg></app> MANUS ET DIGITUS <app><note>US ligature is found at the end of the word DIGITUS</note></app>
+     <lb xml:id="fol_18r.4" n="4"/>INAEQUALIS <app><rdg wit="#CSEL40">AEQUALIS</rdg></app> EST TAMEN <w part="I">INCORRUPTIBI</w>
+     <lb xml:id="fol_18r.5" n="5"/><w part="F">LITAS</w> MANUS ET DIGITI AC PER HOC <choice><abbr><w part="I">QUA &#772;</w>
+     <lb xml:id="fol_18r.6" n="6"/><w part="F">UIS</w></abbr><expan>QUA<ex>M</ex>UIS</expan></choice> A CORPORE INCORRUPTIBILI <w part="I">INSEPA</w>
+     <lb xml:id="fol_18r.7" n="7"/><w part="F">RABILIS</w> INCORRUPTIBILITAS <del rend="strikethrough">E</del>S<add place="above">I</add>T<del rend="strikethrough">S</del> ALIUD
+     <lb xml:id="fol_18r.8" n="8"/>EST TAMEN SUBSTANTIA QUAM <app><rdg wit="#CSEL40">QUA</rdg></app> CORPUS
+     <lb xml:id="fol_18r.9" n="9"/>DICITUR ALIA <app><rdg wit="#CSEL40">ALIUD</rdg></app> QUALITAS EIUS QUA <w part="I">INCOR</w>
+     <lb xml:id="fol_18r.10" n="10"/><w part="F">RUPTIBILE</w> NUNCUPATUR ET IDEO <choice><abbr>ETIA &#772;</abbr><expan>ETIA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_18r.11" n="11"/>SIC NON HOC EST QUOD HABET ANIMA
+     <lb xml:id="fol_18r.12" n="12"/>QUOQUE JPSA ETIAMSI SEMPER SIT <w part="I">SAPI</w>
+     <lb xml:id="fol_18r.13" n="13"/><w part="F">ENS</w> SICUT ERIT CUM LIBERABITUR IN <w part="I">AE</w>
+     <lb xml:id="fol_18r.14" n="14"/><w part="F">TERNUM</w> PARTICIPATIONE TAMEN <choice><abbr><w part="I">INCO &#772;</w>
+     <lb xml:id="fol_18r.15" n="15"/><w part="F">MUTABILIS</w></abbr><expan>INCO<ex>M</ex>MUTABILIS</expan></choice> SAPIENTIAE SAPIENS ERIT QUAE
+     <lb xml:id="fol_18r.16" n="16"/>NON EST QUOD IPSA <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM SI AER 
+     <lb xml:id="fol_18r.17" n="17"/>INFUSA LUCE NUMQUAM DESERATUR
+     <lb xml:id="fol_18r.18" n="18"/>IDEO NON ALIUD EST IPSE ALIUD LUX QUA
+     <lb xml:id="fol_18r.19" n="19"/>INLUMINATUR <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> HOC ITA <choice><abbr>DIXERI &#772;</abbr><expan>DIXERI<ex>M</ex></expan></choice>
+     <lb xml:id="fol_18r.20" n="20"/>QUASI AER SIT ANIMA QUOD PUTAUERUNT <app><note>NT ligature is found at the end of the word PUTAUERUNT</note></app>
+     <lb xml:id="fol_18r.21" n="21"/>QUIDAM QUI NON POTUERUNT <w part="I">INCOR</w>
+     <lb xml:id="fol_18r.22" n="22"/><w part="F">POREAM</w> COGITARE NATURAM SED <w part="I">HA</w>
+     <lb xml:id="fol_18r.23" n="23"/><w part="F">BENT</w> HAEC AB ILLA <app><rdg wit="#CSEL40">AD ILLA</rdg></app> ETIAM IN MAGNA <w part="I">DIS</w>
+     <lb xml:id="fol_18r.24" n="24"/><w part="F">PARILITATE</w> <choice><sic>QUAMDAM</sic><corr>QUANDAM</corr></choice> <choice><abbr>SIMILITUDINE &#772;</abbr><expan>SIMILITUDINE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_18r.25" n="25"/>UT NON INCONUENIENTER DICATUR SIC
+     <lb xml:id="fol_18r.26" n="26"/>INLUMINARI ANIMAM <choice><abbr>INCORPOREA &#772;</abbr><expan>INCORPOREA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_18r.27" n="27"/>LUCEM INCORPOREAM <app><rdg wit="#CSEL40">LUCE INCORPOREA</rdg></app> SIMPLICIS <choice><abbr><w part="I">SAPIE &#772;</w>
+      <lb xml:id="fol_18r.28" n="28"/><w part="F">TIAE</w></abbr><expan>SAPIE<ex>N</ex>TIAE</expan></choice> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> SICUT INLUMINATUR AERIS <w part="I">COR</w>
+     <lb xml:id="fol_18r.29" n="29"/><w part="F">PUS</w> LUCE CORPOREA ET <supplied reason="lost">SICUT AER <w part="I">TENE</w></supplied>
+     <lb xml:id="fol_18r.30" n="30"/><w part="F">BRESCIT</w> ISTA LUCE DESER<supplied reason="lost">TUS NAM</supplied> NIHIL
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_18v" type="edition">
+    <ab>
+     <lb xml:id="fol_18v.1" n="1"/>
+     <lb xml:id="fol_18v.2" n="2"/> 
+     <lb xml:id="fol_18v.3" n="3"/>
+     <lb xml:id="fol_18v.4" n="4"/>
+     <lb xml:id="fol_18v.5" n="5"/>
+     <lb xml:id="fol_18v.6" n="6"/>
+     <lb xml:id="fol_18v.7" n="7"/>
+     <lb xml:id="fol_18v.8" n="8"/>
+     <lb xml:id="fol_18v.9" n="9"/>
+     <lb xml:id="fol_18v.10" n="10"/>
+     <lb xml:id="fol_18v.11" n="11"/>
+     <lb xml:id="fol_18v.12" n="12"/>
+     <lb xml:id="fol_18v.13" n="13"/>
+     <lb xml:id="fol_18v.14" n="14"/>
+     <lb xml:id="fol_18v.15" n="15"/>
+     <lb xml:id="fol_18v.16" n="16"/>
+     <lb xml:id="fol_18v.17" n="17"/>
+     <lb xml:id="fol_18v.18" n="18"/>
+     <lb xml:id="fol_18v.19" n="19"/>
+     <lb xml:id="fol_18v.20" n="20"/>
+     <lb xml:id="fol_18v.21" n="21"/>
+     <lb xml:id="fol_18v.22" n="22"/>
+     <lb xml:id="fol_18v.23" n="23"/>
+     <lb xml:id="fol_18v.24" n="24"/>
+     <lb xml:id="fol_18v.25" n="25"/>
+     <lb xml:id="fol_18v.26" n="26"/>
+     <lb xml:id="fol_18v.27" n="27"/>
+     <lb xml:id="fol_18v.28" n="28"/>
+     <lb xml:id="fol_18v.29" n="29"/>
+     <lb xml:id="fol_18v.30" n="30"/>
+    </ab> 
+   </div>
      
       </body>
     </text>  
