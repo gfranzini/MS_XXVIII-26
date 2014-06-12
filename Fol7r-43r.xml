@@ -212,7 +212,7 @@
      <lb xml:id="fol_9r.13" n="13"/>SENSU INTERIORE REMOTA SUNT HIS NOS
      <lb xml:id="fol_9r.14" n="14"/>OPORTET CREDERE QUI HAEC IN ILLO <w part="I">CORPO</w>
      <lb xml:id="fol_9r.15" n="15"/><w part="F">REO</w> <app><rdg wit="#CSEL40">INCORPOREO</rdg></app> LUMINE DISPOSITA DIDICERUNT UEL  
-     <lb xml:id="fol_9r.16" n="16"/>MANENTIA CONTUENTUR; <note type="margin" subtype="chapter" n="4">IIII</note> UISIBILIUM  <note type="scholion">R&#772;</note>
+     <lb xml:id="fol_9r.16" n="16"/>MANENTIA CONTUENTUR; <note type="scholion" subtype="chapter" n="4">IIII</note> UISIBILIUM  <note type="scholion">R&#772;</note>
      <lb xml:id="fol_9r.17" n="17"/>OMNIUM MAXIMUS MUNDUS EST
      <lb xml:id="fol_9r.18" n="18"/>INUISIBILIUM OMNIUM MAXIMUS <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST
      <lb xml:id="fol_9r.19" n="19"/>SED MUNDUM ESSE CONSPICIMUS <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> ESSE
@@ -330,7 +330,7 @@
      <lb xml:id="fol_10v.21" n="21"/>ET MUNDUM EX TEMPORE FIERI POTUISSE
      <lb xml:id="fol_10v.22" n="22"/>NEC TAMEN IDEO <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> IN EO FACIENDUM <app><rdg wit="#CSEL40">FACIENDO</rdg></app> <w part="I">AE</w>
      <lb xml:id="fol_10v.23" n="23"/><w part="F">TERNUM</w> CONSILIUM <choice><abbr>UOLUNTATEMQ&#183;</abbr><expan>UOLUNTATEMQ<ex>UE</ex></expan></choice> <w part="I">MU</w>
-     <lb xml:id="fol_10v.24" n="24"/><w part="F">TASSE</w>; <note type="margin" subtype="chapter" n="5">V</note> DEINDE UIDENDUM EST ISTI QUI <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
+     <lb xml:id="fol_10v.24" n="24"/><w part="F">TASSE</w>; <note type="scholion" subtype="chapter" n="5">V</note> DEINDE UIDENDUM EST ISTI QUI <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
      <lb xml:id="fol_10v.25" n="25"/>CONDITOREM MUNDI <add place="above">ESSE</add> CONSENTIUNT ET <w part="I">TA</w>
      <lb xml:id="fol_10v.26" n="26"/><w part="F">MEN</w> QUAERUNT DE MUNDI TEMPORE QUID
      <lb xml:id="fol_10v.27" n="27"/><choice><sic>RESPONDET UNUS</sic><corr>RESPONDEAMUS</corr></choice> QUID IPSI&#7768;&#278; <app><note>Dots mark characters to be deleted. Top expunction as opposed to the more common bottom expunction</note></app> <w part="I">RESPON</w>
@@ -426,7 +426,7 @@
      <lb xml:id="fol_12r.9" n="9"/><w part="F">DUM</w> RESPONDETUR EI ISTO <app><rdg wit="#CSEL40">EIS ISTO</rdg></app> MODO <w part="I">JNANI</w>
      <lb xml:id="fol_12r.10" n="10"/><w part="F">TER</w> HOMINES COGITARE PRAETERTA <w part="I">TEM</w>
      <lb xml:id="fol_12r.11" n="11"/><w part="F">PORA</w> UACATIONIS <choice><abbr>DJ&#772;</abbr><expan>D<ex>E</ex>J</expan></choice> &#183; CUM TEMPUS <choice><abbr>NULLU &#772;</abbr><expan>NULLU<ex>M</ex></expan></choice> <note type="scholion">R&#772; <choice><abbr>qd&#772;</abbr><expan>q<ex>uo</ex>d</expan></choice>.... <choice><abbr>nullu &#772;</abbr><expan>nullu<ex>m</ex></expan></choice> aeternum</note> <!-- missing word in scholion-->
-     <lb xml:id="fol_12r.12" n="12"/>SIT ANTE MUNDUM; <note type="margin" subtype="chapter" n="6">V&#772;I&#772;</note> SI ENIM RECTE <w part="I">DIS</w>
+     <lb xml:id="fol_12r.12" n="12"/>SIT ANTE MUNDUM; <note type="scholion" subtype="chapter" n="6">V&#772;I&#772;</note> SI ENIM RECTE <w part="I">DIS</w>
      <lb xml:id="fol_12r.13" n="13"/><w part="F">CERNUNTUR</w> AETERNITAS ET TEMPUS QUOD
      <lb xml:id="fol_12r.14" n="14"/>TEMPUS SINE ALIQUA MOBILI <w part="I">MUTABILI</w>
      <lb xml:id="fol_12r.15" n="15"/><w part="F">TATE</w> NON EST IN AETER<supplied reason="lost">NITATE</supplied> AUTEM <w part="I">NUL</w>
@@ -476,7 +476,7 @@
      <lb xml:id="fol_12v.22" n="22"/><choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> UACATIO COMMENDETUR <!--dot group--> QUI DIES CUIUS <app><note>US ligature is found at the end of the word CUIUS</note></app>
       <lb xml:id="fol_12v.23" n="23"/>MODI SINT AUT PERDIFFICILE NOBIS AUT <choice><abbr>ETIA &#772;</abbr><expan>ETIA<ex>M</ex></expan></choice>
       <lb xml:id="fol_12v.24" n="24"/>INPOSSIBILE EST COGITARE QUANTO MAGIS
-      <lb xml:id="fol_12v.25" n="25"/>DICERE; <note type="margin" subtype="chapter" n="7">V&#772;I&#772;I&#772;</note> UIDEMUS QUIPPE ISTOS DIES <w part="I">NO</w>
+      <lb xml:id="fol_12v.25" n="25"/>DICERE; <note type="scholion" subtype="chapter" n="7">V&#772;I&#772;I&#772;</note> UIDEMUS QUIPPE ISTOS DIES <w part="I">NO</w>
       <lb xml:id="fol_12v.26" n="26"/><w part="F">TOS</w> NON HABERE UERSPERAM NISI DE SOLIS
       <lb xml:id="fol_12v.27" n="27"/>OCCASU NEC MANE NISI DE SOLIS EXORTU; 
       <lb xml:id="fol_12v.28" n="28"/>ILLORUM AUTEM PRIORES TRES DIES SINE <w part="I">SO</w>
@@ -550,7 +550,8 @@
       <lb xml:id="fol_13v.24" n="24"/>TILIUM DIES QUINTUS CUM IN <w part="I">COGNI</w>
       <lb xml:id="fol_13v.25" n="25"/><w part="F">TIONE</w> OMNIUM ANIMALIUM <w part="I">TERRENO</w>
       <lb xml:id="fol_13v.26" n="26"/><w part="F">RUM</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> IPSIUS HOMINIS DIES SEXTUS
-      <lb xml:id="fol_13v.27" n="27"/><note type="margin" subtype="chapter" n="8">V&#772;I&#772;I&#772;I&#772;</note> CUM UERO IN DIES SEPTIMO REQUIESCIT
+      <lb xml:id="fol_13v.27" n="27"/><note type="scholion
+       " subtype="chapter" n="8">V&#772;I&#772;I&#772;I&#772;</note> CUM UERO IN DIES SEPTIMO REQUIESCIT
       <lb xml:id="fol_13v.28" n="28"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> AB <choice><abbr>OMNIB&#183;</abbr><expan>OMNIB<ex>US</ex></expan></choice> <choice><abbr>OPERIB&#183;</abbr><expan>OPERIB<ex>US</ex></expan></choice> SUIS ET SANCTIFICAT
       <lb xml:id="fol_13v.29" n="29"/>EUM NEQUEQUAM EST ACCIPIENDUM
       <lb xml:id="fol_13v.30" n="30"/>PUERILITER TAMQUAM <choice><abbr>DS&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> LABORAUERIT
@@ -596,12 +597,12 @@
    
    <div n="fol_14v" type="edition">
     <ab>
-     <note type="margin">Lib. XI</note>
+     <note type="scholion">Lib. XI</note>
      <lb xml:id="fol_14v.1" n="1"/>SEMPITERNAM HOC ENIM ET <w part="I">SABBA</w>
      <lb xml:id="fol_14v.2" n="2"/><w part="F">TI</w> UACATIONE EX PRAECEPTO LEGIS IN <w part="I">UE</w> 
      <lb xml:id="fol_14v.3" n="3"/><w part="F">TERE</w> <choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> POPULO FIGURATUM EST UNDE <choice><sic>TUO</sic><corr>SUO</corr></choice>
      <lb xml:id="fol_14v.4" n="4"/>LOCO DILIGENTIUS ARBITROR <choice><abbr>DISSERENDU &#772;</abbr><expan>DISSERENDU<ex>M</ex></expan></choice>
-     <lb xml:id="fol_14v.5" n="5"/><note type="margin" subtype="chapter" n="9">V&#772;I&#772;I&#772;I&#772;I&#772;</note> NUNC QUONIAM DE SANCTAE CIUITATIS <w part="I">EXOR</w>
+     <lb xml:id="fol_14v.5" n="5"/><note type="scholion" subtype="chapter" n="9">V&#772;I&#772;I&#772;I&#772;I&#772;</note> NUNC QUONIAM DE SANCTAE CIUITATIS <w part="I">EXOR</w>
      <lb xml:id="fol_14v.6" n="6"/><w part="F">TU</w> DICERE INSTITUI ET PRIUS QUOD AD <w part="I">SANC</w>
      <lb xml:id="fol_14v.7" n="7"/><w part="F">TOS</w> ANGELOS ATTINET <app><rdg wit="#CSEL40">ADTINET</rdg></app> DICENDUM PUTAUI
      <lb xml:id="fol_14v.8" n="8"/><supplied reason="lost">QUAE</supplied> HUIUS CIUITATIS ET MAGNA PARS EST
@@ -634,7 +635,7 @@
    
    <div n="fol_15r" type="edition">
     <ab>
-     <note type="margin">Lib. XI</note>
+     <note type="scholion">Lib. XI</note>
      <app><note>Page duplication. Scribe crossed out duplicated text.</note></app>
      <lb xml:id="fol_15r.26" n="26"/>TENEBRAE FUERINT SUPER <supplied reason="lost">ABYSSUM</supplied> 
      <lb xml:id="fol_15r.27" n="27"/>ID EST SUPER QUANDAM <supplied reason="lost">TERRAE</supplied> ET <supplied reason="lost">AQUAE</supplied>
@@ -739,7 +740,7 @@
      <lb xml:id="fol_16v.18" n="18"/>NEC IAM LUX IN <choice><abbr>D&#772;N&#772;O&#772;</abbr><expan>D<ex>OMI</ex>NO</expan></choice> SED IN SE IPSI<supplied reason="lost">S TENEBRAE</supplied>
      <lb xml:id="fol_16v.19" n="19"/><supplied reason="lost">PRIUATI</supplied> PARTICIPATIONE LUCJS AETERNAE:
      <lb xml:id="fol_16v.20" n="20"/><note type="scholion">R&#772;</note> <supplied reason="lost">MALI ENIM</supplied> NULLA NATURA EST &#183; SED AMISSIO <w part="I">BO</w>
-     <lb xml:id="fol_16v.21" n="21"/><supplied reason="lost"><w part="F">NI</w> MALI</supplied> NOMEN ACCEPIT <note type="margin" subtype="chapter" n="10">X</note> EST <choice><abbr>ITAQ&#183;</abbr><expan>ITAQ<ex>UE</ex></expan></choice> BONUM 
+     <lb xml:id="fol_16v.21" n="21"/><supplied reason="lost"><w part="F">NI</w> MALI</supplied> NOMEN ACCEPIT <note type="scholion" subtype="chapter" n="10">X</note> EST <choice><abbr>ITAQ&#183;</abbr><expan>ITAQ<ex>UE</ex></expan></choice> BONUM 
      <lb xml:id="fol_16v.22" n="22"/>SOLUM SIMPLEX ET OB HOC SOLUM <w part="I">INCOM</w>
      <lb xml:id="fol_16v.23" n="23"/><w part="F">MUTABILE</w> QUOD EST <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; AB HOC SONO <w part="I">CREA</w>
      <lb xml:id="fol_16v.24" n="24"/><w part="F">TA</w> SUNT OMNIA BONA SED NON SIMPLICIA
