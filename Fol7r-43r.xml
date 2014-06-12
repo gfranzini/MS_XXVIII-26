@@ -936,36 +936,36 @@
    
    <div n="fol_19v" type="edition">
     <ab>
-     <lb xml:id="fol_19v.1" n="1"/>
-     <lb xml:id="fol_19v.2" n="2"/> 
-     <lb xml:id="fol_19v.3" n="3"/>
-     <lb xml:id="fol_19v.4" n="4"/>
-     <lb xml:id="fol_19v.5" n="5"/>
-     <lb xml:id="fol_19v.6" n="6"/>
-     <lb xml:id="fol_19v.7" n="7"/>
-     <lb xml:id="fol_19v.8" n="8"/>
-     <lb xml:id="fol_19v.9" n="9"/>
-     <lb xml:id="fol_19v.10" n="10"/>
-     <lb xml:id="fol_19v.11" n="11"/>
-     <lb xml:id="fol_19v.12" n="12"/>
-     <lb xml:id="fol_19v.13" n="13"/>
-     <lb xml:id="fol_19v.14" n="14"/>
-     <lb xml:id="fol_19v.15" n="15"/>
-     <lb xml:id="fol_19v.16" n="16"/>
-     <lb xml:id="fol_19v.17" n="17"/>
-     <lb xml:id="fol_19v.18" n="18"/>
-     <lb xml:id="fol_19v.19" n="19"/>
-     <lb xml:id="fol_19v.20" n="20"/>
-     <lb xml:id="fol_19v.21" n="21"/>
-     <lb xml:id="fol_19v.22" n="22"/>
-     <lb xml:id="fol_19v.23" n="23"/>
-     <lb xml:id="fol_19v.24" n="24"/>
-     <lb xml:id="fol_19v.25" n="25"/>
-     <lb xml:id="fol_19v.26" n="26"/>
-     <lb xml:id="fol_19v.27" n="27"/>
-     <lb xml:id="fol_19v.28" n="28"/>
-     <lb xml:id="fol_19v.29" n="29"/>
-     <lb xml:id="fol_19v.30" n="30"/>
+     <lb xml:id="fol_19v.1" n="1"/>FINEM NON HABENDO NOMINATA EST
+     <lb xml:id="fol_19v.2" n="2"/>QUAPROPTER QUAMUIS NON QUIDQUID
+     <lb xml:id="fol_19v.3" n="3"/>AETERNUM CONTINUO BEATUM SIT <w part="I">DI</w>
+     <lb xml:id="fol_19v.4" n="4"/><w part="F">CITUR</w> ENIM ETIAM POENALIS IGNIS <w part="I">AE</w>
+     <lb xml:id="fol_19v.5" n="5"/><w part="F">TERNUS</w> TAMEN SI UERAE <app><rdg wit="#CSEL40">UERE</rdg></app> PERFECTEQUE
+     <lb xml:id="fol_19v.6" n="6"/>BEATA UITA NON NISI AETERNA EST NON 
+     <lb xml:id="fol_19v.7" n="7"/>ERAT TALIS ISTORUM QUANDOQUE <w part="I">DESI</w>
+     <lb xml:id="fol_19v.8" n="8"/><w part="F">TURA</w> ET PROPTEREA NON AETERNA SIUE
+     <lb xml:id="fol_19v.9" n="9"/>ID SCIRENT SIUE SCIENTES <app><rdg wit="#CSEL40">NESCIENTES</rdg></app> ALIUD PUTARENT <app><note>NT ligature is found at the end of the word PUTARENT</note></app>
+     <lb xml:id="fol_19v.10" n="10"/>QUIA SCIENTES TIMOR NESCIENTES ERROR
+     <lb xml:id="fol_19v.11" n="11"/>BEATOS ESSE <choice><abbr>UTIQ&#183;</abbr><expan>UTIQ<ex>UE</ex></expan></choice> NON SINEBAT SI <choice><abbr>AUTE &#772;</abbr><expan>AUTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_19v.12" n="12"/>HOC ITA NESCIEBANT UT FALSIS <w part="I">INCERTIS</w>
+     <lb xml:id="fol_19v.13" n="13"/><w part="F">UE</w> NON FIDERENT SED UTRUM <w part="I">SEMPITER</w>
+     <lb xml:id="fol_19v.14" n="14"/><w part="F">NUM</w> AN <choice><abbr>QUANDOQ&#183;</abbr><expan>QUANDOQ<ex>UE</ex></expan></choice> FINEM <choice><abbr>HABITURU &#772;</abbr><expan>HABITURU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_19v.15" n="15"/>ESSET BONUM SUUM IN NEUTRAM <w part="I">PAR</w>
+     <lb xml:id="fol_19v.16" n="16"/><w part="F">TEM</w> FIRMA ASSENSIONE <app><rdg wit="#CSEL40">ADSENSIONE</rdg></app> FERRENTUR <w part="I">IP</w>
+     <lb xml:id="fol_19v.17" n="17"/><w part="F">SA</w> DE TANTA FELICITATE CUNCTATIO EAM
+     <lb xml:id="fol_19v.18" n="18"/>BEATAE UITAE PLENITUDINEM QUAM IN
+     <lb xml:id="fol_19v.19" n="19"/><choice><abbr>S&#772;C&#772;I&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>IS</expan></choice> ANGELIS ESSE CREDIMUS NON <w part="I">HABE</w>
+     <lb xml:id="fol_19v.20" n="20"/><note type="scholion">XII</note> <w part="F">BANT</w> <app><rdg wit="#CSEL40">HABEBAT</rdg></app> <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM BEATAE UITAE <w part="I">UOCABU</w>
+     <lb xml:id="fol_19v.21" n="21"/><w part="F">LUM</w> ITA CONTRAHIMUR <app><rdg wit="#CSEL40">CONTRAHIMUS</rdg></app> AD QUASDAM
+     <lb xml:id="fol_19v.22" n="22"/>SIGNIFICATIONIS ANGUSTIAS UT SOLUM <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
+     <lb xml:id="fol_19v.23" n="23"/>DICAMUS BEATUM QUI TAMEN UERE ITA
+     <lb xml:id="fol_19v.24" n="24"/>BEATUS EST UT MAIOR BEATITUDO ESSE
+     <lb xml:id="fol_19v.25" n="25"/>NON POSSIT IN CUIUS CONPARATIONE
+     <lb xml:id="fol_19v.26" n="26"/>QUOD ANGELI BEATI SUNT SUMMA <w part="I">QUA</w>
+     <lb xml:id="fol_19v.27" n="27"/><w part="F">DAM</w> SUA BEATITUDINE QUANTA ESSE IN
+     <lb xml:id="fol_19v.28" n="28"/>ANGELIS POTEST QUID AUT QUANTUM EST
+     <lb xml:id="fol_19v.29" n="29"/><note type="scholion" subtype="chapter" n="12">XII</note> NEC IPSOS TANTUM QUOD ATTINET <app><rdg wit="#CSEL40">ADTINET</rdg></app> AD <w part="I">RATIO</w>
+     <lb xml:id="fol_19v.30" n="30"/><w part="F">NALEM</w> UEL INTELLECTUALEM <choice><abbr>CREATURA &#772;</abbr><expan>CREATURA<ex>M</ex></expan></choice>
     </ab> 
    </div>
      
