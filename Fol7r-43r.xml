@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" type="xml"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -968,7 +968,78 @@
      <lb xml:id="fol_19v.30" n="30"/><w part="F">NALEM</w> UEL INTELLECTUALEM <choice><abbr>CREATURA &#772;</abbr><expan>CREATURA<ex>M</ex></expan></choice>
     </ab> 
    </div>
-     
+   
+   
+   <div n="fol_20r" type="edition">
+    <ab>
+     <lb xml:id="fol_20r.1" n="1"/>BEATOS NUNCUPANDOS PUTAMUS
+     <lb xml:id="fol_20r.2" n="2"/>QUIS ENIM PRIMOS ILLOS HOMINES IN <w part="I">PA</w>
+     <lb xml:id="fol_20r.3" n="3"/><w part="F">RADISO</w> NEGARE AUDEAT BEATOS FUISSE
+     <lb xml:id="fol_20r.4" n="4"/>ANTE PECCATUM QUAMUIS SUA <w part="I">BEATITU</w>
+     <lb xml:id="fol_20r.5" n="5"/><w part="F">DO</w> QUAM DIUTURNA UEL UTRUM <w part="I">AETER</w>
+     <lb xml:id="fol_20r.6" n="6"/><w part="F">NA</w> ESSET INCERTOS ESSET AUTEM <w part="I">AETER</w>
+     <lb xml:id="fol_20r.7" n="7"/><w part="F">NA</w> NISI PECCASSENT CUM HODIE NON <w part="I">IN</w>
+     <lb xml:id="fol_20r.8" n="8"/><w part="F">PUDENTER</w> BEATOS UOCEMUS <supplied reason="lost">QUOS</supplied> <w part="I">UI</w>
+     <lb xml:id="fol_20r.9" n="9"/><w part="F">DEMUS</w> IUST<del rend="strikethrough">A</del>E AC PI<del rend="strikethrough">A</del>E CUM SPE <supplied reason="lost">FUTURAE</supplied>
+     <lb xml:id="fol_20r.10" n="10"/>IMMORTALITATIS HANC UITAM <supplied reason="lost">DUCERE <w part="I">SI</w></supplied>
+     <lb xml:id="fol_20r.11" n="11"/><w part="F">NE</w> CRIMINE ASTANTE <app><rdg wit="#CSEL40">UASTANTE</rdg></app> CONSCIENT<supplied reason="lost">IAM <w part="I">FACI</w></supplied>
+     <lb xml:id="fol_20r.12" n="12"/><w part="F">LE</w> IMPETRANTES PECCATIS HUIUS <w part="I">INFIR</w>
+     <lb xml:id="fol_20r.13" n="13"/><w part="F">MITATIS</w> DIUINAM MISERICORDIAM
+     <lb xml:id="fol_20r.14" n="14"/>QUI LICET DE SUAE PERSEUERANTIAE PRAEMIO
+     <lb xml:id="fol_20r.15" n="15"/>CERTI SINT DE IPSA TAMEN PERSEUERANTIA
+     <lb xml:id="fol_20r.16" n="16"/>SUA <sic>REPPERIUNTUR</sic> <app><rdg wit="#CSEL40">REPERIUNTUR</rdg></app> INCERTI QUIS <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
+     <lb xml:id="fol_20r.17" n="17"/>HOMINUM SE IN ACTIONE <choice><abbr>PROUECTUQ&#183;</abbr><expan>PROUECTUQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_20r.18" n="18"/>IUSTITIAE PERSEUERATURUM <choice><abbr>USQ&#183;</abbr><expan>USQ<ex>UE</ex></expan></choice> IN <w part="I">FI</w>
+     <lb xml:id="fol_20r.19" n="19"/><w part="F">NEM</w> SCIAT NISI ALIQUA REUELATIONE AB
+     <lb xml:id="fol_20r.20" n="20"/>ILLO FIAT CERTUS QUI DE HAC RE IUSTO <supplied reason="lost"><w part="I">LATEN</w></supplied>
+     <lb xml:id="fol_20r.21" n="21"/><w part="F">TIQUE</w> IUDICIO NON OMNES INSTRUIT
+     <lb xml:id="fol_20r.22" n="22"/>SED NEMINEM FALLIT QUANTUM <supplied reason="lost">ITAQUE</supplied>
+     <lb xml:id="fol_20r.23" n="23"/>PERTINET AD DELECTATIONEM <w part="I">PRAESEN</w>
+     <lb xml:id="fol_20r.24" n="24"/><w part="F">TIS</w> BONI BEATIOR ERAT PRIMUS HOMO
+     <lb xml:id="fol_20r.25" n="25"/>IN <sic>PARADISSO</sic> <app><rdg wit="#CSEL40">PARADISO</rdg></app> QUAM QUI LIBET <supplied reason="lost">IUSTUS</supplied>
+     <lb xml:id="fol_20r.26" n="26"/>IN HAC INFIRMITATE MORTALI <choice><abbr>QUANTU &#772;</abbr><expan>QUANTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_20r.27" n="27"/>AUTEM AD SPEM FUTURI BEATIOR <w part="I">QUILI</w>
+     <lb xml:id="fol_20r.28" n="28"/><w part="F">BET</w> IN <choice><abbr>QUIB&#183;LIBET</abbr><expan>QUIB<ex>US</ex>LIBET</expan></choice> <choice><abbr>CRUCIATIB&#183;</abbr><expan>CRUCIATIB<ex>US</ex></expan></choice> CORPORIS
+     <lb xml:id="fol_20r.29" n="29"/>CUI NON OPINIONE SED CERTA UERITATE
+     <lb xml:id="fol_20r.30" n="30"/>MANIFESTUM EST SINE FINE SE <w part="I">HABITU</w>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_20v" type="edition">
+    <ab>
+     <lb xml:id="fol_20v.1" n="1"/>
+     <lb xml:id="fol_20v.2" n="2"/> 
+     <lb xml:id="fol_20v.3" n="3"/>
+     <lb xml:id="fol_20v.4" n="4"/>
+     <lb xml:id="fol_20v.5" n="5"/>
+     <lb xml:id="fol_20v.6" n="6"/>
+     <lb xml:id="fol_20v.7" n="7"/>
+     <lb xml:id="fol_20v.8" n="8"/>
+     <lb xml:id="fol_20v.9" n="9"/>
+     <lb xml:id="fol_20v.10" n="10"/>
+     <lb xml:id="fol_20v.11" n="11"/>
+     <lb xml:id="fol_20v.12" n="12"/>
+     <lb xml:id="fol_20v.13" n="13"/>
+     <lb xml:id="fol_20v.14" n="14"/>
+     <lb xml:id="fol_20v.15" n="15"/>
+     <lb xml:id="fol_20v.16" n="16"/>
+     <lb xml:id="fol_20v.17" n="17"/>
+     <lb xml:id="fol_20v.18" n="18"/>
+     <lb xml:id="fol_20v.19" n="19"/>
+     <lb xml:id="fol_20v.20" n="20"/>
+     <lb xml:id="fol_20v.21" n="21"/>
+     <lb xml:id="fol_20v.22" n="22"/>
+     <lb xml:id="fol_20v.23" n="23"/>
+     <lb xml:id="fol_20v.24" n="24"/>
+     <lb xml:id="fol_20v.25" n="25"/>
+     <lb xml:id="fol_20v.26" n="26"/>
+     <lb xml:id="fol_20v.27" n="27"/>
+     <lb xml:id="fol_20v.28" n="28"/>
+     <lb xml:id="fol_20v.29" n="29"/>
+     <lb xml:id="fol_20v.30" n="30"/>
+    </ab> 
+   </div>
       </body>
     </text>  
   
