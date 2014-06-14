@@ -1004,34 +1004,33 @@
     </ab> 
    </div>
    
-   <!--aggiungi apparato critico-->
-   
+    
    <div n="fol_20v" type="edition">
     <ab>
      <lb xml:id="fol_20v.1" n="1"/><w part="F">RUM</w> OMNI MOLESTIA CARENTEM
-     <lb xml:id="fol_20v.2" n="2"/>OCIETATEM ANGELORUM IN <w part="I">PARTICI</w>
+     <lb xml:id="fol_20v.2" n="2"/>SOCIETATEM ANGELORUM IN <w part="I">PARTICI</w>
      <lb xml:id="fol_20v.3" n="3"/><w part="F">PATIONE</w> SUMMI <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUAM ERAT ILLE <w part="I">HO</w>
      <lb xml:id="fol_20v.4" n="4"/><w part="F">MO</w> SUI CASUS INCERTUS IN MAGNA ILLA
-     <lb xml:id="fol_20v.5" n="5"/>FELICITATE PARADISI QUO CIRCA CUI UIS
+     <lb xml:id="fol_20v.5" n="5"/>FELICITATE PARADISI <note type="scholion" subtype="chapter" n="13" place="margin">XIII</note> QUOCIRCA CUIUIS
      <lb xml:id="fol_20v.6" n="6"/>IAM NON DIFFICULTER OCCURRIT <choice><abbr>UTROQ&#183;</abbr><expan>UTROQ<ex>UE</ex></expan></choice>
      <lb xml:id="fol_20v.7" n="7"/>CONIUNCTO EFFICI BEATITUDINEM <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
      <lb xml:id="fol_20v.8" n="8"/>RECTO PROPOSITO INTELLECTUALIS <w part="I">NA</w>
-     <lb xml:id="fol_20v.9" n="9"/>TURA DESIDERAT<!--ABBR--> HOC EST UT BONO <w part="I">IN</w>
+     <lb xml:id="fol_20v.9" n="9"/>TURA DESIDERAT &#183; HOC EST UT <app><rdg wit="#CSEL40">UT ET</rdg></app> BONO <w part="I">IN</w>
      <lb xml:id="fol_20v.10" n="10"/><w part="F">COMMUTABILI</w> QUOD <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; EST SINE ULLA
      <lb xml:id="fol_20v.11" n="11"/>MOLESTIA PERFRUATUR ET IN EO SE IN 
-     <lb xml:id="fol_20v.12" n="12"/>AETERNUM ESSE MANSURUM NEC ILLA
+     <lb xml:id="fol_20v.12" n="12"/>AETERNUM ESSE MANSURUM NEC ILLA <app><rdg wit="#CSEL40">ULLA</rdg></app>
      <lb xml:id="fol_20v.13" n="13"/>DUBITATIONE CUNCTETUR NEC ULLO <w part="I">ER</w>
      <lb xml:id="fol_20v.14" n="14"/><note type="scholion" place="margin">R&#772;</note> <w part="F">RORE</w> FALLATUR ; HANC HABERE ANGELOS
-     <lb xml:id="fol_20v.15" n="15"/>LUCI SPIA FIDE CREDUMUS; HANC NEC <w part="I">AN</w>
-     <lb xml:id="fol_20v.16" n="16"/><w part="F">TE</w> QUAM CADERENT HABUISSE ANGELOS
+     <lb xml:id="fol_20v.15" n="15"/>LUCIS PIA FIDE CREDIMUS; HANC NEC <w part="I">AN</w>
+     <lb xml:id="fol_20v.16" n="16"/><w part="F">TEQUAM</w> CADERENT HABUISSE ANGELOS
      <lb xml:id="fol_20v.17" n="17"/>PECCATORES QUI SUA PRAUITATE ILLA LUCE 
      <lb xml:id="fol_20v.18" n="18"/>PRIUATI SUNT CONSEQUENTI RATIONE
-     <lb xml:id="fol_20v.19" n="19"/>COLL<!--BOH-->MUS HABUISSE TAMEN <choice><abbr>ALIQUA &#772;</abbr><expan>ALIQUA<ex>M</ex></expan></choice>
-     <lb xml:id="fol_20v.20" n="20"/>ET SI NON PRAESCIAM BEATITUDINEM SI <w part="I">UI</w>
-     <lb xml:id="fol_20v.21" n="21"/><note type="scholion" subtype="chapter" n="13" place="margin">XIII</note> <w part="F">TAM</w> EGERUNT ANTE PECCATUM <w part="I">PROFEC</w> <!--dove inizia il capitolo 13?-->
-     <lb xml:id="fol_20v.22" n="22"/><w part="F">TO</w> CREDENDI SUNT <!--DOODLE--> ANGELI ALIOS <w part="I">CREDE</w> <note type="scholion" place="inline">AUT SI DURUM UIDETUR QUANDO FACTI SUNT</note>
+     <lb xml:id="fol_20v.19" n="19"/>COLL<supplied reason="lost">IGI</supplied>MUS HABUISSE TAMEN <choice><abbr>ALIQUA &#772;</abbr><expan>ALIQUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_20v.20" n="20"/>ETI NON PRAESCIAM BEATITUDINEM SI <w part="I">UI</w>
+     <lb xml:id="fol_20v.21" n="21"/><w part="F">TAM</w> EGERUNT ANTE PECCATUM <w part="I">PROFEC</w>
+     <lb xml:id="fol_20v.22" n="22"/><w part="F">TO</w> CREDENDI SUNT <add place="above">AUT SI DURUM UIDETUR QUANDO FACTI SUNT</add> ANGELI ALIOS <w part="I">CREDE</w>
      <lb xml:id="fol_20v.23" n="23"/><w part="F">RE</w> ITA FACTOS UT NON ACCIPERENT <w part="I">PRAES</w>
-     <lb xml:id="fol_20v.24" n="24"/><w part="F">CIENTIAM</w> UEL PERSEUERANTIA UEL <w part="I">CA</w>
+     <lb xml:id="fol_20v.24" n="24"/><w part="F">CIENTIAM</w> UEL PERSEUERANTIAE UEL <w part="I">CA</w>
      <lb xml:id="fol_20v.25" n="25"/><w part="F">SUS</w> SUI ALIOS AUTEM ITA UT UERITATE
      <lb xml:id="fol_20v.26" n="26"/>CERTISSIMA AETERNITATEM SUAE <w part="I">BEATI</w>
      <lb xml:id="fol_20v.27" n="27"/><w part="F">TUDINIS</w> NOSSENT SED AEQUALIS <w part="I">FELICITA</w>
@@ -1040,6 +1039,223 @@
      <lb xml:id="fol_20v.30" n="30"/>AB ILLO BONITATIS LUMINE SUA <w part="I">UOLUNTA</w>
     </ab> 
    </div>
+   
+   
+   <div n="fol_21r" type="edition">
+    <ab>
+     <lb xml:id="fol_21r.1" n="1"/>TE CAECIDISSENT <!--B0H-->
+     <lb xml:id="fol_21r.2" n="2"/>TO EST <!--BOH--> ANGELOS
+     <lb xml:id="fol_21r.3" n="3"/>SANCTOS AETERNA <!--BOH-->
+     <lb xml:id="fol_21r.4" n="4"/>INCERTOS <!--BOH-->
+     <lb xml:id="fol_21r.5" n="5"/>QUOD NOS <!--BOH-->
+     <lb xml:id="fol_21r.6" n="6"/>TAS NOS SE POTUIMUS <!--BOH--> HO <note type="scholion" place="margin">R&#772;</note>
+     <lb xml:id="fol_21r.7" n="7"/>LICUS <!--BOH--> ILLUM NO <!--BOH-->
+     <lb xml:id="fol_21r.8" n="8"/>DIABULUM <!--BOH--> ANGELIS UITERIUS
+     <lb xml:id="fol_21r.9" n="9"/><!--BOH--> SICUT NEQ<!--ABBR--> ISTUM IN SOCIETA
+     <lb xml:id="fol_21r.10" n="10"/>TEM BONORUM ANGELO <!--BOH--> ULETRIUS(?)
+     <lb xml:id="fol_21r.11" n="11"/><!--BOH--> UERITAS QUIPPE IN <!--BOH-->
+     <lb xml:id="fol_21r.12" n="12"/>GELIO SAN<!--BOH--> 
+     <lb xml:id="fol_21r.13" n="13"/>ERUNT <add place="above">A</add>EQUALES ANGELIS DEI<!--ABBR--> QUI <!--BOH--> ET <!--BOH-->
+     <lb xml:id="fol_21r.14" n="14"/>PROMITTITUR QUOD IBUNT <!--BOH--> AE
+     <lb xml:id="fol_21r.15" n="15"/>TERNAM; PORRO AUTEM SIN <!--BOH-->
+     <lb xml:id="fol_21r.16" n="16"/>SUMUS NUMQUAM NOS EXI <!--BOH-->
+     <lb xml:id="fol_21r.17" n="17"/>MORTALI FELICITATE CASUROS ILL <!--BOH-->
+     <lb xml:id="fol_21r.18" n="18"/><!--BOH--> SUNT IAM POTIOR <!--BOH-->
+     <lb xml:id="fol_21r.19" n="19"/>QUALES ERIMUS SED <!--BOH--> NEQUAM <!--BOH-->
+     <lb xml:id="fol_21r.20" n="20"/>UERTIAS FALLITET AEQUALES ET <!--BOH-->
+     <lb xml:id="fol_21r.21" n="21"/>PROFECTO ETIAM IPSI CERTI SUNT <!--BOH-->
+     <lb xml:id="fol_21r.22" n="22"/><!--BOH--> TATIS AETERNA CUIUS ILLI<!--BOH-->
+     <lb xml:id="fol_21r.23" n="23"/>CERTI NON FUERUNT NON ENUM ERA <!--BOH-->
+     <lb xml:id="fol_21r.24" n="24"/><!--BOH--> ORUM AETERNA FELICITAS CUIUS CERTI
+     <lb xml:id="fol_21r.25" n="25"/>ESSENT QUAE FINE <!--BOH--> ERAT HABITURA
+     <lb xml:id="fol_21r.26" n="26"/><!-- BOH --> AUT <!--BOH--> ERINT <!--BOH-->
+     <lb xml:id="fol_21r.27" n="27"/>PARES FUERUNT POST <!--BOH--> RUM RUINA
+     <lb xml:id="fol_21r.28" n="28"/>ILLIS CERTA SCINETIA SU<add place="above">AE</add> SEMPI
+     <lb xml:id="fol_21r.29" n="29"/>TERNAE FELICITATIS ACCESSERIT
+     <lb xml:id="fol_21r.30" n="30"/>NISI FORTE QUIS <!--BOH--> QUO DOMINUS<!--ABBR-->
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_21v" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_21v.1" n="1"/>
+     <lb xml:id="fol_21v.2" n="2"/> 
+     <lb xml:id="fol_21v.3" n="3"/>
+     <lb xml:id="fol_21v.4" n="4"/>
+     <lb xml:id="fol_21v.5" n="5"/>
+     <lb xml:id="fol_21v.6" n="6"/>
+     <lb xml:id="fol_21v.7" n="7"/>
+     <lb xml:id="fol_21v.8" n="8"/>
+     <lb xml:id="fol_21v.9" n="9"/>
+     <lb xml:id="fol_21v.10" n="10"/>
+     <lb xml:id="fol_21v.11" n="11"/>
+     <lb xml:id="fol_21v.12" n="12"/>
+     <lb xml:id="fol_21v.13" n="13"/>
+     <lb xml:id="fol_21v.14" n="14"/>
+     <lb xml:id="fol_21v.15" n="15"/>
+     <lb xml:id="fol_21v.16" n="16"/>
+     <lb xml:id="fol_21v.17" n="17"/>
+     <lb xml:id="fol_21v.18" n="18"/>
+     <lb xml:id="fol_21v.19" n="19"/>
+     <lb xml:id="fol_21v.20" n="20"/>
+     <lb xml:id="fol_21v.21" n="21"/>
+     <lb xml:id="fol_21v.22" n="22"/>
+     <lb xml:id="fol_21v.23" n="23"/>
+     <lb xml:id="fol_21v.24" n="24"/>
+     <lb xml:id="fol_21v.25" n="25"/>
+     <lb xml:id="fol_21v.26" n="26"/>
+     <lb xml:id="fol_21v.27" n="27"/>
+     <lb xml:id="fol_21v.28" n="28"/>
+     <lb xml:id="fol_21v.29" n="29"/>
+     <lb xml:id="fol_21v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_22r" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_22r.1" n="1"/>
+     <lb xml:id="fol_22r.2" n="2"/> 
+     <lb xml:id="fol_22r.3" n="3"/>
+     <lb xml:id="fol_22r.4" n="4"/>
+     <lb xml:id="fol_22r.5" n="5"/>
+     <lb xml:id="fol_22r.6" n="6"/>
+     <lb xml:id="fol_22r.7" n="7"/>
+     <lb xml:id="fol_22r.8" n="8"/>
+     <lb xml:id="fol_22r.9" n="9"/>
+     <lb xml:id="fol_22r.10" n="10"/>
+     <lb xml:id="fol_22r.11" n="11"/>
+     <lb xml:id="fol_22r.12" n="12"/>
+     <lb xml:id="fol_22r.13" n="13"/>
+     <lb xml:id="fol_22r.14" n="14"/>
+     <lb xml:id="fol_22r.15" n="15"/>
+     <lb xml:id="fol_22r.16" n="16"/>
+     <lb xml:id="fol_22r.17" n="17"/>
+     <lb xml:id="fol_22r.18" n="18"/>
+     <lb xml:id="fol_22r.19" n="19"/>
+     <lb xml:id="fol_22r.20" n="20"/>
+     <lb xml:id="fol_22r.21" n="21"/>
+     <lb xml:id="fol_22r.22" n="22"/>
+     <lb xml:id="fol_22r.23" n="23"/>
+     <lb xml:id="fol_22r.24" n="24"/>
+     <lb xml:id="fol_22r.25" n="25"/>
+     <lb xml:id="fol_22r.26" n="26"/>
+     <lb xml:id="fol_22r.27" n="27"/>
+     <lb xml:id="fol_22r.28" n="28"/>
+     <lb xml:id="fol_22r.29" n="29"/>
+     <lb xml:id="fol_22r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_22v" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_22v.1" n="1"/>
+     <lb xml:id="fol_22v.2" n="2"/> 
+     <lb xml:id="fol_22v.3" n="3"/>
+     <lb xml:id="fol_22v.4" n="4"/>
+     <lb xml:id="fol_22v.5" n="5"/>
+     <lb xml:id="fol_22v.6" n="6"/>
+     <lb xml:id="fol_22v.7" n="7"/>
+     <lb xml:id="fol_22v.8" n="8"/>
+     <lb xml:id="fol_22v.9" n="9"/>
+     <lb xml:id="fol_22v.10" n="10"/>
+     <lb xml:id="fol_22v.11" n="11"/>
+     <lb xml:id="fol_22v.12" n="12"/>
+     <lb xml:id="fol_22v.13" n="13"/>
+     <lb xml:id="fol_22v.14" n="14"/>
+     <lb xml:id="fol_22v.15" n="15"/>
+     <lb xml:id="fol_22v.16" n="16"/>
+     <lb xml:id="fol_22v.17" n="17"/>
+     <lb xml:id="fol_22v.18" n="18"/>
+     <lb xml:id="fol_22v.19" n="19"/>
+     <lb xml:id="fol_22v.20" n="20"/>
+     <lb xml:id="fol_22v.21" n="21"/>
+     <lb xml:id="fol_22v.22" n="22"/>
+     <lb xml:id="fol_22v.23" n="23"/>
+     <lb xml:id="fol_22v.24" n="24"/>
+     <lb xml:id="fol_22v.25" n="25"/>
+     <lb xml:id="fol_22v.26" n="26"/>
+     <lb xml:id="fol_22v.27" n="27"/>
+     <lb xml:id="fol_22v.28" n="28"/>
+     <lb xml:id="fol_22v.29" n="29"/>
+     <lb xml:id="fol_22v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_23r" type="edition">
+    <ab>
+     <lb xml:id="fol_23r.1" n="1"/><note type="scholion" place="top"><choice><abbr>LIB&#772;.</abbr><expan>LIB<ex>ER</ex></expan></choice> X&#772;I&#772;</note> A QUO EST OMNIS MODUS OMNIS SPE
+     <lb xml:id="fol_23r.2" n="2"/>CIES OMNIS ORDO SINE QUIB<!--ABBR--> NIHIL RERUM<!--MACRON-->
+     <lb xml:id="fol_23r.3" n="3"/>INUENIRI UEL COGITARI POTEST QUANTO
+     <lb xml:id="fol_23r.4" n="4"/>MAGIS ANGELICA CREATURA QUAE OMNIA
+     <lb xml:id="fol_23r.5" n="5"/>CETERA QUAE <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CONDIDIT NATURAE DIGNI
+     <lb xml:id="fol_23r.6" n="6"/>TATE PRAECEDIT; <note type="scholion" subtype="chapter" n="16" place="margin">XVI</note> JN HIS ENIM QUAE QUO
+     <lb xml:id="fol_23r.7" n="7"/>QUO MODO SUNT ET NON SUNT QUOD <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST
+     <lb xml:id="fol_23r.8" n="8"/>A QUO JACTA SUNT PRAEPONUNTUR UIUEN
+     <lb xml:id="fol_23r.9" n="9"/>TJA NON UIUENTIB<!--ABBR--> SICUT EA QUAE HABENT
+     <lb xml:id="fol_23r.10" n="10"/>UI INGIGNENDI UEL ETIAM APPETENDI HIS
+     <lb xml:id="fol_23r.11" n="11"/>
+     <lb xml:id="fol_23r.12" n="12"/>
+     <lb xml:id="fol_23r.13" n="13"/>
+     <lb xml:id="fol_23r.14" n="14"/>
+     <lb xml:id="fol_23r.15" n="15"/>
+     <lb xml:id="fol_23r.16" n="16"/>
+     <lb xml:id="fol_23r.17" n="17"/>
+     <lb xml:id="fol_23r.18" n="18"/>
+     <lb xml:id="fol_23r.19" n="19"/>
+     <lb xml:id="fol_23r.20" n="20"/>
+     <lb xml:id="fol_23r.21" n="21"/>
+     <lb xml:id="fol_23r.22" n="22"/>
+     <lb xml:id="fol_23r.23" n="23"/>
+     <lb xml:id="fol_23r.24" n="24"/>
+     <lb xml:id="fol_23r.25" n="25"/>
+     <lb xml:id="fol_23r.26" n="26"/>
+     <lb xml:id="fol_23r.27" n="27"/>
+     <lb xml:id="fol_23r.28" n="28"/>
+     <lb xml:id="fol_23r.29" n="29"/>
+     <lb xml:id="fol_23r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_23v" type="edition">
+    <ab>
+     <lb xml:id="fol_23v.1" n="1"/>
+     <lb xml:id="fol_23v.2" n="2"/> 
+     <lb xml:id="fol_23v.3" n="3"/>
+     <lb xml:id="fol_23v.4" n="4"/>
+     <lb xml:id="fol_23v.5" n="5"/>
+     <lb xml:id="fol_23v.6" n="6"/>
+     <lb xml:id="fol_23v.7" n="7"/>
+     <lb xml:id="fol_23v.8" n="8"/>
+     <lb xml:id="fol_23v.9" n="9"/>
+     <lb xml:id="fol_23v.10" n="10"/>
+     <lb xml:id="fol_23v.11" n="11"/>
+     <lb xml:id="fol_23v.12" n="12"/>
+     <lb xml:id="fol_23v.13" n="13"/>
+     <lb xml:id="fol_23v.14" n="14"/>
+     <lb xml:id="fol_23v.15" n="15"/>
+     <lb xml:id="fol_23v.16" n="16"/>
+     <lb xml:id="fol_23v.17" n="17"/>
+     <lb xml:id="fol_23v.18" n="18"/>
+     <lb xml:id="fol_23v.19" n="19"/>
+     <lb xml:id="fol_23v.20" n="20"/>
+     <lb xml:id="fol_23v.21" n="21"/>
+     <lb xml:id="fol_23v.22" n="22"/>
+     <lb xml:id="fol_23v.23" n="23"/>
+     <lb xml:id="fol_23v.24" n="24"/>
+     <lb xml:id="fol_23v.25" n="25"/>
+     <lb xml:id="fol_23v.26" n="26"/>
+     <lb xml:id="fol_23v.27" n="27"/>
+     <lb xml:id="fol_23v.28" n="28"/>
+     <lb xml:id="fol_23v.29" n="29"/>
+     <lb xml:id="fol_23v.30" n="30"/>
+    </ab> 
+   </div>
+   
       </body>
     </text>  
   
