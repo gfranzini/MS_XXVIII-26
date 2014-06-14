@@ -550,7 +550,7 @@
       <lb xml:id="fol_13r.1" n="1"/><w part="F">BO</w> <choice><abbr>DI<choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice></abbr><expan>D<ex>E</ex>I</expan></choice> FACTA <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INTER IPSAM ET <w part="I">TENE</w>               
       <lb xml:id="fol_13r.2" n="2"/><w part="F">BRAS</w> <choice><abbr>DS&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> SEPARASSE NARRATUR ET <choice><abbr>EANDE &#772;</abbr><expan>EANDE<ex>M</ex></expan></choice>
       <lb xml:id="fol_13r.3" n="3"/>LUCEM UOCASSE DIEM TENEBRAS AUTEM
-      <lb xml:id="fol_13r.4" n="4"/><choice><abbr>NOCTE &#772;</abbr><expan>NOCTE<ex>M</ex></expan></choice> SED QUALIS ILLA <add place="above">SIT</add> LUX ET QUO <w part="I">ALTER</w> <note type="scholion" place="margin">R quid ... non ....<!--illegible--></note>
+      <lb xml:id="fol_13r.4" n="4"/><choice><abbr>NOCTE &#772;</abbr><expan>NOCTE<ex>M</ex></expan></choice> SED QUALIS ILLA <add place="above">SIT</add> LUX ET QUO <w part="I">ALTER</w> <note type="scholion" place="margin">R&#772; quid ... non ....<!--illegible--></note>
       <lb xml:id="fol_13r.5" n="5"/><w part="F">NANTE</w> MOTU <choice><abbr>QUALEMQ&#183;</abbr><expan>QUALEMQ<ex>UE</ex></expan></choice> UESPERAM ET <w part="I">MA</w>
       <lb xml:id="fol_13r.6" n="6"/>NE FECERIT REMOTUM EST A SENSIBUS <w part="I">NOS</w>
       <lb xml:id="fol_13r.7" n="7"/><w part="F"><supplied reason="lost">TRIS</supplied></w> NEC ITA UT EST INTELLEGI A NOBIS <supplied reason="lost">POT</supplied>EST
@@ -1246,36 +1246,36 @@
    
    <div n="fol_23r" type="edition">
     <ab>
-     <lb xml:id="fol_23r.1" n="1"/><note type="scholion" place="top"><choice><abbr>LIB&#772;.</abbr><expan>LIB<ex>ER</ex></expan></choice> X&#772;I&#772;</note> A QUO EST OMNIS MODUS OMNIS SPE
-     <lb xml:id="fol_23r.2" n="2"/>CIES OMNIS ORDO SINE QUIB<!--ABBR--> NIHIL RERUM<!--MACRON-->
+     <lb xml:id="fol_23r.1" n="1"/><note type="scholion" place="top"><choice><abbr>LIB&#772;.</abbr><expan>LIB<ex>ER</ex></expan></choice> X&#772;I&#772;</note> A QUO EST OMNIS MODUS OMNIS <w part="I">SPE</w>
+     <lb xml:id="fol_23r.2" n="2"/><w part="F">CIES</w> OMNIS ORDO SINE <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> NIHIL <choice><abbr>RERU &#772;</abbr><expan>RERU<ex>M</ex></expan></choice>
      <lb xml:id="fol_23r.3" n="3"/>INUENIRI UEL COGITARI POTEST QUANTO
      <lb xml:id="fol_23r.4" n="4"/>MAGIS ANGELICA CREATURA QUAE OMNIA
-     <lb xml:id="fol_23r.5" n="5"/>CETERA QUAE <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CONDIDIT NATURAE DIGNI
-     <lb xml:id="fol_23r.6" n="6"/>TATE PRAECEDIT; <note type="scholion" subtype="chapter" n="16" place="margin">XVI</note> JN HIS ENIM QUAE QUO
-     <lb xml:id="fol_23r.7" n="7"/>QUO MODO SUNT ET NON SUNT QUOD <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST
-     <lb xml:id="fol_23r.8" n="8"/>A QUO JACTA SUNT PRAEPONUNTUR UIUEN
-     <lb xml:id="fol_23r.9" n="9"/>TJA NON UIUENTIB<!--ABBR--> SICUT EA QUAE HABENT
-     <lb xml:id="fol_23r.10" n="10"/>UI INGIGNENDI UEL ETIAM APPETENDI HIS
-     <lb xml:id="fol_23r.11" n="11"/>
-     <lb xml:id="fol_23r.12" n="12"/>
-     <lb xml:id="fol_23r.13" n="13"/>
-     <lb xml:id="fol_23r.14" n="14"/>
-     <lb xml:id="fol_23r.15" n="15"/>
-     <lb xml:id="fol_23r.16" n="16"/>
-     <lb xml:id="fol_23r.17" n="17"/>
-     <lb xml:id="fol_23r.18" n="18"/>
-     <lb xml:id="fol_23r.19" n="19"/>
-     <lb xml:id="fol_23r.20" n="20"/>
-     <lb xml:id="fol_23r.21" n="21"/>
-     <lb xml:id="fol_23r.22" n="22"/>
-     <lb xml:id="fol_23r.23" n="23"/>
-     <lb xml:id="fol_23r.24" n="24"/>
-     <lb xml:id="fol_23r.25" n="25"/>
-     <lb xml:id="fol_23r.26" n="26"/>
-     <lb xml:id="fol_23r.27" n="27"/>
-     <lb xml:id="fol_23r.28" n="28"/>
-     <lb xml:id="fol_23r.29" n="29"/>
-     <lb xml:id="fol_23r.30" n="30"/>
+     <lb xml:id="fol_23r.5" n="5"/>CETERA QUAE <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CONDIDIT NATURAE <w part="I">DIGNI</w>
+     <lb xml:id="fol_23r.6" n="6"/><w part="F">TATE</w> PRAECEDIT; <note type="scholion" subtype="chapter" n="16" place="margin">XVI</note> JN HIS ENIM QUAE <w part="I">QUO</w>
+     <lb xml:id="fol_23r.7" n="7"/><w part="F">QUO</w> MODO SUNT ET NON SUNT QUOD <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST
+     <lb xml:id="fol_23r.8" n="8"/>A QUO FACTA SUNT PRAEPONUNTUR <w part="I">UIUEN</w>
+     <lb xml:id="fol_23r.9" n="9"/><w part="F">TJA</w> NON <choice><abbr>UIUENTIB&#183;</abbr><expan>UIUENTIB<ex>US</ex></expan></choice> SICUT EA QUAE HABENT
+     <lb xml:id="fol_23r.10" n="10"/>UIM GIGNENDI UEL ETIAM APPETENDI <app><rdg wit="#CSEL40">ADPETENDI</rdg></app> HIS
+     <lb xml:id="fol_23r.11" n="11"/>QUAE ISTO MOTU CARENT ET IN HIS QUAE
+     <lb xml:id="fol_23r.12" n="12"/>UIUUNT PRAEPONUNTUR SENTIENTIA
+     <lb xml:id="fol_23r.13" n="13"/>NON <choice><abbr>SENTIENTIB&#183;</abbr><expan>SENTIENTIB<ex>US</ex></expan></choice> SICUT <choice><abbr>ARBORIB&#183;</abbr><expan>ARBORIB<ex>US</ex></expan></choice> <w part="I">ANIMA</w>
+     <lb xml:id="fol_23r.14" n="14"/><w part="F">LIA</w> ET IN HIS QUAE SENTIUNT <choice><abbr><w part="I">PRAEPONU &#772;</w>
+      <lb xml:id="fol_23r.15" n="15"/><w part="F">TUR</w></abbr><expan>PRAEPONU<ex>N</ex>TUR</expan></choice> INTELLEGENTIA NON <choice><abbr>INTELLEGENTIB&#183;</abbr><expan>INTELLEGENTIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_23r.16" n="16"/>SICUT HOMINES <choice><abbr>PECORIB&#183;</abbr><expan>PECORIB<ex>US</ex></expan></choice> ET IN HIS QUAE
+     <lb xml:id="fol_23r.17" n="17"/>INTELLEGUNT PRAEPONUNTUR <w part="I">IMMOR</w>
+     <lb xml:id="fol_23r.18" n="18"/><w part="F">TALIA</w> <app><rdg wit="#CSEL40">INMORTALIA</rdg></app> <choice><abbr>MORTALIB&#183;</abbr><expan>MORTALIB<ex>US</ex></expan></choice> SICUT ANGELI <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_23r.19" n="19"/>SED ITA PRAEPONUNTUR NATURAE ORDINE
+     <lb xml:id="fol_23r.20" n="20"/>EST AUTEM ALIUS <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ALIUS PRO SUO <w part="I">CUIUS</w>
+     <lb xml:id="fol_23r.21" n="21"/><w part="F">QUE</w> USU ESTIMATIONIS <app><rdg wit="#CSEL40">AESTIMATIONIS</rdg></app> MODUS QUO FIT
+     <lb xml:id="fol_23r.22" n="22"/>UT QUAEDAM SENSU CARENTIA <choice><abbr>QUIBUSDA &#772;</abbr><expan>QUIBUSDA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_23r.23" n="23"/>SENTIENTIBUS PRAEPONAMUS JN <choice><abbr>TANTU &#772;</abbr><expan>TANTU<ex>M</ex></expan></choice> <note type="scholion" place="margin">R&#772; <choice><abbr>qd&#772;</abbr><expan>q<ex>uo</ex>d</expan></choice> si potestas <choice><abbr>ess&#38;</abbr><expan>ess<ex>et</ex></expan></choice></note>
+     <lb xml:id="fol_23r.24" n="24"/>UT SI POTESTAS ESSET EA PRORSUS DE <w part="I">NATU</w>
+     <lb xml:id="fol_23r.25" n="25"/><w part="F">RA</w> RERUM AUFERRE UELLEMUS SIUE <choice><abbr>QUE &#772;</abbr><expan>QUE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_23r.26" n="26"/>IN EA LOCUM HABEANT IGNORANTES SIUE
+     <lb xml:id="fol_23r.27" n="27"/>ETIAM <app><rdg wit="#CSEL40">ETIAMSI</rdg></app> SCIAMUS NOSTRIS EA COMMODIS
+     <lb xml:id="fol_23r.28" n="28"/>POSTPONENTES : QUIS ENIM NON DOMUI <app><rdg wit="#CSEL40">DOMI</rdg></app> <note type="scholion" place="margin">R&#772; mures</note>
+     <lb xml:id="fol_23r.29" n="29"/>SUAE PANEM HABERE QUAM MURES <sic><w part="I">NU</w>
+     <lb xml:id="fol_23r.30" n="30"/><w part="F">MOS</w></sic> <app><rdg wit="#CSEL40">NUMMOS</rdg></app> QUAM PULICES MALIT? SED QUID <w part="I">MI</w>
     </ab> 
    </div>
    
