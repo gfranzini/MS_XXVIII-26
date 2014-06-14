@@ -1043,36 +1043,36 @@
    
    <div n="fol_21r" type="edition">
     <ab>
-     <lb xml:id="fol_21r.1" n="1"/>TE CAECIDISSENT <!--B0H-->
-     <lb xml:id="fol_21r.2" n="2"/>TO EST <!--BOH--> ANGELOS
-     <lb xml:id="fol_21r.3" n="3"/>SANCTOS AETERNA <!--BOH-->
-     <lb xml:id="fol_21r.4" n="4"/>INCERTOS <!--BOH-->
-     <lb xml:id="fol_21r.5" n="5"/>QUOD NOS <!--BOH-->
-     <lb xml:id="fol_21r.6" n="6"/>TAS NOS SE POTUIMUS <!--BOH--> HO <note type="scholion" place="margin">R&#772;</note>
-     <lb xml:id="fol_21r.7" n="7"/>LICUS <!--BOH--> ILLUM NO <!--BOH-->
-     <lb xml:id="fol_21r.8" n="8"/>DIABULUM <!--BOH--> ANGELIS UITERIUS
-     <lb xml:id="fol_21r.9" n="9"/><!--BOH--> SICUT NEQ<!--ABBR--> ISTUM IN SOCIETA
-     <lb xml:id="fol_21r.10" n="10"/>TEM BONORUM ANGELO <!--BOH--> ULETRIUS(?)
-     <lb xml:id="fol_21r.11" n="11"/><!--BOH--> UERITAS QUIPPE IN <!--BOH-->
-     <lb xml:id="fol_21r.12" n="12"/>GELIO SAN<!--BOH--> 
-     <lb xml:id="fol_21r.13" n="13"/>ERUNT <add place="above">A</add>EQUALES ANGELIS DEI<!--ABBR--> QUI <!--BOH--> ET <!--BOH-->
-     <lb xml:id="fol_21r.14" n="14"/>PROMITTITUR QUOD IBUNT <!--BOH--> AE
-     <lb xml:id="fol_21r.15" n="15"/>TERNAM; PORRO AUTEM SIN <!--BOH-->
-     <lb xml:id="fol_21r.16" n="16"/>SUMUS NUMQUAM NOS EXI <!--BOH-->
-     <lb xml:id="fol_21r.17" n="17"/>MORTALI FELICITATE CASUROS ILL <!--BOH-->
-     <lb xml:id="fol_21r.18" n="18"/><!--BOH--> SUNT IAM POTIOR <!--BOH-->
-     <lb xml:id="fol_21r.19" n="19"/>QUALES ERIMUS SED <!--BOH--> NEQUAM <!--BOH-->
-     <lb xml:id="fol_21r.20" n="20"/>UERTIAS FALLITET AEQUALES ET <!--BOH-->
-     <lb xml:id="fol_21r.21" n="21"/>PROFECTO ETIAM IPSI CERTI SUNT <!--BOH-->
-     <lb xml:id="fol_21r.22" n="22"/><!--BOH--> TATIS AETERNA CUIUS ILLI<!--BOH-->
-     <lb xml:id="fol_21r.23" n="23"/>CERTI NON FUERUNT NON ENUM ERA <!--BOH-->
-     <lb xml:id="fol_21r.24" n="24"/><!--BOH--> ORUM AETERNA FELICITAS CUIUS CERTI
-     <lb xml:id="fol_21r.25" n="25"/>ESSENT QUAE FINE <!--BOH--> ERAT HABITURA
-     <lb xml:id="fol_21r.26" n="26"/><!-- BOH --> AUT <!--BOH--> ERINT <!--BOH-->
-     <lb xml:id="fol_21r.27" n="27"/>PARES FUERUNT POST <!--BOH--> RUM RUINA
-     <lb xml:id="fol_21r.28" n="28"/>ILLIS CERTA SCINETIA SU<add place="above">AE</add> SEMPI
-     <lb xml:id="fol_21r.29" n="29"/>TERNAE FELICITATIS ACCESSERIT
-     <lb xml:id="fol_21r.30" n="30"/>NISI FORTE QUIS <!--BOH--> QUO DOMINUS<!--ABBR-->
+     <lb xml:id="fol_21r.1" n="1"/><w part="F">TE</w> CAECIDISSENT <supplied reason="lost">PROCUL DUBIO <w part="I">MUL</w></supplied>
+     <lb xml:id="fol_21r.2" n="2"/><w part="F">TO</w> EST <supplied reason="lost">DURIUS NUNC PUTARE</supplied> ANGELOS
+     <lb xml:id="fol_21r.3" n="3"/>SANCTOS AETERNA<supplied reason="lost">E SUAE BEATITUDINIS</supplied>
+     <lb xml:id="fol_21r.4" n="4"/>INCERTOS <supplied reason="lost">ET IPSOS DE SEMET IPSIS IGNORARE</supplied>
+     <lb xml:id="fol_21r.5" n="5"/>QUOD NOS <supplied reason="lost">DE ILLIS PER SCRIPTURAS <w part="I">SANC</w></supplied>
+     <lb xml:id="fol_21r.6" n="6"/><w part="F">TAS</w> NOSSE POTUIMUS <supplied reason="lost">QUIS ENIM</supplied> <w part="I">CATHO</w> <note type="scholion" place="margin">R&#772;</note>
+     <lb xml:id="fol_21r.7" n="7"/><w part="F">LICUS</w> <supplied reason="lost">CHRISTIANUS IGNORAT NU</supplied>LLUM <choice><abbr>NOUU &#772;</abbr><expan>NOUU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_21r.8" n="8"/>DIABULUM <supplied reason="lost">EX BONIS</supplied> ANGELIS ULERIUS
+     <lb xml:id="fol_21r.9" n="9"/><supplied reason="lost">FUTURUM</supplied> SICUT NEC ISTUM IN <w part="I">SOCIETA</w>
+     <lb xml:id="fol_21r.10" n="10"/><w part="F">TEM</w> BONORUM ANGEL<supplied reason="lost">ORUM</supplied> ULTERIUS
+     <lb xml:id="fol_21r.11" n="11"/><supplied reason="lost">REDITURUM</supplied>; UERITAS QUIPPE IN <supplied reason="lost"><w part="I">EUAN</w></supplied>
+     <lb xml:id="fol_21r.12" n="12"/><w part="F">GELIO</w> SAN<supplied reason="lost">CTIS FIDELIBUSQUE PROMITTIT QUOD</supplied> 
+     <lb xml:id="fol_21r.13" n="13"/>ERUNT <add place="above">A</add>EQUALES ANGELIS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUI<supplied reason="lost">BUS</supplied> ET<supplied reason="lost">IAM</supplied>
+     <lb xml:id="fol_21r.14" n="14"/>PROMITTITUR QUOD IBUNT <supplied reason="lost">IN UITAM</supplied> <w part="I">AE</w>
+     <lb xml:id="fol_21r.15" n="15"/><w part="F">TERNAM</w>; PORRO AUTEM SI N<supplied reason="lost">OS CERTI</supplied>
+     <lb xml:id="fol_21r.16" n="16"/>SUMUS NUMQUAM NOS EX I<supplied reason="lost">LLA <w part="I">IN</w></supplied>
+     <lb xml:id="fol_21r.17" n="17"/><w part="F">MORTALI</w> FELICITATE CASUROS ILL<supplied reason="lost">I UERO</supplied> 
+     <lb xml:id="fol_21r.18" n="18"/><supplied reason="lost">CERTI NON</supplied> SUNT IAM POTIOR<supplied reason="lost">ES NON <w part="I">AE</w></supplied>
+     <lb xml:id="fol_21r.19" n="19"/><w part="F">QUALES</w> ERIMUS <app><rdg wit="#CSEL40">EIS ERIMUS</rdg></app> SED <supplied reason="lost">QUIA</supplied> NEQUA<supplied reason="lost">QUAM</supplied>
+     <lb xml:id="fol_21r.20" n="20"/>UERTIAS FALLIT ET AEQUALES E<supplied reason="lost">IS ERIMUS</supplied>
+     <lb xml:id="fol_21r.21" n="21"/>PROFECTO ETIAM IPSI CERTI SUNT <supplied reason="lost">SUAE <w part="I">FE</w></supplied>
+     <lb xml:id="fol_21r.22" n="22"/><w part="F"><supplied reason="lost">LICI</supplied>TATIS</w> AETERNAE CUIUS ILLI <supplied reason="lost">ALII QUIA</supplied>
+     <lb xml:id="fol_21r.23" n="23"/>CERTI NON FUERUNT NON ENIM ERA<supplied reason="lost">T</supplied>
+     <lb xml:id="fol_21r.24" n="24"/>EORUM AETERNA FELICITAS CUIUS CERTI
+     <lb xml:id="fol_21r.25" n="25"/>ESSENT QUAE FINE<supplied reason="lost">M FU</supplied>ERAT HABITURA
+     <lb xml:id="fol_21r.26" n="26"/><supplied reason="lost">RESTAT UT</supplied> AUT <supplied reason="lost">INPARES FU</supplied>ERINT <supplied reason="lost">AUT SI</supplied>      
+     <lb xml:id="fol_21r.27" n="27"/>PARES FUERUNT POST <supplied reason="lost">ISTO</supplied>RUM RUINA <app><rdg wit="#CSEL40">RUINAM</rdg></app>
+     <lb xml:id="fol_21r.28" n="28"/>ILLIS CERTA SCIENTIA SU<add place="above">AE</add> <w part="I">SEMPI</w>
+     <lb xml:id="fol_21r.29" n="29"/><w part="F">TERNAE</w> FELICITATIS ACCESSERIT
+     <lb xml:id="fol_21r.30" n="30"/>NISI FORTE QUIS <supplied reason="lost">DICAT ID</supplied> QUO <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>
     </ab> 
    </div>
    
