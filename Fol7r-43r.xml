@@ -181,21 +181,80 @@
    </div> 
    
    
-   <div n="fol_8r" type="edition">
-    <!-- illegible-->
+   <div n="fol_8r" type="edition"> <!-- damaged-->
+    <ab>
+     <lb xml:id="fol_8r.1" n="1"/>
+     <lb xml:id="fol_8r.2" n="2"/> 
+     <lb xml:id="fol_8r.3" n="3"/>
+     <lb xml:id="fol_8r.4" n="4"/>
+     <lb xml:id="fol_8r.5" n="5"/>
+     <lb xml:id="fol_8r.6" n="6"/>
+     <lb xml:id="fol_8r.7" n="7"/>
+     <lb xml:id="fol_8r.8" n="8"/>
+     <lb xml:id="fol_8r.9" n="9"/>
+     <lb xml:id="fol_8r.10" n="10"/>
+     <lb xml:id="fol_8r.11" n="11"/>
+     <lb xml:id="fol_8r.12" n="12"/>
+     <lb xml:id="fol_8r.13" n="13"/>
+     <lb xml:id="fol_8r.14" n="14"/>
+     <lb xml:id="fol_8r.15" n="15"/>
+     <lb xml:id="fol_8r.16" n="16"/>
+     <lb xml:id="fol_8r.17" n="17"/>
+     <lb xml:id="fol_8r.18" n="18"/>
+     <lb xml:id="fol_8r.19" n="19"/>
+     <lb xml:id="fol_8r.20" n="20"/>
+     <lb xml:id="fol_8r.21" n="21"/>
+     <lb xml:id="fol_8r.22" n="22"/>
+     <lb xml:id="fol_8r.23" n="23"/>
+     <lb xml:id="fol_8r.24" n="24"/>
+     <lb xml:id="fol_8r.25" n="25"/>
+     <lb xml:id="fol_8r.26" n="26"/>
+     <lb xml:id="fol_8r.27" n="27"/>
+     <lb xml:id="fol_8r.28" n="28"/>
+     <lb xml:id="fol_8r.29" n="29"/>
+     <lb xml:id="fol_8r.30" n="30"/>
+    </ab>
    </div>
   
    
-   <div n="fol_8v" type="edition">
-    <div type="textpart">
-     <p>+ hic est enim mediator...</p> <!-- illegible scholion-->
-     <!-- illegible-->
-    </div> 
+   <div n="fol_8v" type="edition"> <!-- damaged-->
+     <note type="scholion" place="top">+ hic est enim mediator...</note> <!-- illegible scholion-->
+    <ab>
+     <lb xml:id="fol_8v.1" n="1"/>
+     <lb xml:id="fol_8v.2" n="2"/> 
+     <lb xml:id="fol_8v.3" n="3"/>
+     <lb xml:id="fol_8v.4" n="4"/>
+     <lb xml:id="fol_8v.5" n="5"/>
+     <lb xml:id="fol_8v.6" n="6"/>
+     <lb xml:id="fol_8v.7" n="7"/>
+     <lb xml:id="fol_8v.8" n="8"/>
+     <lb xml:id="fol_8v.9" n="9"/>
+     <lb xml:id="fol_8v.10" n="10"/>
+     <lb xml:id="fol_8v.11" n="11"/>
+     <lb xml:id="fol_8v.12" n="12"/>
+     <lb xml:id="fol_8v.13" n="13"/>
+     <lb xml:id="fol_8v.14" n="14"/>
+     <lb xml:id="fol_8v.15" n="15"/>
+     <lb xml:id="fol_8v.16" n="16"/>
+     <lb xml:id="fol_8v.17" n="17"/>
+     <lb xml:id="fol_8v.18" n="18"/>
+     <lb xml:id="fol_8v.19" n="19"/>
+     <lb xml:id="fol_8v.20" n="20"/>
+     <lb xml:id="fol_8v.21" n="21"/>
+     <lb xml:id="fol_8v.22" n="22"/>
+     <lb xml:id="fol_8v.23" n="23"/>
+     <lb xml:id="fol_8v.24" n="24"/>
+     <lb xml:id="fol_8v.25" n="25"/>
+     <lb xml:id="fol_8v.26" n="26"/>
+     <lb xml:id="fol_8v.27" n="27"/>
+     <lb xml:id="fol_8v.28" n="28"/>
+     <lb xml:id="fol_8v.29" n="29"/>
+     <lb xml:id="fol_8v.30" n="30"/>
+    </ab> 
    </div>
    
    
    <div n="fol_9r" type="edition">
-   
     <ab>
      <lb xml:id="fol_9r.1" n="1"/><w part="F">TRIS</w> QUONIAM NOSTRO TESTIMONIO <w part="I">SCI</w>  
      <lb xml:id="fol_9r.2" n="2"/><w part="F">RE</w> NON POSSUMUS DE HIS ALIOS TESTES
