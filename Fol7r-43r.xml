@@ -119,8 +119,8 @@
      <lb xml:id="fol_7r.6" n="6"/><w part="F">NERA</w> INGENIORUM UMANORUM DIUI<supplied reason="lost">NA</supplied>
      <lb xml:id="fol_7r.7" n="7"/>EXCELLENS AUCTORITATE SUBIECIT. IBI <w part="I">QU<supplied reason="lost">IP</supplied></w>
      <lb xml:id="fol_7r.8" n="8"/><w part="F">PE</w> SCRIBTUM EST <quote>GLORIOSA DICTA SUNT DE <supplied reason="lost">TE</supplied></quote>
-     <lb xml:id="fol_7r.9" n="9"/>CIUITAS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>ET IN ALIO PSALMO LEGITUR<w part="I"><supplied reason="lost">MAG</supplied></w>
-     <lb xml:id="fol_7r.10" n="10"/><w part="F">NUS</w><choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> ET LAUDABILIS NIMIS IN CIUITATE <supplied reason="lost"><choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice></supplied>
+     <lb xml:id="fol_7r.9" n="9"/>CIUITAS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> ET IN ALIO PSALMO LEGITUR<w part="I"> <supplied reason="lost">MAG</supplied></w>
+     <lb xml:id="fol_7r.10" n="10"/><w part="F">NUS</w> <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> ET LAUDABILIS NIMIS IN CIUITATE <supplied reason="lost"><choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice></supplied>
      <lb xml:id="fol_7r.11" n="11"/>NOSTRI IN MONTE SANCTO EIUS DILATANS <w part="I">EX<supplied reason="lost">UL</supplied></w>
      <lb xml:id="fol_7r.12" n="12"/><w part="F">TATIONI<add place="above">S</add></w> UNIVERSAE TERRAE ET PAULO POST IN
      <lb xml:id="fol_7r.13" n="13"/>EODEM PSALMO SICUT AUDIUIMUS ITA ET <w part="I">UI<supplied reason="lost">DI</supplied></w>
@@ -1282,36 +1282,36 @@
    
    <div n="fol_23v" type="edition">
     <ab>
-     <lb xml:id="fol_23v.1" n="1"/>
-     <lb xml:id="fol_23v.2" n="2"/> 
-     <lb xml:id="fol_23v.3" n="3"/>
-     <lb xml:id="fol_23v.4" n="4"/>
-     <lb xml:id="fol_23v.5" n="5"/>
-     <lb xml:id="fol_23v.6" n="6"/>
-     <lb xml:id="fol_23v.7" n="7"/>
-     <lb xml:id="fol_23v.8" n="8"/>
-     <lb xml:id="fol_23v.9" n="9"/>
-     <lb xml:id="fol_23v.10" n="10"/>
-     <lb xml:id="fol_23v.11" n="11"/>
-     <lb xml:id="fol_23v.12" n="12"/>
-     <lb xml:id="fol_23v.13" n="13"/>
-     <lb xml:id="fol_23v.14" n="14"/>
-     <lb xml:id="fol_23v.15" n="15"/>
-     <lb xml:id="fol_23v.16" n="16"/>
-     <lb xml:id="fol_23v.17" n="17"/>
-     <lb xml:id="fol_23v.18" n="18"/>
-     <lb xml:id="fol_23v.19" n="19"/>
-     <lb xml:id="fol_23v.20" n="20"/>
-     <lb xml:id="fol_23v.21" n="21"/>
-     <lb xml:id="fol_23v.22" n="22"/>
-     <lb xml:id="fol_23v.23" n="23"/>
-     <lb xml:id="fol_23v.24" n="24"/>
-     <lb xml:id="fol_23v.25" n="25"/>
-     <lb xml:id="fol_23v.26" n="26"/>
-     <lb xml:id="fol_23v.27" n="27"/>
-     <lb xml:id="fol_23v.28" n="28"/>
-     <lb xml:id="fol_23v.29" n="29"/>
-     <lb xml:id="fol_23v.30" n="30"/>
+     <lb xml:id="fol_23v.1" n="1"/><w part="F">RUM</w> <supplied reason="lost">CUM IN</supplied> IPSORUM ETIAM HOMI
+     <lb xml:id="fol_23v.2" n="2"/>NUM <supplied reason="lost">AESTIMATIONE</supplied> QUORUM CERTE NA
+     <lb xml:id="fol_23v.3" n="3"/>TURA TANTAE EST DIGNITATIS PLERUMQ<!--ABBR-->
+     <lb xml:id="fol_23v.4" n="4"/>CARIUS CONPARETUR EQ<add place="above">U</add>US QUAM SERUUS
+     <lb xml:id="fol_23v.5" n="5"/>GEMMA QUAM FAMULA? ITA LIBE<add place="above">R</add>TATE EIU
+     <lb xml:id="fol_23v.6" n="6"/>DICANDI PLURIMUM DISTAT RATIO CONSI
+     <lb xml:id="fol_23v.7" n="7"/>DERANTIS A NECESSITATEM INDIGENTIS SEU
+     <lb xml:id="fol_23v.8" n="8"/>UOLUNTATE CUPIENTIS CUM ISTA QUID
+     <lb xml:id="fol_23v.9" n="9"/>PER SE IPSUM IN RERUM GRADIB<!--ABBR--> PENDAT
+     <lb xml:id="fol_23v.10" n="10"/>NECESSITAS AUTEM QUID PROPTER QUID
+     <lb xml:id="fol_23v.11" n="11"/>EXPETAT COGITAT ET ISTA QUID UERUM
+     <lb xml:id="fol_23v.12" n="12"/>LUCI MENTIS APPAREAT UOLUPTAS UERO
+     <lb xml:id="fol_23v.13" n="13"/>QUI DIUCUNDUM CORPORI SENSIBUS
+     <lb xml:id="fol_23v.14" n="14"/>BLANDIATUR EXPECTAT SED TANTUM UALET
+     <lb xml:id="fol_23v.15" n="15"/>IN NATURIS RATIONALIBUS QUODDAM UEL
+     <lb xml:id="fol_23v.16" n="16"/><!--BOH--> PONDUS UOLUNTATIS EI AMORIS UT
+     <lb xml:id="fol_23v.17" n="17"/>CUM ORDINE NATURAE ANGELI HOMINIB<!--ABBR-->
+     <lb xml:id="fol_23v.18" n="18"/>TAMEN LEGI IUSTITIAE BONI HOMINES MA
+     <lb xml:id="fol_23v.19" n="19"/>LIS ANGELIS PRAEFERANTUR <!--THREE DOT GROUP--> PROPTER
+     <lb xml:id="fol_23v.20" n="20"/>NATURAM IGITUR NON PROPTER MALITIAM<!--M-->
+     <lb xml:id="fol_23v.21" n="21"/>DIABOLI DICTUM RECTE INTELLEGIMUS
+     <lb xml:id="fol_23v.22" n="22"/>HOC EST INITIUM FIGMENTI DOMINI<!--ABBR--> QUIA SI
+     <lb xml:id="fol_23v.23" n="23"/>NE DUBIO UBI ESSET UITIUM MALITIAE
+     <lb xml:id="fol_23v.24" n="24"/>NATURA NON UITIATA PRAECESSIT UITIUM<!--M-->
+     <lb xml:id="fol_23v.25" n="25"/>AUTEM ITA CONTRA NATURAM EST UT NON
+     <lb xml:id="fol_23v.26" n="26"/>POSSIT NISI NOCERE NATURAE NON ITA
+     <lb xml:id="fol_23v.27" n="27"/>QUE ESSET UITIUM RECEDERE A DEO <!--ABBR--> NISI
+     <lb xml:id="fol_23v.28" n="28"/>NATURAE CUIUS <del rend="strikethrough">ALI</del> ID UITIUM EST POTIUS  
+     <lb xml:id="fol_23v.29" n="29"/>COMPETERE ET ESSE CUM DEO <!--ABBR--> QUA PROPTER
+     <lb xml:id="fol_23v.30" n="30"/>ETIAM UOLUNTAS MALA GRANDE <w part="I">TESTIMO</w>
     </ab> 
    </div>
    
