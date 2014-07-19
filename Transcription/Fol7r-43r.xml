@@ -39,6 +39,7 @@
    
    <sourceDesc>
     <msDesc>
+    
      <msIdentifier>
       <settlement>Verona</settlement>
       <repository>Biblioteca Capitolare</repository>
@@ -48,7 +49,6 @@
      <msContents>
       <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
      </msContents>
-     
      
      <physDesc>
       <objectDesc form="codex">
@@ -80,11 +80,13 @@
        </p>
       </origin>
      </history>
-     
     </msDesc>
+ 
+    
    </sourceDesc>
+
+   
   </fileDesc>
-  
   
   <encodingDesc>
    <p>The following text was encoded in accordance with EpiDoc standards and with the
@@ -97,7 +99,6 @@
    </langUsage>
   </profileDesc>
   
-  
  </teiHeader>
     
  
@@ -109,7 +110,7 @@
    </head>
    
    <div n="fol_7r" type="edition">
-    <ab>
+   <ab>
           <!--  monogram of christ -->
      <lb xml:id="fol_7r.1" n="1"/>CIUITATEM<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> DICIMUS CUIUS EA <w part="I">SCRIB</w>
      <lb xml:id="fol_7r.2" n="2"/><w part="F">TURA</w> <app><rdg wit="#CSEL40">SCRIPTURA</rdg></app> TESTIS EST QUAE NON FORTUITIS <w part="I">MO</w>
@@ -1314,6 +1315,80 @@
      <lb xml:id="fol_23v.30" n="30"/>ETIAM UOLUNTAS MALA GRANDE <w part="I">TESTIMO</w>
     </ab> 
    </div>
+   
+   
+   <div n="fol_24r" type="edition">
+    <ab>
+     <lb xml:id="fol_24r.1" n="1"/><w part="F">NIUM</w> EST NATURAE <!--BOH-->
+     <lb xml:id="fol_24r.2" n="2"/>CUT NATURARUM BONA <!--BOH-->
+     <lb xml:id="fol_24r.3" n="3"/>CREATOR EST ITA MALARUM UOLUNT <!--BOH-->
+     <lb xml:id="fol_24r.4" n="4"/>IUSTISSIMUS ORDINATOR UT <!--BOH-->
+     <lb xml:id="fol_24r.5" n="5"/>MALEUNTUR NATURIS BONIS <!--BOH-->
+     <lb xml:id="fol_24r.6" n="6"/>UTATUR ETIAM UOLUNTATIS MAL<!--BOH-->
+     <lb xml:id="fol_24r.7" n="7"/>ITAQ<!--ABBR--> FECITUR DIABOLUS INSTITUTIONE ILLUS<!--LIGATURE-->
+     <lb xml:id="fol_24r.8" n="8"/>BONUS UOLUNTATE SUA MALUS IN <w part="I">INFERIO</w>
+     <lb xml:id="fol_24r.9" n="9"/><w part="F">RIBUS</w> ORDINATUS INLUDERETUR AB AN<!--ABBR-->
+     <lb xml:id="fol_24r.10" n="10"/>GELIS EIUS ID EST UT PROSINT TEMTATIONES <!--SIC-->
+     <lb xml:id="fol_24r.11" n="11"/>EIUS SANCTIS QUIBUS EAS OBE ESSE <w part="I">DESIDE</w>
+     <lb xml:id="fol_24r.12" n="12"/><w part="F">RAT</w><!--THREE DOT GROUP--> ET QUONIAM DEUS <!--ABBR--> CUM EUM CONDERET
+     <lb xml:id="fol_24r.13" n="13"/>FUTURAE MALIGNITATIS EIUS NON ERAT UTI
+     <lb xml:id="fol_24r.14" n="14"/>QU<add place="above">E</add>M <del rend="strikethrough">UT</del> IGNARUS ET PRAEUIDEBAT QUAE
+     <lb xml:id="fol_24r.15" n="15"/>BONA DE MALO EIUS ESSET IPSE FACTURUS
+     <lb xml:id="fol_24r.16" n="16"/>PROPTEREA PSALMUS AIT DRACHO HIC QUE
+     <lb xml:id="fol_24r.17" n="17"/>FINXISTI AD INLUDENDUM EI UT IN EO IPSO
+     <lb xml:id="fol_24r.18" n="18"/>QUO DEUM FINXIT LICET PER SUAM <w part="I">BONI</w>
+     <lb xml:id="fol_24r.19" n="19"/><w part="F">TATEM</w> BONUM IMA PER SUAM PRAESCIEN<!--ABBR-->
+     <lb xml:id="fol_24r.20" n="20"/>TIAM PRAEPARASSE INTELLEGATUR <w part="I">QUOMO</w>
+     <lb xml:id="fol_24r.21" n="21"/><w part="F">DO</w> ILLO UTERETUR ET MALO NEQUE<!--ABBR--> ENIM
+     <lb xml:id="fol_24r.22" n="22"/>DEUS<!--ABBR--> ULLUM NON DICO ANGELORUM SED UEL
+     <lb xml:id="fol_24r.23" n="23"/>HOMINUM CREARET QUEM MALUM <w part="I">FU</w>
+     <lb xml:id="fol_24r.24" n="24"/><w part="F">TURUM</w> ESSE PRAESCISSET NISI PARITER
+     <lb xml:id="fol_24r.25" n="25"/>NOSSET QUIB<!--ABBR--> EOS BONORUM USIBUS<!--ABBR--> <w part="I">COM</w>
+     <lb xml:id="fol_24r.26" n="26"/><w part="F">MODARET</w> ATQ<!--ABBR--> ITA ORDINEM SAECULORUM<!--ABBR-->
+     <lb xml:id="fol_24r.27" n="27"/>TAMQUE<!--CORR--> PULCHERRIMUM CARMEN ETIAM<!--ABBR-->
+     <lb xml:id="fol_24r.28" n="28"/>EX QUIBUS<!--ABBR-->DAM QUASI ANTITHETIS HONESTARET
+     <lb xml:id="fol_24r.29" n="29"/>ANTITHETA ENIM QUAE APPELLANTUR IN <w part="I">OR</w>
+     <lb xml:id="fol_24r.30" n="30"/><w part="F">NAMENTIS</w> ELOCUTIONIS SUNT DECENTIS 
+     
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_24v" type="edition">
+    <ab>
+     <lb xml:id="fol_24v.1" n="1"/>SI <!--BOH--> QUAE LATINE UT APPELLENTUR
+     <lb xml:id="fol_24v.2" n="2"/>OPPOSITA UEL QUA<!--BOH--> PRAESSIUS DICITUR
+     <lb xml:id="fol_24v.3" n="3"/>CONTRA POSITA NON EST APUD NOS HUIUS
+     <lb xml:id="fol_24v.4" n="4"/>UOCABULI CONSUETUDO CUM TAMEN
+     <lb xml:id="fol_24v.5" n="5"/>EISDEM ORNAMENTIS LOCUTIONIS ETIAM
+     <lb xml:id="fol_24v.6" n="6"/>SERMO LATINUS UTATUR IMMO LINGUAE
+     <lb xml:id="fol_24v.7" n="7"/>OMNIUM GENTIUM HIS ANTITHETIS<!--BOH-->
+     <lb xml:id="fol_24v.8" n="8"/>PAULUS APOSTOLUS IN SECUNDA AD CORIN
+     <lb xml:id="fol_24v.9" n="9"/>THEOS EPISTULA ILLUM LOCUM SUAUITER 
+     <lb xml:id="fol_24v.10" n="10"/>EXPLICAT UBI DICIT PER ARMA IUSTITIAE
+     <lb xml:id="fol_24v.11" n="11"/>DEXTRA ET SINISTRA PER GLORIAM ET IGNOBI
+     <lb xml:id="fol_24v.12" n="12"/>LITATUM PER INFAMIMAM ET BONAM FAMAM<!--ABBR-->
+     <lb xml:id="fol_24v.13" n="13"/>UT SEDUCTORES ET UERACES UT QUI IGNORA
+     <lb xml:id="fol_24v.14" n="14"/>MUR ET COGNOSCIMUR QUASI MORIENTES
+     <lb xml:id="fol_24v.15" n="15"/>ET EO <!--BOH--> UIUIMUS UT COHERCITI ET NON MOR
+     <lb xml:id="fol_24v.16" n="16"/>TIFICATI UT TRISTES SEMPER AUTEM GAUDEN<!--ABBR-->
+     <lb xml:id="fol_24v.17" n="17"/>TES SICUT E GENI MULTUS AUTEM DITANTES 
+     <lb xml:id="fol_24v.18" n="18"/>TAMQUAM NOHIL HABENTES ET OMNIA POSSI
+     <lb xml:id="fol_24v.19" n="19"/>DENTES SICUT ERGO JSTA CONTRARIA CON<!--ABBR-->
+     <lb xml:id="fol_24v.20" n="20"/>TRARIIS OPPOSSITA <!--SIC--> SERMONIS PULCRITUDINE <!--SIC-->
+     <lb xml:id="fol_24v.21" n="21"/>REDDUNT ITA QUADAM NON UERBORUM
+     <lb xml:id="fol_24v.22" n="22"/>SED RERUM ELOQUENTIA CONTRARIORUM
+     <lb xml:id="fol_24v.23" n="23"/>OPPOSITIONE SAECULI PULCHRITUDO CONPO
+     <lb xml:id="fol_24v.24" n="24"/>NITUR APERTISSIME HOC POSITUM EST
+     <lb xml:id="fol_24v.25" n="25"/>IN LIBRO ECCLESIASTICO ISTO MODO CONTRA
+     <lb xml:id="fol_24v.26" n="26"/>MALUM BONUM EST ET CONTRA MORTEM
+     <lb xml:id="fol_24v.27" n="27"/>UITA SIC CONTRARIUM PECCATOR ET SIC IN
+     <lb xml:id="fol_24v.28" n="28"/>TUERE IN OMNIA OPERA ALTISSIMI 
+     <lb xml:id="fol_24v.29" n="29"/>
+     <lb xml:id="fol_24v.30" n="30"/>
+    </ab> 
+   </div>
+   
    
       </body>
     </text>  
