@@ -1392,36 +1392,36 @@
    
    <div n="fol_25r" type="edition">
     <ab>
-     <lb xml:id="fol_25r.1" n="1"/>
-     <lb xml:id="fol_25r.2" n="2"/> 
-     <lb xml:id="fol_25r.3" n="3"/>
-     <lb xml:id="fol_25r.4" n="4"/>
-     <lb xml:id="fol_25r.5" n="5"/>
-     <lb xml:id="fol_25r.6" n="6"/>
-     <lb xml:id="fol_25r.7" n="7"/>
-     <lb xml:id="fol_25r.8" n="8"/>
-     <lb xml:id="fol_25r.9" n="9"/>
-     <lb xml:id="fol_25r.10" n="10"/>
-     <lb xml:id="fol_25r.11" n="11"/>
-     <lb xml:id="fol_25r.12" n="12"/>
-     <lb xml:id="fol_25r.13" n="13"/>
-     <lb xml:id="fol_25r.14" n="14"/>
-     <lb xml:id="fol_25r.15" n="15"/>
-     <lb xml:id="fol_25r.16" n="16"/>
-     <lb xml:id="fol_25r.17" n="17"/>
-     <lb xml:id="fol_25r.18" n="18"/>
-     <lb xml:id="fol_25r.19" n="19"/>
-     <lb xml:id="fol_25r.20" n="20"/>
-     <lb xml:id="fol_25r.21" n="21"/>
-     <lb xml:id="fol_25r.22" n="22"/>
-     <lb xml:id="fol_25r.23" n="23"/>
-     <lb xml:id="fol_25r.24" n="24"/>
-     <lb xml:id="fol_25r.25" n="25"/>
-     <lb xml:id="fol_25r.26" n="26"/>
-     <lb xml:id="fol_25r.27" n="27"/>
-     <lb xml:id="fol_25r.28" n="28"/>
-     <lb xml:id="fol_25r.29" n="29"/>
-     <lb xml:id="fol_25r.30" n="30"/>
+     <lb xml:id="fol_25r.1" n="1"/>AD HOC SIT UTILIS QUOD PLURES <w part="I">SENTEN</w>
+     <lb xml:id="fol_25r.2" n="2"/><w part="F">TIAS</w> UERITATIS PARIT ET IN LUCEM NOTITIAE
+     <lb xml:id="fol_25r.3" n="3"/>PRODUCIT DUM ALIUS EUM SIC ALIUS SIC <w part="I">IN</w>
+     <lb xml:id="fol_25r.4" n="4"/><w part="F">TELLEGIT</w> ITA TAMEN UT QUOD IN OBSCURO
+     <lb xml:id="fol_25r.5" n="5"/>LOCO INTELLEGITUR UEL ATTESTATIONE <app><rdg wit="#CSEL40">ADTESTATIONE</rdg></app> <w part="I">RE</w>
+     <lb xml:id="fol_25r.6" n="6"/><w part="F">RUM</w> MANIFESTARUM UEL ALIIS LOCIS <w part="I">MINI</w>
+     <lb xml:id="fol_25r.7" n="7"/><w part="F">ME</w> DUBIIS ASSERATUR <app><rdg wit="#CSEL40">ADSERATUR</rdg></app> SIUE CUM MULTA 
+     <lb xml:id="fol_25r.8" n="8"/>TRACTANTUR AD ID <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> PERUENIATUR
+     <lb xml:id="fol_25r.9" n="9"/>QUOD SENSIT ILLE QUI SCRIBSIT <app><rdg wit="#CSEL40">SCRIPSIT</rdg></app> SIUE ID <w part="I">LA</w>
+     <lb xml:id="fol_25r.10" n="10"/><w part="F">TEAT</w> SED EX OCCASIONE TRACTANDAE <w part="I">PRO</w>
+     <lb xml:id="fol_25r.11" n="11"/><w part="F">FUNDAE</w> OBSCURITATIS ALIA QUAEDAM
+     <lb xml:id="fol_25r.12" n="12"/><choice><sic><del rend="strikethrough">B</del>ERA</sic><corr>UERA</corr></choice> DICANTUR NON MIHI UIDETUR <supplied reason="lost">AB</supplied>
+     <lb xml:id="fol_25r.13" n="13"/>OPERIBUS DEI <choice><sic>ABS<del rend="strikethrough">O</del>RDA</sic><corr>ABSURDA</corr></choice> SENTENTIA SI CUM&#772;
+     <lb xml:id="fol_25r.14" n="14"/>LUX PRIMA ILLA FACTA EST ANGELI CREATI <w part="I">IN</w>
+     <lb xml:id="fol_25r.15" n="15"/><w part="F">TELLEGUNTUR</w> INTER SANCTOS ANGELOS ET
+     <lb xml:id="fol_25r.16" n="16"/>INMUNDOS FUISSE DISCRETUM UBI <choice><abbr>DICTU &#772;</abbr><expan>DICTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_25r.17" n="17"/>EST ET DIUISIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> INTER LUCEM ET TENEBRAS
+     <lb xml:id="fol_25r.18" n="18"/>ET UOCAUIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; LUCEM DIEM ET TENEBRAS
+     <lb xml:id="fol_25r.19" n="19"/>UOCAUIT NOCTEM SOLUS QUIPPE ILLE ISTA
+     <lb xml:id="fol_25r.20" n="20"/>DISCERNERE POTUIT QUI POTUIT ETIAM <w part="I">PRIUS</w> <app><note>US ligature is found in the word PRIUSQUAM</note></app>
+     <lb xml:id="fol_25r.21" n="21"/><w part="F">QUAM</w> CADERENT PRAESCIRE CASUROS
+     <lb xml:id="fol_25r.22" n="22"/>ET PRIUATOS LUMINE UERITATIS IN <w part="I">TENE</w>
+     <lb xml:id="fol_25r.23" n="23"/><w part="F">BROSA</w> SUPERBIA REMANSUROS &#183; NAM <w part="I">IN</w> 
+     <lb xml:id="fol_25r.24" n="24"/><w part="F">TER</w> ISTUM NOBIS NOTISSIMUM DIEM ET
+     <lb xml:id="fol_25r.25" n="25"/>NOCTEM ID EST INTER HANC LUCEM ET HAS
+     <lb xml:id="fol_25r.26" n="26"/>TENEBRAS <sic>UULGATISSIMAS</sic> <app><rdg wit="#CSEL40">UULGATISSIMA</rdg></app> <choice><abbr>SENSIB;</abbr><expan>SENSIB<ex>US</ex></expan></choice> <w part="I">NOS</w>
+     <lb xml:id="fol_25r.27" n="27"/><w part="F">TRIS</w> LUMINARIA CAELI UT DIUIDERENT <w part="I">IM</w>
+     <lb xml:id="fol_25r.28" n="28"/><w part="F">PERAUIT</w> FIANT INQUIT LUMINARIA IN
+     <lb xml:id="fol_25r.29" n="29"/>FIRMAMENTO CAELI UT LUCEANT SUPER <w part="I">TER</w>
+     <lb xml:id="fol_25r.30" n="30"/><w part="F">RAM</w> ET DIUIDANT INTER DIEM ET NOCTEM
     </ab> 
    </div>
    
