@@ -1291,7 +1291,7 @@
      <lb xml:id="fol_23v.6" n="6"/><w part="F">DICANDI</w> PLURIMUM DISTAT RATIO <w part="I">CONSI</w>
      <lb xml:id="fol_23v.7" n="7"/><w part="F">DERANTIS</w> A NECESSITATE INDIGENTIS SEU
      <lb xml:id="fol_23v.8" n="8"/>UOLUNTATE <app><rdg wit="#CSEL40">UOLUPTATE</rdg></app> CUPIENTIS CUM ISTA QUID
-     <lb xml:id="fol_23v.9" n="9"/>PER SE IPSUM IN RERUM <choice><abbr>GRADIB</abbr><expan>GRADIB<ex>US</ex></expan></choice> PENDAT
+     <lb xml:id="fol_23v.9" n="9"/>PER SE IPSUM IN RERUM <choice><abbr>GRADIB&#183;</abbr><expan>GRADIB<ex>US</ex></expan></choice> PENDAT
      <lb xml:id="fol_23v.10" n="10"/>NECESSITAS AUTEM QUID PROPTER QUID
      <lb xml:id="fol_23v.11" n="11"/>EXPETAT COGITAT ET ISTA QUID UERUM
      <lb xml:id="fol_23v.12" n="12"/>LUCI MENTIS APPAREAT UOLUPTAS UERO
@@ -1299,7 +1299,7 @@
      <lb xml:id="fol_23v.14" n="14"/>BLANDIATUR EXPECTAT SED TANTUM UALET
      <lb xml:id="fol_23v.15" n="15"/>IN NATURIS RATIONALIBUS QUODDAM <w part="I">UEL</w>
      <lb xml:id="fol_23v.16" n="16"/><supplied reason="lost"><w part="F">UTI</w></supplied> PONDUS UOLUNTATIS ET AMORIS UT
-     <lb xml:id="fol_23v.17" n="17"/>CUM ORDINE NATURAE ANGELI <choice><abbr>HOMINIB</abbr><expan>HOMINIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_23v.17" n="17"/>CUM ORDINE NATURAE ANGELI <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice>
      <lb xml:id="fol_23v.18" n="18"/>TAMEN LEGI IUSTITIAE BONI HOMINES <w part="I">MA</w>
      <lb xml:id="fol_23v.19" n="19"/><note type="scholion" place="margin"><choice><abbr>&#42835;&#772;p&#772;</abbr><expan><ex>pro</ex>p<ex>terea</ex></expan></choice> <choice><abbr>natura&#772;</abbr><expan>natura<ex>m</ex></expan></choice> <choice><abbr>d&#383;&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> <choice><abbr>initiu&#772;</abbr><expan>initiu<ex>m</ex></expan></choice> <choice><abbr>figm&#772;ti</abbr><expan>figm<ex>en</ex>ti</expan></choice> <choice><abbr>d&#772;n&#772;i&#772;</abbr><expan>d<ex>omi</ex>ni</expan></choice> <choice><abbr>n&#772;</abbr><expan>n<ex>ostri</ex></expan></choice> <choice><abbr>p&#772;p&#772;</abbr><expan>p<ex>ro</ex>p<ex>ter</ex></expan></choice> <choice><abbr>malitia&#772;</abbr><expan>malitia<ex>m</ex></expan></choice> diaboli</note><w part="F">LIS</w> ANGELIS PRAEFERANTUR <!--three dot group marking beginning of chapter 17--> PROPTER
      <lb xml:id="fol_23v.20" n="20"/>NATURAM IGITUR NON PROPTER <choice><abbr>MALITIA &#772;</abbr><expan>MALITIA<ex>M</ex></expan></choice>
@@ -1343,7 +1343,7 @@
      <lb xml:id="fol_24r.22" n="22"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> ULLUM NON DICO ANGELORUM SED UEL
      <lb xml:id="fol_24r.23" n="23"/>HOMINUM CREARET QUEM MALUM <w part="I">FU</w>
      <lb xml:id="fol_24r.24" n="24"/><w part="F">TURUM</w> ESSE PRAESCISSET NISI PARITER
-     <lb xml:id="fol_24r.25" n="25"/>NOSSET <choice><abbr>QUIB;</abbr><expan>QUIB<ex>US</ex></expan></choice> EOS BONORUM <choice><abbr>USIB</abbr><expan>USIB<ex>US</ex></expan></choice> <w part="I">COM</w>
+     <lb xml:id="fol_24r.25" n="25"/>NOSSET <choice><abbr>QUIB;</abbr><expan>QUIB<ex>US</ex></expan></choice> EOS BONORUM <choice><abbr>USIB&#183;</abbr><expan>USIB<ex>US</ex></expan></choice> <w part="I">COM</w>
      <lb xml:id="fol_24r.26" n="26"/><w part="F">MODARET</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ITA ORDINEM <choice><abbr>SAECULORU &#772;</abbr><expan>SAECULORU<ex>M</ex></expan></choice>
      <lb xml:id="fol_24r.27" n="27"/><choice><sic>TAMQ<del rend="strikethrough">UE</del></sic><corr>TAMQUAM</corr></choice> PULCHERRIMUM CARMEN <choice><abbr>ETIA &#772;</abbr><expan>ETIA<ex>M</ex></expan></choice>
      <lb xml:id="fol_24r.28" n="28"/>EX <choice><abbr>QUIB&#183;DAM</abbr><expan>QUIB<ex>US</ex>DAM</expan></choice> QUASI ANTITHETIS HONESTARET
