@@ -1501,36 +1501,36 @@
    
    <div n="fol_26v" type="edition">
     <ab>
-     <lb xml:id="fol_26v.1" n="1"/>
-     <lb xml:id="fol_26v.2" n="2"/> 
-     <lb xml:id="fol_26v.3" n="3"/>
-     <lb xml:id="fol_26v.4" n="4"/>
-     <lb xml:id="fol_26v.5" n="5"/>
-     <lb xml:id="fol_26v.6" n="6"/>
-     <lb xml:id="fol_26v.7" n="7"/>
-     <lb xml:id="fol_26v.8" n="8"/>
-     <lb xml:id="fol_26v.9" n="9"/>
-     <lb xml:id="fol_26v.10" n="10"/>
-     <lb xml:id="fol_26v.11" n="11"/>
-     <lb xml:id="fol_26v.12" n="12"/>
-     <lb xml:id="fol_26v.13" n="13"/>
-     <lb xml:id="fol_26v.14" n="14"/>
-     <lb xml:id="fol_26v.15" n="15"/>
-     <lb xml:id="fol_26v.16" n="16"/>
-     <lb xml:id="fol_26v.17" n="17"/>
-     <lb xml:id="fol_26v.18" n="18"/>
-     <lb xml:id="fol_26v.19" n="19"/>
-     <lb xml:id="fol_26v.20" n="20"/>
-     <lb xml:id="fol_26v.21" n="21"/>
-     <lb xml:id="fol_26v.22" n="22"/>
-     <lb xml:id="fol_26v.23" n="23"/>
-     <lb xml:id="fol_26v.24" n="24"/>
-     <lb xml:id="fol_26v.25" n="25"/>
-     <lb xml:id="fol_26v.26" n="26"/>
-     <lb xml:id="fol_26v.27" n="27"/>
-     <lb xml:id="fol_26v.28" n="28"/>
-     <lb xml:id="fol_26v.29" n="29"/>
-     <lb xml:id="fol_26v.30" n="30"/>
+     <lb xml:id="fol_26v.1" n="1"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> SUI OPERIS NOUITATE<del rend="strikethrough">M</del> FACTUM
+     <lb xml:id="fol_26v.2" n="2"/>BEATIOREM SED SIC OSTENDERE UOLUIT
+     <lb xml:id="fol_26v.3" n="3"/>ARTIFICI SUO PLACUISSE IAM FACTUM QUOD
+     <lb xml:id="fol_26v.4" n="4"/>PLACUERAT JN ARTE FACIENDUM NON QUOD
+     <lb xml:id="fol_26v.5" n="5"/>ULLO MODO <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> SCIENTIA UARIETUR UT <w part="I">ALI</w>
+     <lb xml:id="fol_26v.6" n="6"/><w part="F">UD</w> IN EA FACIANT QUAE NONDUM SUNT
+     <lb xml:id="fol_26v.7" n="7"/>ALIUD QUAE IAM SUNT ALJUD QUAE FUERUNT <app><note>NT ligature is found at the end of the word FUERUNT</note></app>
+     <lb xml:id="fol_26v.8" n="8"/>NON ENIM MORE NOSTRO ILLE UEL QUOD <w part="I">FU</w>
+     <lb xml:id="fol_26v.9" n="9"/><w part="F">TURUM</w> EST PRAEFICIT <app><rdg wit="#CSEL40">PROSPICIT</rdg></app> UEL QUOD PRAESENS
+     <lb xml:id="fol_26v.10" n="10"/>EST ASPICIT UEL QUOD PRAETERITUM EST <w part="I">RES</w>
+     <lb xml:id="fol_26v.11" n="11"/><w part="F">PICIT</w> SED ALIO MODO QUODAM A <choice><abbr>NOSTRARU &#772;</abbr><expan>NOSTRARU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_26v.12" n="12"/>COGITATIONUM CONSUETUDINE LONGE
+     <lb xml:id="fol_26v.13" n="13"/>ALTEQUE DIUERSO ILLE QUIPPE NON EX HOC
+     <lb xml:id="fol_26v.14" n="14"/>IN ILLUD COGITATIONE MUTATA SED OMNINO
+     <lb xml:id="fol_26v.15" n="15"/>INCOMMUTABILITER UIDET ITA UT ILLA <w part="I">QUI</w>
+     <lb xml:id="fol_26v.16" n="16"/><w part="F">DEM</w> QUAE TEMPORALITER FIUNT ET FUTURA
+     <lb xml:id="fol_26v.17" n="17"/>NONDUM SINT ET PRAESENTIA IAM SINT
+     <lb xml:id="fol_26v.18" n="18"/><supplied reason="lost">ET PR</supplied>AETERITA IAM NON SINT IPSE UERO
+     <lb xml:id="fol_26v.19" n="19"/>HAEC OMNIA STABILI AC SEMPITERNA <w part="I">PRAE</w>
+     <lb xml:id="fol_26v.20" n="20"/><w part="F">SENTIA</w> CONPRAEHENDAT <app><rdg wit="#CSEL40">COMPREHENDAT</rdg></app> NEC ALITER OCULIS
+     <lb xml:id="fol_26v.21" n="21"/>ALITER MENTE NON ENIM EX ANIMO <w part="I">CONS</w>
+     <lb xml:id="fol_26v.22" n="22"/><w part="F">TAT</w> ET CORPORE NEC ALITER NUNC ET ALITER
+     <lb xml:id="fol_26v.23" n="23"/>ANTEA ET ALITER POSTEA QUONIAM NON SICUT
+     <lb xml:id="fol_26v.24" n="24"/>NOSTRA ITA EIUS QUOQUE SCIENTIA TRIUM
+     <lb xml:id="fol_26v.25" n="25"/>TEMPORUM PRAESENTIS UIDELICET ET <w part="I">PR&#198;</w>
+     <lb xml:id="fol_26v.26" n="26"/><w part="F">TERITI</w> UEL FUTURI UARIETATE MUTATUR APUD <app><rdg wit="#CSEL40">APUT</rdg></app>
+     <lb xml:id="fol_26v.27" n="27"/>QUEM NON EST IMMUTATIO <app><rdg wit="#CSEL40">INMUTATIO</rdg></app> NEC <w part="I">MOMEN</w>
+     <lb xml:id="fol_26v.28" n="28"/><w part="F">TI</w> OBUMBRATIO NEQUE ENIM EIUS <choice><abbr><w part="I">INTE &#772;</w>
+     <lb xml:id="fol_26v.29" n="29"/><w part="F">TIO</w></abbr><expan>INTE<ex>N</ex>TIO</expan></choice> DE COGITATIONE IN COGITATIONEM <choice><abbr><w part="I">TRA &#772;</w>
+     <lb xml:id="fol_26v.30" n="30"/><w part="F">SIT</w></abbr><expan>TRA<ex>N</ex>SIT</expan></choice> IN CUIUS INCORPOREO CONTUITU SIMUL
     </ab>
    </div>
    
