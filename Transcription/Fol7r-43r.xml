@@ -119,7 +119,7 @@
      <lb xml:id="fol_7r.5" n="5"/>OMNIUM GENTIUM LITTERAS OMNIA SIBI <w part="I">GE</w>
      <lb xml:id="fol_7r.6" n="6"/><w part="F">NERA</w> INGENIORUM UMANORUM DIUI<supplied reason="lost">NA</supplied>
      <lb xml:id="fol_7r.7" n="7"/>EXCELLENS AUCTORITATE SUBIECIT. IBI <w part="I">QU<supplied reason="lost">IP</supplied></w>
-     <lb xml:id="fol_7r.8" n="8"/><w part="F">PE</w> SCRIBTUM EST <quote>GLORIOSA DICTA SUNT DE <supplied reason="lost">TE</supplied></quote>
+     <lb xml:id="fol_7r.8" n="8"/><w part="F">PE</w> SCRIBTUM EST GLORIOSA DICTA SUNT DE <supplied reason="lost">TE</supplied>
      <lb xml:id="fol_7r.9" n="9"/>CIUITAS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> ET IN ALIO PSALMO LEGITUR<w part="I"> <supplied reason="lost">MAG</supplied></w>
      <lb xml:id="fol_7r.10" n="10"/><w part="F">NUS</w> <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> ET LAUDABILIS NIMIS IN CIUITATE <supplied reason="lost"><choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice></supplied>
      <lb xml:id="fol_7r.11" n="11"/>NOSTRI IN MONTE SANCTO EIUS DILATANS <w part="I">EX<supplied reason="lost">UL</supplied></w>
@@ -1609,8 +1609,8 @@
    
    <div n="fol_28r" type="edition">
     <ab>
-     <lb xml:id="fol_28r.1" n="1"/>
-     <lb xml:id="fol_28r.2" n="2"/> 
+     <lb xml:id="fol_28r.1" n="1"/>MEDICAMENTA UERTANTUR QUAMQ<!--ABBR-->
+     <lb xml:id="fol_28r.2" n="2"/>A CONTRARIO ETIAM HAEC QUIBUS<!--ABBR--> 
      <lb xml:id="fol_28r.3" n="3"/>
      <lb xml:id="fol_28r.4" n="4"/>
      <lb xml:id="fol_28r.5" n="5"/>
