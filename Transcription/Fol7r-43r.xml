@@ -182,20 +182,20 @@
    </div> 
    
    
-   <div n="fol_8r" type="edition"> <!-- damaged-->
+   <div n="fol_8r" type="edition">
     <ab>
-     <lb xml:id="fol_8r.1" n="1"/>
-     <lb xml:id="fol_8r.2" n="2"/> 
-     <lb xml:id="fol_8r.3" n="3"/>
-     <lb xml:id="fol_8r.4" n="4"/>
-     <lb xml:id="fol_8r.5" n="5"/>
-     <lb xml:id="fol_8r.6" n="6"/>
-     <lb xml:id="fol_8r.7" n="7"/>
-     <lb xml:id="fol_8r.8" n="8"/>
-     <lb xml:id="fol_8r.9" n="9"/>
-     <lb xml:id="fol_8r.10" n="10"/>
-     <lb xml:id="fol_8r.11" n="11"/>
-     <lb xml:id="fol_8r.12" n="12"/>
+     <lb xml:id="fol_8r.1" n="1"/>NON EST QUOD IPSE NON FECIT NISI IPSE
+     <lb xml:id="fol_8r.2" n="2"/>SIC ENIM DEUS<!--ABBR-->CUM HOMINE NON PER ALIQUAM<!--M--> 
+     <lb xml:id="fol_8r.3" n="3"/>CREATURAM LOQUITUR CORPORALEM
+     <lb xml:id="fol_8r.4" n="4"/>CORPORALIBUS<!--ABBR--> INSTREPENS AURIBUS<!--ABBR--> UT INTER
+     <lb xml:id="fol_8r.5" n="5"/>SONANTEM ET <supplied reason="lost">AUDIENTEM</supplied> AERIA SPATIA UER
+     <lb xml:id="fol_8r.6" n="6"/>BERENTUR NEQUE <supplied reason="lost">PER</supplied> EIUS MODI <supplied reason="lost">SPIRITA</supplied> 
+     <lb xml:id="fol_8r.7" n="7"/>LEM QUAE <!--correction?--> <supplied reason="lost">CORPORUM</supplied> SIMILITUDINIBUS <!--ABBR-->
+     <lb xml:id="fol_8r.8" n="8"/><supplied reason="lost">FIGURATUR</supplied> SICUT IN SOMNIS UEL QUO<del rend="strikethrough">D</del>
+     <lb xml:id="fol_8r.9" n="9"/>ALIO <supplied reason="lost">TALI</supplied> MODO <supplied reason="lost">NAM ET SIC UELUT</supplied> CORPO
+     <lb xml:id="fol_8r.10" n="10"/>RIS AURIBUS <!--abbr--> LOQUITUR QUIA UELUT PER COR
+     <lb xml:id="fol_8r.11" n="11"/>PUS LOQUITUR ET UELUT INTERPOSITO COR
+     <lb xml:id="fol_8r.12" n="12"/><supplied reason="lost">PORALIUM</supplied>
      <lb xml:id="fol_8r.13" n="13"/>
      <lb xml:id="fol_8r.14" n="14"/>
      <lb xml:id="fol_8r.15" n="15"/>
@@ -1610,35 +1610,35 @@
    <div n="fol_28r" type="edition">
     <ab>
      <lb xml:id="fol_28r.1" n="1"/>MEDICAMENTA UERTANTUR QUAMQ<!--ABBR-->
-     <lb xml:id="fol_28r.2" n="2"/>A CONTRARIO ETIAM HAEC QUIBUS<!--ABBR--> 
-     <lb xml:id="fol_28r.3" n="3"/>
-     <lb xml:id="fol_28r.4" n="4"/>
-     <lb xml:id="fol_28r.5" n="5"/>
-     <lb xml:id="fol_28r.6" n="6"/>
-     <lb xml:id="fol_28r.7" n="7"/>
-     <lb xml:id="fol_28r.8" n="8"/>
-     <lb xml:id="fol_28r.9" n="9"/>
-     <lb xml:id="fol_28r.10" n="10"/>
-     <lb xml:id="fol_28r.11" n="11"/>
-     <lb xml:id="fol_28r.12" n="12"/>
-     <lb xml:id="fol_28r.13" n="13"/>
-     <lb xml:id="fol_28r.14" n="14"/>
-     <lb xml:id="fol_28r.15" n="15"/>
-     <lb xml:id="fol_28r.16" n="16"/>
-     <lb xml:id="fol_28r.17" n="17"/>
-     <lb xml:id="fol_28r.18" n="18"/>
-     <lb xml:id="fol_28r.19" n="19"/>
-     <lb xml:id="fol_28r.20" n="20"/>
-     <lb xml:id="fol_28r.21" n="21"/>
-     <lb xml:id="fol_28r.22" n="22"/>
-     <lb xml:id="fol_28r.23" n="23"/>
-     <lb xml:id="fol_28r.24" n="24"/>
-     <lb xml:id="fol_28r.25" n="25"/>
-     <lb xml:id="fol_28r.26" n="26"/>
-     <lb xml:id="fol_28r.27" n="27"/>
-     <lb xml:id="fol_28r.28" n="28"/>
-     <lb xml:id="fol_28r.29" n="29"/>
-     <lb xml:id="fol_28r.30" n="30"/>
+     <lb xml:id="fol_28r.2" n="2"/>A CONTRARIO ETIAM HAEC QUIBUS<!--ABBR--> DELECTAN<!--N-->
+     <lb xml:id="fol_28r.3" n="3"/>TUR SICUT CIBUS <!--ABBR--> ET POTUS ET ISTA LUX IMMO
+     <lb xml:id="fol_28r.4" n="4"/>DERATO ET IN OPPORTUNOS <!--CORR--> SANOXIA <!--? CORR--> SENTIA
+     <lb xml:id="fol_28r.5" n="5"/>TUR UNDE NOS AMMONET DIUINA PRO
+     <lb xml:id="fol_28r.6" n="6"/>UIDENTIA NON RES INSIPIENTER UITUPE
+     <lb xml:id="fol_28r.7" n="7"/>RARE SED UTILITATEM RERUM DILIGENTER
+     <lb xml:id="fol_28r.8" n="8"/>INQUIRE RE ET UBI NOSTRUM INGENIUM <!--M-->
+     <lb xml:id="fol_28r.9" n="9"/>UEL INFIRMITAS DEFICIT INCREDERE OC
+     <lb xml:id="fol_28r.10" n="10"/>CULTAM SICUT ERANT QUAEDAM QUAE ??
+     <lb xml:id="fol_28r.11" n="11"/>POTUIMUS INUENIRE QUIA ET IPSA UTILI
+     <lb xml:id="fol_28r.12" n="12"/>TATIS OCCULTATIO AUT HUMILITATIS EXER 
+     <lb xml:id="fol_28r.13" n="13"/>CITATIO DESTRUI ELATIONIS ATTRITIO; CUM
+     <lb xml:id="fol_28r.14" n="14"/>OMNINO NATURA NULLA SIT MALUM
+     <lb xml:id="fol_28r.15" n="15"/>NOMEN QUE<!--ABBR--> HOC NISI SIT NON NISI <!--ADD--> PRIUATIO
+     <lb xml:id="fol_28r.16" n="16"/>NIS BONI SED A TERRENIS USQUE<!--ABBR--> AD CAE
+     <lb xml:id="fol_28r.17" n="17"/>LESTIA<!--?--> UISIBILIBUS<!--ABBR--> USQUE<!--ABBR--> AD<!--?-->BILIA <!--SIBI? ADD--> SUNT <!--LIGATURE NT-->
+     <lb xml:id="fol_28r.18" n="18"/>ALIIS ALIA BONA MELIORA <!--?--> EQUA
+     <lb xml:id="fol_28r.19" n="19"/>LIA UT ESSENT OMNIA <!--DOT--> DEUS <!--ABBR--> AUTEM ITA EST
+     <lb xml:id="fol_28r.20" n="20"/>ARTIFEX MAGNUS <!--?-->
+     <lb xml:id="fol_28r.21" n="21"/>NON SIT INPARUIS QUA <!--?--> NON SUA
+     <lb xml:id="fol_28r.22" n="22"/>GRANDITATE NAM NULLAE EST SED ARTIFI
+     <lb xml:id="fol_28r.23" n="23"/>CIS SAPIENTIAM ET <!--?--> SICUT
+     <lb xml:id="fol_28r.24" n="24"/>IN SPECIE UISIBILIS HOMINIS SI UNUM
+     <lb xml:id="fol_28r.25" n="25"/>RADATUR SUPER CILIUM <!--?--> QUAM PROPE MO
+     <lb xml:id="fol_28r.26" n="26"/>DUM NIHIL CORPORI ET <!--ADD--> QUAM MULTUM DE
+     <lb xml:id="fol_28r.27" n="27"/>TRAHITUR PULCRITUDINI <!--SIC--> QUONIAM NON<!--N-->
+     <lb xml:id="fol_28r.28" n="28"/>MOLE CONSTAT SED PARILITATE AC DIMEN
+     <lb xml:id="fol_28r.29" n="29"/>SIONE MEMBRORUM NEC SANEM ULLUM <!--M-->
+     <lb xml:id="fol_28r.30" n="30"/>MIRANDUM EST QUOD HI QUI NON NULLAM<!--M-->
     </ab> 
    </div>
    
