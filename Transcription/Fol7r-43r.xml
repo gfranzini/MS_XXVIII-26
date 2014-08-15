@@ -1301,7 +1301,7 @@
      <lb xml:id="fol_23v.16" n="16"/><supplied reason="lost"><w part="F">UTI</w></supplied> PONDUS UOLUNTATIS ET AMORIS UT
      <lb xml:id="fol_23v.17" n="17"/>CUM ORDINE NATURAE ANGELI <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice>
      <lb xml:id="fol_23v.18" n="18"/>TAMEN LEGI IUSTITIAE BONI HOMINES <w part="I">MA</w>
-     <lb xml:id="fol_23v.19" n="19"/><note type="scholion" place="margin"><choice><abbr>&#42835;&#772;p&#772;</abbr><expan><ex>pro</ex>p<ex>terea</ex></expan></choice> <choice><abbr>natura&#772;</abbr><expan>natura<ex>m</ex></expan></choice> <choice><abbr>d&#383;&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> <choice><abbr>initiu&#772;</abbr><expan>initiu<ex>m</ex></expan></choice> <choice><abbr>figm&#772;ti</abbr><expan>figm<ex>en</ex>ti</expan></choice> <choice><abbr>d&#772;n&#772;i&#772;</abbr><expan>d<ex>omi</ex>ni</expan></choice> <choice><abbr>n&#772;</abbr><expan>n<ex>ostri</ex></expan></choice> <choice><abbr>p&#772;p&#772;</abbr><expan>p<ex>ro</ex>p<ex>ter</ex></expan></choice> <choice><abbr>malitia&#772;</abbr><expan>malitia<ex>m</ex></expan></choice> diaboli</note><w part="F">LIS</w> ANGELIS PRAEFERANTUR <!--three dot group marking beginning of chapter 17--> PROPTER
+     <lb xml:id="fol_23v.19" n="19"/><note type="scholion" place="margin"><choice><abbr>&#42835;&#772;p&#772;</abbr><expan><ex>pro</ex>p<ex>terea</ex></expan></choice> <choice><abbr>natura&#772;</abbr><expan>natura<ex>m</ex></expan></choice> <choice><abbr>d&#383;&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> <choice><abbr>initiu&#772;</abbr><expan>initiu<ex>m</ex></expan></choice> <choice><abbr>figm&#772;ti</abbr><expan>figm<ex>en</ex>ti</expan></choice> <choice><abbr>d&#772;n&#772;i&#772;</abbr><expan>d<ex>omi</ex>ni</expan></choice> <choice><abbr>n&#772;</abbr><expan>n<ex>ostri</ex></expan></choice> <choice><abbr>p&#772;p&#772;</abbr><expan>p<ex>ro</ex>p<ex>ter</ex></expan></choice> <choice><abbr>malitia&#772;</abbr><expan>malitia<ex>m</ex></expan></choice> diaboli</note><w part="F">LIS</w> ANGELIS PRAEFERANTUR &#8278; PROPTER
      <lb xml:id="fol_23v.20" n="20"/>NATURAM IGITUR NON PROPTER <choice><abbr>MALITIA &#772;</abbr><expan>MALITIA<ex>M</ex></expan></choice>
      <lb xml:id="fol_23v.21" n="21"/>DIABOLI DICTUM RECTE INTELLEGIMUS
      <lb xml:id="fol_23v.22" n="22"/>HOC EST INITIUM FIGMENTI <choice><abbr>D&#772;N&#772;I&#772;</abbr><expan>D<ex>OMI</ex>NI</expan></choice> QUIA <w part="I">SI</w>
@@ -1330,7 +1330,7 @@
      <lb xml:id="fol_24r.9" n="9"/><w part="F">RIBUS</w> ORDINATUS INLUDERETUR AB <choice><abbr><w part="I">A &#772;</w>
       <lb xml:id="fol_24r.10" n="10"/><w part="F">GELIS</w></abbr><expan>A<ex>N</ex>GELIS</expan></choice> EIUS ID EST UT PROSINT TEMTATIONES <app><rdg wit="#CSEL40">TENTATIONES</rdg></app> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> <choice><abbr>qd&#772;</abbr><expan>q<ex>uo</ex>d</expan></choice> <choice><abbr>&#42835;sint</abbr><expan>p<ex>ro</ex>sint</expan></choice> <choice><abbr>te&#772;ptationes</abbr><expan>te<ex>m</ex>ptationes</expan></choice> diaboli <choice><abbr>&#383;&#772;c&#772;i&#772;&#383;&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>is</expan></choice></note> 
      <lb xml:id="fol_24r.11" n="11"/>EIUS SANCTIS QUIBUS EAS OBESSE <w part="I">DESIDE</w>
-     <lb xml:id="fol_24r.12" n="12"/><w part="F">RAT</w><!--three dot group--> ET QUONIAM <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CUM EUM CONDERET
+     <lb xml:id="fol_24r.12" n="12"/><w part="F">RAT</w> &#8278; ET QUONIAM <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CUM EUM CONDERET
      <lb xml:id="fol_24r.13" n="13"/>FUTURAE MALIGNITATIS EIUS NON ERAT <w part="I">UTI</w>
      <lb xml:id="fol_24r.14" n="14"/><w part="F">QU<add place="above">E</add>M</w> <app><rdg wit="#CSEL40">UTIQUE</rdg></app> <del rend="strikethrough">UT</del> IGNARUS ET PRAEUIDEBAT QUAE
      <lb xml:id="fol_24r.15" n="15"/>BONA DE MALO EIUS ESSET IPSE FACTURUS
@@ -1645,36 +1645,36 @@
    
    <div n="fol_28v" type="edition">
     <ab>
-     <lb xml:id="fol_28v.1" n="1"/>
-     <lb xml:id="fol_28v.2" n="2"/> 
-     <lb xml:id="fol_28v.3" n="3"/>
-     <lb xml:id="fol_28v.4" n="4"/>
-     <lb xml:id="fol_28v.5" n="5"/>
-     <lb xml:id="fol_28v.6" n="6"/>
-     <lb xml:id="fol_28v.7" n="7"/>
-     <lb xml:id="fol_28v.8" n="8"/>
-     <lb xml:id="fol_28v.9" n="9"/>
-     <lb xml:id="fol_28v.10" n="10"/>
-     <lb xml:id="fol_28v.11" n="11"/>
-     <lb xml:id="fol_28v.12" n="12"/>
-     <lb xml:id="fol_28v.13" n="13"/>
-     <lb xml:id="fol_28v.14" n="14"/>
-     <lb xml:id="fol_28v.15" n="15"/>
-     <lb xml:id="fol_28v.16" n="16"/>
-     <lb xml:id="fol_28v.17" n="17"/>
-     <lb xml:id="fol_28v.18" n="18"/>
-     <lb xml:id="fol_28v.19" n="19"/>
-     <lb xml:id="fol_28v.20" n="20"/>
-     <lb xml:id="fol_28v.21" n="21"/>
-     <lb xml:id="fol_28v.22" n="22"/>
-     <lb xml:id="fol_28v.23" n="23"/>
-     <lb xml:id="fol_28v.24" n="24"/>
-     <lb xml:id="fol_28v.25" n="25"/>
-     <lb xml:id="fol_28v.26" n="26"/>
-     <lb xml:id="fol_28v.27" n="27"/>
-     <lb xml:id="fol_28v.28" n="28"/>
-     <lb xml:id="fol_28v.29" n="29"/>
-     <lb xml:id="fol_28v.30" n="30"/>
+     <lb xml:id="fol_28v.1" n="1"/>MALAM PUTANT ESSE NATURAM SUO
+     <lb xml:id="fol_28v.2" n="2"/>QUODAM CONTRARIO EXORTAM <choice><abbr><w part="I">PROPA</w>
+     <lb xml:id="fol_28v.3" n="3"/><w part="F">GATAMQ&#183;</w></abbr><expan>PROPAGATAMQ<ex>UE</ex></expan></choice> PRINCIPIO NOLUNT ACCIPERE <choice><abbr>ISTA &#772;</abbr></choice><expan>ISTA<ex>M</ex></expan>
+     <lb xml:id="fol_28v.4" n="4"/>CAUSAM CREAITONIS RERUM UT BONUS
+     <lb xml:id="fol_28v.5" n="5"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CONUERET BONA CREDENTES EUM <w part="I">PO</w>
+     <lb xml:id="fol_28v.6" n="6"/><w part="F">TIUS</w> AD HAEC MUNDANAM OLIJM IN ARE
+     <lb xml:id="fol_28v.7" n="7"/>BELLANTIS ADUERSUM SE MALI <w part="I">REPELLEN</w>
+     <lb xml:id="fol_28v.8" n="8"/><w part="F">DI</w> EA TREMA NECESSITATE PER DUCTUM
+     <lb xml:id="fol_28v.9" n="9"/><choice><abbr>SUAMQ&#183;</abbr><expan>SUAMQ<ex>UE</ex></expan></choice> NATURAM BONAM MALO <w part="I">COHER</w>
+     <lb xml:id="fol_28v.10" n="10"/><w part="F">CENDO</w> <choice><abbr>SUPERANDOQ&#183;</abbr><expan>SUPERANDOQ<ex>UE</ex></expan></choice> MISCUISSE QUAM
+     <lb xml:id="fol_28v.11" n="11"/>TURPISSIME POLLUTAM ET CRUDELISSIME
+     <lb xml:id="fol_28v.12" n="12"/>CAPTIUATAM ET OPPRAESSAM LABORE <w part="I">MAG</w>
+     <lb xml:id="fol_28v.13" n="13"/><w part="F">NO</w> UIX MUNDET AC LIBERET NON <choice><abbr>TAME &#772;</abbr><expan>TAME<ex>N</ex></expan></choice>
+     <lb xml:id="fol_28v.14" n="14"/>TOTAM SED QUOD EIUS NON POTUERIT AB
+     <lb xml:id="fol_28v.15" n="15"/>ILLA INQUINATIONE PURGARI TEGMEN AC
+     <lb xml:id="fol_28v.16" n="16"/>UINCULUM FUTURUM HOSTIS UICTI ET <w part="I">IN</w>
+     <lb xml:id="fol_28v.17" n="17"/><w part="F">CLUSI</w> SIC AUTEM MANICHEI NON <w part="I">DESIPE</w>
+     <lb xml:id="fol_28v.18" n="18"/><w part="F">RENT</w> UEL POTIUS INSANIRENT SI <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> <w part="I">NATU</w>
+     <lb xml:id="fol_28v.19" n="19"/><w part="F">RAM</w> SICUTI EST INCOMMUTABILEM <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_28v.20" n="20"/>OMNINO INCORRUPTIBILEM CREDERENT <app><note>NT ligature is found at the end of the word CREDERENT</note></app>
+     <lb xml:id="fol_28v.21" n="21"/>CUI NOCERE NULLA RES POSSIT &#183; ANIMAM
+     <lb xml:id="fol_28v.22" n="22"/>UERO QUAE UOLUNTATE MUTARI IN <w part="I">DETE</w>
+     <lb xml:id="fol_28v.23" n="23"/><w part="F">RIUS</w> ET PECCATO CORRUMPI POTUIT <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> ITA
+     <lb xml:id="fol_28v.24" n="24"/>INCOMMUTABILIS UERITATIS LUCE <w part="I">PRIUA</w>
+     <lb xml:id="fol_28v.25" n="25"/><w part="F">RI</w> NON DEI PARTEM NEC EIUS NATURAE
+     <lb xml:id="fol_28v.26" n="26"/>QUAE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> EST SED AB ILLO CONDITAM <w part="I">LON</w>
+     <lb xml:id="fol_28v.27" n="27"/><w part="F">GE</w> IN PAREM CONDITORI <choice><abbr>XP&#772;I&#772;ANA</abbr><expan>CHRI<ex>STI</ex>ANA</expan></choice> SANITATE
+     <lb xml:id="fol_28v.28" n="28"/><note type="scholion" subtype="chapter" n="23">XXIII</note> SENTIRENT SED MULTO EST <choice><abbr>MIRANDU &#772;</abbr><expan>MIRANDU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_28v.29" n="29"/>AMPLIUS QUAM <app><note>Dots above QUAM mark characters to be deleted. Top expunction as opposed to the more common bottom expunction</note></app> QUOD ETIAM QUIDAM QUI
+     <lb xml:id="fol_28v.30" n="30"/>UNUM NOBISCUM CREDUNT OMNIUM
     </ab> 
    </div>
    
