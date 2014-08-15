@@ -115,7 +115,7 @@
 
                 <ab>
                     <lb n="1"/><num value="1">I</num>. De ea parte operis qua duarum ciuitatum id est 
-                    <lb n="2"/>celestis atque terrenae initia et fines incipient 
+                    <lb n="2"/>celestis <app><rdg wit="#CSEL40">caelestis</rdg></app> atque <app><rdg wit="#CSEL40">adque</rdg></app> terrenae initia et fines incipient 
                     <lb n="3"/>demonstrari; 
                     <lb n="4"/><num value="2">II</num>. De cognoscendo <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> ad cuius notitiam nemo <choice><abbr>hominu&#772;</abbr><expan><ex>m</ex></expan></choice>
                     <lb n="5"/>peruenit &#183; nisi per mediatorem <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> et hominum &#772; &#183; 
@@ -123,8 +123,8 @@
                     <lb n="7"/><num value="3">III</num>. De auctoritate canonic<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> scripturae diuino <choice><abbr>sp&#772;u&#772;</abbr><expan>sp<ex>irit</ex>u</expan></choice>
                     <lb n="8"/>conditae; 
                     <lb n="9"/><num value="4">IIII</num>. De conditione mundi
-                    qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> nec in temporalis sit 
-                    <lb n="10"/>nec nobo <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ordinata consiljo quasi postea <w part="I">uolue</w>
+                    qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> nec intemporalis sit 
+                    <lb n="10"/>nec nobo <app><rdg wit="#CSEL40">nouo</rdg></app> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ordinata consiljo quasi postea <w part="I">uolue</w>
                     <lb n="11"/><w part="F">rit</w> quod ante noluerat; 
                     <lb n="12"/><num value="5">V</num>. Tam non esse cogitandum de infinitus temporum 
                     <lb n="13"/>spatiis ante mundum quam nec de infinitis <choice><abbr>locoru&#772;</abbr><expan><ex>m</ex></expan></choice>
@@ -184,7 +184,7 @@
                     <lb n="27"/><w part="F">te</w>&#183; qua rem per illj uniuersa quae fecit sic placuerunt
                     <lb n="28"/>facienda quem admodum facta; 
                     <lb n="29"/><num value="22">XXII</num>. De his quibus in uniuersitate rerum a bono creatore 
-                    <lb n="30"/>bene conditarum quaedam displjcent &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> putant <choice><abbr>ulla&#772;</abbr><expan>ulla<ex>m</ex></expan></choice>
+                    <lb n="30"/>bene conditarum quaedam displjcent <app><rdg wit="#CSEL40">DISPLICENT</rdg></app> &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> putant <choice><abbr>ulla&#772;</abbr><expan>ulla<ex>m</ex></expan></choice> <app><rdg wit="#CSEL40">NONNULLAM</rdg></app>
                    
                 </ab>
             </div>
