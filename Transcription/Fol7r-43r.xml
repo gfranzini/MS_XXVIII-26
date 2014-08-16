@@ -1673,7 +1673,7 @@
      <lb xml:id="fol_28v.26" n="26"/>QUAE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> EST SED AB ILLO CONDITAM <w part="I">LON</w>
      <lb xml:id="fol_28v.27" n="27"/><w part="F">GE</w> IN PAREM CONDITORI <choice><abbr>XP&#772;I&#772;ANA</abbr><expan>CHRI<ex>STI</ex>ANA</expan></choice> SANITATE
      <lb xml:id="fol_28v.28" n="28"/><note type="scholion" subtype="chapter" n="23">XXIII</note> SENTIRENT SED MULTO EST <choice><abbr>MIRANDU &#772;</abbr><expan>MIRANDU<ex>M</ex></expan></choice>
-     <lb xml:id="fol_28v.29" n="29"/>AMPLIUS QUAM <app><note>Dots above QUAM mark characters to be deleted. Top expunction as opposed to the more common bottom expunction</note></app> QUOD ETIAM QUIDAM QUI
+     <lb xml:id="fol_28v.29" n="29"/>AMPLIUS <del rend="expunction">QUAM</del> <app><note>Dots above QUAM mark characters to be deleted. Top expunction as opposed to the more common bottom expunction</note></app> QUOD ETIAM QUIDAM QUI
      <lb xml:id="fol_28v.30" n="30"/>UNUM NOBISCUM CREDUNT OMNIUM
     </ab> 
    </div>
