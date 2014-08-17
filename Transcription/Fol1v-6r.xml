@@ -112,12 +112,12 @@
             <div n="fol_1v" type="edition">
                 <ab>
                     <lb xml:id="fol_1v.1" n="1"/><num value="1">I</num>. De ea parte operis qua duarum ciuitatum id est 
-                    <lb xml:id="fol_1v.2" n="2"/>celestis <app><rdg wit="#CSEL40">caelestis</rdg></app> atque <app><rdg wit="#CSEL40">adque</rdg></app> terrenae initia et fines incipient 
+                    <lb xml:id="fol_1v.2" n="2"/>celestis <app><rdg wit="#CSEL40">caelestis</rdg></app> atque <app><rdg wit="#CSEL40">adque</rdg></app> terren&#230; initia et fines incipient 
                     <lb xml:id="fol_1v.3" n="3"/>demonstrari; 
                     <lb xml:id="fol_1v.4" n="4"/><num value="2">II</num>. De cognoscendo <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> ad cuius notitiam nemo <choice><abbr>hominu&#772;</abbr><expan><ex>m</ex></expan></choice>
                     <lb xml:id="fol_1v.5" n="5"/>peruenit &#183; nisi per mediatorem <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> et hominum &#772; &#183; 
                     <lb xml:id="fol_1v.6" n="6"/>hominem <choice><abbr>xp&#772;m&#772;</abbr><expan>Chr<ex>istu</ex>m</expan></choice> <choice><abbr>ih&#772;m&#772;</abbr><expan>Ih<ex>esu</ex>m</expan></choice>;
-                    <lb xml:id="fol_1v.7" n="7"/><num value="3">III</num>. De auctoritate canonic<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> scripturae diuino <choice><abbr>sp&#772;u&#772;</abbr><expan>sp<ex>irit</ex>u</expan></choice>
+                    <lb xml:id="fol_1v.7" n="7"/><num value="3">III</num>. De auctoritate canonic<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> scriptur&#230; diuino <choice><abbr>sp&#772;u&#772;</abbr><expan>sp<ex>irit</ex>u</expan></choice>
                     <lb xml:id="fol_1v.8" n="8"/>conditae; 
                     <lb xml:id="fol_1v.9" n="9"/><num value="4">IIII</num>. De conditione mundi
                     qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> nec intemporalis sit 
@@ -128,7 +128,7 @@
                     <lb xml:id="fol_1v.14" n="14"/>spatiis <sic>axtra</sic> <app><rdg wit="#CSEL40">extra</rdg></app> mundum &#183; quia sicut nulla ante 
                     <lb xml:id="fol_1v.15" n="15"/><choice><abbr>ipsu&#772;</abbr><expan><ex>m</ex></expan></choice> sunt tempora &#183; ita nulla extra <choice><abbr>ipsu &#772;</abbr><expan><ex>m</ex></expan></choice> sunt loca. 
                     <lb xml:id="fol_1v.16" n="16"/><num value="6">VI</num>. Creationis mundi et temporum unum esse <w part="I">prin</w>
-                    <lb xml:id="fol_1v.17" n="17"/><w part="F">cipium</w> nec aljud aljo praeueniri; 
+                    <lb xml:id="fol_1v.17" n="17"/><w part="F">cipium</w> nec aljud aljo pr&#230;ueniri; 
                     <lb xml:id="fol_1v.18" n="18"/><num value="7">VII</num>. De qualjtate primorum dierum qui <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> ante
                     <lb xml:id="fol_1v.19" n="19"/>quam sol <choice><abbr>fier&#38;</abbr><expan>fier<ex>et</ex></expan></choice> uesperam et mane traduntur
                     <lb xml:id="fol_1v.20" n="20"/>habuisse; 
@@ -152,7 +152,7 @@
                     <lb xml:id="fol_2r.1" n="1"/>sui semper habuerunt &#183; etiam illos <choice><abbr>sp&#772;s</abbr><expan>sp<ex>iritu</ex>s</expan></choice> qui in <w part="I">ueri</w>
                     <lb xml:id="fol_2r.2" n="2"/><w part="F">tate</w> non steterunt participes fuisse <choice><abbr>credendu&#772;</abbr><expan>credendu<ex>m</ex></expan></choice> sit; 
                     <lb xml:id="fol_2r.3" n="3"/><num value="12">XII</num>. De comparatione beatitudinis iustorum <choice><abbr>necdu &#772;</abbr><expan>necdu<ex>m</ex></expan></choice>
-                    <lb xml:id="fol_2r.4" n="4"/>optinentium <app><rdg wit="#CSEL40">obtinetium</rdg></app> promissionis diuin<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> praemium <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <w part="I">pri</w>
+                    <lb xml:id="fol_2r.4" n="4"/>optinentium <app><rdg wit="#CSEL40">obtinetium</rdg></app> promissionis diuin<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> pr&#230;mium <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <w part="I">pri</w>
                     <lb xml:id="fol_2r.5" n="5"/><w part="F"><choice><abbr>moru &#772;</abbr><expan>moru<ex>m</ex></expan></choice></w> in paradyso <app><rdg wit="#CSEL40">paradiso</rdg></app> hominum ante peccatum; 
                     <lb xml:id="fol_2r.6" n="6"/><num value="13">XIII</num>. An ita unius felicitatis omnes angeli sint creati &#183; 
                     <lb xml:id="fol_2r.7" n="7"/>ut neque lapsuros se possent nosse qui lapsi sunt &#183; 
@@ -162,7 +162,7 @@
                     </choice> sit de diabolo quod in 
                     <lb xml:id="fol_2r.11" n="11"/>ueritate non ste<add place="above">te</add>rit quia ueritas non est in eo;
                     <lb xml:id="fol_2r.12" n="12"/><num value="15">XV</num>. Quid sentiendum sit de eo quod dictum est, ab initio 
-                    <lb xml:id="fol_2r.13" n="13"/>diabolus p<choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice>cat;
+                    <lb xml:id="fol_2r.13" n="13"/>diabolus peccat;
                     <lb xml:id="fol_2r.14" n="14"/><num value="16">XVI</num>. De gradibus et differentiis creaturarum quas 
                     <lb xml:id="fol_2r.15" n="15"/>aljter pendit usus utiljtatis. aljter ordo rationis; 
                     <lb xml:id="fol_2r.16" n="16"/><num value="17">XVII</num>. Vitium maljti<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> non naturam esse &#183; sed contra <w part="I">na</w>                    
@@ -175,11 +175,11 @@
                     <lb xml:id="fol_2r.23" n="23"/>diuisit <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> inter lucem <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> tenebras; 
                     <lb xml:id="fol_2r.24" n="24"/><num value="20">XX</num>. De eo quod post discretionem lucis atque <app><rdg wit="#CSEL40">adque</rdg></app> <choice><abbr>tenebraru&#772;</abbr><expan>tenebraru<ex>m</ex></expan></choice>
                     <lb xml:id="fol_2r.25" n="25"/>dictum est &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> uidit <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> lucem quia bona est;
-                    <lb xml:id="fol_2r.26" n="26"/><num value="21">XXI</num>. De aeterna<del rend="expunction">m</del> <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> inconmutabilj <app><rdg wit="#CSEL40">incommutabili</rdg></app> scientia <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ac <w part="I">bonita</w> 
-                    <lb xml:id="fol_2r.27" n="27"/><w part="F">te</w>&#183; <app><rdg wit="#CSEL40">uoluntate</rdg></app> qua semper illj uniuersa quae fecit sic placuerunt
+                    <lb xml:id="fol_2r.26" n="26"/><num value="21">XXI</num>. De &#230;terna<del rend="expunction">m</del> <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> inconmutabilj <app><rdg wit="#CSEL40">incommutabili</rdg></app> scientia <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ac <w part="I">bonita</w> 
+                    <lb xml:id="fol_2r.27" n="27"/><w part="F">te</w>&#183; <app><rdg wit="#CSEL40">uoluntate</rdg></app> qua semper illj uniuersa qu&#230; fecit sic placuerunt
                     <lb xml:id="fol_2r.28" n="28"/>facienda quem ad modum facta; 
                     <lb xml:id="fol_2r.29" n="29"/><num value="22">XXII</num>. De his quibus in uniuersitate rerum a bono creatore 
-                    <lb xml:id="fol_2r.30" n="30"/>bene conditarum quaedam displjcent &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> putant <choice><abbr>ulla&#772;</abbr><expan>ulla<ex>m</ex></expan></choice> <app><rdg wit="#CSEL40">nonnullam</rdg></app>
+                    <lb xml:id="fol_2r.30" n="30"/>bene conditarum qu&#230;dam displjcent &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> putant <choice><abbr>ulla&#772;</abbr><expan>ulla<ex>m</ex></expan></choice> <app><rdg wit="#CSEL40">nonnullam</rdg></app>
                    
                 </ab>
             </div>
@@ -188,15 +188,15 @@
                 <ab>
                     <lb xml:id="fol_2v.1" n="1" />malam esse naturam;
                     <lb xml:id="fol_2v.2" n="2" /><num value="23">XXIII</num>. De errore in quo origenis doctrina culpatur;
-                    <lb xml:id="fol_2v.3" n="3" /><num value="24">XXIIII</num>. De trinitate diuina quae <sic>peri</sic> <app><rdg wit="#CSEL40">per</rdg></app> omnia opera sua <w part="I">signi</w>
-                    <lb xml:id="fol_2v.4" n="4" /><w part="F">ficationis</w> suae sparsit indicia;
+                    <lb xml:id="fol_2v.3" n="3" /><num value="24">XXIIII</num>. De trinitate diuina qu&#230; <sic>peri</sic> <app><rdg wit="#CSEL40">per</rdg></app> omnia opera sua <w part="I">signi</w>
+                    <lb xml:id="fol_2v.4" n="4" /><w part="F">ficationis</w> su&#230; sparsit indicia;
                     <lb xml:id="fol_2v.5" n="5" /><num value="25">XXV</num>. De tripertita totius <sic>filosophi<choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice></sic> <app><rdg wit="#CSEL40">philosophiae</rdg></app> disciplina; 
-                    <lb xml:id="fol_2v.6" n="6" /><num value="26">XXVI</num>. De imagine summae trinitatis quae secundum <w part="I">quaen</w> 
-                    <lb xml:id="fol_2v.7" n="7" /><w part="F">dam</w> <app><rdg wit="#CSEL40">quendam</rdg></app> modum <sic>inaturam</sic> <app><rdg wit="#CSEL40">in natura</rdg></app> <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> necdum beatificati
+                    <lb xml:id="fol_2v.6" n="6" /><num value="26">XXVI</num>. De imagine summae trinitatis qu&#230; secundum <sic><w part="I">quaen</w> 
+                    <lb xml:id="fol_2v.7" n="7" /><w part="F">dam</w></sic> <app><rdg wit="#CSEL40">quendam</rdg></app> modum <sic>inaturam</sic> <app><rdg wit="#CSEL40">in natura</rdg></app> <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> necdum beatificati
                     <lb xml:id="fol_2v.8" n="8" />hominis inuenitur;
                     <lb xml:id="fol_2v.9" n="9" /><num value="27">XXVII</num>. De e<add place="above">s</add>sentia <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> scienti <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> utriusque amore;
                     <lb xml:id="fol_2v.10" n="10" /><num value="28">XXVIII</num>. An etiam ipsum amorem quo <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> esse et scire <w part="I">diligi</w>
-                    <lb xml:id="fol_2v.11" n="11" /><w part="F">mus</w> &#183; diligere debeamus &#183; quo magis diuinae <w part="I">trinita</w>
+                    <lb xml:id="fol_2v.11" n="11" /><w part="F">mus</w> &#183; diligere debeamus &#183; quo magis diuin&#230; <w part="I">trinita</w>
                     <lb xml:id="fol_2v.12" n="12" /><w part="F">tis</w> &#183; imagini propinquemus;
                     <lb xml:id="fol_2v.13" n="13" /><num value="29">XXVIIII</num>. De <choice><abbr>sc&#772;o&#772;rum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> angelorum scientia &#183; <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> trinitate <app><rdg wit="#CSEL40">qua trinitatem</rdg></app> in ipsa
                     <lb xml:id="fol_2v.14" n="14" />eius <choice><abbr>di&#772;tate</abbr><expan>d<ex>e</ex>itate</expan></choice> nouerunt &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> qua operum causas prius
@@ -207,7 +207,7 @@
                     <lb xml:id="fol_2v.19" n="19" />plenitudo <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> requies commendatur;
                     <lb xml:id="fol_2v.20" n="20" /><num value="32">XXXII</num>. De opinione eorum qui angelorum creationem
                     <lb xml:id="fol_2v.21" n="21" />anteriorem uolunt esse quam mundi;
-                    <lb xml:id="fol_2v.22" n="22" /><num value="33">XXXIII</num>. De duabus angelorum <sic>sociaetatibus</sic> <app><rdg wit="#CSEL40">societatibus</rdg></app> diuersis atque <app><rdg wit="#CSEL40">adque</rdg></app>
+                    <lb xml:id="fol_2v.22" n="22" /><num value="33">XXXIII</num>. De duabus angelorum <sic>soci&#230;tatibus</sic> <app><rdg wit="#CSEL40">societatibus</rdg></app> diuersis atque <app><rdg wit="#CSEL40">adque</rdg></app>
                     <lb xml:id="fol_2v.23" n="23" />disparibus quae non incom<add>g</add>rue <app><rdg wit="#CSEL40">incongrue</rdg></app> intelleguntur lucis
                     <lb xml:id="fol_2v.24" n="24" /><choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> tenebrarum nominibus <app><rdg wit="#CSEL40">nominibus noncupatae</rdg></app>;
                     <lb xml:id="fol_2v.25" n="25" /><num value="34">XXXIIII</num>. De eo quod quidam putant in conditione <w part="I">firmamen</w>
@@ -224,7 +224,7 @@
                     <lb xml:id="fol_3r.1" n="1" />qui summe <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> semper est &#183; hoc in totum uidetur <w part="I">diuer</w> 
                     <lb xml:id="fol_3r.2" n="2" /><w part="F">sum</w> esse quod non est;
                     <lb xml:id="fol_3r.3" n="3" /><num value="3">III</num>. De inimicis <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> &#183; non per naturam sed per contrariam
-                    <lb xml:id="fol_3r.4" n="4" />uoluntate <app><rdg wit="#CSEL40">uoluntatem</rdg></app> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> cum ipsis <choice><abbr>noc&#38;</abbr><expan>noc<ex>et</ex></expan></choice> &#183; <choice><abbr>bon&#281;</abbr><expan>bon<ex>ae</ex></expan></choice> utique naturae
+                    <lb xml:id="fol_3r.4" n="4" />uoluntate <app><rdg wit="#CSEL40">uoluntatem</rdg></app> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> cum ipsis <choice><abbr>noc&#38;</abbr><expan>noc<ex>et</ex></expan></choice> &#183; <choice><abbr>bon&#281;</abbr><expan>bon<ex>ae</ex></expan></choice> utique natur&#230;
                     <lb xml:id="fol_3r.5" n="5" /><choice><abbr>noc&#38;</abbr><expan>noc<ex>et</ex></expan></choice> &#183; quia uitium si non <choice><abbr>noc&#38;</abbr><expan>noc<ex>et</ex></expan></choice> non est;
                     <lb xml:id="fol_3r.6" n="6" /><num value="4">IIII</num>. De naturis inrationabiljum <app><rdg wit="#CSEL40">inrationalium</rdg></app> aut uita carentium
                     <lb xml:id="fol_3r.7" n="7" /><choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> in suo genere atque <app><rdg wit="#CSEL40">adque</rdg></app> ordine ab uniuersitatis &#183; decore 
@@ -232,24 +232,24 @@
                     <lb xml:id="fol_3r.9" n="9" /><num value="5">V</num>. Quod in omnium natura <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> speci&#230; <app><rdg wit="#CSEL40">in omni naturae specie</rdg></app> ac modo <w part="I">laudabi</w>
                     <lb xml:id="fol_3r.10" n="10" /><w part="F">lis</w> sit creator;
                     <lb xml:id="fol_3r.11" n="11" /><num value="6">VI</num>. Qua <app><rdg wit="#CSEL40">quae</rdg></app> causa sit beatitudinis angelorum bonorum <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> que <app><rdg wit="#CSEL40">quae</rdg></app>
-                    <lb xml:id="fol_3r.12" n="12" />causa sit miseriae angelorum malorum;
-                    <lb xml:id="fol_3r.13" n="13" /><num value="7">VII</num>. Causam efficientem male <app><rdg wit="#CSEL40">malae</rdg></app> uoluntatis non esse <w part="I">quae</w> 
+                    <lb xml:id="fol_3r.12" n="12" />causa sit miseri&#230; angelorum malorum;
+                    <lb xml:id="fol_3r.13" n="13" /><num value="7">VII</num>. Causam efficientem male <app><rdg wit="#CSEL40">malae</rdg></app> uoluntatis non esse <w part="I">qu&#230;</w> 
                     <lb xml:id="fol_3r.14" n="14" /><w part="F">rendam</w>;
                     <lb xml:id="fol_3r.15" n="15" /><num value="8">VIII</num>. De amore peruerso quod uolumtas <app><rdg wit="#CSEL40">quo uoluntas</rdg></app> ab <w part="I">inconmuta</w>
                     <lb xml:id="fol_3r.16" n="16" /><w part="F">bilj</w> <app><rdg wit="#CSEL40">incommutabili</rdg></app> bono &#183; ad mutabile bonum deficit;
                     <lb xml:id="fol_3r.17" n="17" /><num value="9">VIIII</num>. An <choice><abbr>sc&#772;i&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>i</expan></choice> angelj quem habent creatorem <choice><abbr>natur&#281;</abbr><expan>natur<ex>ae</ex></expan></choice> &#183; eundem
-                    <lb xml:id="fol_3r.18" n="18" />habeant bonae uolumtatis auctore <app><rdg wit="#CSEL40">uoluntatis auctorem</rdg></app> &#183; per <choice><abbr>sp&#772;m&#772;</abbr><expan>sp<ex>iritu</ex>m</expan></choice> <choice><abbr>sc&#772;m&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>um</expan></choice> 
+                    <lb xml:id="fol_3r.18" n="18" />habeant bon&#230; uolumtatis auctore <app><rdg wit="#CSEL40">uoluntatis auctorem</rdg></app> &#183; per <choice><abbr>sp&#772;m&#772;</abbr><expan>sp<ex>iritu</ex>m</expan></choice> <choice><abbr>sc&#772;m&#772;</abbr><expan>s<ex>an</ex>c<ex>t</ex>um</expan></choice> 
                     <lb xml:id="fol_3r.19" n="19" />in eis caritate diffusa;
                     <lb xml:id="fol_3r.20" n="20" /><num value="10">X</num>. De opinione eorum qui humanum genus sicut ipsum 
                     <lb xml:id="fol_3r.21" n="21" />mundum semper fuisse existimant;
-                    <lb xml:id="fol_3r.22" n="22" /><num value="11">XI</num>. De falsitate eius storiae <app><rdg wit="#CSEL40">historiae</rdg></app> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> multa milja annorum 
+                    <lb xml:id="fol_3r.22" n="22" /><num value="11">XI</num>. De falsitate eius stori&#230; <app><rdg wit="#CSEL40">historiae</rdg></app> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> multa milja annorum 
                     <lb xml:id="fol_3r.23" n="23" /><choice><abbr>pr&#281;teritis</abbr><expan>pr<ex>ae</ex>teritis</expan></choice> temporjbus ascribit; <app><rdg wit="#CSEL40">adscribit</rdg></app>
                     <lb xml:id="fol_3r.24" n="24" /><num value="12">XII</num>. De his qui hunc quidem mundum non sempiternum
                     <lb xml:id="fol_3r.25" n="25" />putant sed aut innumerabiles aut eundem <app><rdg wit="#CSEL40">eundem unum</rdg></app> certa
                     <lb xml:id="fol_3r.26" n="26" />conclusione <choice><abbr>s&#281;culorum</abbr><expan>s<ex>ae</ex>culorum</expan></choice> semper nasci <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> resolui opinantur;
                     <lb xml:id="fol_3r.27" n="27" /><num value="13">XIII</num>. Quid respondendum sit his qui primam <w part="I">con</w> 
                     <lb xml:id="fol_3r.28" n="28" /><w part="F">ditionem</w> hominis tardam esse causantur;
-                    <lb xml:id="fol_3r.29" n="29" /><num value="14">XIIII</num>. De <sic>reuoluitione</sic> <app><rdg wit="#CSEL40">reuolutione</rdg></app> saeculorum quibus certo fine <w part="I">com</w> 
+                    <lb xml:id="fol_3r.29" n="29" /><num value="14">XIIII</num>. De <sic>reuoluitione</sic> <app><rdg wit="#CSEL40">reuolutione</rdg></app> s&#230;culorum quibus certo fine <w part="I">com</w> 
                     <lb xml:id="fol_3r.30" n="30" /><w part="F">clusis</w> <app><rdg wit="CSEL40">conclusis</rdg></app> uniuersa semper in eundem ordinem <choice><abbr>eande&#772;</abbr><expan>eande<ex>m</ex></expan></choice> 
                 </ab>
             </div>
@@ -278,7 +278,7 @@
                     <lb xml:id="fol_3v.20" n="20" /><w part="F">que</w> <app><rdg wit="#CSEL40">laboresque</rdg></app> &#183; redituras;
                     <lb xml:id="fol_3v.21" n="21" /><num value="22">XXII</num>. De conditione unius primi hominis atque in <sic>e</sic> <app><rdg wit="#CSEL40">eo</rdg></app> generis 
                     <lb xml:id="fol_3v.22" n="22" />humani;
-                    <lb xml:id="fol_3v.23" n="23" /><num value="23">XXIII</num>. Quod <choice><abbr>pr&#281;scierit</abbr><expan>pr<ex>ae</ex>scierit</expan></choice> <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> hominem quem primum condidit
+                    <lb xml:id="fol_3v.23" n="23" /><num value="23">XXIII</num>. Quod <choice><abbr>pr&#281;scierit</abbr><expan>pr<ex>ae</ex>scierit</expan></choice> <app><note><hi rend="italics">Praescierit</hi> is a syncopated version of <hi rend="italics">praesciverit; the syncopated perfect often drops the 'v'.</hi></note></app> <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> hominem quem primum condidit
                     <lb xml:id="fol_3v.24" n="24" />peccaturum &#183; simul &#183; que <app><rdg wit="#CSEL40">simulque</rdg></app> <choice><abbr>pr&#281;uiderit</abbr><expan>pr<ex>ae</ex>uiderit</expan></choice> quantum piorum
                     <lb xml:id="fol_3v.25" n="25" />populum ex eius genere in angeljcum consortium
                     <lb xml:id="fol_3v.26" n="26" />sua esset gratia translaturus;
@@ -341,20 +341,20 @@
                     <lb xml:id="fol_4v.13" n="13" /><choice><abbr>dm&#772;</abbr><expan>d<ex>eu</ex>m</expan></choice> diis <app><rdg wit="CSEL40">dis</rdg></app> minoribus promittentem quod numquam
                     <lb xml:id="fol_4v.14" n="14" />sint &#183; corporibus exuendi;
                     <lb xml:id="fol_4v.15" n="15" /><num value="17">XVII</num>. Contra eos qui adserunt corpora <sic><choice><abbr>terr&#281;na</abbr><expan>terr<ex>ae</ex>na</expan></choice></sic> <app><rdg wit="#CSEL40">terrena</rdg></app> <w part="I">incorrup</w>
-                    <lb xml:id="fol_4v.16" n="16" /><w part="F">tibilia</w> fueri <app><rdg wit="#CSEL40">fieri</rdg></app> <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> aeterna non posse;
+                    <lb xml:id="fol_4v.16" n="16" /><w part="F">tibilia</w> fueri <app><rdg wit="#CSEL40">fieri</rdg></app> <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> &#230;terna non posse;
                     <lb xml:id="fol_4v.17" n="17" /><num value="18">XVIII</num>. De terrenis corporibus <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> philosophi affirmant <app><rdg wit="#CSEL40">adfirmant</rdg></app>
                     <lb xml:id="fol_4v.18" n="18" />in celestibus <app><rdg wit="#CSEL40">caelestibus</rdg></app> esse non posse quia quod terrenum est &#183;
                     <lb xml:id="fol_4v.19" n="19" />naturali pondere reuocetur ad terram;
                     <lb xml:id="fol_4v.20" n="20" /><num value="19">XVIIII</num>. Contra eorum dogmata qui primos homines &#183; si non
                     <lb xml:id="fol_4v.21" n="21" />peccarent <app><rdg wit="#CSEL40">peccassent</rdg></app> inmortales futuros fuisse non credunt
-                    <lb xml:id="fol_4v.22" n="22" />aeternitatem animarum uolunt carere corporibus; 
+                    <lb xml:id="fol_4v.22" n="22" />&#230;ternitatem animarum uolunt carere corporibus; 
                     <lb xml:id="fol_4v.23" n="23" /><num value="20">XX</num>. Quod caro <choice><abbr>sc&#772;orum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> nunc requiescit in spem <app><rdg wit="#CSEL40">spe</rdg></app>
                     <lb xml:id="fol_4v.24" n="24" />in meljorem reparanda sit qualitatem <choice><abbr>qua &#772;</abbr><expan>qua<ex>m</ex></expan></choice>
                     <lb xml:id="fol_4v.25" n="25" />fuit primorum hominum ante peccatum;
                     <lb xml:id="fol_4v.26" n="26" /><num value="21">XXI</num>. De paradyso <app><rdg wit="#CSEL40">paradiso</rdg></app> in quo primi homines <w part="I">fue</w>
                     <lb xml:id="fol_4v.27" n="27" /><w part="F">runt</w> &#183; quod recte per significationem eius &#183;
                     <lb xml:id="fol_4v.28" n="28" />spiritale aljquid intellegatur &#183; salua <w part="I">ueri</w> 
-                    <lb xml:id="fol_4v.29" n="29" /><w part="F">tate</w> narrationis historicae &#183; de corporalj loco; 
+                    <lb xml:id="fol_4v.29" n="29" /><w part="F">tate</w> narrationis historic&#230; &#183; de corporalj loco; 
                     <lb xml:id="fol_4v.30" n="30" /><num value="22">XXII</num>. De corporibus <choice><abbr>sc&#772;orum</abbr><expan>s<ex>an</ex>c<ex>t</ex>orum</expan></choice> post    
                 </ab>
             </div>
@@ -383,7 +383,7 @@
                     <lb xml:id="fol_5r.20" n="20" /><num value="5">V</num>. Quid <app><rdg wit="#CSEL40">Quod</rdg></app> de corporis <choice><abbr>anim&#281;que</abbr><expan>anim<ex>ae</ex>que</expan></choice> natura tolerabilior
                     <lb xml:id="fol_5r.21" n="21" />quidem platonicorum quam manicheorum sit
                     <lb xml:id="fol_5r.22" n="22" />opinio sed <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> ipsa reprobanda &#183; quoniam <choice><abbr>uitioru &#772;</abbr><expan>uitioru<ex>m</ex></expan></choice>  
-                    <lb xml:id="fol_5r.23" n="23" />omium causas naturae carnis ascripti <app><rdg wit="#CSEL40">adscribunt</rdg></app> &#183;
+                    <lb xml:id="fol_5r.23" n="23" />omium causas natur&#230; carnis ascripti <app><rdg wit="#CSEL40">adscribunt</rdg></app> &#183;
                     <lb xml:id="fol_5r.24" n="24" /><num value="6">VI</num>. De qualjtate uoluntatis <choice><abbr>human&#281;</abbr><expan>human<ex>ae</ex></expan></choice> sub cuius iuditio 
                     <lb xml:id="fol_5r.25" n="25" />adfectiones animi aut prabe <app><rdg wit="#CSEL40">prauae</rdg></app> habentur aut rette <app><rdg wit="#CSEL40">rectae</rdg></app>;
                     <lb xml:id="fol_5r.26" n="26" /><num value="7">VII</num>. Amorem <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> dilectionem indifferenter <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> in bono <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> in 
@@ -416,7 +416,7 @@
                     <lb xml:id="fol_5v.18" n="18" />turpem pudendamque uiderunt;
                     <lb xml:id="fol_5v.19" n="19" /><num value="18">XVIII</num>. De pudore concubitus &#183; non solum uulgaris sed <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice>
                     <lb xml:id="fol_5v.20" n="20" />coniugaljs;
-                    <lb xml:id="fol_5v.21" n="21" /><num value="19">XVIIII</num>. Quod <sic>pater</sic> <app><rdg wit="#CSEL40">partes</rdg></app> ir&#230; adque liuidinis <app><rdg wit="#CSEL40">libidinis</rdg></app> &#183; quae In homine &#183; tam 
+                    <lb xml:id="fol_5v.21" n="21" /><num value="19">XVIIII</num>. Quod <sic>pater</sic> <app><rdg wit="#CSEL40">partes</rdg></app> ir&#230; adque liuidinis <app><rdg wit="#CSEL40">libidinis</rdg></app> &#183; qu&#230; In homine &#183; tam 
                     <lb xml:id="fol_5v.22" n="22" />uitiose mouentur &#183; ut eas necesse sit frenis sapienti&#230;
                     <lb xml:id="fol_5v.23" n="23" />co<add place="above">h</add>iberi in illa ante peccatum natur&#230; sanitate non fuerint; 
                     <lb xml:id="fol_5v.24" n="24" /><num value="20">XX</num>. De uanissima turpitudine cynicorum; 
