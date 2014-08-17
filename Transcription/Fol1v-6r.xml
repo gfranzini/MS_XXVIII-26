@@ -397,53 +397,53 @@
             <div n="fol_5v" type="edition">
                 <ab>
                     <lb xml:id="fol_5v.1" n="1" /><num value="9">VIIII</num>. De perturbationibus animi quarum adfectus rectos 
-                    <lb xml:id="fol_5v.2" n="2" />habet uita iustorum; 
-                    <lb xml:id="fol_5v.3" n="3" /><num value="10">X</num>. An primos omines in paradys constitutos ullis &#183; per
-                    <lb xml:id="fol_5v.4" n="4" />turbationibus priusquam delinquerent affectos 
+                    <lb xml:id="fol_5v.2" n="2" /><choice><abbr>hab&#38;</abbr><expan>hab<ex>et</ex></expan></choice> uita iustorum; 
+                    <lb xml:id="fol_5v.3" n="3" /><num value="10">X</num>. An primos omines in paradyso <app><rdg wit="#CSEL40">paradiso</rdg></app> constitutos ullis &#183; <w part="I">per</w>
+                    <lb xml:id="fol_5v.4" n="4" /><w part="F">turbationibus</w> priusquam delinquerent affectos <app><rdg wit="#CSEL40">adfectos</rdg></app>
                     <lb xml:id="fol_5v.5" n="5" />fuisse credendum sit;
                     <lb xml:id="fol_5v.6" n="6" /><num value="11">XI</num>. De lapsu primi hominis in quo bene condita natura
-                    <lb xml:id="fol_5v.7" n="7" />uitiata est nec potest nisi a suo autore separa<del>r</del>ri; 
-                    <lb xml:id="fol_5v.8" n="8" /><num value="12">XII</num>. De qualitate peccati a primis hominibus ammissi;
-                    <lb xml:id="fol_5v.9" n="9" /><num value="13">XIII</num>. Quod in praebaricatione adae opus malum uoluntas
-                    <lb xml:id="fol_5v.10" n="10" />praecesserit mala;
-                    <lb xml:id="fol_5v.11" n="11" />XIIII. De superuia transgressoris quae ipsa fuit transgres
-                    <lb xml:id="fol_5v.12" n="12" />sione deterior;
+                    <lb xml:id="fol_5v.7" n="7" />uitiata est nec potest nisi a suo autore <app><rdg wit="#CSEL40">auctore</rdg></app> repara<del>r</del>ri; 
+                    <lb xml:id="fol_5v.8" n="8" /><num value="12">XII</num>. De qualitate peccati a primis hominibus ammissi <app><rdg wit="#CSEL40">admissi</rdg></app>;
+                    <lb xml:id="fol_5v.9" n="9" /><num value="13">XIII</num>. Quod in <choice><abbr>pr&#281;baricatione</abbr><expan>pr<ex>ae</ex>baricatione</expan></choice> <app><rdg wit="#CSEL40">praeuaricatione</rdg></app> ad&#230; opus malum uoluntas
+                    <lb xml:id="fol_5v.10" n="10" /><choice><abbr>pr&#281;cesserit</abbr><expan>pr<ex>ae</ex>cesserit</expan></choice> mala;
+                    <lb xml:id="fol_5v.11" n="11" />XIIII. De superuia <app><rdg wit="#CSEL40">superbia</rdg></app> transgressoris <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> ipsa fuit <w part="I">transgres</w>
+                    <lb xml:id="fol_5v.12" n="12" /><w part="F">sione</w> deterior;
                     <lb xml:id="fol_5v.13" n="13" /><num value="15">XV</num>. De Iustitia retributionis quam primi homines pro sua
                     <lb xml:id="fol_5v.14" n="14" />inoboedientia receperunt &#183;
                     <lb xml:id="fol_5v.15" n="15" /><num value="16">XVI</num>. De libidinis malo cuius nomen cum multis uitiis congruat &#183;
-                    <lb xml:id="fol_5v.16" n="16" />propriae tamen motibus obsaeni caloris ascribitur;
-                    <lb xml:id="fol_5v.17" n="17" /><num value="17">XVII</num>. De nuditate primorum hominum quam post peccatum
-                    <lb xml:id="fol_5v.18" n="18" />turpem pudendam que uiderunt;
-                    <lb xml:id="fol_5v.19" n="19" /><num value="18">XVIII</num>. De pudore concubitus &#183; non solum uulgaris sed etiam
+                    <lb xml:id="fol_5v.16" n="16" /><sic><choice><abbr>propri&#281;</abbr><expan>propri<ex>ae</ex></expan></choice></sic> <app><rdg wit="#CSEL40">proprie</rdg></app> tamen motibus <sic>obs&#230;ni</sic> <app><rdg wit="#CSEL40">obsceni</rdg></app> caloris ascribitur <app><rdg wit="#CSEL40">adscribitur</rdg></app>;
+                    <lb xml:id="fol_5v.17" n="17" /><num value="17">XVII</num>. De nuditate primorum hominum quam post <choice><abbr>peccatu &#772;</abbr><expan>peccatu<ex>m</ex></expan></choice>
+                    <lb xml:id="fol_5v.18" n="18" />turpem pudendamque uiderunt;
+                    <lb xml:id="fol_5v.19" n="19" /><num value="18">XVIII</num>. De pudore concubitus &#183; non solum uulgaris sed <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice>
                     <lb xml:id="fol_5v.20" n="20" />coniugaljs;
-                    <lb xml:id="fol_5v.21" n="21" /><num value="19">XVIIII</num>. Quod pater irae adque liuidinis &#183; quae In homine &#183; tam 
-                    <lb xml:id="fol_5v.22" n="22" />uitio remouentur &#183; ut eas necesse sit frenis sapientiae
-                    <lb xml:id="fol_5v.23" n="23" />co<add place="above">h</add>iberi in illa ante peccatum naturae sanitate non fuerint; 
+                    <lb xml:id="fol_5v.21" n="21" /><num value="19">XVIIII</num>. Quod <sic>pater</sic> <app><rdg wit="#CSEL40">partes</rdg></app> ir&#230; adque liuidinis <app><rdg wit="#CSEL40">libidinis</rdg></app> &#183; quae In homine &#183; tam 
+                    <lb xml:id="fol_5v.22" n="22" />uitiose mouentur &#183; ut eas necesse sit frenis sapienti&#230;
+                    <lb xml:id="fol_5v.23" n="23" />co<add place="above">h</add>iberi in illa ante peccatum natur&#230; sanitate non fuerint; 
                     <lb xml:id="fol_5v.24" n="24" /><num value="20">XX</num>. De uanissima turpitudine cynicorum; 
-                    <lb xml:id="fol_5v.25" n="25" /><num value="21">XXI</num>. De benedictione multiplicandae fecunditatis: humanae
+                    <lb xml:id="fol_5v.25" n="25" /><num value="21">XXI</num>. De benedictione multiplicand&#230; fecunditatis <choice><abbr>human&#281;</abbr><expan>human<ex>ae</ex></expan></choice>
                     <lb xml:id="fol_5v.26" n="26" />ante peccatum data quam preuaricatio non ademerit &#183;
-                    <lb xml:id="fol_5v.27" n="27" />et cui liuidinis morbus accesserit; 
-                    <lb xml:id="fol_5v.28" n="28" /><num value="22">XXII</num>. De copula coniugalia deo primitus instituta atque benedicta;
-                    <lb xml:id="fol_5v.29" n="29" /><num value="23">XXIII</num>. An etiam in paradyso generamdum fuisset &#183;
-                    <lb xml:id="fol_5v.30" n="30" />si nemo peccasset &#183; uel utrum contra aestum libidinis &#183; 
+                    <lb xml:id="fol_5v.27" n="27" /><choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> cui liuidinis <app><rdg wit="#CSEL40">libidinis</rdg></app> morbus accesserit; 
+                    <lb xml:id="fol_5v.28" n="28" /><num value="22">XXII</num>. De copula coniugali a <choice><abbr>d&#772;o&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> primitus instituta atque <app><rdg wit="#CSEL40">adque</rdg></app> benedicta;
+                    <lb xml:id="fol_5v.29" n="29" /><num value="23">XXIII</num>. An etiam in paradyso <app><rdg wit="#CSEL40">paradiso</rdg></app> generamdum fuisset &#183;
+                    <lb xml:id="fol_5v.30" n="30" />si nemo peccasset &#183; uel utrum contra &#230;stum libidinis &#183; 
                 </ab>
             </div>
 
             <div n="fol_6r" type="edition">
                 <ab>
-                    <lb xml:id="fol_6r.1" n="1" />pugnatura illic fuisset ratio castitatis; 
-                    <lb xml:id="fol_6r.2" n="2" /><num value="24">XXIIII</num>. Quod insontes homines et merito oboedientiae in paradyso
+                    <lb xml:id="fol_6r.1" n="1" />pugnatura illic <choice><abbr>fuiss&#38;</abbr><expan>fuiss<ex>et</ex></expan></choice> ratio castitatis; 
+                    <lb xml:id="fol_6r.2" n="2" /><num value="24">XXIIII</num>. Quod insontes homines <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> merito <choice><abbr>oboedienti&#281;</abbr><expan>oboedienti<ex>ae</ex></expan></choice> in paradyso <app><rdg wit="#CSEL40">paradiso</rdg></app>
                     <lb xml:id="fol_6r.3" n="3" />permanentes &#183; ita genitalibus membris usuri fuissent &#183;
-                    <lb xml:id="fol_6r.4" n="4" />ad generationem prolis &#183; sicut ceteris &#183; ad aruitrium 
+                    <lb xml:id="fol_6r.4" n="4" />ad generationem prolis &#183; sicut ceteris &#183; ad aruitrium <app><rdg wit="#CSEL40">arbitrium</rdg></app>
                     <lb xml:id="fol_6r.5" n="5" />uoluntatis;
-                    <lb xml:id="fol_6r.6" n="6" /><num value="25">XXV</num>. De uera beatitudine quam tem temporaljs uita non obtinet;
-                    <lb xml:id="fol_6r.7" n="7" /><num value="26">XXVI</num>. Quod felicitas in paradysum uiuentium sine erubescendo &#183;
-                    <lb xml:id="fol_6r.8" n="8" />ad petitu generandi offitium credenda sit implere
-                    <lb xml:id="fol_6r.9" n="9" />potiusse
-                    <lb xml:id="fol_6r.10" n="10" /><num value="27">XXVII</num>. De petcatoribus et angeljs et hominibus quorum 
-                    <lb xml:id="fol_6r.11" n="11" />peruersitas &#183; non perturbat prouidentia; 
-                    <lb xml:id="fol_6r.12" n="12" /><num value="28">XXVIII</num>. De qualitate duarum ciuitatum terraenae atque
-                    <lb xml:id="fol_6r.13" n="13" />caelestis;
+                    <lb xml:id="fol_6r.6" n="6" /><num value="25">XXV</num>. De uera beatitudine quam <sic>tem</sic> temporaljs uita non <choice><abbr>obtin&#38;</abbr><expan>obtin<ex>et</ex></expan></choice>;
+                    <lb xml:id="fol_6r.7" n="7" /><num value="26">XXVI</num>. Quod felicitas in paradyso <app><rdg wit="#CSEL40">paradiso</rdg></app> uiuentium sine erubescendo &#183;
+                    <lb xml:id="fol_6r.8" n="8" />adpetitu generandi officium credenda sit implere <app><rdg wit="#CSEL40">inplere</rdg></app>
+                    <lb xml:id="fol_6r.9" n="9" />potuisse
+                    <lb xml:id="fol_6r.10" n="10" /><num value="27">XXVII</num>. De peccatoribus <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> angeljs <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> hominibus quorum 
+                    <lb xml:id="fol_6r.11" n="11" />peruersitas &#183; non perturbat prouidentia <app><rdg wit="#CSEL40">prouidentiam</rdg></app>; 
+                    <lb xml:id="fol_6r.12" n="12" /><num value="28">XXVIII</num>. De qualitate duarum ciuitatum <sic>terr&#230;n&#230;</sic> <app><rdg wit="#CSEL40">terrenae</rdg></app> atque <app><rdg wit="#CSEL40">adque</rdg></app>
+                    <lb xml:id="fol_6r.13" n="13" /><choice><abbr>c&#281;lestis;</abbr><expan>c<ex>ae</ex>lestis</expan></choice>
                 </ab>
             </div>
             
