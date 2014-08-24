@@ -1752,43 +1752,43 @@
    
    <div n="fol_30r" type="edition">
     <ab>
-     <lb xml:id="fol_30r.1" n="1"/>
-     <lb xml:id="fol_30r.2" n="2"/> 
-     <lb xml:id="fol_30r.3" n="3"/>
-     <lb xml:id="fol_30r.4" n="4"/>
-     <lb xml:id="fol_30r.5" n="5"/>
-     <lb xml:id="fol_30r.6" n="6"/>
-     <lb xml:id="fol_30r.7" n="7"/>
-     <lb xml:id="fol_30r.8" n="8"/>
-     <lb xml:id="fol_30r.9" n="9"/>
-     <lb xml:id="fol_30r.10" n="10"/>
-     <lb xml:id="fol_30r.11" n="11"/>
-     <lb xml:id="fol_30r.12" n="12"/>
-     <lb xml:id="fol_30r.13" n="13"/>
-     <lb xml:id="fol_30r.14" n="14"/>
-     <lb xml:id="fol_30r.15" n="15"/>
-     <lb xml:id="fol_30r.16" n="16"/>
-     <lb xml:id="fol_30r.17" n="17"/>
-     <lb xml:id="fol_30r.18" n="18"/>
-     <lb xml:id="fol_30r.19" n="19"/>
-     <lb xml:id="fol_30r.20" n="20"/>
-     <lb xml:id="fol_30r.21" n="21"/>
-     <lb xml:id="fol_30r.22" n="22"/>
-     <lb xml:id="fol_30r.23" n="23"/>
-     <lb xml:id="fol_30r.24" n="24"/>
-     <lb xml:id="fol_30r.25" n="25"/>
-     <lb xml:id="fol_30r.26" n="26"/>
-     <lb xml:id="fol_30r.27" n="27"/>
-     <lb xml:id="fol_30r.28" n="28"/>
-     <lb xml:id="fol_30r.29" n="29"/>
-     <lb xml:id="fol_30r.30" n="30"/>
+     <lb xml:id="fol_30r.1" n="1"/>ESSE PENSANDA AERIUM PESSIMUS
+     <lb xml:id="fol_30r.2" n="2"/>DAEMON HOMO AUTEM ET NUNC LICET 
+     <lb xml:id="fol_30r.3" n="3"/>MALUS LONGE MINORIS MITIORISQUE
+     <lb xml:id="fol_30r.4" n="4"/>MALITIAE; ET CERTE ANTE PECCATUM <choice><abbr>TAME &#772;</abbr><expan>TAME<ex>N</ex></expan></choice>
+     <lb xml:id="fol_30r.5" n="5"/>LUTEUM CORPUS ACCEPIT QUID AUTEM
+     <lb xml:id="fol_30r.6" n="6"/>STULTIUS DICI POTEST QUAM ISTUM SOLE
+     <lb xml:id="fol_30r.7" n="7"/>UT IN UNO MUNDO UNUS ESSET NON <choice><sic><w part="I">DE</w>
+     <lb xml:id="fol_30r.8" n="8"/><w part="F">COR<del rend="strikethrough">E</del></w></sic><corr>DECOR<add place="above">I</add></corr></choice> <sic>PULCRITUDINIS</sic> <app><rdg wit="#CSEL40">PULCHRITUDINIS</rdg></app> UEL ETIAM SALUTI
+     <lb xml:id="fol_30r.9" n="9"/>RERUM CORPORALIUM CONSULUISSE <w part="I">AR</w>
+     <lb xml:id="fol_30r.10" n="10"/><w part="F">TIFICEM</w> <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> SED HOC POTIUS EUENISSE QUIA
+     <lb xml:id="fol_30r.11" n="11"/>UNA ANIMA SIC PECCAUERAT UT <supplied reason="lost">TALI</supplied> <w part="I">COR</w>
+     <lb xml:id="fol_30r.12" n="12"/><w part="F">PORE</w> MERERETUR INCLUDI AC PER HOC SI
+     <lb xml:id="fol_30r.13" n="13"/>CONTIGISSET UT NON UNA SED DUAE <w part="I">IM</w>
+     <lb xml:id="fol_30r.14" n="14"/><w part="F">MO</w> NON DUAE SED DECEM UEL CENTUM
+     <lb xml:id="fol_30r.15" n="15"/>SIMILITER AEQUALITERQUE PECCASSENT
+     <lb xml:id="fol_30r.16" n="16"/>CENTUM SOLES HABERET HIC MUNDUS
+     <lb xml:id="fol_30r.17" n="17"/>QUOD UT NON FIERET NON OPIFICIS <w part="I">PRO</w>
+     <lb xml:id="fol_30r.18" n="18"/><w part="F">UISIONE</w> MIRABILI AD RERUM <w part="I">CORPORA</w>
+     <lb xml:id="fol_30r.19" n="19"/><w part="F">LIUM</w> SALUTEM DECOREMQUE <choice><abbr>CONSULTU &#772;</abbr><expan>CONSULTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_30r.20" n="20"/>EST SED CONTIGIT POTIUS TANTA UNIUS <w part="I">ANI</w>
+     <lb xml:id="fol_30r.21" n="21"/><w part="F">MAE</w> PROGRESSIONE PECCANTI<add place="above">S</add> <supplied reason="lost">UT SOLA</supplied>
+     <lb xml:id="fol_30r.22" n="22"/>CORPUS TALE MERERETUR NON <supplied reason="lost">PLANE</supplied>
+     <lb xml:id="fol_30r.23" n="23"/>ANIMARUM DE <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> NESCIUNT QUID
+     <lb xml:id="fol_30r.24" n="24"/>LOQUANTUR SED EORUM IPSORUM QUI
+     <lb xml:id="fol_30r.25" n="25"/>TALIA SAPIUNT MULTUM LONGE A <w part="I">UERITA</w>
+     <lb xml:id="fol_30r.26" n="26"/><w part="F">TE</w> ET MERITO EST COHERCENDA <w part="I">PROGRES</w>
+     <lb xml:id="fol_30r.27" n="27"/><w part="F">SIO</w> HAEC ERGO TRIA QUAE SUPERIUS <choice><abbr><w part="I">CO &#772;</w>
+     <lb xml:id="fol_30r.28" n="28"/><w part="F">MENDAUI</w></abbr><expan>CO<ex>M</ex>MENDAUI</expan></choice> CUM IN UNAQUAEQUE <app><rdg wit="#CSEL40">UNAQUAQUE</rdg></app> <w part="I">CREA</w>
+     <lb xml:id="fol_30r.29" n="29"/><w part="F">TURA</w> REQUIRANTUR QUIS EAM FECERIT
+     <lb xml:id="fol_30r.30" n="30"/>PER QUID FECERIT QUARE FECERIT UT <w part="I">RES</w>
     </ab> 
    </div>
    
    
    <div n="fol_30v" type="edition">
     <ab>
-     <lb xml:id="fol_30v.1" n="1"/>
+     <lb xml:id="fol_30v.1" n="1"/><w part="F">PONDEATUR</w>
      <lb xml:id="fol_30v.2" n="2"/> 
      <lb xml:id="fol_30v.3" n="3"/>
      <lb xml:id="fol_30v.4" n="4"/>
