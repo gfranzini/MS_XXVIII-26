@@ -1892,41 +1892,41 @@
      <lb xml:id="fol_31v.28" n="28"/>NON QUO SIT CONSEQUENS UT ISTI IN HIS
      <lb xml:id="fol_31v.29" n="29"/><supplied reason="lost">TRIBUS</supplied> ALIQUID SECUNDUM <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> DE <w part="I">TRINI</w>
      <lb xml:id="fol_31v.30" n="30"/><w part="F">TATE</w> COGITAUERINT QUAMUIS PLATO PRIMUS <app><note>US ligature is found at the end of the word PRIMUS</note></app>
-    </ab>   <!--add scholia--> 
+    </ab>    
    </div>
    
    <div n="fol_32r" type="edition">
     <ab>
-     <lb xml:id="fol_32r.1" n="1"/>
-     <lb xml:id="fol_32r.2" n="2"/> 
-     <lb xml:id="fol_32r.3" n="3"/>
-     <lb xml:id="fol_32r.4" n="4"/>
-     <lb xml:id="fol_32r.5" n="5"/>
-     <lb xml:id="fol_32r.6" n="6"/>
-     <lb xml:id="fol_32r.7" n="7"/>
-     <lb xml:id="fol_32r.8" n="8"/>
-     <lb xml:id="fol_32r.9" n="9"/>
-     <lb xml:id="fol_32r.10" n="10"/>
-     <lb xml:id="fol_32r.11" n="11"/>
-     <lb xml:id="fol_32r.12" n="12"/>
-     <lb xml:id="fol_32r.13" n="13"/>
-     <lb xml:id="fol_32r.14" n="14"/>
-     <lb xml:id="fol_32r.15" n="15"/>
-     <lb xml:id="fol_32r.16" n="16"/>
-     <lb xml:id="fol_32r.17" n="17"/>
-     <lb xml:id="fol_32r.18" n="18"/>
-     <lb xml:id="fol_32r.19" n="19"/>
-     <lb xml:id="fol_32r.20" n="20"/>
-     <lb xml:id="fol_32r.21" n="21"/>
-     <lb xml:id="fol_32r.22" n="22"/>
-     <lb xml:id="fol_32r.23" n="23"/>
-     <lb xml:id="fol_32r.24" n="24"/>
-     <lb xml:id="fol_32r.25" n="25"/>
-     <lb xml:id="fol_32r.26" n="26"/>
-     <lb xml:id="fol_32r.27" n="27"/>
-     <lb xml:id="fol_32r.28" n="28"/>
-     <lb xml:id="fol_32r.29" n="29"/>
-     <lb xml:id="fol_32r.30" n="30"/>
+     <lb xml:id="fol_32r.1" n="1"/>ISTAM DISTRIBUTIONEM REPPERISSE ET
+     <lb xml:id="fol_32r.2" n="2"/>COMMENDASSE DICATUR CUI NEQUE <w part="I">NATU</w>
+     <lb xml:id="fol_32r.3" n="3"/><w part="F">RARUM</w> OMNIUM AUCTOR NISI <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> UISUS
+     <lb xml:id="fol_32r.4" n="4"/>EST <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> INTELLEGENTIAE DATOR <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> <w part="I">AMO</w>
+     <lb xml:id="fol_32r.5" n="5"/><w part="F">RIS</w> QUOLIBET QUO BENE <app><rdg wit="#CSEL40">AMORIS QUO BENE</rdg></app> <choice><abbr>BEATEQ&#183;</abbr><expan>BEATEQ<ex>UE</ex></expan></choice> UIUITUR
+     <lb xml:id="fol_32r.6" n="6"/>INSPIRATOR SED CERTE CUM ET DE NATURA <w part="I">RE</w>
+     <lb xml:id="fol_32r.7" n="7"/><w part="F">RUM</w> ET DE RATIONE JNDAGANDAE <w part="I">UERITA</w>
+     <lb xml:id="fol_32r.8" n="8"/><w part="F">TIS</w> ET DE BONI FINE AT <app><rdg wit="#CSEL40">AD</rdg></app> QUEM CUNCTA QUAE
+     <lb xml:id="fol_32r.9" n="9"/>AGIMUS REFERRE DEBEMUS DIUERSI <w part="I">DI</w>
+     <lb xml:id="fol_32r.10" n="10"/><w part="F">UERSA</w> SENTIANT IN HIS TAMEN TRIBUS
+     <lb xml:id="fol_32r.11" n="11"/>MAGNIS ET <choice><abbr>GENERALIB&#183;</abbr><expan>GENERALIB<ex>US</ex></expan></choice> <choice><abbr>QUAESTIONIB&#183;</abbr><expan>QUAESTIONIB<ex>US</ex></expan></choice> <w part="I">OM</w>
+     <lb xml:id="fol_32r.12" n="12"/><w part="F">NIS</w> EORUM UERSATUR INTENTIO ITA CUM
+     <lb xml:id="fol_32r.13" n="13"/>IN UNAQUAQUE EARUM QUID QUISQUE
+     <lb xml:id="fol_32r.14" n="14"/>SECTETUR MULTIPLEX DISCREPANTIA SIT
+     <lb xml:id="fol_32r.15" n="15"/>OPINIONUM ESSE TAMEN ALIQUAM <w part="I">NA</w>
+     <lb xml:id="fol_32r.16" n="16"/><w part="F">TURAE</w> CAUSAM SCIENTIAE FORMAM <w part="I">UI</w>
+     <lb xml:id="fol_32r.17" n="17"/><w part="F">TAE</w> SUMMAM NEMO CUNCTATUR TRIA
+     <lb xml:id="fol_32r.18" n="18"/>ETIAM SUNT QUAE IN UNOQUOQUE <w part="I">HOMI</w>
+     <lb xml:id="fol_32r.19" n="19"/><w part="F">NE</w> ARTIFICE SPECTANTUR UT ALIQUID <w part="I">EFFI</w>
+     <lb xml:id="fol_32r.20" n="20"/><w part="F">CIAT</w> NATURA DOCTRINA USUS;<!--CRUX--> NATURA
+     <lb xml:id="fol_32r.21" n="21"/>INGENIO DOCTRINA SCIENTIA USUS FRUCTU
+     <lb xml:id="fol_32r.22" n="22"/>DIIUDICANDUS EST NEC IGNORO QUOD
+     <lb xml:id="fol_32r.23" n="23"/>PROPRIAE <app><rdg wit="#CSEL40">PROPRIE</rdg></app> FRUCTUS FRUENTIS <supplied reason="lost">USUS <w part="I">UTEN</w></supplied>
+     <lb xml:id="fol_32r.24" n="24"/><w part="F">TIS</w> SIT <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> HOC INTERESSE UIDEATUR
+     <lb xml:id="fol_32r.25" n="25"/>QUOD EA RE FRUI <choice><sic>DICIMU<del rend="strikethrough">S</del></sic><corr>DICIMU<add place="above">R</add></corr></choice> QUAE NOS <supplied reason="lost">NON</supplied>
+     <lb xml:id="fol_32r.26" n="26"/><add place="left">AD</add> ALIUD REFERENDA PER SE IPSA DELE<supplied reason="lost">CTAT</supplied>
+     <lb xml:id="fol_32r.27" n="27"/>UTI UERO EA RE QUAM PROPTER ALIUD <w part="I">QUAE</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> temporalia utend... et .. fru..<!--illegible--></note>
+     <lb xml:id="fol_32r.28" n="28"/><w part="F">RIMUS</w>: UNDE <choice><abbr>TEMPORALIB&#183;</abbr><expan>TEMPORALIB<ex>US</ex></expan></choice> MAGIS <choice><abbr><w part="I">UTE &#772;</w>
+     <lb xml:id="fol_32r.29" n="29"/><w part="F">DUM</w></abbr><expan>UTE<ex>N</ex>DUM</expan></choice> EST QUAM FRUENDUM UT FRUI <w part="I">ME</w>
+     <lb xml:id="fol_32r.30" n="30"/><w part="F">REAMUR</w> AETERNIS NON SICUT PERUERSI
     </ab> 
    </div>
    
