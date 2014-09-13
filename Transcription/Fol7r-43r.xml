@@ -1933,36 +1933,36 @@
    
    <div n="fol_32v" type="edition">
     <ab>
-     <lb xml:id="fol_32v.1" n="1"/>
-     <lb xml:id="fol_32v.2" n="2"/> 
-     <lb xml:id="fol_32v.3" n="3"/>
-     <lb xml:id="fol_32v.4" n="4"/>
-     <lb xml:id="fol_32v.5" n="5"/>
-     <lb xml:id="fol_32v.6" n="6"/>
-     <lb xml:id="fol_32v.7" n="7"/>
-     <lb xml:id="fol_32v.8" n="8"/>
-     <lb xml:id="fol_32v.9" n="9"/>
-     <lb xml:id="fol_32v.10" n="10"/>
-     <lb xml:id="fol_32v.11" n="11"/>
-     <lb xml:id="fol_32v.12" n="12"/>
-     <lb xml:id="fol_32v.13" n="13"/>
-     <lb xml:id="fol_32v.14" n="14"/>
-     <lb xml:id="fol_32v.15" n="15"/>
-     <lb xml:id="fol_32v.16" n="16"/>
-     <lb xml:id="fol_32v.17" n="17"/>
-     <lb xml:id="fol_32v.18" n="18"/>
-     <lb xml:id="fol_32v.19" n="19"/>
-     <lb xml:id="fol_32v.20" n="20"/>
-     <lb xml:id="fol_32v.21" n="21"/>
-     <lb xml:id="fol_32v.22" n="22"/>
-     <lb xml:id="fol_32v.23" n="23"/>
-     <lb xml:id="fol_32v.24" n="24"/>
-     <lb xml:id="fol_32v.25" n="25"/>
-     <lb xml:id="fol_32v.26" n="26"/>
-     <lb xml:id="fol_32v.27" n="27"/>
-     <lb xml:id="fol_32v.28" n="28"/>
-     <lb xml:id="fol_32v.29" n="29"/>
-     <lb xml:id="fol_32v.30" n="30"/>
+     <lb xml:id="fol_32v.1" n="1"/>QUI FRUI UOLUNT NUMMO UTI <choice><abbr>AUTE &#772;</abbr><expan>AUTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_32v.2" n="2"/><choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> <choice><sic>QUIA</sic><corr>QU<add place="above">ON</add>IA<add place="right">M</add></corr></choice> NON NUMMUM PROPTER <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
+     <lb xml:id="fol_32v.3" n="3"/>IMPENDUNT <app><rdg wit="#CSEL40">INPENDUNT</rdg></app> SED <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> PROPTER <choice><abbr>NUMMU &#772;</abbr><expan>NUMMU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_32v.4" n="4"/>COLUNT UERUM TAMEN EO LOQUENDI
+     <lb xml:id="fol_32v.5" n="5"/>MODO QUEM PLUS OPTINUIT <app><rdg wit="#CSEL40">OBTINUIT</rdg></app> <w part="I">CONSUETU</w>
+     <lb xml:id="fol_32v.6" n="6"/><w part="F">DO</w> ET <choice><abbr>FRUCTIB&#183;</abbr><expan>FRUCTIB<ex>US</ex></expan></choice> UTIMUR ET <choice><abbr>USIB&#183;</abbr><expan>USIB<ex>US</ex></expan></choice> FRUIMUR <app><note>UR ligature is found at the end of the word FRUIMUR</note></app>
+     <lb xml:id="fol_32v.7" n="7"/>NAM ET FRUCTUS IAM PROPRIAE <app><rdg wit="#CSEL40">PROPRIE</rdg></app> <choice><sic>DIC<del rend="strikethrough">A</del>NTUR</sic><corr>DIC<add place="above">U</add>NTUR</corr></choice>
+     <lb xml:id="fol_32v.8" n="8"/>AGRORUM <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> <choice><abbr>UTIQ&#183;</abbr><expan>UTIQ<ex>UE</ex></expan></choice> OMNES <w part="I">TEMPORA</w>
+     <lb xml:id="fol_32v.9" n="9"/><w part="F">LITER</w> UTIMUR HOC ITAQUE MORE USU <app><rdg wit="#CSEL40">USUM</rdg></app>
+     <lb xml:id="fol_32v.10" n="10"/>DIXERIM IN HIS <choice><abbr>TRIB&#183;</abbr><expan>TRIB<ex>US</ex></expan></choice> QUAE IN HOMINE
+     <lb xml:id="fol_32v.11" n="11"/>SPECTANDA COMMONUI QUAE SUNT <w part="I">NA</w> <!--cross above 'na'-->
+     <lb xml:id="fol_32v.12" n="12"/><w part="F">TURA</w> DOCTRINA USUS EX HIS PROPTER 
+     <lb xml:id="fol_32v.13" n="13"/>OPTINENDAM <app><rdg wit="#CSEL40">OBTINENDAM</rdg></app> BEATAM UITAM <w part="I">TRIPERTI</w>
+     <lb xml:id="fol_32v.14" n="14"/><w part="F">TAM</w> <app><rdg wit="#CSEL40">TRIPERTITA</rdg></app> UT DIXI A PHILOSOPHIS INUENTA EST
+     <lb xml:id="fol_32v.15" n="15"/>DISCIPLINA NATURALIS PROPTER <choice><abbr>NATURA &#772;</abbr><expan>NATURA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_32v.16" n="16"/>RATIONALIS PROPTER DOCTRINAM <w part="I">MO</w>
+     <lb xml:id="fol_32v.17" n="17"/><w part="F">RALIS</w> PROPTER USUM SI ERGO NATURA
+     <lb xml:id="fol_32v.18" n="18"/>NOSTRA ESSET A NOBIS PROFECTO ET <w part="I">NOS</w>
+     <lb xml:id="fol_32v.19" n="19"/><w part="F">TRAM</w> NOS GENUISSEMUS SAPIENTIA <app><rdg wit="#CSEL40">SAPIENTIAM</rdg></app> NEC
+     <lb xml:id="fol_32v.20" n="20"/>EAM DOCTRINA ID EST ALIUNDE DISCENDO
+     <lb xml:id="fol_32v.21" n="21"/>PERCIPERE CURAREMUS ET NOSTER AMOR
+     <lb xml:id="fol_32v.22" n="22"/>A NOBIS PROFECTUS ET AD NOS RELATUS ET
+     <lb xml:id="fol_32v.23" n="23"/><supplied reason="lost">AD BEATE</supplied> UIUENDUM SUFFICERET NEC
+     <lb xml:id="fol_32v.24" n="24"/>BO<supplied reason="lost">NO ALIO</supplied> QUO FRUEREMUR ULLO <w part="I">INDI</w>
+     <lb xml:id="fol_32v.25" n="25"/><w part="F">GERET</w>: NUNC UERO QUIA NATURA <w part="I">NOS</w>
+     <lb xml:id="fol_32v.26" n="26"/><w part="F">TRA</w> UT ESSET <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> HABET <sic>AUTOREM</sic> <app><rdg wit="#CSEL40">AUCTOREM</rdg></app> PROCUL
+     <lb xml:id="fol_32v.27" n="27"/>DUBIO UT UERA SAPIAMUS IPSUM <w part="I">DEBE</w>
+     <lb xml:id="fol_32v.28" n="28"/><w part="F">MUS</w> HABERE DOCTOREM IPSUM ETIAM
+     <lb xml:id="fol_32v.29" n="29"/>UT BEATI SIMUS SUAUITATIS INTIME <app><rdg wit="#CSEL40">INTIMAE</rdg></app> <w part="I">LAR</w>
+     <lb xml:id="fol_32v.30" n="30"/><w part="F">GITOREM</w> ET NOS QUIDEM IN NOBIS <w part="I">TAM</w>
     </ab> 
    </div>
    
