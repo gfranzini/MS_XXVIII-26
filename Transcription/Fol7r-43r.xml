@@ -1831,9 +1831,9 @@
      <lb xml:id="fol_31r.3" n="3"/><choice><sic>E<del rend="strikethrough">U</del>M</sic><corr>E<add place="above">A</add>M</corr></choice> DICERE SANCTITATEM FACILIUS AUSUS <app><note>US ligature is found at the end of the word AUSUS</note></app>
      <lb xml:id="fol_31r.4" n="4"/>FUERO NON AMBORUM QUASJ <w part="I">QUALITA</w>
      <lb xml:id="fol_31r.5" n="5"/><w part="F">TEM</w> SED IPSUM QUOQUE SUBSTANTIAM
-     <lb xml:id="fol_31r.6" n="6"/>ET TERTIAM IN TRINITATE PERSONAM
+     <lb xml:id="fol_31r.6" n="6"/>ET TERTIAM IN TRINITATE PERSONAM <note type="scholion" place="margin">: <choice><abbr>tertia &#772;</abbr><expan>tertia<ex>m</ex></expan></choice> in trinitate <choice><abbr>persona &#772;</abbr><expan>persona<ex>m</ex></expan></choice></note>
      <lb xml:id="fol_31r.7" n="7"/>AD HOC ENIM ME PROBABILIUS DUCIT QUOD
-     <lb xml:id="fol_31r.8" n="8"/>CUM SIT ET PATER <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> ET FILIUS <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> ET PATER
+     <lb xml:id="fol_31r.8" n="8"/>CUM SIT ET PATER <note type="scholion" place="margin">: <choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> <choice><abbr>pat &#772;</abbr><expan>pat<ex>er</ex></expan></choice> <choice><abbr>s&#772;p&#772;s&#772;</abbr><expan>sp<ex>iritu</ex>s</expan></choice> <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> filius <choice><abbr>s&#772;p&#772;s&#772;</abbr><expan>sp<ex>iritu</ex>s</expan></choice></note> <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> ET FILIUS <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> ET PATER
      <lb xml:id="fol_31r.9" n="9"/><choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> ET FILIUS <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> PROPRIAE <app><rdg wit="#CSEL40">PROPRIE</rdg></app> TAMEN IPSE
      <lb xml:id="fol_31r.10" n="10"/>UOCATUR <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> TAMQUAM SANCTITAS
      <lb xml:id="fol_31r.11" n="11"/>SUBSTANTIALIS ET CONSUBSTANTIALIS <w part="I">AM</w>
@@ -1844,7 +1844,7 @@
      <lb xml:id="fol_31r.16" n="16"/>QUODAM LOQUENDI MODO QUO NOSTRA
      <lb xml:id="fol_31r.17" n="17"/>EXERCEATUR INTENTIO EADEM NOBIS <w part="I">IN</w>
      <lb xml:id="fol_31r.18" n="18"/><w part="F">SINUATA</w> INTELLEGATUR TRINITAS <w part="I">UNAQUAE</w>
-     <lb xml:id="fol_31r.19" n="19"/><w part="F">QUE</w> TRINITAS <choice><abbr>UNAMQUAMQ&#183;</abbr><expan>UNAMQUAMQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">INTELLEGATUR TRINITAS UNAMQUAMQUE</rdg></app> CR<add place="above">E</add>ATURAM 
+     <lb xml:id="fol_31r.19" n="19"/><w part="F">QUE</w> TRINITAS <choice><abbr>UNAMQUAMQ&#183;</abbr><expan>UNAMQUAMQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">INTELLEGATUR TRINITAS UNAMQUAMQUE</rdg></app> CR<add place="above">E</add>ATURAM <note type="scholion" place="margin">: <choice><abbr>qs</abbr><expan>q<ex>ui</ex>s</expan></choice> fecerit</note>
      <lb xml:id="fol_31r.20" n="20"/>QUIS FECERIT &#183; PER QUID FECERIT &#183; PROPTER
      <lb xml:id="fol_31r.21" n="21"/>QUID FECERIT; PATER QUIPPE <w part="I">INTELLEGI</w>
      <lb xml:id="fol_31r.22" n="22"/><w part="F">TUR</w> UERBI QUI DIXIT UT FIAT QUOD AUTEM
@@ -1855,7 +1855,7 @@
      <lb xml:id="fol_31r.27" n="27"/><w part="F">TATE</w> NULLA SUAE CUIUSQUAM UTILITATIS
      <lb xml:id="fol_31r.28" n="28"/>INDIGENTIA SED SOLA BONITATE FECISSE
      <lb xml:id="fol_31r.29" n="29"/>QUOD FACTUM EST ID EST QUIA BONUM EST
-     <lb xml:id="fol_31r.30" n="30"/>QUOD IDEO POSTEA QUAM FACTUM EST  <!--add scholia-->
+     <lb xml:id="fol_31r.30" n="30"/>QUOD IDEO POSTEA QUAM FACTUM EST
     </ab> 
    </div>
    
@@ -1864,7 +1864,7 @@
     <ab>
      <lb xml:id="fol_31v.1" n="1"/>DICITUR UT RES QUAE FACTA EST <w part="I">CON</w>
      <lb xml:id="fol_31v.2" n="2"/><w part="F">GRUERE</w> BONITATI PROPTER QUAM <w part="I">FAC</w>
-     <lb xml:id="fol_31v.3" n="3"/><w part="F">TA</w> EST INDICETUR &#8278; QUAE BONITAS NISI <app><rdg wit="#CSEL40">BONITAS SI</rdg></app>
+     <lb xml:id="fol_31v.3" n="3"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> bonitas nisi <choice><abbr>s&#772;p&#772;s&#772;</abbr><expan>sp<ex>iritu</ex>s</expan></choice> <choice><abbr>s&#772;c&#772;s&#772;</abbr><expan>s<ex>an</ex>c<ex>tu</ex>s</expan></choice> intellegit</note> <w part="F">TA</w> EST INDICETUR &#8278; QUAE BONITAS NISI <app><rdg wit="#CSEL40">BONITAS SI</rdg></app>
      <lb xml:id="fol_31v.4" n="4"/><choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> RECTE INTELLEGITUR UNIUERSA
      <lb xml:id="fol_31v.5" n="5"/>NOBIS TRINITAS IN SUIS <choice><abbr>OPERIB&#183;</abbr><expan>OPERIB<ex>US</ex></expan></choice> <w part="I">INTIMA</w>
      <lb xml:id="fol_31v.6" n="6"/><w part="F">TUR</w>; INDE EST CIUITATIS SACTAE QUAE
@@ -1874,7 +1874,7 @@
      <lb xml:id="fol_31v.10" n="10"/>SI UNDE SIT SAPIENS A <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> INLUMINATUR;
      <lb xml:id="fol_31v.11" n="11"/>SI UNDE SIT FELIX <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> FRUITUR; SUBSISTENS <app><note>NS ligature is found at the end of the word SUBSISTENS</note></app>
      <lb xml:id="fol_31v.12" n="12"/>MODIFICATUR CONTEMPLANS <w part="I">INLUSTRA</w>
-     <lb xml:id="fol_31v.13" n="13"/><w part="F">TUR</w> INHERENS <app><rdg wit="#CSEL40">INHAERENS</rdg></app> IUCUNDATUR; EST UIDET
+     <lb xml:id="fol_31v.13" n="13"/><note type="scholion" place="margin"><!--illegible--></note> <w part="F">TUR</w> INHERENS <app><rdg wit="#CSEL40">INHAERENS</rdg></app> IUCUNDATUR; EST UIDET
      <lb xml:id="fol_31v.14" n="14"/>AMAT IN AETERNITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> <choice><sic>VIDET</sic><corr>UIGET</corr></choice> IN <w part="I">UERI</w>   <!--add a del rend for the D-g?-->
      <lb xml:id="fol_31v.15" n="15"/><w part="F">TATE</w> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> LUCET IN BONITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> GAUDET
      <lb xml:id="fol_31v.16" n="16"/><note type="scholion" subtype="chapter" n="25">XXV</note> QUANTUM INTELLEGI DATUR HINC <w part="I">PHILOSO</w>
@@ -1883,12 +1883,12 @@
      <lb xml:id="fol_31v.19" n="19"/>ESSE ANIMADUERTERE POTUERUNT <w part="I">NE</w>
      <lb xml:id="fol_31v.20" n="20"/><w part="F">QUE</w> ENIM IPSI INSTITUERUNT UT ITA ESSET
      <lb xml:id="fol_31v.21" n="21"/>SED ITA ESSE POTIUS INUENERUNT CUIUS
-     <lb xml:id="fol_31v.22" n="22"/>UNA <supplied reason="lost">PARS</supplied> APPELLARETUR PHYSICA ALTERA
+     <lb xml:id="fol_31v.22" n="22"/><note type="scholion" place="margin">phisica <!--illegible--></note> UNA <supplied reason="lost">PARS</supplied> APPELLARETUR PHYSICA ALTERA
      <lb xml:id="fol_31v.23" n="23"/><supplied reason="lost">LOGICA</supplied> TERTIA HETICA <app><rdg wit="#CSEL40">ETHICA</rdg></app> QUARUM NOMINA 
      <lb xml:id="fol_31v.24" n="24"/><supplied reason="lost">LATINA IAM MULT</supplied>ORUM LITTERIS <choice><abbr><w part="I">FREQUE &#772;</w>
      <lb xml:id="fol_31v.25" n="25"/><w part="F">TATA</w></abbr><expan>FREQUE<ex>N</ex>TATA</expan></choice> SUNT UT RATIONALIS NATURALIS <app><rdg wit="#CSEL40">NATURALIS RATIONALIS</rdg></app> <w part="I">MO</w>
      <lb xml:id="fol_31v.26" n="26"/><w part="F">RALISQUE</w> UOCARENTUR QUAS ETJAM IN <w part="I">OC</w>
-     <lb xml:id="fol_31v.27" n="27"/><w part="F">TA<supplied reason="lost">UO</supplied></w> LIBRO BREUITER INSTRINXIMUS <app><rd wit="#CSEL40">STRINXIMUS</rdg></app>
+     <lb xml:id="fol_31v.27" n="27"/><w part="F">TA<supplied reason="lost">UO</supplied></w> LIBRO BREUITER INSTRINXIMUS <app><rdg wit="#CSEL40">STRINXIMUS</rdg></app>
      <lb xml:id="fol_31v.28" n="28"/>NON QUO SIT CONSEQUENS UT ISTI IN HIS
      <lb xml:id="fol_31v.29" n="29"/><supplied reason="lost">TRIBUS</supplied> ALIQUID SECUNDUM <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> DE <w part="I">TRINI</w>
      <lb xml:id="fol_31v.30" n="30"/><w part="F">TATE</w> COGITAUERINT QUAMUIS PLATO PRIMUS <app><note>US ligature is found at the end of the word PRIMUS</note></app>
