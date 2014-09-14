@@ -2039,36 +2039,36 @@
    
    <div n="fol_34r" type="edition">
     <ab>
-     <lb xml:id="fol_34r.1" n="1"/>
-     <lb xml:id="fol_34r.2" n="2"/> 
-     <lb xml:id="fol_34r.3" n="3"/>
-     <lb xml:id="fol_34r.4" n="4"/>
-     <lb xml:id="fol_34r.5" n="5"/>
-     <lb xml:id="fol_34r.6" n="6"/>
-     <lb xml:id="fol_34r.7" n="7"/>
-     <lb xml:id="fol_34r.8" n="8"/>
-     <lb xml:id="fol_34r.9" n="9"/>
-     <lb xml:id="fol_34r.10" n="10"/>
-     <lb xml:id="fol_34r.11" n="11"/>
-     <lb xml:id="fol_34r.12" n="12"/>
-     <lb xml:id="fol_34r.13" n="13"/>
-     <lb xml:id="fol_34r.14" n="14"/>
-     <lb xml:id="fol_34r.15" n="15"/>
-     <lb xml:id="fol_34r.16" n="16"/>
-     <lb xml:id="fol_34r.17" n="17"/>
-     <lb xml:id="fol_34r.18" n="18"/>
-     <lb xml:id="fol_34r.19" n="19"/>
-     <lb xml:id="fol_34r.20" n="20"/>
-     <lb xml:id="fol_34r.21" n="21"/>
-     <lb xml:id="fol_34r.22" n="22"/>
-     <lb xml:id="fol_34r.23" n="23"/>
-     <lb xml:id="fol_34r.24" n="24"/>
-     <lb xml:id="fol_34r.25" n="25"/>
-     <lb xml:id="fol_34r.26" n="26"/>
-     <lb xml:id="fol_34r.27" n="27"/>
-     <lb xml:id="fol_34r.28" n="28"/>
-     <lb xml:id="fol_34r.29" n="29"/>
-     <lb xml:id="fol_34r.30" n="30"/>
+     <lb xml:id="fol_34r.1" n="1"/><w part="F">TIBUS</w> QUONIAM STULTI UERUM ET AB
+     <lb xml:id="fol_34r.2" n="2"/>HIS QUI SE BEATOS PUTANT MISERI <w part="I">IUDI</w>
+     <lb xml:id="fol_34r.3" n="3"/><w part="F">CANTUR</w> QUIA PAUPERES <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> MENDICI 
+     <lb xml:id="fol_34r.4" n="4"/>SUNT SI QUIS IMMORTALITATEM DARET QUA
+     <lb xml:id="fol_34r.5" n="5"/>NEC IPSA MISERIA MORERETUR <w part="I">PROPOSI</w>
+     <lb xml:id="fol_34r.6" n="6"/><w part="F">TO</w> SIBI QUOD SI IN EADEM MISERIA SEMPER
+     <lb xml:id="fol_34r.7" n="7"/>ESSE NOLLENT NULLI ET NUSQUAM ESSE <app><rdg wit="#CSEL40">ESSENT</rdg></app> <w part="I">FU</w>
+     <lb xml:id="fol_34r.8" n="8"/><w part="F">TURI</w> SED OMNI MODO PERITURI <w part="I">PROFEC</w>
+     <lb xml:id="fol_34r.9" n="9"/><w part="F">TO</w> EXULTARENT LA<add place="above">E</add>TITIA ET SIC SEMPER <w part="I">ELI</w>
+     <lb xml:id="fol_34r.10" n="10"/><w part="F">GERENT</w> ESSE QUAM OMNINO NON ESSE
+     <lb xml:id="fol_34r.11" n="11"/>HUIUS REI TESTIS EST NOTISSIMUS SENSUS <app><note>US ligature is found at the end of the word SENSUS</note></app>
+     <lb xml:id="fol_34r.12" n="12"/>ILLORUM UNDE ENIM MORI METUUNT <app><note>NT ligature is found at the end of the word METUUNT</note></app>
+     <lb xml:id="fol_34r.13" n="13"/>ET MALUNT IN ILLA ERUMNA <app><rdg wit="#CSEL40">AERUMNA</rdg></app> UIUERE <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_34r.14" n="14"/>EAM MORTE FINIRE NISI QUIA SATIS <w part="I">APPA</w>
+     <lb xml:id="fol_34r.15" n="15"/><w part="F">RET</w> QUAM REFUGIAT NATURA NON ESSE
+     <lb xml:id="fol_34r.16" n="16"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> IDEO CUM SE NOUERINT ESSE <w part="I">MORITU</w>
+     <lb xml:id="fol_34r.17" n="17"/><w part="F">ROS</w> PRO MAGNO BENEFICIO SIBI HANC <choice><abbr><w part="I">I &#772;</w>
+     <lb xml:id="fol_34r.18" n="18"/><w part="F">PENDI</w></abbr><expan>I<ex>N</ex>PENDI</expan></choice> MISERICORDIAM DESIDERANT UT
+     <lb xml:id="fol_34r.19" n="19"/>ALIQUANTO PRODUCTIUS IN EADEM <w part="I">MISE</w>
+     <lb xml:id="fol_34r.20" n="20"/><w part="F">RIA</w> UIUANT <choice><abbr>TARDIUSQ&#183;</abbr><expan>TARDIUSQ<ex>UE</ex></expan></choice> MORIANTUR
+     <lb xml:id="fol_34r.21" n="21"/>PROCUL DUBIO ERGO INDICANT<del rend="strikethrough">E</del> <w part="I">IMMOR</w>
+     <lb xml:id="fol_34r.22" n="22"/><w part="F">TALITATEM</w> <app><rdg wit="#CSEL40">INMORTALITATEM</rdg></app> SALTEM TALEM QUAE NON <w part="I">HA</w>
+     <lb xml:id="fol_34r.23" n="23"/><w part="F">BEA<del rend="strikethrough">N</del>T</w> FINEM MENDICITATIS QUANTA
+     <lb xml:id="fol_34r.24" n="24"/>GRATULATIONE SUSCIPERENT QUID <w part="I">ANI</w>
+     <lb xml:id="fol_34r.25" n="25"/><w part="F">MALIA</w> OMNIA ETIAM INRATIONALIA <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_34r.26" n="26"/>DATUM NON EST ISTA COGITARE AB <choice><abbr><w part="I">INME &#772;</w> 
+      <lb xml:id="fol_34r.27" n="27"/><w part="F">SIS</w></abbr><expan>INME<ex>N</ex>SIS</expan></choice> <choice><abbr>DRACONIB&#183;</abbr><expan>DRACONIB<ex>US</ex></expan></choice> <choice><abbr>USQ&#183;</abbr><expan>USQ<ex>UE</ex></expan></choice> AD <choice><sic>EXIGU<del rend="strikethrough">A</del>S</sic><corr>EXIGU<add place="above">O</add>S</corr></choice> <w part="I">UERMICU</w>
+     <lb xml:id="fol_34r.28" n="28"/><w part="F">LOS</w> NONNE SE ESSE UELLE <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> OB HOC <w part="I">IN</w>
+     <lb xml:id="fol_34r.29" n="29"/><w part="F">TERITUM</w> FUGERE <choice><abbr>OMNIB&#183;</abbr><expan>OMNIB<ex>US</ex></expan></choice> <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> POSSUNT
+     <lb xml:id="fol_34r.30" n="30"/><choice><abbr>MOTIB&#183;</abbr><expan>MOTIB<ex>US</ex></expan></choice> INDICANT QUID ARBUSTA OMNES
     </ab> 
    </div>
    
