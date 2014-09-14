@@ -1968,36 +1968,36 @@
    
    <div n="fol_33r" type="edition">
     <ab>
-     <lb xml:id="fol_33r.1" n="1"/>
-     <lb xml:id="fol_33r.2" n="2"/> 
-     <lb xml:id="fol_33r.3" n="3"/>
-     <lb xml:id="fol_33r.4" n="4"/>
-     <lb xml:id="fol_33r.5" n="5"/>
-     <lb xml:id="fol_33r.6" n="6"/>
-     <lb xml:id="fol_33r.7" n="7"/>
-     <lb xml:id="fol_33r.8" n="8"/>
-     <lb xml:id="fol_33r.9" n="9"/>
-     <lb xml:id="fol_33r.10" n="10"/>
-     <lb xml:id="fol_33r.11" n="11"/>
-     <lb xml:id="fol_33r.12" n="12"/>
-     <lb xml:id="fol_33r.13" n="13"/>
-     <lb xml:id="fol_33r.14" n="14"/>
-     <lb xml:id="fol_33r.15" n="15"/>
-     <lb xml:id="fol_33r.16" n="16"/>
-     <lb xml:id="fol_33r.17" n="17"/>
-     <lb xml:id="fol_33r.18" n="18"/>
-     <lb xml:id="fol_33r.19" n="19"/>
-     <lb xml:id="fol_33r.20" n="20"/>
-     <lb xml:id="fol_33r.21" n="21"/>
-     <lb xml:id="fol_33r.22" n="22"/>
-     <lb xml:id="fol_33r.23" n="23"/>
-     <lb xml:id="fol_33r.24" n="24"/>
-     <lb xml:id="fol_33r.25" n="25"/>
-     <lb xml:id="fol_33r.26" n="26"/>
-     <lb xml:id="fol_33r.27" n="27"/>
-     <lb xml:id="fol_33r.28" n="28"/>
-     <lb xml:id="fol_33r.29" n="29"/>
-     <lb xml:id="fol_33r.30" n="30"/>
+     <lb xml:id="fol_33r.1" n="1"/><w part="F">ETSI</w> NON AEQUALEM <sic>INMO</sic> <app><rdg wit="#CSEL40">IMMO</rdg></app> UALDE <choice><abbr><w part="I">LON</w>
+      <lb xml:id="fol_33r.2" n="2"/><w part="F">GEQ&#183;</w></abbr><expan>LONGEQ<ex>UE</ex></expan></choice> DISTANTEM <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> COAETERNAM ET
+     <lb xml:id="fol_33r.3" n="3"/>QUO BREUIUS TOTUM DICITUR NON <w part="I">EIUS</w>
+     <lb xml:id="fol_33r.4" n="4"/><w part="F">DEM</w> SUBSTANTIAE CUIUS <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST TAMEN
+     <lb xml:id="fol_33r.5" n="5"/>QU<del rend="strikethrough">I</del>A <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> &#183; NIHIL SIT IN <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> AB EO FACTIS <w part="I">NATU</w>
+     <lb xml:id="fol_33r.6" n="6"/><w part="F">RAM</w> <app><rdg wit="#CSEL40">NATURA</rdg></app> PROPINQUIUS IMAGINEM <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> HOC
+     <lb xml:id="fol_33r.7" n="7"/>EST ILLIUS SUMMAE TRINITATIS <w part="I">AGNOS</w>
+     <lb xml:id="fol_33r.8" n="8"/><w part="F">CIMUS</w> ADHUC REFORMATIONEM <app><rdg wit="#CSEL40">REFORMATIONE</rdg></app> <w part="I">PERFI</w>
+     <lb xml:id="fol_33r.9" n="9"/><w part="F">CIENDAM</w> UT SIT ETIAM SIMILITUDINE <w part="I">PRO</w>
+     <lb xml:id="fol_33r.10" n="10"/><w part="F">XIMA</w> NAM ET SUMUS ET NOS ESSE <w part="I">NO</w>
+     <lb xml:id="fol_33r.11" n="11"/><w part="F">UIMUS</w> ET ESSE <app><rdg wit="#CSEL40">ET ID ESSE</rdg></app> AC NOSSE DILIGIMUS IN HIS
+     <lb xml:id="fol_33r.12" n="12"/>AUTEM <choice><abbr>TRIB&#183;</abbr><expan>TRIB<ex>US</ex></expan></choice> QUAE DIXI NULLA NOS FALSITAS
+     <lb xml:id="fol_33r.13" n="13"/>UERI SIMILIS TURBAT; NON ENIM EA SICUT <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_33r.14" n="14"/>ILLA QUAE FORIS SUNT ULLO SENSU <w part="I">CORPO</w>
+     <lb xml:id="fol_33r.15" n="15"/><w part="F">RIS</w> TANGIMUS UELUT COLORES UIDENDO <w part="I">SO</w>
+     <lb xml:id="fol_33r.16" n="16"/><w part="F">NOS</w> AUDIENDO<del rend="strikethrough">S</del> ODORES OLFACIENDO <w part="I">SA</w>
+     <lb xml:id="fol_33r.17" n="17"/><w part="F">PORES</w> GUSTANDO DURA ET MOLLIA <w part="I">CONTREC</w>
+     <lb xml:id="fol_33r.18" n="18"/><w part="F">TANDO</w> SENTIMUS QUORUM <choice><abbr>SENSIBILIU &#772;</abbr><expan>SENSIBILIU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_33r.19" n="19"/>ETIAM IMAGINES EIS SIMILLIMAS NEC IAM
+     <lb xml:id="fol_33r.20" n="20"/>CORPOREAS CONGITATIONE UERSAMUS <w part="I">ME</w>
+     <lb xml:id="fol_33r.21" n="21"/><w part="F">MORIA</w> TENEMUS ET PER IPSAS IN ISTORUM
+     <lb xml:id="fol_33r.22" n="22"/>DESIDERIA CONCITAMUR SED SINE ULLA
+     <lb xml:id="fol_33r.23" n="23"/>FANTASIARUM UEL FANTHASMAT<supplied reason="lost">UM</supplied> <app><rdg>PHANTASIARUM UEL PHANTASMATUM</rdg></app> <w part="I">IMA</w>
+     <lb xml:id="fol_33r.24" n="24"/><w part="F">GINATIONE</w> LUDIFICATORIA MIHI ESSE <supplied reason="lost">ME</supplied>
+     <lb xml:id="fol_33r.25" n="25"/><choice><abbr>IDQ&#183;</abbr><expan>IDQ<ex>UE</ex></expan></choice> NOSSE ET AMARE CERTISSIMUM EST
+     <lb xml:id="fol_33r.26" n="26"/>NULLA IN HIS UERIS ACHADEMICO<supplied reason="lost">RUM</supplied> <app><rdg wit="#CSEL40">ACADEMICORUM</rdg></app>
+     <lb xml:id="fol_33r.27" n="27"/>ARGUMENTA FORMIDO DICENTIUM QUID
+     <lb xml:id="fol_33r.28" n="28"/>SI FALLERIS SI ENIM FALLOR SUM NAM QUI <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> si fa<add place="above">l</add>lor <choice><abbr>su &#772;</abbr><expan>su<ex>m</ex></expan></choice></note>
+     <lb xml:id="fol_33r.29" n="29"/>NON EST UTIQUE NEC FALLI POTEST AC PER
+     <lb xml:id="fol_33r.30" n="30"/>HOC SUM SI FALLOR QUIA ERGO SUM <app><rdg wit="#CSEL40">QUIA SUM ERGO SI FALLOR</rdg></app> QUO
     </ab> 
    </div>
    
