@@ -2004,36 +2004,36 @@
    
    <div n="fol_33v" type="edition">
     <ab>
-     <lb xml:id="fol_33v.1" n="1"/>
-     <lb xml:id="fol_33v.2" n="2"/> 
-     <lb xml:id="fol_33v.3" n="3"/>
-     <lb xml:id="fol_33v.4" n="4"/>
-     <lb xml:id="fol_33v.5" n="5"/>
-     <lb xml:id="fol_33v.6" n="6"/>
-     <lb xml:id="fol_33v.7" n="7"/>
-     <lb xml:id="fol_33v.8" n="8"/>
-     <lb xml:id="fol_33v.9" n="9"/>
-     <lb xml:id="fol_33v.10" n="10"/>
-     <lb xml:id="fol_33v.11" n="11"/>
-     <lb xml:id="fol_33v.12" n="12"/>
-     <lb xml:id="fol_33v.13" n="13"/>
-     <lb xml:id="fol_33v.14" n="14"/>
-     <lb xml:id="fol_33v.15" n="15"/>
-     <lb xml:id="fol_33v.16" n="16"/>
-     <lb xml:id="fol_33v.17" n="17"/>
-     <lb xml:id="fol_33v.18" n="18"/>
-     <lb xml:id="fol_33v.19" n="19"/>
-     <lb xml:id="fol_33v.20" n="20"/>
-     <lb xml:id="fol_33v.21" n="21"/>
-     <lb xml:id="fol_33v.22" n="22"/>
-     <lb xml:id="fol_33v.23" n="23"/>
-     <lb xml:id="fol_33v.24" n="24"/>
-     <lb xml:id="fol_33v.25" n="25"/>
-     <lb xml:id="fol_33v.26" n="26"/>
-     <lb xml:id="fol_33v.27" n="27"/>
-     <lb xml:id="fol_33v.28" n="28"/>
-     <lb xml:id="fol_33v.29" n="29"/>
-     <lb xml:id="fol_33v.30" n="30"/>
+     <lb xml:id="fol_33v.1" n="1"/>MODO ESSE ME FALLOR QUANDO <choice><abbr>CERTU &#772;</abbr><expan>CERTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_33v.2" n="2"/>EST ME ESSE SI FALLOR QUIA IGITUR <choice><abbr>ESSE &#772;</abbr><expan>ESSE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_33v.3" n="3"/>QUI FALLERER ETIAMSI FALLERER PROCUL
+     <lb xml:id="fol_33v.4" n="4"/>DUBIO IN EO QUOD ME NOUI ESSE NON <w part="I">FAL</w>
+     <lb xml:id="fol_33v.5" n="5"/><w part="F">LOR</w> CONSEQUENS EST AUTEM UT IAM <app><rdg wit="#CSEL40">ETIAM</rdg></app> IN EO 
+     <lb xml:id="fol_33v.6" n="6"/>QUOD ME NOUI NOSSE NON FALLOR <app><rdg wit="#CSEL40">FALLAR</rdg></app> SICUT <app><note>UT ligature is found at the end of the word SICUT</note></app>
+     <lb xml:id="fol_33v.7" n="7"/>ENIM NOUI ESSE ME ITA NOUI ETIAM HOC
+     <lb xml:id="fol_33v.8" n="8"/>IPSUM NOSSE ME EAQUAE <app><rdg wit="#CSEL40">EAQUE</rdg></app> DUO CUM AMO
+     <lb xml:id="fol_33v.9" n="9"/>EUNDEM <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> AMOREM QUIDDAM <w part="I">TER</w>
+     <lb xml:id="fol_33v.10" n="10"/><w part="F">TIUM</w> NEC INPARIS AESTIMATIONIS EIS QUAS
+     <lb xml:id="fol_33v.11" n="11"/>NOUI <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> ADIUNGO <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM FALLOR
+     <lb xml:id="fol_33v.12" n="12"/>AMARE ME CUM IN HIS QUAE AMO NON
+     <lb xml:id="fol_33v.13" n="13"/>FALLAR QUAMQUAM ETSI ILLA FALSA <del rend="strikethrough">NON</del>
+     <lb xml:id="fol_33v.14" n="14"/>ESSENT FALSA ME AMARE UERUM ESSET
+     <lb xml:id="fol_33v.15" n="15"/>NAM QUO PACTO RECTE REPRAEHENDERER <app><rdg wit="#CSEL40">REPREHENDERER</rdg></app>
+     <lb xml:id="fol_33v.16" n="16"/>ET RECTE PROHIBERER AB AMORE <choice><abbr>FALSORU &#772;</abbr><expan>FALSORU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_33v.17" n="17"/>SI ME ILLA AMARE FALSUM ESSET CUM <w part="I">UE</w>
+     <lb xml:id="fol_33v.18" n="18"/><w part="F">RO</w> ET ILLA UERA <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> CERTA SINT QUIS <w part="I">DUBI</w>
+     <lb xml:id="fol_33v.19" n="19"/><w part="F">TET</w> QUOD EORUM CUM AMANTUR ET IPSE
+     <lb xml:id="fol_33v.20" n="20"/>AMOR UERUS ET CERTUS EST TAM PORRO
+     <lb xml:id="fol_33v.21" n="21"/>NEMO EST QUI NON ESSE BEATUS UELIT <app><rdg wit="#CSEL40">TAM PORRO NEMO EST QUI ESSE SE NOLIT QUAM NEMO EST QUI NON ESSE BEATUS UELIT</rdg></app> <note type="scholion" place="inline">NEMO EST QUI ESSE SE NOLIT QUAM</note>
+     <lb xml:id="fol_33v.22" n="22"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note> QUO MODO ENIM POTEST BEATUS ESSE 
+     <lb xml:id="fol_33v.23" n="23"/>SI NIHIL SIT <note type="scholion" subtype="chapter" place="margin" n="27">XXVII</note> ITA UERO UI QUADAM <w part="I">NATU</w>
+     <lb xml:id="fol_33v.24" n="24"/><w part="F">RALI</w> IPSUM ESSE IUCUNDUM EST UT <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
+     <lb xml:id="fol_33v.25" n="25"/>OB ALIUD ET HI QUI MISERI SUNT NOLINT
+     <lb xml:id="fol_33v.26" n="26"/>INTERIRE ET CUM SE MISEROS ESSE <w part="I">SEN</w>
+     <lb xml:id="fol_33v.27" n="27"/><w part="F">TIANT</w> NON SE IPSOS DE <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> SED <choice><abbr>MISERIA &#772;</abbr><expan>MISERIA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_33v.28" n="28"/>SUAM POTIUS AUFERRI UELINT ILLIS
+     <lb xml:id="fol_33v.29" n="29"/>ETIAM QUI ET SIBI MISERRIMI APPARENT <app><note>NT ligature is found at the end of the word APPARENT</note></app>
+     <lb xml:id="fol_33v.30" n="30"/>ET PLANE SUNT ET NON SOLUM A <w part="I">SAPIEN</w>
     </ab> 
    </div>
    
