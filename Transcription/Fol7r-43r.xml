@@ -2253,36 +2253,36 @@
    
    <div n="fol_37r" type="edition">
     <ab>
-     <lb xml:id="fol_37r.1" n="1"/><w part="F">LEM</w>
-     <lb xml:id="fol_37r.2" n="2"/> 
-     <lb xml:id="fol_37r.3" n="3"/>
-     <lb xml:id="fol_37r.4" n="4"/>
-     <lb xml:id="fol_37r.5" n="5"/>
-     <lb xml:id="fol_37r.6" n="6"/>
-     <lb xml:id="fol_37r.7" n="7"/>
-     <lb xml:id="fol_37r.8" n="8"/>
-     <lb xml:id="fol_37r.9" n="9"/>
-     <lb xml:id="fol_37r.10" n="10"/>
-     <lb xml:id="fol_37r.11" n="11"/>
-     <lb xml:id="fol_37r.12" n="12"/>
-     <lb xml:id="fol_37r.13" n="13"/>
-     <lb xml:id="fol_37r.14" n="14"/>
-     <lb xml:id="fol_37r.15" n="15"/>
-     <lb xml:id="fol_37r.16" n="16"/>
-     <lb xml:id="fol_37r.17" n="17"/>
-     <lb xml:id="fol_37r.18" n="18"/>
-     <lb xml:id="fol_37r.19" n="19"/>
-     <lb xml:id="fol_37r.20" n="20"/>
-     <lb xml:id="fol_37r.21" n="21"/>
-     <lb xml:id="fol_37r.22" n="22"/>
-     <lb xml:id="fol_37r.23" n="23"/>
-     <lb xml:id="fol_37r.24" n="24"/>
-     <lb xml:id="fol_37r.25" n="25"/>
-     <lb xml:id="fol_37r.26" n="26"/>
-     <lb xml:id="fol_37r.27" n="27"/>
-     <lb xml:id="fol_37r.28" n="28"/>
-     <lb xml:id="fol_37r.29" n="29"/>
-     <lb xml:id="fol_37r.30" n="30"/>
+     <lb xml:id="fol_37r.1" n="1"/><w part="F">LEM</w> TRINITATEM SINGULA<add place="above">S</add>QUE IN EA <w part="I">PER</w>
+     <lb xml:id="fol_37r.2" n="2"/><w part="F">SONAS</w> ESSE SUBSTANTIAM <supplied reason="lost">ET</supplied> TAMEN <w part="I">OM</w>
+     <lb xml:id="fol_37r.3" n="3"/><w part="F">NES</w> NON TRES DEOS ESSE SED UNUM <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
+     <lb xml:id="fol_37r.4" n="4"/>ITA NOUERUNT UT EIS MAGIS ISTA QUAM NOS
+     <lb xml:id="fol_37r.5" n="5"/>IPSI NOBIS COGNITI SIMUS IPSAM <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_37r.6" n="6"/><supplied reason="lost">CREATURAM MELIUS</supplied> IBI HOC EST IN <w part="I">SAPIEN</w>
+     <lb xml:id="fol_37r.7" n="7"/><w part="F">TIA</w> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> TAMQUAM IN ARTE QUA FACTA EST <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_37r.8" n="8"/>IN EA <supplied reason="lost">IPSA</supplied> <choice><sic>SCI<del rend="strikethrough">A</del>NT</sic><corr>SCI<add place="above">U</add>NT</corr></choice> AC PER HOC ET SE IPSOS
+     <lb xml:id="fol_37r.9" n="9"/>IBI <supplied reason="lost">MELIUS QUAM</supplied> IN SE IPSIS UERUM <choice><abbr>TAME &#772;</abbr><expan>TAME<ex>N</ex></expan></choice>
+     <lb xml:id="fol_37r.10" n="10"/>ET IN SE IPSIS <supplied reason="lost">FACTI</supplied> SUNT ENIM ET ALIUD SUNT <app><note>NT ligature is found at the end of the word SUNT</note></app>
+     <lb xml:id="fol_37r.11" n="11"/>QUAM ILLE QUI FECIT IBI ERGO TAMQUAM
+     <lb xml:id="fol_37r.12" n="12"/>IN DIURNA COGNITIONE IN SE IPSIS <add place="above">AUTEM</add> <w part="I">TAM</w>
+     <lb xml:id="fol_37r.13" n="13"/><w part="F">QUAM</w> IN UESPERTINA SICUT IAM SUPRA
+     <lb xml:id="fol_37r.14" n="14"/>DIXIMUS MULTUM ENIM DIFFERT 
+     <lb xml:id="fol_37r.15" n="15"/>UTRUM IN EA RATIONE COGNOSCATUR <w part="I">ALI</w>
+     <lb xml:id="fol_37r.16" n="16"/><w part="F">QUID</w> SECUNDUM QUAM FACTUM EST AN
+     <lb xml:id="fol_37r.17" n="17"/>IN SE IPSOS <app><rdg wit="#CSEL40">IPSO</rdg></app> SICUT <choice><sic>ALIT<del rend="strikethrough">U</del>R</sic><corr>ALIT<add place="above">E</add>R</corr></choice> SCITUR <w part="I">RECTI</w>
+     <lb xml:id="fol_37r.18" n="18"/><w part="F">TUDO</w> LINEARUM SEU <add place="above">U</add>ERITAS FIGURARUM
+     <lb xml:id="fol_37r.19" n="19"/>CUM INTELLECTA CON<supplied reason="lost">SPICITUR</supplied> ALITER <choice><abbr>CU &#772;</abbr><expan>CU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_37r.20" n="20"/>IN PULUERE SCRIBITUR ET ALITER IUSTITIA
+     <lb xml:id="fol_37r.21" n="21"/>IN UERITATE INCOMMUTABI<del rend="strikethrough">LI</del> <del rend="strikethrough">A</del>LITER IN
+     <lb xml:id="fol_37r.22" n="22"/>ANIMA IUSTI SIC DEINDE CETERA SICUT <w part="I">FIR</w>
+     <lb xml:id="fol_37r.23" n="23"/><w part="F">MAMENTUM</w> INTER AQUAS SUPERIORES 
+     <lb xml:id="fol_37r.24" n="24"/>ET INFERIORES QUOD CAELUM <choice><abbr>UOCATU &#772;</abbr><expan>UOCATU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_37r.25" n="25"/>EST SICUT DEORSUM AQUARUM <w part="I">CON</w>
+     <lb xml:id="fol_37r.26" n="26"/><w part="F">GERIES</w> TERRAEQUE NUDATIO ET <choice><abbr>HERBARU &#772;</abbr><expan>HERBARU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_37r.27" n="27"/>INSTITUTIO <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> LIGNORUM SICUT SOLIS
+     <lb xml:id="fol_37r.28" n="28"/>AC LUNAE <choice><abbr>STELLARUMQ&#183;</abbr><expan>STELLARUMQ<ex>UE</ex></expan></choice> CONDITIO SICUT
+     <lb xml:id="fol_37r.29" n="29"/>EX AQUIS ANIMALIUM UOLUCRUM <w part="I">SCILI</w>
+     <lb xml:id="fol_37r.30" n="30"/><w part="F">CET</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> PISCIUM <choice><abbr>BELUARUMQ&#183;</abbr><expan>BELUARUMQ<ex>UE</ex></expan></choice> <choice><abbr>NATANTIU &#772;</abbr><expan>NATANTIU<ex>M</ex></expan></choice>
     </ab> 
    </div>
    
