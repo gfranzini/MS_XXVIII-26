@@ -15,16 +15,16 @@
                 </respStmt>
                 <respStmt>
                     <persName>Melissa Terras</persName>
-                    <resp>PhD first supervisor</resp>
+                    <resp>First supervisor</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Simon Mahony</persName>
-                    <resp>PhD second supervisor</resp>
+                    <resp>Second supervisor</resp>
                 </respStmt>
             </titleStmt>
 
             <editionStmt>
-                <edition n="1">First (digital) edition</edition>
+                <edition n="1">First digital edition</edition>
             </editionStmt>
 
             <publicationStmt>
@@ -87,8 +87,7 @@
 
 
         <encodingDesc>
-            <p>The following text was encoded in accordance with EpiDoc standards and with the
-                CTS/CITE Architecture.</p>
+            <p>The following text was encoded in accordance with EpiDoc standards.</p>
         </encodingDesc>
 
         <profileDesc>
