@@ -2242,7 +2242,7 @@
      <lb xml:id="fol_36v.22" n="22"/>LUCEM DESERENTES TENEBRAE FACTI SUNT <app><note>NT ligature is found at the end of the word SUNT</note></app>
      <lb xml:id="fol_36v.23" n="23"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> PRIMITUS DIUISISSE IAM DIXIMUS <w part="I">IL</w>
      <lb xml:id="fol_36v.24" n="24"/><w part="F">LO</w> ADIUUANTE QUOD COEPIMUS UT <w part="I">POSSU</w>
-     <lb xml:id="fol_36v.25" n="25"/><w part="F">MUS</w> EXPLICEMUS &#183; <note type="scholion" subtype="chapter" n="29">XXIX</note> ILLI QUIPPE ANGELI <w part="I">SANC</w>
+     <lb xml:id="fol_36v.25" n="25"/><w part="F">MUS</w> EXPLICEMUS &#183; <note type="scholion" subtype="chapter" n="29" place="margin">XXIX</note> ILLI QUIPPE ANGELI <w part="I">SANC</w>
      <lb xml:id="fol_36v.26" n="26"/><w part="F">TI</w> NON PER UERBA SONANTIA <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> DISCUNT
      <lb xml:id="fol_36v.27" n="27"/>SED PER IPSAM PRAESENTIAM <w part="I">IMMUTABI</w>
      <lb xml:id="fol_36v.28" n="28"/><w part="F">LIS</w> <app><rdg wit="#CSEL40">INMUTABILIS</rdg></app> UERITAS <app><rdg wit="#CSEL40">UERITATIS</rdg></app> HOC EST UERBUM EIUS <w part="I">UNIGE</w>
@@ -2289,36 +2289,36 @@
    
    <div n="fol_37v" type="edition">
     <ab>
-     <lb xml:id="fol_37v.1" n="1"/>
-     <lb xml:id="fol_37v.2" n="2"/> 
-     <lb xml:id="fol_37v.3" n="3"/>
-     <lb xml:id="fol_37v.4" n="4"/>
-     <lb xml:id="fol_37v.5" n="5"/>
-     <lb xml:id="fol_37v.6" n="6"/>
-     <lb xml:id="fol_37v.7" n="7"/>
-     <lb xml:id="fol_37v.8" n="8"/>
-     <lb xml:id="fol_37v.9" n="9"/>
-     <lb xml:id="fol_37v.10" n="10"/>
-     <lb xml:id="fol_37v.11" n="11"/>
-     <lb xml:id="fol_37v.12" n="12"/>
-     <lb xml:id="fol_37v.13" n="13"/>
-     <lb xml:id="fol_37v.14" n="14"/>
-     <lb xml:id="fol_37v.15" n="15"/>
-     <lb xml:id="fol_37v.16" n="16"/>
-     <lb xml:id="fol_37v.17" n="17"/>
-     <lb xml:id="fol_37v.18" n="18"/>
-     <lb xml:id="fol_37v.19" n="19"/>
-     <lb xml:id="fol_37v.20" n="20"/>
-     <lb xml:id="fol_37v.21" n="21"/>
-     <lb xml:id="fol_37v.22" n="22"/>
-     <lb xml:id="fol_37v.23" n="23"/>
-     <lb xml:id="fol_37v.24" n="24"/>
-     <lb xml:id="fol_37v.25" n="25"/>
-     <lb xml:id="fol_37v.26" n="26"/>
-     <lb xml:id="fol_37v.27" n="27"/>
-     <lb xml:id="fol_37v.28" n="28"/>
-     <lb xml:id="fol_37v.29" n="29"/>
-     <lb xml:id="fol_37v.30" n="30"/>
+     <lb xml:id="fol_37v.1" n="1"/>SICUT <choice><abbr>QUORUMQ&#183;</abbr><expan>QUORUMQ<ex>UE</ex></expan></choice> IN TERRA <choice><abbr>GRADIENTIU &#772;</abbr><expan>GRADIENTIU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_37v.2" n="2"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> REPENTIUM ET IPSIUS HOMINIS QUI
+     <lb xml:id="fol_37v.3" n="3"/>CUNCTIS IN TERRA REBUS EXCELLERET
+     <lb xml:id="fol_37v.4" n="4"/>OMNIA HAEC ALITER IN UERBO <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>&#183; <w part="I">COGNOS</w>
+     <lb xml:id="fol_37v.5" n="5"/><w part="F">CUNTUR</w> AB ANGELIS UBI HABENT CAUSAS
+     <lb xml:id="fol_37v.6" n="6"/><choice><abbr>RATIONESQ&#183;</abbr><expan>RATIONESQ<ex>UE</ex></expan></choice> SUAS ID EST SECUNDUM QUAS
+     <lb xml:id="fol_37v.7" n="7"/>FACTA SUNT INCOMMUTABILITER <w part="I">PERMA</w>
+     <lb xml:id="fol_37v.8" n="8"/><w part="F">NENTES</w> ALITER IN SE IPSIS ILLA CLARIORE HAC
+     <lb xml:id="fol_37v.9" n="9"/>OBSCURIORE COGNITIONE UELUT ARTIS
+     <lb xml:id="fol_37v.10" n="10"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> OPERUM QUAE TAMEN OPERA CUM
+     <lb xml:id="fol_37v.11" n="11"/>AD IPSIUS CREATORIS LAUDEM <choice><abbr><w part="I">UENERA</w>
+     <lb xml:id="fol_37v.12" n="12"/><w part="F">TIONEMQ&#183;</w></abbr><expan>UENERATIONEMQ<ex>UE</ex></expan></choice> REFERUNTUR TAMQUAM <w part="I">MA</w>
+     <lb xml:id="fol_37v.13" n="13"/><w part="F">NE</w> LUCESCIT IN <choice><abbr>MENTIB&#183;</abbr><expan>MENTIB<ex>US</ex></expan></choice> <w part="I">CONTEMPLAN</w>
+     <lb xml:id="fol_37v.14" n="14"/><w part="F">TIUM</w> <note type="scholion" subtype="chapter" n="30" place="margin">XXX</note> HAEC AUTEM PROPTER SENARII
+     <lb xml:id="fol_37v.15" n="15"/>NUMERI PERFECTIONEM EODEM DIE
+     <lb xml:id="fol_37v.16" n="16"/>SEXIENS REPETITO SEX <choice><abbr>DIEB&#183;</abbr><expan>DIEB<ex>US</ex></expan></choice> PERFECTA <w part="I">NAR</w>
+     <lb xml:id="fol_37v.17" n="17"/><w part="F">RANTUR</w> NON QUIA <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> FUERIT <w part="I">NECESSA</w>
+     <lb xml:id="fol_37v.18" n="18"/><w part="F">RIA</w> MORA TEMPORUM QUASI QUI NON <w part="I">PO</w>
+     <lb xml:id="fol_37v.19" n="19"/><w part="F">TUERIT</w> CREARE OMNIA <choice><abbr>SIMULQ&#183;</abbr><expan>SIMULQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">SIMUL QUAE DEINCEPS</rdg></app> CONGRUIS <app><note>UI ligature is found at the end of the word CONGRUIS</note></app>
+     <lb xml:id="fol_37v.20" n="20"/><choice><abbr>MOTIB&#183;</abbr><expan>MOTIB<ex>US</ex></expan></choice> PERGERENT <app><rdg wit="#CSEL40">PERAGERENT</rdg></app> TEMPORA SED QUIA
+     <lb xml:id="fol_37v.21" n="21"/>PER SENARIUM NUMERUM EST <choice><abbr>OPERU &#772;</abbr><expan>OPERU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_37v.22" n="22"/><note type="scholion" place="margin">senarius <choice><abbr>nu&#772;m</abbr><expan>num<ex>erus</ex></expan></choice></note> SIGNIFICATA PERFECTIO; NUMERUS <w part="I">QUIP</w>
+     <lb xml:id="fol_37v.23" n="23"/><w part="F">PE</w> SENARIUS PRIMUS COMPLETUR <app><rdg wit="#CSEL40">CONPLETUR</rdg></app> SUIS
+     <lb xml:id="fol_37v.24" n="24"/><choice><abbr>PARTIB&#183;</abbr><expan>PARTIB<ex>US</ex></expan></choice> ID EST SEXTA SUI PARTE ET TERTIA ET
+     <lb xml:id="fol_37v.25" n="25"/>DIMIDIA QUAE SUNT UNUM ET DUO ET TRIA
+     <lb xml:id="fol_37v.26" n="26"/>QUAE IN SUMMUM <app><rdg wit="#CSEL40">SUMMAM</rdg></app> DUCTA SEX FIUNT
+     <lb xml:id="fol_37v.27" n="27"/><note type="scholion" place="margin">de.... pars <!--illegible--></note> PARTES AUTEM IN HAC CONSIDERATIONE <w part="I">NU</w>
+     <lb xml:id="fol_37v.28" n="28"/><w part="F">MERORUM</w> ILLAE INTELLEGENDAE SUNT <app><note>NT ligature is found at the end of the word SUNT</note></app>
+     <lb xml:id="fol_37v.29" n="29"/>QUAE QUOTAE SINT DICI POTEST SICUT <w part="I">DIMI</w>
+     <lb xml:id="fol_37v.30" n="30"/><w part="F">DIA</w> TERTIA QUARTA ET DEINCEPS AB ALIQUO 
     </ab> 
    </div>
    
