@@ -2322,38 +2322,38 @@
     </ab> 
    </div>
    
-   <div n="fol_38r" type="edition">
+   <div n="fol_38r" type="edition">  <!--finisci-->
     <ab>
-     <lb xml:id="fol_38r.1" n="1"/>
-     <lb xml:id="fol_38r.2" n="2"/> 
-     <lb xml:id="fol_38r.3" n="3"/>
-     <lb xml:id="fol_38r.4" n="4"/>
-     <lb xml:id="fol_38r.5" n="5"/>
-     <lb xml:id="fol_38r.6" n="6"/>
-     <lb xml:id="fol_38r.7" n="7"/>
-     <lb xml:id="fol_38r.8" n="8"/>
-     <lb xml:id="fol_38r.9" n="9"/>
-     <lb xml:id="fol_38r.10" n="10"/>
-     <lb xml:id="fol_38r.11" n="11"/>
-     <lb xml:id="fol_38r.12" n="12"/>
-     <lb xml:id="fol_38r.13" n="13"/>
-     <lb xml:id="fol_38r.14" n="14"/>
-     <lb xml:id="fol_38r.15" n="15"/>
-     <lb xml:id="fol_38r.16" n="16"/>
-     <lb xml:id="fol_1r.17" n="17"/>
-     <lb xml:id="fol_38r.18" n="18"/>
-     <lb xml:id="fol_38r.19" n="19"/>
-     <lb xml:id="fol_38r.20" n="20"/>
-     <lb xml:id="fol_38r.21" n="21"/>
-     <lb xml:id="fol_38r.22" n="22"/>
-     <lb xml:id="fol_38r.23" n="23"/>
-     <lb xml:id="fol_38r.24" n="24"/>
-     <lb xml:id="fol_38r.25" n="25"/>
-     <lb xml:id="fol_38r.26" n="26"/>
-     <lb xml:id="fol_38r.27" n="27"/>
-     <lb xml:id="fol_38r.28" n="28"/>
-     <lb xml:id="fol_38r.29" n="29"/>
-     <lb xml:id="fol_38r.30" n="30"/>
+     <lb xml:id="fol_38r.1" n="1"/>NUMERO DENOMINATAE <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38r.2" n="2"/>EXEMPLI GRATIA QUIA IN NOUENARIO <w part="I">NU</w> 
+     <lb xml:id="fol_38r.3" n="3"/><w part="F">MERO</w> QUATTUOR PARS ALIQUA EIUS EST IDEO
+     <lb xml:id="fol_38r.4" n="4"/>DICI POTEST QUOTA EIUS SIT UNUM <choice><abbr>AUTE &#772;</abbr><expan>AUTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38r.5" n="5"/>POTEST NAM NONA EIUS EST ET TRIA POTEST
+     <lb xml:id="fol_38r.6" n="6"/>NAM TERTIA EIUS EIUST<!--DEL?--> CONIUNCTAE
+     <lb xml:id="fol_38r.7" n="7"/>UERO ISTAE DUAE PARTES EIUS NONA <w part="I">SCI</w>
+     <lb xml:id="fol_38r.8" n="8"/><w part="F">LICET</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> TERTIA ID EST UNUM ET TRIA <w part="I">LO</w><!--N-->
+     <lb xml:id="fol_38r.9" n="9"/><w part="F">GE</w> SUNT A TOTAS SUMMA EIUS QUOD EST
+     <lb xml:id="fol_38r.10" n="10"/>NOUEM <choice><abbr>ITEMQ&#183;</abbr><expan>ITEMQ<ex>UE</ex></expan></choice> IN DENARIO <w part="I">QUATER</w>
+     <lb xml:id="fol_38r.11" n="11"/><w part="F">NARIUS</w> EST ALIQUA PARS EIUS SED QUOTA
+     <lb xml:id="fol_38r.12" n="12"/>SIT DICI NON POTEST UNUM AUTEM POTEST
+     <lb xml:id="fol_38r.13" n="13"/>NAM DECIMA PARS EIUS EST HABET ET <choice><abbr><w part="I">QUI &#772;</w>
+     <lb xml:id="fol_38r.14" n="14"/><w part="F">TAM</w></abbr><expan>QUI<ex>N</ex>TAM</expan></choice> QUOD SUNT DUO HABET ET <choice><abbr>DIMIDIA &#772;</abbr><expan>DIMIDIA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38r.15" n="15"/>QUOD SUNT QUINQUE SED HAE TRES <w part="I">PAR</w>
+     <lb xml:id="fol_38r.16" n="16"/><w part="F">TES</w> EIUS DECIMA ET QUINTA ET DIMIDIA
+     <lb xml:id="fol_1r.17" n="17"/>ID EST UNUM ET DUO ET QUINQUE SIMUL
+     <lb xml:id="fol_38r.18" n="18"/>DUCTAE NON CONPLENT DECEM SUNT <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38r.19" n="19"/>OCTO<add>;</add> DUO DENARI UERO NUMERI PARTES 
+     <lb xml:id="fol_38r.20" n="20"/>IN SUMMAM DUCTA ET <choice><abbr>TRANSEUNTEU &#772;</abbr><expan>TRANSEUNTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38r.21" n="21"/>HABET ENIM DUODECIMAM QUOD EST
+     <lb xml:id="fol_38r.22" n="22"/>UNUM HABET SEXTAM QUAE SUNT <w part="I">QUAT</w>
+     <lb xml:id="fol_38r.23" n="23"/><w part="F">TUOR</w> HABET DIMIDIAM QUAE SUNT
+     <lb xml:id="fol_38r.24" n="24"/>SEX UNUM AUTEM ET DUO ET TRIA ET <w part="I">QUAT</w>
+     <lb xml:id="fol_38r.25" n="25"/><w part="F">TUOR</w> ET SEX NON DUODECUM SED AMI <!--?-->
+     <lb xml:id="fol_38r.26" n="26"/>ID EST SE DECIM FIUNT HOC BREUITER
+     <lb xml:id="fol_38r.27" n="27"/>COMMEMORANDUM PUTAUI AD <w part="I">COM</w>
+     <lb xml:id="fol_38r.28" n="28"/><w part="F">MENDANDAM</w> SENARI NUMERI <w part="I">PER</w>
+     <lb xml:id="fol_38r.29" n="29"/><w part="F">FECTIONEM</w> QUI PRIUS UT DIXI <choice><abbr>PARTIB&#183;</abbr><expan>PARTIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_38r.30" n="30"/>SUIS IN SUMMAM REDACTIS IPSE <w part="I">PERFI</w>
     </ab> 
    </div>
    
