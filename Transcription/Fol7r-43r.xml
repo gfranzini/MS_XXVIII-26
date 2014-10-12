@@ -2324,7 +2324,7 @@
    
    <div n="fol_38r" type="edition"> 
     <ab>
-     <lb xml:id="fol_38r.1" n="1"/>NUMERO DENOMINATAE <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38r.1" n="1"/>NUMERO DENOMINATAE <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice> <note type="scholion" place="margin"><!--illegible--></note>
      <lb xml:id="fol_38r.2" n="2"/>EXEMPLI GRATIA QUIA IN NOUENARIO <w part="I">NU</w> 
      <lb xml:id="fol_38r.3" n="3"/><w part="F">MERO</w> QUATTUOR PARS ALIQUA EIUS EST IDEO
      <lb xml:id="fol_38r.4" n="4"/>DICI POTEST QUOTA EIUS SIT UNUM <choice><abbr>AUTE &#772;</abbr><expan>AUTE<ex>M</ex></expan></choice>
@@ -2333,7 +2333,7 @@
      <lb xml:id="fol_38r.7" n="7"/>UERO ISTAE DUAE PARTES EIUS NONA <w part="I">SCI</w>
      <lb xml:id="fol_38r.8" n="8"/><w part="F">LICET</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> TERTIA ID EST UNUM ET TRIA <choice><abbr><w part="I">LO &#772;</w>
      <lb xml:id="fol_38r.9" n="9"/><w part="F">GE</w></abbr><expan>LO<ex>N</ex>GE</expan></choice> SUNT A TOTA SUMMA EIUS QUOD EST
-     <lb xml:id="fol_38r.10" n="10"/>NOUEM <choice><abbr>ITEMQ&#183;</abbr><expan>ITEMQ<ex>UE</ex></expan></choice> IN DENARIO <w part="I">QUATER</w>
+     <lb xml:id="fol_38r.10" n="10"/>NOUEM <choice><abbr>ITEMQ&#183;</abbr><expan>ITEMQ<ex>UE</ex></expan></choice> IN DENARIO <w part="I">QUATER</w> <note type="scholion" place="margin">denarius</note>
      <lb xml:id="fol_38r.11" n="11"/><w part="F">NARIUS</w> EST ALIQUA PARS EIUS SED QUOTA
      <lb xml:id="fol_38r.12" n="12"/>SIT DICI NON POTEST UNUM AUTEM POTEST
      <lb xml:id="fol_38r.13" n="13"/>NAM DECIMA PARS EIUS EST HABET ET <choice><abbr><w part="I">QUI &#772;</w>
@@ -2342,7 +2342,7 @@
      <lb xml:id="fol_38r.16" n="16"/><w part="F">TES</w> EIUS DECIMA ET QUINTA ET DIMIDIA
      <lb xml:id="fol_1r.17" n="17"/>ID EST UNUM ET DUO ET QUINQUE SIMUL
      <lb xml:id="fol_38r.18" n="18"/>DUCTAE NON CONPLENT DECEM SUNT <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
-     <lb xml:id="fol_38r.19" n="19"/>OCTO<add>;</add> DUODENARI <app><rdg wit="#CSEL40">DUODENARII</rdg></app> UERO NUMERI PARTES 
+     <lb xml:id="fol_38r.19" n="19"/>OCTO<add>;</add> DUODENARI <app><rdg wit="#CSEL40">DUODENARII</rdg></app> UERO NUMERI PARTES <note type="scholion" place="margin">duodenarius</note>
      <lb xml:id="fol_38r.20" n="20"/>IN SUMMAM DUCTAE TRANSEUNT <choice><abbr>EU &#772;</abbr><expan>EU<ex>M</ex></expan></choice>
      <lb xml:id="fol_38r.21" n="21"/>HABET ENIM DUODECIMAM QUOD EST
      <lb xml:id="fol_38r.22" n="22"/>UNUM HABET SEXTAM QUAE SUNT <add place="above">DUO HABET</add> <w part="I">QUA<add place="left">R</add>T</w> <add place="right">TAM</add>
@@ -2360,36 +2360,37 @@
    
    <div n="fol_38v" type="edition">
     <ab>
-     <lb xml:id="fol_38v.1" n="1"/><w part="F">CITUR</w>
-     <lb xml:id="fol_38v.2" n="2"/> 
-     <lb xml:id="fol_38v.3" n="3"/>
-     <lb xml:id="fol_38v.4" n="4"/>
-     <lb xml:id="fol_38v.5" n="5"/>
-     <lb xml:id="fol_38v.6" n="6"/>
-     <lb xml:id="fol_38v.7" n="7"/>
-     <lb xml:id="fol_38v.8" n="8"/>
-     <lb xml:id="fol_38v.9" n="9"/>
-     <lb xml:id="fol_38v.10" n="10"/>
-     <lb xml:id="fol_38v.11" n="11"/>
-     <lb xml:id="fol_38v.12" n="12"/>
-     <lb xml:id="fol_38v.13" n="13"/>
-     <lb xml:id="fol_38v.14" n="14"/>
-     <lb xml:id="fol_38v.15" n="15"/>
-     <lb xml:id="fol_38v.16" n="16"/>
-     <lb xml:id="fol_38v.17" n="17"/>
-     <lb xml:id="fol_38v.18" n="18"/>
-     <lb xml:id="fol_38v.19" n="19"/>
-     <lb xml:id="fol_38v.20" n="20"/>
-     <lb xml:id="fol_38v.21" n="21"/>
-     <lb xml:id="fol_38v.22" n="22"/>
-     <lb xml:id="fol_38v.23" n="23"/>
-     <lb xml:id="fol_38v.24" n="24"/>
-     <lb xml:id="fol_38v.25" n="25"/>
-     <lb xml:id="fol_38v.26" n="26"/>
-     <lb xml:id="fol_38v.27" n="27"/>
-     <lb xml:id="fol_38v.28" n="28"/>
-     <lb xml:id="fol_38v.29" n="29"/>
-     <lb xml:id="fol_38v.30" n="30"/>
+     <note type="scholion" place="top"><choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>ER</ex></expan></choice> X&#772;I&#772;</note>
+     <lb xml:id="fol_38v.1" n="1"/><w part="F">CITUR</w> IN QUO PERFICIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; OPERA SUA
+     <lb xml:id="fol_38v.2" n="2"/>UNDE RATIO NUMERI CONTEMNENDA
+     <lb xml:id="fol_38v.3" n="3"/>NON EST QUAE IN MULTIS SANCTARUM <w part="I">SCRIB</w>
+     <lb xml:id="fol_38v.4" n="4"/><w part="F">TURARUM</w> <app><rdg wit="#CSEL40">SCRIPTURARUM</rdg></app> LOCUS <app><rdg wit="#CSEL40">LOCIS</rdg></app> QUAM MAGNI <w part="I">AESTIMAN</w>
+     <lb xml:id="fol_38v.5" n="5"/><w part="F">DA</w> SIT ELUCET DILIGENTER INTUENTIBUS
+     <lb xml:id="fol_38v.6" n="6"/>NEC FRUSTRA IN <choice><abbr>LAUDIB&#183;</abbr><expan>LAUDIB<ex>US</ex></expan></choice> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>&#183; DICTUM EST <choice><abbr><w part="I">O &#772;</w>
+     <lb xml:id="fol_38v.7" n="7"/><w part="F">NIA</w></abbr><expan>O<ex>M</ex>NIA</expan></choice> IN MENSURA ET NUMERO ET <w part="I">PONDE</w>
+     <lb xml:id="fol_38v.8" n="8"/><note type="scholion" subtype="chapter" place="margin" n="3">XXXI</note> <w part="F">RE</w> DISPOSUISTI <app><rdg wit="CSEL40">DEPOSUISTI</rdg></app> IN SEPTIMO AUTEM DIE
+     <lb xml:id="fol_38v.9" n="9"/>ID EST EODEM <del rend="strikethrough">I</del> DIE SEPTIENS REPETITO QUI
+     <lb xml:id="fol_38v.10" n="10"/>NUMERUS ETIAM IPSE ALIA RATIONE <w part="I">PER</w>
+     <lb xml:id="fol_38v.11" n="11"/><w part="F">FECTUS</w> EST <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>&#183; REQUIES COMMENDATUR
+     <lb xml:id="fol_38v.12" n="12"/>IN QUA PRIMUM SANCTIFICATIO SONAT
+     <lb xml:id="fol_38v.13" n="13"/><supplied reason="lost">ITA D</supplied>EUS NOLUIT ISTUM DIEM IN ULLIS SUIS
+     <lb xml:id="fol_38v.14" n="14"/><supplied reason="lost"><choice><abbr>OPERIB&#183;</abbr><expan>OPERIB<ex>US</ex></expan></choice></supplied> SANCTIFICARE SED IN REQUIE SUA
+     <lb xml:id="fol_38v.15" n="15"/>QUAE NON HABET UESPERAM NEQUE <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38v.16" n="16"/>ULLA CREATURA EST UT ETIAM IPSA <app><rdg wit="#CSEL40">IPSE</rdg></app> ALITER
+     <lb xml:id="fol_38v.17" n="17"/>IN <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>&#183; UERBO ALITER IN SE COGNITA FACIAT
+     <lb xml:id="fol_38v.18" n="18"/>ALIAM UELUT DIURNAM ALIAM UELUT <w part="I">UES</w>
+     <lb xml:id="fol_38v.19" n="19"/><w part="F">PERTINAM</w> NOTITIAM DE SEPTENARII <w part="I">POR</w>
+     <lb xml:id="fol_38v.20" n="20"/><w part="F">RO</w> NUMERI PERFECTIONE DICI QUIDEM
+     <lb xml:id="fol_38v.21" n="21"/>PLURA POSSUNT SED ET <choice><sic>LIBERIS ETIAM</sic><corr>LIBERIS<add place="above">T</add> E<del rend="strikethrough">T</del>IAM</corr></choice>
+     <lb xml:id="fol_38v.22" n="22"/>PROLIXUS EST ET UEREOR&#183; NE OCCASIONE
+     <lb xml:id="fol_38v.23" n="23"/>CONPERTA SCIENTIOLAM NOSTRAM <w part="I">LEUI</w>
+     <lb xml:id="fol_38v.24" n="24"/><w part="F">TER</w> MAGIS QUAM UTLITER IACTARE UELLE
+     <lb xml:id="fol_38v.25" n="25"/>UIDEAMUR HABENDA EST <choice><abbr>ITAQ&#183;</abbr><expan>ITAQ<ex>UE</ex></expan></choice> RATIO <w part="I">MO</w>
+     <lb xml:id="fol_38v.26" n="26"/><w part="F">DERATIONIS</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> GRAUITATIS NE FORTE <choice><abbr>CU &#772;</abbr><expan>CU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_38v.27" n="27"/>DE NUMERO MULTUM LOQUIMUR <w part="I">MEN</w>
+     <lb xml:id="fol_38v.28" n="28"/><w part="F">SURAM</w> ET PONDUS NEGLEGERE IUDICEMUR <app><note>UR ligature in IUDICEMUR</note></app>
+     <lb xml:id="fol_38v.29" n="29"/>HOC ITAQUE <add place="above">SATIS</add> SIT AMMONERE <app><rdg wit="#CSEL40">ADMONERE</rdg></app> QUOD TOTUS
+     <lb xml:id="fol_38v.30" n="30"/><note type="scholion" place="margin">par <choice><abbr>nu&#772;m&#772;</abbr><expan>num<ex>erus</ex></expan></choice></note> IMPAR <app><rdg wit="#CSEL40">INPAR PRIMUS</rdg></app> NUMERUS TERNARIUS EST TOTUS <app><note>US ligature in TOTUS</note></app>
     </ab> 
    </div>
    
