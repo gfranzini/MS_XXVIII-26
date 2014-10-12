@@ -687,7 +687,7 @@
      <lb xml:id="fol_14v.28" n="28"/><w part="F">TUS</w> FECIT SICUT SCRIBTURA <app><rdg wit="CSEL40">SCRIPTURA</rdg></app> <w part="I">CONSEQUEN</w>
      <lb xml:id="fol_14v.29" n="29"/><w part="F">TER</w> ELOQUITUR INUISIBILIS ET <w part="I">INCOM</w>
      <lb xml:id="fol_14v.30" n="30"/><w part="F">POSITA</w> NONDUMQUE <del rend="strikethrough">CA</del>L<add place="above">UC</add>E FACTA UTIQUE
-     <note type="scholion" place="bottom">q&#772; i&#772;<app><note>Q presents a diagonal stroke on the descender</note></app></note>
+     <note type="scholion" place="bottom"><choice><abbr>q&#772;</abbr><expan>q<ex>uaterni</ex></expan></choice> I&#772;</note> <!--q missing oblique strike-->
     </ab> 
    </div>
    
@@ -1242,6 +1242,7 @@
      <lb xml:id="fol_22v.28" n="28"/>
      <lb xml:id="fol_22v.29" n="29"/>
      <lb xml:id="fol_22v.30" n="30"/>
+     <note type="scholion" place="bottom"><choice><abbr>q&#772;</abbr><expan>q<ex>uaterni</ex></expan></choice> I&#772;I&#772;</note> <!--q missing oblique strike-->
     </ab> 
    </div>
    
@@ -1820,7 +1821,7 @@
      <lb xml:id="fol_30v.28" n="28"/>UTRUM AUTEM BONI PATRIS ET BONI <sic>FILI</sic> <app><rdg wit="#CSEL40">FILII</rdg></app>
      <lb xml:id="fol_30v.29" n="29"/><choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> QUIA COMMUNIS AMBOBUS EST
      <lb xml:id="fol_30v.30" n="30"/>RECTE BONITAS DICI POSSIT AMBORUM <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
-     <note type="scholion" place="bottom">q&#772; i&#772;i&#772;i&#772;<app><note>Q presents a diagonal stroke on the descender</note></app></note>
+     <note type="scholion" place="bottom"><choice><abbr>q&#772;</abbr><expan>q<ex>uaterni</ex></expan></choice> I&#772;I&#772;I&#772;</note> <!--q missing oblique strike-->
     </ab> 
    </div>
    
@@ -2391,6 +2392,7 @@
      <lb xml:id="fol_38v.28" n="28"/><w part="F">SURAM</w> ET PONDUS NEGLEGERE IUDICEMUR <app><note>UR ligature in IUDICEMUR</note></app>
      <lb xml:id="fol_38v.29" n="29"/>HOC ITAQUE <add place="above">SATIS</add> SIT AMMONERE <app><rdg wit="#CSEL40">ADMONERE</rdg></app> QUOD TOTUS
      <lb xml:id="fol_38v.30" n="30"/><note type="scholion" place="margin">par <choice><abbr>nu&#772;m&#772;</abbr><expan>num<ex>erus</ex></expan></choice></note> IMPAR <app><rdg wit="#CSEL40">INPAR PRIMUS</rdg></app> NUMERUS TERNARIUS EST TOTUS <app><note>US ligature in TOTUS</note></app>
+     <note type="scholion" place="bottom"><choice><abbr>q&#772;</abbr><expan>q<ex>uaterni</ex></expan></choice> II&#772;I&#772;I</note> <!--q missing oblique strike-->
     </ab> 
    </div>
    
