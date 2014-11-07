@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
-<?xml-stylesheet type="text/xsl" href="msxxviii.xsl"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    
    <titleStmt>
-    <title>Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
-    <author>Aurelius Augustinus</author>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
     <editor>Greta Franzini</editor>
     <respStmt>
      <persName>Greta Franzini</persName>
