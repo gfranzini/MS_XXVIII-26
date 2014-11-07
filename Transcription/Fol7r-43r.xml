@@ -2469,36 +2469,36 @@
    
    <div n="fol_40r" type="edition">
     <ab>
-     <lb xml:id="fol_40r.1" n="1"/><w part="F">TIA</w>
-     <lb xml:id="fol_40r.2" n="2"/> 
-     <lb xml:id="fol_40r.3" n="3"/>
-     <lb xml:id="fol_40r.4" n="4"/>
-     <lb xml:id="fol_40r.5" n="5"/>
-     <lb xml:id="fol_40r.6" n="6"/>
-     <lb xml:id="fol_40r.7" n="7"/>
-     <lb xml:id="fol_40r.8" n="8"/>
-     <lb xml:id="fol_40r.9" n="9"/>
-     <lb xml:id="fol_40r.10" n="10"/>
-     <lb xml:id="fol_40r.11" n="11"/>
-     <lb xml:id="fol_40r.12" n="12"/>
-     <lb xml:id="fol_40r.13" n="13"/>
-     <lb xml:id="fol_40r.14" n="14"/>
-     <lb xml:id="fol_40r.15" n="15"/>
-     <lb xml:id="fol_40r.16" n="16"/>
-     <lb xml:id="fol_40r.17" n="17"/>
-     <lb xml:id="fol_40r.18" n="18"/>
-     <lb xml:id="fol_40r.19" n="19"/>
-     <lb xml:id="fol_40r.20" n="20"/>
-     <lb xml:id="fol_40r.21" n="21"/>
-     <lb xml:id="fol_40r.22" n="22"/>
-     <lb xml:id="fol_40r.23" n="23"/>
-     <lb xml:id="fol_40r.24" n="24"/>
-     <lb xml:id="fol_40r.25" n="25"/>
-     <lb xml:id="fol_40r.26" n="26"/>
-     <lb xml:id="fol_40r.27" n="27"/>
-     <lb xml:id="fol_40r.28" n="28"/>
-     <lb xml:id="fol_40r.29" n="29"/>
-     <lb xml:id="fol_40r.30" n="30"/>
+     <lb xml:id="fol_40r.1" n="1"/><w part="F">TIA</w> FECISTI; CONUENIENTISSIME PAULO
+     <lb xml:id="fol_40r.2" n="2"/>POST COMMEMORATUR ETIAM <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> &#183; <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice>;
+     <lb xml:id="fol_40r.3" n="3"/>CUM ENIM DICTUM ESSET QUALEM <choice><abbr>TERRA &#772;</abbr><expan>TERRA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_40r.4" n="4"/>DEUS PRIMITUS FECERIT UEL QUAM <choice><abbr>MOLE &#772;</abbr><expan>MOLE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_40r.5" n="5"/>MATERIAMUE FUTURAE CONSTRUCTIONIS
+     <lb xml:id="fol_40r.6" n="6"/>MUNDI CAELI ET TERRAE NOMINE <w part="I">NUN</w>
+     <lb xml:id="fol_40r.7" n="7"/><w part="F">CUPAUERIT</w> SUBICIENDO ET ADDENDO; <w part="I">TER</w>
+     <lb xml:id="fol_40r.8" n="8"/><w part="F">RA</w> AUTEM ERAT INUISIBILIS ET <w part="I">INCONPOSI</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> terra <!--?--> inuisibilis <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <choice><abbr>inco&#772;posita</abbr><expan>inco<ex>n</ex>posita</expan></choice></note>
+     <lb xml:id="fol_40r.9" n="9"/><w part="F">TA</w> ET TENEBRAE ERANT SUPER ABYSSUM;
+     <lb xml:id="fol_40r.10" n="10"/>MOX UT TRINITATIS COMMEMORATIO <choice><abbr><w part="I">CO &#772;</w>
+     <lb xml:id="fol_40r.11" n="11"/><w part="F">PLERETUR</w></abbr><expan>CO<ex>N</ex>PLERETUR</expan></choice>&#183; ET <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice>&#183; INQUIT <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> <w part="I">SUPERFEREBA</w>
+     <lb xml:id="fol_40r.12" n="12"/><w part="F">TUR</w> SUPER AQUAM; PROINDE UT UOLET <w part="I">QUIS</w>
+     <lb xml:id="fol_40r.13" n="13"/><w part="F">QUE</w> ACCIPIAT QUOD ITA PROFUNDUM EST
+     <lb xml:id="fol_40r.14" n="14"/>UT AD EXERCITATIONEM LEGENTIUM A <w part="I">FI</w>
+     <lb xml:id="fol_40r.15" n="15"/><w part="F">DEI</w> REGULA NON ABHORRENTES PLURES
+     <lb xml:id="fol_40r.16" n="16"/>POSSIT GENERARE SENTENTIAS DUM TAME<add>N</add>&#772;
+     <lb xml:id="fol_40r.17" n="17"/>ANGELOS <choice><abbr>S&#772;C&#772;O&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>OS</expan></choice>&#183; IN <choice><abbr>SUBLIMIB&#183;</abbr><expan>SUBLIMIB<ex>US</ex></expan></choice> <choice><abbr>SEDIB&#183;</abbr><expan>SEDIB<ex>US</ex></expan></choice> NON
+     <lb xml:id="fol_40r.18" n="18"/>QUIDEM <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice>&#183; COAETERNOS SED TAMEN DE
+     <lb xml:id="fol_40r.19" n="19"/>SUAS SEMPITERNA ET UERA FELICITATE <w part="I">SE</w>
+     <lb xml:id="fol_40r.20" n="20"/><w part="F">CUROS</w> ET CERTOS ESSE NEMO AMBIGAT AD
+     <lb xml:id="fol_40r.21" n="21"/>QUORUM SOCIETATEM PERTINERE <w part="I">PAR</w>
+     <lb xml:id="fol_40r.22" n="22"/><w part="F">UULOS</w> SUOS <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>&#183; DOCENS NON SOLUM <w part="I">IL</w>
+     <lb xml:id="fol_40r.23" n="23"/><w part="F">LUD</w> AIT &#183; ERUNT AEQUALES ANGELIS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>&#183; <w part="I">UE</w>
+     <lb xml:id="fol_40r.24" n="24"/><w part="F">RUM</w> IPSI <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> ANGELI QUA <w part="I">CONTEMPLATIO</w>
+     <lb xml:id="fol_40r.25" n="25"/><w part="F">NE</w> FRUANTUR OSTENDIT UBI AIT UIDETE
+     <lb xml:id="fol_40r.26" n="26"/>NE CONTEMNATIS UNUM EX PUSILLIS <w part="I">IS</w>
+     <lb xml:id="fol_40r.27" n="27"/><w part="F">TIS</w>; DICO ENIM UOBIS QUIA ANGELI <choice><abbr>EORU &#772;</abbr><expan>EORU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_40r.28" n="28"/>IN CAELIS SEMPER UIDENT FACIEM PATRIS
+     <lb xml:id="fol_40r.29" n="29"/>MEI QUI IN CAELIS EST; PECCASSE AUTEM <note type="scholion" place="margin" subtype="chapter" n="33">XXXIII</note>
+     <lb xml:id="fol_40r.30" n="30"/>QUOSDAM ANGELOS ET IN HUIUS MUNDI
     </ab> 
    </div>
    
