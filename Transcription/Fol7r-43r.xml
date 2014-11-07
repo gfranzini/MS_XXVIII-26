@@ -2398,43 +2398,43 @@
    <div n="fol_39r" type="edition">
     <ab>
      <note type="scholion" place="top"><choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>ER</ex></expan></choice> X&#772;I&#772;</note>
-     <lb xml:id="fol_39r.1" n="1"/>
-     <lb xml:id="fol_39r.2" n="2"/> 
-     <lb xml:id="fol_39r.3" n="3"/>
-     <lb xml:id="fol_39r.4" n="4"/>
-     <lb xml:id="fol_39r.5" n="5"/>
-     <lb xml:id="fol_39r.6" n="6"/>
-     <lb xml:id="fol_39r.7" n="7"/>
-     <lb xml:id="fol_39r.8" n="8"/>
-     <lb xml:id="fol_39r.9" n="9"/>
-     <lb xml:id="fol_39r.10" n="10"/>
-     <lb xml:id="fol_39r.11" n="11"/>
-     <lb xml:id="fol_39r.12" n="12"/>
-     <lb xml:id="fol_39r.13" n="13"/>
-     <lb xml:id="fol_39r.14" n="14"/>
-     <lb xml:id="fol_39r.15" n="15"/>
-     <lb xml:id="fol_39r.16" n="16"/>
-     <lb xml:id="fol_39r.17" n="17"/>
-     <lb xml:id="fol_39r.18" n="18"/>
-     <lb xml:id="fol_39r.19" n="19"/>
-     <lb xml:id="fol_39r.20" n="20"/>
-     <lb xml:id="fol_39r.21" n="21"/>
-     <lb xml:id="fol_39r.22" n="22"/>
-     <lb xml:id="fol_39r.23" n="23"/>
-     <lb xml:id="fol_39r.24" n="24"/>
-     <lb xml:id="fol_39r.25" n="25"/>
-     <lb xml:id="fol_39r.26" n="26"/>
-     <lb xml:id="fol_39r.27" n="27"/>
-     <lb xml:id="fol_39r.28" n="28"/>
-     <lb xml:id="fol_39r.29" n="29"/>
-     <lb xml:id="fol_39r.30" n="30"/>
+     <lb xml:id="fol_39r.1" n="1"/>PAR QUATERNARIUS EX <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> <choice><abbr>DUOB&#183;</abbr><expan>DUOB<ex>US</ex></expan></choice> <note type="scholion" place="margin">par nu&#772;m</note>
+     <lb xml:id="fol_39r.2" n="2"/>SEPTENARIUS CONSTAT IDEO PRO <choice><sic><w part="I">UNI</w>
+     <lb xml:id="fol_39r.3" n="3"/><w part="F">UERS<del rend="strikethrough">A</del></w></sic><corr>UNIUERS<add place="above">O</add></corr></choice> SAEPE PONITUR SICUT <app><rdg wit="#CSEL40">SICUTI</rdg></app> EST <w part="I">SEPTI</w>
+     <lb xml:id="fol_39r.4" n="4"/><w part="F">ENS</w> CADIT <app><rdg wit="#CSEL40">CADET</rdg></app> IUSTUS ET RESURGET ID EST <note type="scholion" place="margin">: <choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_39r.5" n="5"/><choice><abbr>QUOTIENSCUMQ&#183;</abbr><expan>QUOTIENSCUMQ<ex>UE</ex></expan></choice> CAECIDERIT <app><rdg wit="#CSEL40">CECIDERIT</rdg></app> NON <w part="I">PE</w>
+     <lb xml:id="fol_39r.6" n="6"/><w part="F">RIBIT</w> QUOD NON DE <choice><abbr>INIQUITATIB&#183;</abbr><expan>INIQUITATIB<ex>US</ex></expan></choice> SED
+     <lb xml:id="fol_39r.7" n="7"/>DE <choice><abbr>TRIBULATIONIB&#183;</abbr><expan>TRIBULATIONIB<ex>US</ex></expan></choice> AD HUMILITATEM <w part="I">PER</w>
+     <lb xml:id="fol_39r.8" n="8"/><choice><abbr><w part="F">DUCENTIB&#183;</w></abbr><expan>DUCENTIB<ex>US</ex></expan></choice> INTELLEGI UOLUIT; ET SEPTIENS
+     <lb xml:id="fol_39r.9" n="9"/>IN DIE LAUDABO TE; QUOD ALIBI ALIO MODO
+     <lb xml:id="fol_39r.10" n="10"/>DICTUM EST SEMPER LAUS EIUS IN ORE MEO
+     <lb xml:id="fol_39r.11" n="11"/>ET MULTA HUIUS MODI IN DIUINIS <choice><abbr><w part="I">AUC</w>
+     <lb xml:id="fol_39r.12" n="12"/><w part="F">TORITATIB&#183;</w></abbr><expan>AUCTORITATIB<ex>US</ex></expan></choice> REPPERIUNTUR <app><rdg wit="#CSEL40">REPERIUNTUR</rdg></app> IN QUIBUS
+     <lb xml:id="fol_39r.13" n="13"/>SEPTENARIUS NUMERUS <add place="above">UT</add> DIXI PRO <w part="I">CUIUS</w> <app><note>US ligature in CUIUSQUE</note></app>
+     <lb xml:id="fol_39r.14" n="14"/><w part="F">QUE</w> REI UNIUERSITATE PONI SOLET 
+     <lb xml:id="fol_39r.15" n="15"/>PROPTER HOC EODEM <sic>SEPE</sic> <app><rdg wit="#CSEL40">SAEPE</rdg></app> NUMERO <w part="I">SIG</w>
+     <lb xml:id="fol_39r.16" n="16"/><w part="F">NIFICATUR</w> <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> DE QUO <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> AIT <w part="I">DOCE</w>
+     <lb xml:id="fol_39r.17" n="17"/><w part="F">BIT</w> UOS OMNEM UERITATEM IBI <w part="I">REQUI</w>
+     <lb xml:id="fol_39r.18" n="18"/><w part="F">ES</w> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUA REQUIESCITUR IN <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice>; IN <choice><sic>TOT<del rend="strikethrough">A</del></sic><corr>TOT<add place="above">O</add></corr></choice> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_39r.19" n="19"/>QUIPPE ID EST IN PLENA PERFECTIONE
+     <lb xml:id="fol_39r.20" n="20"/>REQUIES IN PARTE AUTEM LABOR IDEO
+     <lb xml:id="fol_39r.21" n="21"/>LABORAMUS QUAMDIU EX PARTE SCIMUS <app><note>US ligature in SCIMUS</note></app>
+     <lb xml:id="fol_39r.22" n="22"/>SED CUM UENERIT QUOD PERFECTUM
+     <lb xml:id="fol_39r.23" n="23"/>EST QUOD EX PARTE EST EUACUABITUR
+     <lb xml:id="fol_39r.24" n="24"/>HINC EST QUOD ETIAM SCRIBTURAS <app><rdg wit="#CSEL40">SCRIPTURAS</rdg></app> ISTAS
+     <lb xml:id="fol_39r.25" n="25"/>CUM LABORE <choice><sic>RIMAMU<del rend="strikethrough">S</del></sic><corr>RIMAMU<add place="above">R</add></corr></choice> <choice><abbr>S&#772;C&#772;I&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>I</expan></choice> UERO <w part="I">AN</w>
+     <lb xml:id="fol_39r.26" n="26"/><w part="F">GELI</w> QUORUM SOCIETATI ET <w part="I">CONGRE</w>
+     <lb xml:id="fol_39r.27" n="27"/><w part="F">GATIONI</w> IN HAC PEREGRINATIONE <w part="I">LABO</w>
+     <lb xml:id="fol_39r.28" n="28"/><w part="F">RIOSISSIMA</w> SUSPIRAMUS SICUT HABENT
+     <lb xml:id="fol_39r.29" n="29"/>PERMANENDI AETERNITATEM ITA <w part="I">COG</w>
+     <lb xml:id="fol_39r.30" n="30"/><w part="F">NOSCENDI</w> FACILITATEM ET <w part="I">REQUIESCEN</w>
     </ab> 
    </div>
    
    
    <div n="fol_39v" type="edition">
     <ab>
-     <lb xml:id="fol_39v.1" n="1"/>
+     <lb xml:id="fol_39v.1" n="1"/>DI
      <lb xml:id="fol_39v.2" n="2"/> 
      <lb xml:id="fol_39v.3" n="3"/>
      <lb xml:id="fol_39v.4" n="4"/>
