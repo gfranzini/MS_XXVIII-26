@@ -2611,36 +2611,36 @@
    
    <div n="fol_42r" type="edition">
     <ab>
-     <lb xml:id="fol_42r.1" n="1"/><w part="F">TICUM</w>
-     <lb xml:id="fol_42r.2" n="2"/> 
-     <lb xml:id="fol_42r.3" n="3"/>
-     <lb xml:id="fol_42r.4" n="4"/>
-     <lb xml:id="fol_42r.5" n="5"/>
-     <lb xml:id="fol_42r.6" n="6"/>
-     <lb xml:id="fol_42r.7" n="7"/>
-     <lb xml:id="fol_42r.8" n="8"/>
-     <lb xml:id="fol_42r.9" n="9"/>
-     <lb xml:id="fol_42r.10" n="10"/>
-     <lb xml:id="fol_42r.11" n="11"/>
-     <lb xml:id="fol_42r.12" n="12"/>
-     <lb xml:id="fol_42r.13" n="13"/>
-     <lb xml:id="fol_42r.14" n="14"/>
-     <lb xml:id="fol_42r.15" n="15"/>
-     <lb xml:id="fol_42r.16" n="16"/>
-     <lb xml:id="fol_42r.17" n="17"/>
-     <lb xml:id="fol_42r.18" n="18"/>
-     <lb xml:id="fol_42r.19" n="19"/>
-     <lb xml:id="fol_42r.20" n="20"/>
-     <lb xml:id="fol_42r.21" n="21"/>
-     <lb xml:id="fol_42r.22" n="22"/>
-     <lb xml:id="fol_42r.23" n="23"/>
-     <lb xml:id="fol_42r.24" n="24"/>
-     <lb xml:id="fol_42r.25" n="25"/>
-     <lb xml:id="fol_42r.26" n="26"/>
-     <lb xml:id="fol_42r.27" n="27"/>
-     <lb xml:id="fol_42r.28" n="28"/>
-     <lb xml:id="fol_42r.29" n="29"/>
-     <lb xml:id="fol_42r.30" n="30"/>
+     <lb xml:id="fol_42r.1" n="1"/><w part="F">TICUM</w> DIERUM NUMERO <w part="I">EXSEQUERE</w>
+     <lb xml:id="fol_42r.2" n="2"/><w part="F">TUR</w> QUAM <app><rdg wit="#CSEL40">QUAMQUAM</rdg></app> NONNULLI PUTAUERINT <note type="scholion" place="margin" subtype="chapter" n="34">XXXIV</note>
+     <lb xml:id="fol_42r.3" n="3"/>AQUARUM NOMINE SIGNIFICATOS <w part="I">QUO</w>
+     <lb xml:id="fol_42r.4" n="4"/><w part="F">DAM</w> MODO POPULOS ANGELORUM ET HOC
+     <lb xml:id="fol_42r.5" n="5"/>ESSE QUOD DICTUM EST FIAT <choice><abbr><w part="I">FIRMAME &#772;</w>
+     <lb xml:id="fol_42r.6" n="6"/><w part="F">TUM</w></abbr><expan>FIRMAME<ex>N</ex>TUM</expan></choice> INTER AQUAM ET AQUAM ET <app><rdg wit="#CSEL40">UT</rdg></app> SUPRA
+     <lb xml:id="fol_42r.7" n="7"/>FIRMAMENTUM ANGELI INTELLEGANTUR
+     <lb xml:id="fol_42r.8" n="8"/>INFRA UERO UEL AQUAE ISTAE UISIBILES
+     <lb xml:id="fol_42r.9" n="9"/>UEL MALORUM ANGELORUM <w part="I">MULTITU</w>
+     <lb xml:id="fol_42r.10" n="10"/><w part="F">DO</w> UEL OMNIUM HOMINUM GENTES; <note type="scholion" place="margin">N&#772;</note> <!--what does this note mean?-->
+     <lb xml:id="fol_42r.11" n="11"/>QUOD SIT ITA EST NON ILLIC APPARET UBI <w part="I">FAC</w>
+     <lb xml:id="fol_42r.12" n="12"/><w part="F">TI</w> SINT ANGELI SED UBI DISCRETI; <w part="I">QUAM</w>
+     <lb xml:id="fol_42r.13" n="13"/><w part="F">UIS</w> ET AQUAS QUOD PERUERSISSIME <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app>
+     <lb xml:id="fol_42r.14" n="14"/>IMPIE <app><rdg wit="#CSEL40">INPIAE</rdg></app> UANITATIS EST NEGENT QUIDAM
+     <lb xml:id="fol_42r.15" n="15"/>FACTAS A DEO QUONIAM NUSQUAM <w part="I">SCRIB</w>
+     <lb xml:id="fol_42r.16" n="16"/><w part="F">TUM</w> <app><rdg wit="#CSEL40">SCRIPTUM</rdg></app> EST DIXIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; FIANT AQUAE &#8278; QUOD <w part="I">POS</w>
+     <lb xml:id="fol_42r.17" n="17"/><w part="F">SUNT</w> SIMILI UANITATE ETIAM DE TERRA
+     <lb xml:id="fol_42r.18" n="18"/>DICERE NUSQUAM ENIM LEGITUR DIXIT
+     <lb xml:id="fol_42r.19" n="19"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; FIAT TERRA SED INQUIUNT <choice><abbr>SCRIBTU &#772;</abbr><expan>SCRIBTU<ex>M</ex></expan></choice> <app><rdg wit="#CSEL40">SCRIPTUM</rdg></app>
+     <lb xml:id="fol_42r.20" n="20"/>EST IN PRINCIPIO FECIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CAELUM ET <choice><abbr>TERRA &#772;</abbr><expan>TERRA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_42r.21" n="21"/>ILLIC ERGO ET AQUA INTELLEGENDA EST UNO
+     <lb xml:id="fol_42r.22" n="22"/>ENIM NOMINE <choice><abbr>UTRUMQ&#183;</abbr><expan>UTRUMQ<ex>UE</ex></expan></choice> <w part="I">CONPRAEHEN</w>
+     <lb xml:id="fol_42r.23" n="23"/><w part="F">SUM</w> EST; NAM IPSIUS EST MARE SICUT IN <w part="I">PSAL</w>
+     <lb xml:id="fol_42r.24" n="24"/><w part="F">MO</w> LEGITUR ET IPSE FECIT ILLUD ET <add place="above">&#8278;</add> <choice><abbr>ARID<supplied reason="lost">A &#772;</supplied></abbr><expan>ARIDA<ex>M</ex></expan></choice> <note type="scholion" place="margin"><choice><abbr>arida &#772;</abbr><expan>arida<ex>m</ex></expan></choice></note>
+     <lb xml:id="fol_42r.25" n="25"/>TERRAM MANUS EIUS FINXERUNT
+     <lb xml:id="fol_42r.26" n="26"/>SED HI QUI IN NOMINE AQUARUM QUAE
+     <lb xml:id="fol_42r.27" n="27"/>SUPER CAELOS SUNT ANGELOS INTELLEGI
+     <lb xml:id="fol_42r.28" n="28"/>UOLUNT <choice><abbr>PONDERIB&#183;</abbr><expan>PONDERIB<ex>US</ex></expan></choice> ELEMENTORUM
+     <lb xml:id="fol_42r.29" n="29"/>MOUENTUR ET IDEO NON PUTANT <w part="I">AQUA</w>
+     <lb xml:id="fol_42r.30" n="30"/><w part="F">RUM</w> FLUUIDAM <choice><abbr>GRAUEMQ&#183;</abbr><expan>GRAUEM<ex>UE</ex></expan></choice> NATURAM
     </ab> 
    </div>
    
