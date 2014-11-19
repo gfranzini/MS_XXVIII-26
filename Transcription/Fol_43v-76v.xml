@@ -128,36 +128,36 @@
    
    <div n="fol_44r" type="edition">
     <ab>
-     <lb xml:id="fol_44r.1" n="1"/><w part="F">FLUXERUNT</w>
-     <lb xml:id="fol_44r.2" n="2"/> 
-     <lb xml:id="fol_44r.3" n="3"/>
-     <lb xml:id="fol_44r.4" n="4"/>
-     <lb xml:id="fol_44r.5" n="5"/>
-     <lb xml:id="fol_44r.6" n="6"/>
-     <lb xml:id="fol_44r.7" n="7"/>
-     <lb xml:id="fol_44r.8" n="8"/>
-     <lb xml:id="fol_44r.9" n="9"/>
-     <lb xml:id="fol_44r.10" n="10"/>
-     <lb xml:id="fol_44r.11" n="11"/>
-     <lb xml:id="fol_44r.12" n="12"/>
-     <lb xml:id="fol_44r.13" n="13"/>
-     <lb xml:id="fol_44r.14" n="14"/>
-     <lb xml:id="fol_44r.15" n="15"/>
-     <lb xml:id="fol_44r.16" n="16"/>
-     <lb xml:id="fol_44r.17" n="17"/>
-     <lb xml:id="fol_44r.18" n="18"/>
-     <lb xml:id="fol_44r.19" n="19"/>
-     <lb xml:id="fol_44r.20" n="20"/>
-     <lb xml:id="fol_44r.21" n="21"/>
-     <lb xml:id="fol_44r.22" n="22"/>
-     <lb xml:id="fol_44r.23" n="23"/>
-     <lb xml:id="fol_44r.24" n="24"/>
-     <lb xml:id="fol_44r.25" n="25"/>
-     <lb xml:id="fol_44r.26" n="26"/>
-     <lb xml:id="fol_44r.27" n="27"/>
-     <lb xml:id="fol_44r.28" n="28"/>
-     <lb xml:id="fol_44r.29" n="29"/>
-     <lb xml:id="fol_44r.30" n="30"/>
+     <lb xml:id="fol_44r.1" n="1"/><w part="F">FLUXERUNT</w> ET HABENTES ELATIONIS <w part="I">FAS</w>
+     <lb xml:id="fol_44r.2" n="2"/><w part="F">TUM</w> PRO EXCELSISSIMA AETERNITATE
+     <lb xml:id="fol_44r.3" n="3"/>UANITATIS ASTUTIAM PRO CERTISSIMA
+     <lb xml:id="fol_44r.4" n="4"/>UERITATE&#183; STUDIA PARTIUM PRO INDIUIDUA
+     <lb xml:id="fol_44r.5" n="5"/>CARITATE SUPERBI FALLACES INUIDI <w part="I">EFFEC</w>
+     <lb xml:id="fol_44r.6" n="6"/><w part="F">TI</w> SUNT BEATITUDINIS IGITUR ILLORUM
+     <lb xml:id="fol_44r.7" n="7"/>CAUSA EST ADHERERE <app><rdg wit="#CSEL40">ADHAERERE</rdg></app> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> QUOCIRCA <choice><abbr>ISTORU &#772;</abbr><expan>ISTORU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_44r.8" n="8"/>MISERIAE CAUSA EX CONTRARIO EST <w part="I">INTEL</w>
+     <lb xml:id="fol_44r.9" n="9"/><w part="F">LEGENDA</w> QUOD EST NON ADHERERE <app><rdg wit="#CSEL40">ADHAERERE</rdg></app> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_44r.10" n="10"/>OB REM SI CUM QUAERITUR QUARE ILLI <w part="I">BEA</w>
+     <lb xml:id="fol_44r.11" n="11"/><w part="F">TI</w> <choice><sic>S<del rend="strikethrough">U</del>NT</sic><corr>S<add place="above">I</add>NT</corr></choice> RECTE RESPONDETUR QUIA <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> <w part="I">AD</w>
+     <lb xml:id="fol_44r.12" n="12"/><w part="F">HERENT</w> <app><rdg wit="#CSEL40">ADHAERENT</rdg></app>; ET CUM QUAERITUR QUUR ISTI <choice><sic>S<del rend="strikethrough">U</del><hi rend="ligature">NT</hi></sic><corr>S<add place="above">I</add><hi rend="ligature">NT</hi></corr></choice>
+     <lb xml:id="fol_44r.13" n="13"/>MISERI RECTE RESPONDETUR QUIA NO<add>N</add>&#772;
+     <lb xml:id="fol_44r.14" n="14"/>ADHERENT <app><rdg wit="#CSEL40">ADHAERENT</rdg></app> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> NON EST CREATURAE <w part="I">RATIO</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_44r.15" n="15"/><w part="F">NALIS</w> UEL INTELLECTUALIS BONUM QUO
+     <lb xml:id="fol_44r.16" n="16"/>BEATA SIT NISI DEUS ITA QUAMUIS NON
+     <lb xml:id="fol_44r.17" n="17"/>OMNIS BEATA POSSIT ESSE CREATURA <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_44r.18" n="18"/>ENIM HOC MUNUS ADIPISCUNTUR AUT
+     <lb xml:id="fol_44r.19" n="19"/>CAPIUNT FAERAE <app><rdg wit="#CSEL">FERAE</rdg></app> LIGNA SAXA ET SI QUID <w part="I">HU</w>
+     <lb xml:id="fol_44r.20" n="20"/><w part="F">IUS</w> MODI EST EA TAMEN QUAE POTEST NO<add>N</add>&#772;
+     <lb xml:id="fol_44r.21" n="21"/>EX SE IPSA POTEST QUIA EX NIHILO CREATA
+     <lb xml:id="fol_44r.22" n="22"/>EST SED <choice><sic>E<del rend="strikethrough">T</del></sic><corr>E<add place="above">X</add></corr></choice> ILLO A QUO CREATA EST HOC ENIM
+     <lb xml:id="fol_44r.23" n="23"/>ADEPTO BEATA QUO AMISSO MISERA EST
+     <lb xml:id="fol_44r.24" n="24"/>ILLE UERO QUI NON ALIO SED SE IPSO BONO <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_44r.25" n="25"/>BEATUS EST IDEO MISER NON POTEST ESSE
+     <lb xml:id="fol_44r.26" n="26"/>QUIA NON SE POTEST AMITTERE DICIM<hi rend="ligature">US</hi>&#183;
+     <lb xml:id="fol_44r.27" n="27"/>ITAQUE IMMUTABILE <app><rdg wit="#CSEL40">INCOMMUTABILE</rdg></app> BONUM NON ESSE
+     <lb xml:id="fol_44r.28" n="28"/>NISI UNUM UERUM BEATUM <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>&#183; EA <w part="I">UE</w>
+     <lb xml:id="fol_44r.29" n="29"/><w part="F">RO</w> QUAE FECIT BONA QUIDEM ESSE QUOD
+     <lb xml:id="fol_44r.30" n="30"/>AB ILLO UERUM TAMEN MUTABILIA QUOD
     </ab> 
    </div>
    
