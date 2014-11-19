@@ -92,43 +92,43 @@
    
    <div n="fol_43v" type="edition">
     <ab>
-     <lb xml:id="fol_43v.1" n="1"/>
-     <lb xml:id="fol_43v.2" n="2"/> 
-     <lb xml:id="fol_43v.3" n="3"/>
-     <lb xml:id="fol_43v.4" n="4"/>
-     <lb xml:id="fol_43v.5" n="5"/>
-     <lb xml:id="fol_43v.6" n="6"/>
-     <lb xml:id="fol_43v.7" n="7"/>
-     <lb xml:id="fol_43v.8" n="8"/>
-     <lb xml:id="fol_43v.9" n="9"/>
-     <lb xml:id="fol_43v.10" n="10"/>
-     <lb xml:id="fol_43v.11" n="11"/>
-     <lb xml:id="fol_43v.12" n="12"/>
-     <lb xml:id="fol_43v.13" n="13"/>
-     <lb xml:id="fol_43v.14" n="14"/>
-     <lb xml:id="fol_43v.15" n="15"/>
-     <lb xml:id="fol_43v.16" n="16"/>
-     <lb xml:id="fol_43v.17" n="17"/>
-     <lb xml:id="fol_43v.18" n="18"/>
-     <lb xml:id="fol_43v.19" n="19"/>
-     <lb xml:id="fol_43v.20" n="20"/>
-     <lb xml:id="fol_43v.21" n="21"/>
-     <lb xml:id="fol_43v.22" n="22"/>
-     <lb xml:id="fol_43v.23" n="23"/>
-     <lb xml:id="fol_43v.24" n="24"/>
-     <lb xml:id="fol_43v.25" n="25"/>
-     <lb xml:id="fol_43v.26" n="26"/>
-     <lb xml:id="fol_43v.27" n="27"/>
-     <lb xml:id="fol_43v.28" n="28"/>
-     <lb xml:id="fol_43v.29" n="29"/>
-     <lb xml:id="fol_43v.30" n="30"/>
+     <lb xml:id="fol_43v.1" n="1"/>ANTEQUAM DE INSTITUTIONE HOMINIS
+     <lb xml:id="fol_43v.2" n="2"/><note type="scholion" place="margin">&#8278; <choice><abbr>duaru &#772;</abbr><expan>duaru<ex>m</ex></expan></choice> <choice><abbr>ciuitatu &#772;</abbr><expan>ciuitatu<ex>m</ex></expan></choice></note> DICAM UBI <add place="above">&#8278;</add> DUARUM CIUITATUM <choice><abbr><w part="I">QUA &#772;</w>
+     <lb xml:id="fol_43v.3" n="3"/><w part="F">TUM</w></abbr><expan>QUA<ex>N</ex>TUM</expan></choice> AD RATIONALIUM MORTALIUM <w part="I">GE</w>
+     <lb xml:id="fol_43v.4" n="4"/><w part="F">NUS</w> ATTINET <app><rdg wit="#CSEL40">ADTINET</rdg></app> APPAREBIT EXORTUS SICUT
+     <lb xml:id="fol_43v.5" n="5"/>SUPERIORE LIBRO APPARUISSE IN <w part="I">ANGE</w>
+     <lb xml:id="fol_43v.6" n="6"/><w part="F">LIS</w> IAM UIDETUR PRIUS MIHI QUAEDAM
+     <lb xml:id="fol_43v.7" n="7"/>DE IPSIS ANGELIS UIDEO ESSE DICENDA
+     <lb xml:id="fol_43v.8" n="8"/><choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> DEMONSTRETUR QUANTUM A <w part="I">NO</w>
+     <lb xml:id="fol_43v.9" n="9"/><w part="F">BIS</w> POTEST QUAM NON INCONUENIENS
+     <lb xml:id="fol_43v.10" n="10"/>NEQUE INCONGRUA DICATUR ESSE <choice><abbr><w part="I">HO</w>
+     <lb xml:id="fol_43v.11" n="11"/><w part="F">MINIB&#183;</w></abbr><expan>HOMINIB<ex>US</ex></expan></choice> <choice><abbr>ANGELISQ&#183;</abbr><expan>ANGELISQ<ex>UE</ex></expan></choice> SOCIETAS UT NON <w part="I">QUAT</w>
+     <lb xml:id="fol_43v.12" n="12"/><w part="F">TUOR</w> DUAE SCILICET ANGELORUM <choice><abbr><w part="I">TOTIDE &#772;</w>
+     <lb xml:id="fol_43v.13" n="13"/><w part="F">QUE</w></abbr><expan>TOTIDE<ex>M</ex>QUE</expan></choice> HOMINUM SED DUAE POTIUS <w part="I">CIUITA</w>
+     <lb xml:id="fol_43v.14" n="14"/><w part="F">TES</w> HOC EST SOCIETATES MERITO ESSE <w part="I">DI</w>
+     <lb xml:id="fol_43v.15" n="15"/><w part="F">CANTUR</w> UNA IN BONIS ALTERA IN MALIS
+     <lb xml:id="fol_43v.16" n="16"/>NON SOLUM ANGELIS UERUM ETIAM <choice><abbr><w part="I">HO</w>
+     <lb xml:id="fol_43v.17" n="17"/><w part="F">MINIB&#183;</w></abbr><expan>HOMINIB<ex>US</ex></expan></choice> CONSTITUTAE ANGELORUM <w part="I">BONO</w>
+     <lb xml:id="fol_43v.18" n="18"/><w part="F">RUM</w> ET MALORUM INTER SE CONTRARI<hi rend="ligature">US</hi> <app><rdg wit="#CSEL40">CONTRARIOS</rdg></app>
+     <lb xml:id="fol_43v.19" n="19"/>APPETITUS <app><rdg wit="#CSEL40">ADPETITUS</rdg></app> NON NATURIS PRINCIPIISQUE
+     <lb xml:id="fol_43v.20" n="20"/>DIUERSIS CUM <del rend="strikethrough">CUM</del> <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; OMNIUM <w part="I">SUBS</w>
+     <lb xml:id="fol_43v.21" n="21"/><w part="F">TANTIARUM</w> BONUS AUCTOR ET CONDITOR
+     <lb xml:id="fol_43v.22" n="22"/><choice><abbr>UTROSQ&#183;</abbr><expan>UTROSQ<ex>UE</ex></expan></choice> CREAUERIT SED <choice><abbr>UOLUNTATIB&#183;</abbr><expan>UOLUNTATIB<ex>US</ex></expan></choice> ET
+     <lb xml:id="fol_43v.23" n="23"/><choice><abbr>CUPIDITATIB&#183;</abbr><expan>CUPIDITATIB<ex>US</ex></expan></choice> EXTITISSE DUBITARE FAS <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
+     <lb xml:id="fol_43v.24" n="24"/>EST DUM ALII CONSTANTER IN COMMUNI
+     <lb xml:id="fol_43v.25" n="25"/><choice><abbr>OMNIB&#183;</abbr><expan>OMNIB<ex>US</ex></expan></choice> BONO QUOD IPSE ILLIS <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app>
+     <lb xml:id="fol_43v.26" n="26"/>IN EIUS AETERNITATE UERITATE CARITATE
+     <lb xml:id="fol_43v.27" n="27"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note> PERSISTUNT: ALII SUA POTESTATE POTIUS
+     <lb xml:id="fol_43v.28" n="28"/>DELECTATI UELUT BONUM SUUM SIBI <w part="I">IP</w>
+     <lb xml:id="fol_43v.29" n="29"/><w part="F">SI</w> ESSENT A SUPERIORE COMMUNI <w part="I">OM</w>
+     <lb xml:id="fol_43v.30" n="30"/><w part="F">NIUM</w> BEATIFICO BONO AD PROPRIA <w part="I">DE</w>
     </ab> 
    </div>
    
    
    <div n="fol_44r" type="edition">
     <ab>
-     <lb xml:id="fol_44r.1" n="1"/>
+     <lb xml:id="fol_44r.1" n="1"/><w part="F">FLUXERUNT</w>
      <lb xml:id="fol_44r.2" n="2"/> 
      <lb xml:id="fol_44r.3" n="3"/>
      <lb xml:id="fol_44r.4" n="4"/>
