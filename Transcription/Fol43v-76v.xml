@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>First supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>Second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition n="1">First digital edition</edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol_43v-76v.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     <msContents>
+      <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+     </msContents>
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+     </physDesc>
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards.</p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+ </teiHeader>
+    
+ 
+ <text>
+  <body>
+   <head>
+    <title>Liber XII</title>
+   </head>
+   
+   <div n="fol_43v" type="edition">
+    <ab>
+     <lb xml:id="fol_43v.1" n="1"/>
+     <lb xml:id="fol_43v.2" n="2"/> 
+     <lb xml:id="fol_43v.3" n="3"/>
+     <lb xml:id="fol_43v.4" n="4"/>
+     <lb xml:id="fol_43v.5" n="5"/>
+     <lb xml:id="fol_43v.6" n="6"/>
+     <lb xml:id="fol_43v.7" n="7"/>
+     <lb xml:id="fol_43v.8" n="8"/>
+     <lb xml:id="fol_43v.9" n="9"/>
+     <lb xml:id="fol_43v.10" n="10"/>
+     <lb xml:id="fol_43v.11" n="11"/>
+     <lb xml:id="fol_43v.12" n="12"/>
+     <lb xml:id="fol_43v.13" n="13"/>
+     <lb xml:id="fol_43v.14" n="14"/>
+     <lb xml:id="fol_43v.15" n="15"/>
+     <lb xml:id="fol_43v.16" n="16"/>
+     <lb xml:id="fol_43v.17" n="17"/>
+     <lb xml:id="fol_43v.18" n="18"/>
+     <lb xml:id="fol_43v.19" n="19"/>
+     <lb xml:id="fol_43v.20" n="20"/>
+     <lb xml:id="fol_43v.21" n="21"/>
+     <lb xml:id="fol_43v.22" n="22"/>
+     <lb xml:id="fol_43v.23" n="23"/>
+     <lb xml:id="fol_43v.24" n="24"/>
+     <lb xml:id="fol_43v.25" n="25"/>
+     <lb xml:id="fol_43v.26" n="26"/>
+     <lb xml:id="fol_43v.27" n="27"/>
+     <lb xml:id="fol_43v.28" n="28"/>
+     <lb xml:id="fol_43v.29" n="29"/>
+     <lb xml:id="fol_43v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_44r" type="edition">
+    <ab>
+     <lb xml:id="fol_44r.1" n="1"/>
+     <lb xml:id="fol_44r.2" n="2"/> 
+     <lb xml:id="fol_44r.3" n="3"/>
+     <lb xml:id="fol_44r.4" n="4"/>
+     <lb xml:id="fol_44r.5" n="5"/>
+     <lb xml:id="fol_44r.6" n="6"/>
+     <lb xml:id="fol_44r.7" n="7"/>
+     <lb xml:id="fol_44r.8" n="8"/>
+     <lb xml:id="fol_44r.9" n="9"/>
+     <lb xml:id="fol_44r.10" n="10"/>
+     <lb xml:id="fol_44r.11" n="11"/>
+     <lb xml:id="fol_44r.12" n="12"/>
+     <lb xml:id="fol_44r.13" n="13"/>
+     <lb xml:id="fol_44r.14" n="14"/>
+     <lb xml:id="fol_44r.15" n="15"/>
+     <lb xml:id="fol_44r.16" n="16"/>
+     <lb xml:id="fol_44r.17" n="17"/>
+     <lb xml:id="fol_44r.18" n="18"/>
+     <lb xml:id="fol_44r.19" n="19"/>
+     <lb xml:id="fol_44r.20" n="20"/>
+     <lb xml:id="fol_44r.21" n="21"/>
+     <lb xml:id="fol_44r.22" n="22"/>
+     <lb xml:id="fol_44r.23" n="23"/>
+     <lb xml:id="fol_44r.24" n="24"/>
+     <lb xml:id="fol_44r.25" n="25"/>
+     <lb xml:id="fol_44r.26" n="26"/>
+     <lb xml:id="fol_44r.27" n="27"/>
+     <lb xml:id="fol_44r.28" n="28"/>
+     <lb xml:id="fol_44r.29" n="29"/>
+     <lb xml:id="fol_44r.30" n="30"/>
+    </ab> 
+   </div>
+   
+  </body>
+ </text>  
+  
+</TEI>
