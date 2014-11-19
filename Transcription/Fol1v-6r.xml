@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" type="xml"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-
             <titleStmt>
                 <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
                 <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
@@ -22,11 +21,9 @@
                     <resp>Second supervisor</resp>
                 </respStmt>
             </titleStmt>
-
             <editionStmt>
                 <edition n="1">First digital edition</edition>
             </editionStmt>
-
             <publicationStmt>
                 <authority>Greta Franzini</authority>
                 <idno>Fol1v-6r.xml</idno>
@@ -36,7 +33,6 @@
                 </availability>
                 <date>2014</date>
             </publicationStmt>
-
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
@@ -44,12 +40,9 @@
                         <repository>Biblioteca Capitolare</repository>
                         <idno>MS XXVIII(26)</idno>
                     </msIdentifier>
-
                     <msContents>
                         <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
                    </msContents>
-
-
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="parchment">
@@ -64,49 +57,39 @@
                                 <layout columns="1"><p>In a single column</p></layout>
                             </layoutDesc>
                         </objectDesc>
-
                         <bindingDesc>
                             <binding contemporary="unknown">
                                 <p>Bound in <material>rigid parchment</material>, possibly in 18th
                                     century, and rebound using the same support in 1926.</p>
                             </binding>
                         </bindingDesc>
-
                     </physDesc>
-
                     <history>
                         <origin>
                             <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
                             </p>
                         </origin>
                     </history>
-
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-
-
         <encodingDesc>
             <p>The following text was encoded in accordance with EpiDoc standards.</p>
         </encodingDesc>
-
         <profileDesc>
             <langUsage>
                 <language ident="la">Latin</language>
             </langUsage>
         </profileDesc>
-
-
     </teiHeader>
 
 
     <text>
-
         <body>
-            <head>
-                <title><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</title>
-                
-            </head>
+            <div n="fol_1r" type="edition">
+                <ab>                    <incipit><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</incipit>
+                </ab>
+            </div>
           
             <div n="fol_1v" type="edition">
                 <ab>
