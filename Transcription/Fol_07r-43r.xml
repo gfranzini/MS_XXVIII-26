@@ -46,7 +46,16 @@
      </msIdentifier>
      
      <msContents>
-      <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+      <msItem>
+       <locus>f. 7r-43r</locus>
+       <explicit>
+        <locus>f. 43r</locus>
+        <lb/>AUGUSTINI EPISCOPI 
+        <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
+        <lb />CONTRA PAGANOS 
+        <lb />LIBER &#183; XI &#183; EXPLICIT
+       </explicit>
+      </msItem>
      </msContents>
      
      <physDesc>
@@ -2678,15 +2687,8 @@
      <lb xml:id="fol_43r.2" n="2"/><w part="F">QUE</w> LIBRUM ALIQUANDO CLAUDAMUS
     </ab>
    </div> 
-   
-    <finalRubric>
-     <lb/>AUGUSTINI EPISCOPI 
-     <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
-     <lb />CONTRA PAGANOS 
-     <lb />LIBER &#183; XI &#183; EXPLICIT 
-     <lb /><choice><abbr>INCIP</abbr><expan>INCIP<ex>IT</ex></expan></choice> &#183; <choice><abbr>LIB&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>&#183; XII 
-     <lb />FELICITER
-    </finalRubric>
+
+   <!--The explicit can be read in this file's <msContents> section-->
    
       </body>
     </text>  

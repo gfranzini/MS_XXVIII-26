@@ -26,7 +26,7 @@
    </editionStmt>
    <publicationStmt>
     <authority>Greta Franzini</authority>
-    <idno>Fol_07r-43r.xml</idno>
+    <idno>Fol_43v-76v.xml</idno>
     <authority>UCL Centre for Digital Humanities</authority>
     <availability>
      <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
@@ -41,7 +41,14 @@
       <idno>MS XXVIII(26)</idno>
      </msIdentifier>
      <msContents>
-      <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+      <msItem>
+       <locus>f. 43v-76v</locus>
+       <incipit>
+        <locus>f. 43r</locus>
+        <lb /><choice><abbr>INCIP</abbr><expan>INCIP<ex>IT</ex></expan></choice> &#183; <choice><abbr>LIB&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>&#183; XII 
+        <lb />FELICITER
+       </incipit>
+      </msItem>
      </msContents>
      <physDesc>
       <objectDesc form="codex">
