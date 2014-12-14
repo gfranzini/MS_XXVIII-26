@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
-<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -207,36 +206,107 @@
    
    <div n="fol_45r" type="edition">
     <ab>
-     <lb xml:id="fol_45r.1" n="1"/>
-     <lb xml:id="fol_45r.2" n="2"/> 
-     <lb xml:id="fol_45r.3" n="3"/>
-     <lb xml:id="fol_45r.4" n="4"/>
-     <lb xml:id="fol_45r.5" n="5"/>
-     <lb xml:id="fol_45r.6" n="6"/>
-     <lb xml:id="fol_45r.7" n="7"/>
-     <lb xml:id="fol_45r.8" n="8"/>
-     <lb xml:id="fol_45r.9" n="9"/>
-     <lb xml:id="fol_45r.10" n="10"/>
-     <lb xml:id="fol_45r.11" n="11"/>
-     <lb xml:id="fol_45r.12" n="12"/>
-     <lb xml:id="fol_45r.13" n="13"/>
-     <lb xml:id="fol_45r.14" n="14"/>
-     <lb xml:id="fol_45r.15" n="15"/>
-     <lb xml:id="fol_45r.16" n="16"/>
-     <lb xml:id="fol_45r.17" n="17"/>
-     <lb xml:id="fol_45r.18" n="18"/>
-     <lb xml:id="fol_45r.19" n="19"/>
-     <lb xml:id="fol_45r.20" n="20"/>
-     <lb xml:id="fol_45r.21" n="21"/>
-     <lb xml:id="fol_45r.22" n="22"/>
-     <lb xml:id="fol_45r.23" n="23"/>
-     <lb xml:id="fol_45r.24" n="24"/>
-     <lb xml:id="fol_45r.25" n="25"/>
-     <lb xml:id="fol_45r.26" n="26"/>
-     <lb xml:id="fol_45r.27" n="27"/>
-     <lb xml:id="fol_45r.28" n="28"/>
-     <lb xml:id="fol_45r.29" n="29"/>
-     <lb xml:id="fol_45r.30" n="30"/>
+     <lb xml:id="fol_45r.1" n="1"/>ISTA SED UITIO QUO TAMEN ETIAM UITIO
+     <lb xml:id="fol_45r.2" n="2"/>UALDE MAGNA <choice><abbr>MULTUMQ&#183;</abbr><expan>MULTUMQ<ex>UE</ex></expan></choice> LAUDABILIS
+     <lb xml:id="fol_45r.3" n="3"/>OSTENDITUR IPSA NATURA CUIUS ENIM
+     <lb xml:id="fol_45r.4" n="4"/>RECTE UITUPERATUR UITIUM PROCUL <w part="I">DU</w>
+     <lb xml:id="fol_45r.5" n="5"/><w part="F">BIO</w> NATURA LAUDATUR NAM RECTA UITII
+     <lb xml:id="fol_45r.6" n="6"/>UITUPERATIO EST QUOD ILLO <w part="I">DEHONESTA</w>
+     <lb xml:id="fol_45r.7" n="7"/><w part="F">TUR</w> NATURA LAUDABILIS, SICUT ERGO CUM <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_45r.8" n="8"/>UITIUM OCULORUM DICITUR CAECITAS ID
+     <lb xml:id="fol_45r.9" n="9"/>OSTENDITUR QUOD AD NATURAM <w part="I">OCULO</w>
+     <lb xml:id="fol_45r.10" n="10"/><w part="F">RUM</w> PERTINET UISUS; ET CUM UITIUM <w part="I">AU</w>
+     <lb xml:id="fol_45r.11" n="11"/><w part="F">RIUM</w> DICITUR SURDITAS&#183; AD EARUM <w part="I">NATU</w>
+     <lb xml:id="fol_45r.12" n="12"/><w part="F">RAM</w> PERTINERE DEMONSTRATUR <w part="I">AUDI</w>
+     <lb xml:id="fol_45r.13" n="13"/><w part="F">TUS</w> ITA CUM UITIUM CREATURAE <w part="I">ANGELI</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_45r.14" n="14"/><w part="F">CAE</w> DI<add place="above">CI</add>TUR QUO NON ADHERET <app><rdg wit="#CSEL40">ADHAERET</rdg></app> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> HINC
+     <lb xml:id="fol_45r.15" n="15"/>APERTISSIME DECLARATUR EIUS NATUR&#198;
+     <lb xml:id="fol_45r.16" n="16"/>UT <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> ADHEREAT <app><rdg wit="#CSEL40">ADHAERET</rdg></app> CONUENIRE QUAM <w part="I">POR</w>
+     <lb xml:id="fol_45r.17" n="17"/><w part="F">RO</w> MAGNA SIT LAUS ADHERERE <app><rdg wit="#CSEL40">ADHAERERE</rdg></app> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> UT EI <w part="I">UI</w>
+     <lb xml:id="fol_45r.18" n="18"/><w part="F">UAT</w> INDE SAPIAT ILLO GAUDEAT TANTOQUE
+     <lb xml:id="fol_45r.19" n="19"/>BONO SINE MORTE SINE ERRORE SINE <w part="I">MO</w>
+     <lb xml:id="fol_45r.20" n="20"/><w part="F">LESTIA</w> PERFRUATUR QUIS DIGNAE <app><rdg wit="#CSEL40">DIGNE</rdg></app> <w part="I">COGITA</w>
+     <lb xml:id="fol_45r.21" n="21"/><w part="F">RE</w> POSSIT AUT ELOQUI QUAPROPTER <choice><abbr>ETIA &#772;</abbr><expan>ETIA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_45r.22" n="22"/>UITIO MALORUM ANGELORUM QUO NON
+     <lb xml:id="fol_45r.23" n="23"/>ADHERENT <app><rdg wit="#CSEL40">ADHAERENT</rdg></app> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> QUONIAM OMNE UITIUM
+     <lb xml:id="fol_45r.24" n="24"/>NATURAE NOCET SATIS MANIFESTATUR
+     <lb xml:id="fol_45r.25" n="25"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> TAM BONAM EORUM CREASSE <w part="I">NATU</w>
+     <lb xml:id="fol_45r.26" n="26"/><w part="F">RAM</w> CUI NOXIUM SIT NON ESSE CUM <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> <note type="scholion" place="margin" subtype="chapter" n="2">II</note>
+     <lb xml:id="fol_45r.27" n="27"/>HAEC DICTA SINT NE QUISQUAM CUM DE <w part="I">AN</w>
+     <lb xml:id="fol_45r.28" n="28"/><w part="F">GELIS</w> APOSTATICIS LOQUIMUR EXISTIMET
+     <lb xml:id="fol_45r.29" n="29"/>EOS ALIAM UELUT EX ALIO PRINCIPIO <w part="I">HABE</w>
+     <lb xml:id="fol_45r.30" n="30"/><w part="F">RE</w> POTUISSE NATURAM NEC EORUM <w part="I">NATU</w>
+    </ab> 
+   </div>
+   
+   <div n="fol_45v" type="edition">
+    <ab>
+     <lb xml:id="fol_45v.1" n="1"/><w part="F">RAE</w> AUCTOREM <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> CUIUS ERRORIS
+     <lb xml:id="fol_45v.2" n="2"/>IMPIETATE <app><rdg wit="#CSEL40">INPIETATE</rdg></app> TANTO QUISQUE CAREBIT
+     <lb xml:id="fol_45v.3" n="3"/>EXPEDITIUS ET FACILIUS QUANTO <w part="I">PERSPI</w>
+     <lb xml:id="fol_45v.4" n="4"/><w part="F">CACIUS</w> INTELLEGERE POTUERIT <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> <choice><abbr>qd&#772;</abbr><expan>q<ex>uo</ex>d</expan></choice> <choice><abbr>&#42833;</abbr><expan>p<ex>er</ex></expan></choice> <choice><abbr>angelu &#772;</abbr><expan>angelu<ex>m</ex></expan></choice> <choice><abbr>d&#772;s&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> locutus sit moysi</note> QUOD PER
+     <lb xml:id="fol_45v.5" n="5"/>ANGELUM <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; DIXIT QUANDO MOSEN <app><rdg wit="#CSEL40">MOYSEN</rdg></app> <w part="I">MIT</w>
+     <lb xml:id="fol_45v.6" n="6"/><w part="F">TEBAT</w> AD FILIOS ISRAHEL <app><rdg wit="#CSEL40">ISRAEL</rdg></app> EGO SUM QUI <choice><abbr>SU &#772;</abbr><expan>SU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_45v.7" n="7"/>CUM ENIM <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> SUMMA ESSENTIA SIT HOC
+     <lb xml:id="fol_45v.8" n="8"/>EST SUMME SIT ET IDEO INMUTABILIS SIT&#183;
+     <lb xml:id="fol_45v.9" n="9"/>REBUS QUAS EX NIHILO CREAUIT ESSE DEDIT
+     <lb xml:id="fol_45v.10" n="10"/>SED NON SUMME ESSE SICUT EST IPSE; ET
+     <lb xml:id="fol_45v.11" n="11"/>ALIIS DEDIT ESSE AMPLIUS&#183; ALIIS MINUS
+     <lb xml:id="fol_45v.12" n="12"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ITA NATURAS ESSENTIARUM <choice><abbr>GRADIB&#183;</abbr><expan>GRADIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_45v.13" n="13"/>ORDINAUIT SICUT ENUM AB EO QUOD EST
+     <lb xml:id="fol_45v.14" n="14"/>SAPERE UOCATUR SAPIENTIA SIC AB EO QUOD
+     <lb xml:id="fol_45v.15" n="15"/>EST ESSE UOCATUR ESSENTJA NOUO <choice><abbr>QUIDE &#772;</abbr><expan>QUIDE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_45v.16" n="16"/>NOMINE QUO USI UETERES NON SUNT LATINI
+     <lb xml:id="fol_45v.17" n="17"/>SERMONIS AUCTOR<supplied reason="lost">ES SED IA</supplied>M NOSTRIS <choice><abbr><w part="I">TE &#772;</w>
+     <lb xml:id="fol_45v.18" n="18"/><w part="F">PORIB&#183;</w></abbr><expan>TE<ex>M</ex>PORIB<ex>US</ex></expan></choice> USITATO NE DEESSET ETIAM LINGU&#198; 
+     <lb xml:id="fol_45v.19" n="19"/>NOSTRAE QUOD GRAECI APPELLANT USIAN <app><rdg wit="#CSEL40">οὐσίαν</rdg></app>
+     <lb xml:id="fol_45v.20" n="20"/>HOC ENIM UERBUM E UERBO <choice><abbr>EXPRESSU &#772;</abbr><expan>EXPRESSU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_45v.21" n="21"/>EST <supplied reason="lost">UT</supplied> DICERETUR ESSENTIA AC PER HOC EI
+     <lb xml:id="fol_45v.22" n="22"/>NATURAE QUAE SUMMAE EST QUA <w part="I">FACIEN</w>
+     <lb xml:id="fol_45v.23" n="23"/><w part="F"><supplied reason="lost">TE</supplied></w> SUNT QUAECUMQUE SUNT CONTRARIA
+     <lb xml:id="fol_45v.24" n="24"/>NATURA NON EST NISI QUAE NON EST EI <w part="I">QUIP</w>
+     <lb xml:id="fol_45v.25" n="25"/><w part="F">PE</w> QUOD EST NON ESSE CONTRARIUM EST ET
+     <lb xml:id="fol_45v.26" n="26"/>PROPTEREA DEO ID EST SUMMAE ESSENTI&#198;
+     <lb xml:id="fol_45v.27" n="27"/>ET AUCTORI OMNIUM <choice><abbr>QUALIUMCUMQ&#183;</abbr><expan>QUALIUMCUMQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_45v.28" n="28"/>ESSENTIARUM ESSENTIA NULLA <w part="I">CONTRA</w>
+     <lb xml:id="fol_45v.29" n="29"/><w part="F">RIA</w> EST <note type="scholion" place="margin" subtype="chapter" n="3">III</note> DICUNTUR AUTEM IN SCRIBTURIS <app><rdg wit="#CSEL40">SCRIPTURIS</rdg></app>
+     <lb xml:id="fol_45v.30" n="30"/>INIMICI DEI QUI NON NATURA SED UJTIIS
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_46r" type="edition">
+    <ab>
+     <lb xml:id="fol_46r.1" n="1"/>
+     <lb xml:id="fol_46r.2" n="2"/> 
+     <lb xml:id="fol_46r.3" n="3"/>
+     <lb xml:id="fol_46r.4" n="4"/>
+     <lb xml:id="fol_46r.5" n="5"/>
+     <lb xml:id="fol_46r.6" n="6"/>
+     <lb xml:id="fol_46r.7" n="7"/>
+     <lb xml:id="fol_46r.8" n="8"/>
+     <lb xml:id="fol_46r.9" n="9"/>
+     <lb xml:id="fol_46r.10" n="10"/>
+     <lb xml:id="fol_46r.11" n="11"/>
+     <lb xml:id="fol_46r.12" n="12"/>
+     <lb xml:id="fol_46r.13" n="13"/>
+     <lb xml:id="fol_46r.14" n="14"/>
+     <lb xml:id="fol_46r.15" n="15"/>
+     <lb xml:id="fol_46r.16" n="16"/>
+     <lb xml:id="fol_46r.17" n="17"/>
+     <lb xml:id="fol_46r.18" n="18"/>
+     <lb xml:id="fol_46r.19" n="19"/>
+     <lb xml:id="fol_46r.20" n="20"/>
+     <lb xml:id="fol_46r.21" n="21"/>
+     <lb xml:id="fol_46r.22" n="22"/>
+     <lb xml:id="fol_46r.23" n="23"/>
+     <lb xml:id="fol_46r.24" n="24"/>
+     <lb xml:id="fol_46r.25" n="25"/>
+     <lb xml:id="fol_46r.26" n="26"/>
+     <lb xml:id="fol_46r.27" n="27"/>
+     <lb xml:id="fol_46r.28" n="28"/>
+     <lb xml:id="fol_46r.29" n="29"/>
+     <lb xml:id="fol_46r.30" n="30"/>
     </ab> 
    </div>
    
