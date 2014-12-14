@@ -277,36 +277,36 @@
    
    <div n="fol_46r" type="edition">
     <ab>
-     <lb xml:id="fol_46r.1" n="1"/>
-     <lb xml:id="fol_46r.2" n="2"/> 
-     <lb xml:id="fol_46r.3" n="3"/>
-     <lb xml:id="fol_46r.4" n="4"/>
-     <lb xml:id="fol_46r.5" n="5"/>
-     <lb xml:id="fol_46r.6" n="6"/>
-     <lb xml:id="fol_46r.7" n="7"/>
-     <lb xml:id="fol_46r.8" n="8"/>
-     <lb xml:id="fol_46r.9" n="9"/>
-     <lb xml:id="fol_46r.10" n="10"/>
-     <lb xml:id="fol_46r.11" n="11"/>
-     <lb xml:id="fol_46r.12" n="12"/>
-     <lb xml:id="fol_46r.13" n="13"/>
-     <lb xml:id="fol_46r.14" n="14"/>
-     <lb xml:id="fol_46r.15" n="15"/>
-     <lb xml:id="fol_46r.16" n="16"/>
-     <lb xml:id="fol_46r.17" n="17"/>
-     <lb xml:id="fol_46r.18" n="18"/>
-     <lb xml:id="fol_46r.19" n="19"/>
-     <lb xml:id="fol_46r.20" n="20"/>
-     <lb xml:id="fol_46r.21" n="21"/>
-     <lb xml:id="fol_46r.22" n="22"/>
-     <lb xml:id="fol_46r.23" n="23"/>
-     <lb xml:id="fol_46r.24" n="24"/>
-     <lb xml:id="fol_46r.25" n="25"/>
-     <lb xml:id="fol_46r.26" n="26"/>
-     <lb xml:id="fol_46r.27" n="27"/>
-     <lb xml:id="fol_46r.28" n="28"/>
-     <lb xml:id="fol_46r.29" n="29"/>
-     <lb xml:id="fol_46r.30" n="30"/>
+     <lb xml:id="fol_46r.1" n="1"/>ADUERSANTUR EJUS IMPERIO NIHIL
+     <lb xml:id="fol_46r.2" n="2"/>EI UALENTES NOCERE SED SIBI INIMICI
+     <lb xml:id="fol_46r.3" n="3"/>ENIM SUNT RESISTENDI UOLUNTATE <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
+     <lb xml:id="fol_46r.4" n="4"/>POTESTATE LAEDENDI; <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; NAMQUE <w part="I">IMMU</w>
+     <lb xml:id="fol_46r.5" n="5"/><w part="F">TABILIS</w> <app><rdg wit="#CSEL40">INMUTABILIS</rdg></app> EST ET OMNI MODO <w part="I">INCORRUPTIBI</w>
+     <lb xml:id="fol_46r.6" n="6"/><w part="F">LIS</w> <del rend="strikethrough">EST</del> IDCIRCO UITIUM QUO RESJSTUNT
+     <lb xml:id="fol_46r.7" n="7"/><choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> QUI EIUS APPELLANTUR INIMICI NON
+     <lb xml:id="fol_46r.8" n="8"/>EST <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> SED IPSIS MALUM <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> HOC OB ALIUD
+     <lb xml:id="fol_46r.9" n="9"/>NISI QUA <app><rdg wit="#CSEL40">QUIA</rdg></app> CORRUMPIT IN EJS NATURAE <w part="I">BO</w>
+     <lb xml:id="fol_46r.10" n="10"/><w part="F">NUM</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note> NATURA IGITUR CONTRARIA NON EST
+     <lb xml:id="fol_46r.11" n="11"/><choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> SED UITIUM QUIA MALUM EST <w part="I">CONTRA</w>
+     <lb xml:id="fol_46r.12" n="12"/><w part="F">RIUM</w> EST <app><rdg wit="#CSEL40">QUIA MALUM CONTRARIUM EST</rdg></app> BONO QUIS AUTEM NEGET <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
+     <lb xml:id="fol_46r.13" n="13"/>SUMME BONUM UITIUM ERGO <w part="I">CONTRA</w>
+     <lb xml:id="fol_46r.14" n="14"/><w part="F">RIUM</w> EST <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> TAMQUAM MALUM BONO
+     <lb xml:id="fol_46r.15" n="15"/>PORRO AUTEM BONUM EST ET NATURA
+     <lb xml:id="fol_46r.16" n="16"/>QUAM UITIAT UNDE ET HUIC BONO <choice><abbr>UTIQ&#183;</abbr><expan>UTIQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_46r.17" n="17"/>CONTRARIUM EST SED <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> TANTUMMODO
+     <lb xml:id="fol_46r.18" n="18"/>TAMQUAM BONO MALUM NATURAE UERO
+     <lb xml:id="fol_46r.19" n="19"/>QUAM UITIAT NON TANTUM MALUM SED
+     <lb xml:id="fol_46r.20" n="20"/>ETIAM NOXIUM NULLA QUIPPE MALA <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice>
+     <lb xml:id="fol_46r.21" n="21"/>NOXIA SED <choice><abbr>MUTABILIB&#183;</abbr><expan>MUTABILIB<ex>US</ex></expan></choice> <choice><abbr><w part="I">CORRUPTIBILIB&#183;</w>
+     <lb xml:id="fol_46r.22" n="22"/><w part="F">QUE</w></abbr><expan>CORRUPTIBILIB<ex>US</ex>QUE</expan></choice> NATURIS BONIS TAMEN IPSORUM
+     <lb xml:id="fol_46r.23" n="23"/><choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> TESTIMONIO UITIORUM SI ENIM
+     <lb xml:id="fol_46r.24" n="24"/>BONAE NON ESSENT EJS UITIA NOCERE
+     <lb xml:id="fol_46r.25" n="25"/>NON POSSENT NAM QUID EIS NOCENDO
+     <lb xml:id="fol_46r.26" n="26"/>FACIUNT NISI ADIMUNT INTEGRITATEM
+     <lb xml:id="fol_46r.27" n="27"/>PULCRITUDINEM <app><rdg wit="#CSEL40">PULCHRITUDINEM</rdg></app> SALUTEM UIRTUTEM ET
+     <lb xml:id="fol_46r.28" n="28"/>QUIDQUID BONI NATURAE PER UITIUM <w part="I">DE</w>
+     <lb xml:id="fol_46r.29" n="29"/><w part="F">TRAHI</w> SIUE MINUI CONSUEUIT QUOD SI <w part="I">OM</w>
+     <lb xml:id="fol_46r.30" n="30"/><w part="F">NINO</w> DESIT NIHIL BONI ADIMENDO NON
     </ab> 
    </div>
    
