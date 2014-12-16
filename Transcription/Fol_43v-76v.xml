@@ -386,7 +386,7 @@
    </div>
    
    
-   <div n="fol_47v" type="edition">
+   <div n="fol_47v" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_47v.1" n="1"/>
      <lb xml:id="fol_47v.2" n="2"/> 
@@ -422,7 +422,7 @@
    </div>
    
    
-   <div n="fol_48r" type="edition">
+   <div n="fol_48r" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_48r.1" n="1"/>
      <lb xml:id="fol_48r.2" n="2"/> 
@@ -454,6 +454,438 @@
      <lb xml:id="fol_48r.28" n="28"/>
      <lb xml:id="fol_48r.29" n="29"/>
      <lb xml:id="fol_48r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_48v" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_48v.1" n="1"/>
+     <lb xml:id="fol_48v.2" n="2"/> 
+     <lb xml:id="fol_48v.3" n="3"/>
+     <lb xml:id="fol_48v.4" n="4"/>
+     <lb xml:id="fol_48v.5" n="5"/>
+     <lb xml:id="fol_48v.6" n="6"/>
+     <lb xml:id="fol_48v.7" n="7"/>
+     <lb xml:id="fol_48v.8" n="8"/>
+     <lb xml:id="fol_48v.9" n="9"/>
+     <lb xml:id="fol_48v.10" n="10"/>
+     <lb xml:id="fol_48v.11" n="11"/>
+     <lb xml:id="fol_48v.12" n="12"/>
+     <lb xml:id="fol_48v.13" n="13"/>
+     <lb xml:id="fol_48v.14" n="14"/>
+     <lb xml:id="fol_48v.15" n="15"/>
+     <lb xml:id="fol_48v.16" n="16"/>
+     <lb xml:id="fol_48v.17" n="17"/>
+     <lb xml:id="fol_48v.18" n="18"/>
+     <lb xml:id="fol_48v.19" n="19"/>
+     <lb xml:id="fol_48v.20" n="20"/>
+     <lb xml:id="fol_48v.21" n="21"/>
+     <lb xml:id="fol_48v.22" n="22"/>
+     <lb xml:id="fol_48v.23" n="23"/>
+     <lb xml:id="fol_48v.24" n="24"/>
+     <lb xml:id="fol_48v.25" n="25"/>
+     <lb xml:id="fol_48v.26" n="26"/>
+     <lb xml:id="fol_48v.27" n="27"/>
+     <lb xml:id="fol_48v.28" n="28"/>
+     <lb xml:id="fol_48v.29" n="29"/>
+     <lb xml:id="fol_48v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_49r" type="edition">  <!--damaged-->
+    <ab>
+     <lb xml:id="fol_49r.1" n="1"/>
+     <lb xml:id="fol_49r.2" n="2"/> 
+     <lb xml:id="fol_49r.3" n="3"/>
+     <lb xml:id="fol_49r.4" n="4"/>
+     <lb xml:id="fol_49r.5" n="5"/>
+     <lb xml:id="fol_49r.6" n="6"/>
+     <lb xml:id="fol_49r.7" n="7"/>
+     <lb xml:id="fol_49r.8" n="8"/>
+     <lb xml:id="fol_49r.9" n="9"/>
+     <lb xml:id="fol_49r.10" n="10"/>
+     <lb xml:id="fol_49r.11" n="11"/>
+     <lb xml:id="fol_49r.12" n="12"/>
+     <lb xml:id="fol_49r.13" n="13"/>
+     <lb xml:id="fol_49r.14" n="14"/>
+     <lb xml:id="fol_49r.15" n="15"/>
+     <lb xml:id="fol_49r.16" n="16"/>
+     <lb xml:id="fol_49r.17" n="17"/>
+     <lb xml:id="fol_49r.18" n="18"/>
+     <lb xml:id="fol_49r.19" n="19"/>
+     <lb xml:id="fol_49r.20" n="20"/>
+     <lb xml:id="fol_49r.21" n="21"/>
+     <lb xml:id="fol_49r.22" n="22"/>
+     <lb xml:id="fol_49r.23" n="23"/>
+     <lb xml:id="fol_49r.24" n="24"/>
+     <lb xml:id="fol_49r.25" n="25"/>
+     <lb xml:id="fol_49r.26" n="26"/>
+     <lb xml:id="fol_49r.27" n="27"/>
+     <lb xml:id="fol_49r.28" n="28"/>
+     <lb xml:id="fol_49r.29" n="29"/>
+     <lb xml:id="fol_49r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_49v" type="edition">
+    <ab>
+     <lb xml:id="fol_49v.1" n="1"/>
+     <lb xml:id="fol_49v.2" n="2"/> 
+     <lb xml:id="fol_49v.3" n="3"/>
+     <lb xml:id="fol_49v.4" n="4"/>
+     <lb xml:id="fol_49v.5" n="5"/>
+     <lb xml:id="fol_49v.6" n="6"/>
+     <lb xml:id="fol_49v.7" n="7"/>
+     <lb xml:id="fol_49v.8" n="8"/>
+     <lb xml:id="fol_49v.9" n="9"/>
+     <lb xml:id="fol_49v.10" n="10"/>
+     <lb xml:id="fol_49v.11" n="11"/>
+     <lb xml:id="fol_49v.12" n="12"/>
+     <lb xml:id="fol_49v.13" n="13"/>
+     <lb xml:id="fol_49v.14" n="14"/>
+     <lb xml:id="fol_49v.15" n="15"/>
+     <lb xml:id="fol_49v.16" n="16"/>
+     <lb xml:id="fol_49v.17" n="17"/>
+     <lb xml:id="fol_49v.18" n="18"/>
+     <lb xml:id="fol_49v.19" n="19"/>
+     <lb xml:id="fol_49v.20" n="20"/>
+     <lb xml:id="fol_49v.21" n="21"/>
+     <lb xml:id="fol_49v.22" n="22"/>
+     <lb xml:id="fol_49v.23" n="23"/>
+     <lb xml:id="fol_49v.24" n="24"/>
+     <lb xml:id="fol_49v.25" n="25"/>
+     <lb xml:id="fol_49v.26" n="26"/>
+     <lb xml:id="fol_49v.27" n="27"/>
+     <lb xml:id="fol_49v.28" n="28"/>
+     <lb xml:id="fol_49v.29" n="29"/>
+     <lb xml:id="fol_49v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_50r" type="edition">
+    <ab>
+     <lb xml:id="fol_50r.1" n="1"/>
+     <lb xml:id="fol_50r.2" n="2"/> 
+     <lb xml:id="fol_50r.3" n="3"/>
+     <lb xml:id="fol_50r.4" n="4"/>
+     <lb xml:id="fol_50r.5" n="5"/>
+     <lb xml:id="fol_50r.6" n="6"/>
+     <lb xml:id="fol_50r.7" n="7"/>
+     <lb xml:id="fol_50r.8" n="8"/>
+     <lb xml:id="fol_50r.9" n="9"/>
+     <lb xml:id="fol_50r.10" n="10"/>
+     <lb xml:id="fol_50r.11" n="11"/>
+     <lb xml:id="fol_50r.12" n="12"/>
+     <lb xml:id="fol_50r.13" n="13"/>
+     <lb xml:id="fol_50r.14" n="14"/>
+     <lb xml:id="fol_50r.15" n="15"/>
+     <lb xml:id="fol_50r.16" n="16"/>
+     <lb xml:id="fol_50r.17" n="17"/>
+     <lb xml:id="fol_50r.18" n="18"/>
+     <lb xml:id="fol_50r.19" n="19"/>
+     <lb xml:id="fol_50r.20" n="20"/>
+     <lb xml:id="fol_50r.21" n="21"/>
+     <lb xml:id="fol_50r.22" n="22"/>
+     <lb xml:id="fol_50r.23" n="23"/>
+     <lb xml:id="fol_50r.24" n="24"/>
+     <lb xml:id="fol_50r.25" n="25"/>
+     <lb xml:id="fol_50r.26" n="26"/>
+     <lb xml:id="fol_50r.27" n="27"/>
+     <lb xml:id="fol_50r.28" n="28"/>
+     <lb xml:id="fol_50r.29" n="29"/>
+     <lb xml:id="fol_50r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_50v" type="edition">
+    <ab>
+     <lb xml:id="fol_50v.1" n="1"/>
+     <lb xml:id="fol_50v.2" n="2"/> 
+     <lb xml:id="fol_50v.3" n="3"/>
+     <lb xml:id="fol_50v.4" n="4"/>
+     <lb xml:id="fol_50v.5" n="5"/>
+     <lb xml:id="fol_50v.6" n="6"/>
+     <lb xml:id="fol_50v.7" n="7"/>
+     <lb xml:id="fol_50v.8" n="8"/>
+     <lb xml:id="fol_50v.9" n="9"/>
+     <lb xml:id="fol_50v.10" n="10"/>
+     <lb xml:id="fol_50v.11" n="11"/>
+     <lb xml:id="fol_50v.12" n="12"/>
+     <lb xml:id="fol_50v.13" n="13"/>
+     <lb xml:id="fol_50v.14" n="14"/>
+     <lb xml:id="fol_50v.15" n="15"/>
+     <lb xml:id="fol_50v.16" n="16"/>
+     <lb xml:id="fol_50v.17" n="17"/>
+     <lb xml:id="fol_50v.18" n="18"/>
+     <lb xml:id="fol_50v.19" n="19"/>
+     <lb xml:id="fol_50v.20" n="20"/>
+     <lb xml:id="fol_50v.21" n="21"/>
+     <lb xml:id="fol_50v.22" n="22"/>
+     <lb xml:id="fol_50v.23" n="23"/>
+     <lb xml:id="fol_50v.24" n="24"/>
+     <lb xml:id="fol_50v.25" n="25"/>
+     <lb xml:id="fol_50v.26" n="26"/>
+     <lb xml:id="fol_50v.27" n="27"/>
+     <lb xml:id="fol_50v.28" n="28"/>
+     <lb xml:id="fol_50v.29" n="29"/>
+     <lb xml:id="fol_50v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_51r" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_51r.1" n="1"/>
+     <lb xml:id="fol_51r.2" n="2"/> 
+     <lb xml:id="fol_51r.3" n="3"/>
+     <lb xml:id="fol_51r.4" n="4"/>
+     <lb xml:id="fol_51r.5" n="5"/>
+     <lb xml:id="fol_51r.6" n="6"/>
+     <lb xml:id="fol_51r.7" n="7"/>
+     <lb xml:id="fol_51r.8" n="8"/>
+     <lb xml:id="fol_51r.9" n="9"/>
+     <lb xml:id="fol_51r.10" n="10"/>
+     <lb xml:id="fol_51r.11" n="11"/>
+     <lb xml:id="fol_51r.12" n="12"/>
+     <lb xml:id="fol_51r.13" n="13"/>
+     <lb xml:id="fol_51r.14" n="14"/>
+     <lb xml:id="fol_51r.15" n="15"/>
+     <lb xml:id="fol_51r.16" n="16"/>
+     <lb xml:id="fol_51r.17" n="17"/>
+     <lb xml:id="fol_51r.18" n="18"/>
+     <lb xml:id="fol_51r.19" n="19"/>
+     <lb xml:id="fol_51r.20" n="20"/>
+     <lb xml:id="fol_51r.21" n="21"/>
+     <lb xml:id="fol_51r.22" n="22"/>
+     <lb xml:id="fol_51r.23" n="23"/>
+     <lb xml:id="fol_51r.24" n="24"/>
+     <lb xml:id="fol_51r.25" n="25"/>
+     <lb xml:id="fol_51r.26" n="26"/>
+     <lb xml:id="fol_51r.27" n="27"/>
+     <lb xml:id="fol_51r.28" n="28"/>
+     <lb xml:id="fol_51r.29" n="29"/>
+     <lb xml:id="fol_51r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_51v" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_51v.1" n="1"/>
+     <lb xml:id="fol_51v.2" n="2"/> 
+     <lb xml:id="fol_51v.3" n="3"/>
+     <lb xml:id="fol_51v.4" n="4"/>
+     <lb xml:id="fol_51v.5" n="5"/>
+     <lb xml:id="fol_51v.6" n="6"/>
+     <lb xml:id="fol_51v.7" n="7"/>
+     <lb xml:id="fol_51v.8" n="8"/>
+     <lb xml:id="fol_51v.9" n="9"/>
+     <lb xml:id="fol_51v.10" n="10"/>
+     <lb xml:id="fol_51v.11" n="11"/>
+     <lb xml:id="fol_51v.12" n="12"/>
+     <lb xml:id="fol_51v.13" n="13"/>
+     <lb xml:id="fol_51v.14" n="14"/>
+     <lb xml:id="fol_51v.15" n="15"/>
+     <lb xml:id="fol_51v.16" n="16"/>
+     <lb xml:id="fol_51v.17" n="17"/>
+     <lb xml:id="fol_51v.18" n="18"/>
+     <lb xml:id="fol_51v.19" n="19"/>
+     <lb xml:id="fol_51v.20" n="20"/>
+     <lb xml:id="fol_51v.21" n="21"/>
+     <lb xml:id="fol_51v.22" n="22"/>
+     <lb xml:id="fol_51v.23" n="23"/>
+     <lb xml:id="fol_51v.24" n="24"/>
+     <lb xml:id="fol_51v.25" n="25"/>
+     <lb xml:id="fol_51v.26" n="26"/>
+     <lb xml:id="fol_51v.27" n="27"/>
+     <lb xml:id="fol_51v.28" n="28"/>
+     <lb xml:id="fol_51v.29" n="29"/>
+     <lb xml:id="fol_51v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_52r" type="edition">
+    <ab>
+     <lb xml:id="fol_52r.1" n="1"/>
+     <lb xml:id="fol_52r.2" n="2"/> 
+     <lb xml:id="fol_52r.3" n="3"/>
+     <lb xml:id="fol_52r.4" n="4"/>
+     <lb xml:id="fol_52r.5" n="5"/>
+     <lb xml:id="fol_52r.6" n="6"/>
+     <lb xml:id="fol_52r.7" n="7"/>
+     <lb xml:id="fol_52r.8" n="8"/>
+     <lb xml:id="fol_52r.9" n="9"/>
+     <lb xml:id="fol_52r.10" n="10"/>
+     <lb xml:id="fol_52r.11" n="11"/>
+     <lb xml:id="fol_52r.12" n="12"/>
+     <lb xml:id="fol_52r.13" n="13"/>
+     <lb xml:id="fol_52r.14" n="14"/>
+     <lb xml:id="fol_52r.15" n="15"/>
+     <lb xml:id="fol_52r.16" n="16"/>
+     <lb xml:id="fol_52r.17" n="17"/>
+     <lb xml:id="fol_52r.18" n="18"/>
+     <lb xml:id="fol_52r.19" n="19"/>
+     <lb xml:id="fol_52r.20" n="20"/>
+     <lb xml:id="fol_52r.21" n="21"/>
+     <lb xml:id="fol_52r.22" n="22"/>
+     <lb xml:id="fol_52r.23" n="23"/>
+     <lb xml:id="fol_52r.24" n="24"/>
+     <lb xml:id="fol_52r.25" n="25"/>
+     <lb xml:id="fol_52r.26" n="26"/>
+     <lb xml:id="fol_52r.27" n="27"/>
+     <lb xml:id="fol_52r.28" n="28"/>
+     <lb xml:id="fol_52r.29" n="29"/>
+     <lb xml:id="fol_52r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_52v" type="edition">
+    <ab>
+     <lb xml:id="fol_52v.1" n="1"/>
+     <lb xml:id="fol_52v.2" n="2"/> 
+     <lb xml:id="fol_52v.3" n="3"/>
+     <lb xml:id="fol_52v.4" n="4"/>
+     <lb xml:id="fol_52v.5" n="5"/>
+     <lb xml:id="fol_52v.6" n="6"/>
+     <lb xml:id="fol_52v.7" n="7"/>
+     <lb xml:id="fol_52v.8" n="8"/>
+     <lb xml:id="fol_52v.9" n="9"/>
+     <lb xml:id="fol_52v.10" n="10"/>
+     <lb xml:id="fol_52v.11" n="11"/>
+     <lb xml:id="fol_52v.12" n="12"/>
+     <lb xml:id="fol_52v.13" n="13"/>
+     <lb xml:id="fol_52v.14" n="14"/>
+     <lb xml:id="fol_52v.15" n="15"/>
+     <lb xml:id="fol_52v.16" n="16"/>
+     <lb xml:id="fol_52v.17" n="17"/>
+     <lb xml:id="fol_52v.18" n="18"/>
+     <lb xml:id="fol_52v.19" n="19"/>
+     <lb xml:id="fol_52v.20" n="20"/>
+     <lb xml:id="fol_52v.21" n="21"/>
+     <lb xml:id="fol_52v.22" n="22"/>
+     <lb xml:id="fol_52v.23" n="23"/>
+     <lb xml:id="fol_52v.24" n="24"/>
+     <lb xml:id="fol_52v.25" n="25"/>
+     <lb xml:id="fol_52v.26" n="26"/>
+     <lb xml:id="fol_52v.27" n="27"/>
+     <lb xml:id="fol_52v.28" n="28"/>
+     <lb xml:id="fol_52v.29" n="29"/>
+     <lb xml:id="fol_52v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_53r" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_53r.1" n="1"/>
+     <lb xml:id="fol_53r.2" n="2"/> 
+     <lb xml:id="fol_53r.3" n="3"/>
+     <lb xml:id="fol_53r.4" n="4"/>
+     <lb xml:id="fol_53r.5" n="5"/>
+     <lb xml:id="fol_53r.6" n="6"/>
+     <lb xml:id="fol_53r.7" n="7"/>
+     <lb xml:id="fol_53r.8" n="8"/>
+     <lb xml:id="fol_53r.9" n="9"/>
+     <lb xml:id="fol_53r.10" n="10"/>
+     <lb xml:id="fol_53r.11" n="11"/>
+     <lb xml:id="fol_53r.12" n="12"/>
+     <lb xml:id="fol_53r.13" n="13"/>
+     <lb xml:id="fol_53r.14" n="14"/>
+     <lb xml:id="fol_53r.15" n="15"/>
+     <lb xml:id="fol_53r.16" n="16"/>
+     <lb xml:id="fol_53r.17" n="17"/>
+     <lb xml:id="fol_53r.18" n="18"/>
+     <lb xml:id="fol_53r.19" n="19"/>
+     <lb xml:id="fol_53r.20" n="20"/>
+     <lb xml:id="fol_53r.21" n="21"/>
+     <lb xml:id="fol_53r.22" n="22"/>
+     <lb xml:id="fol_53r.23" n="23"/>
+     <lb xml:id="fol_53r.24" n="24"/>
+     <lb xml:id="fol_53r.25" n="25"/>
+     <lb xml:id="fol_53r.26" n="26"/>
+     <lb xml:id="fol_53r.27" n="27"/>
+     <lb xml:id="fol_53r.28" n="28"/>
+     <lb xml:id="fol_53r.29" n="29"/>
+     <lb xml:id="fol_53r.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_53v" type="edition">  <!--damaged-->
+    <ab>
+     <lb xml:id="fol_53v.1" n="1"/>
+     <lb xml:id="fol_53v.2" n="2"/> 
+     <lb xml:id="fol_53v.3" n="3"/>
+     <lb xml:id="fol_53v.4" n="4"/>
+     <lb xml:id="fol_53v.5" n="5"/>
+     <lb xml:id="fol_53v.6" n="6"/>
+     <lb xml:id="fol_53v.7" n="7"/>
+     <lb xml:id="fol_53v.8" n="8"/>
+     <lb xml:id="fol_53v.9" n="9"/>
+     <lb xml:id="fol_53v.10" n="10"/>
+     <lb xml:id="fol_53v.11" n="11"/>
+     <lb xml:id="fol_53v.12" n="12"/>
+     <lb xml:id="fol_53v.13" n="13"/>
+     <lb xml:id="fol_53v.14" n="14"/>
+     <lb xml:id="fol_53v.15" n="15"/>
+     <lb xml:id="fol_53v.16" n="16"/>
+     <lb xml:id="fol_53v.17" n="17"/>
+     <lb xml:id="fol_53v.18" n="18"/>
+     <lb xml:id="fol_53v.19" n="19"/>
+     <lb xml:id="fol_53v.20" n="20"/>
+     <lb xml:id="fol_53v.21" n="21"/>
+     <lb xml:id="fol_53v.22" n="22"/>
+     <lb xml:id="fol_53v.23" n="23"/>
+     <lb xml:id="fol_53v.24" n="24"/>
+     <lb xml:id="fol_53v.25" n="25"/>
+     <lb xml:id="fol_53v.26" n="26"/>
+     <lb xml:id="fol_53v.27" n="27"/>
+     <lb xml:id="fol_53v.28" n="28"/>
+     <lb xml:id="fol_53v.29" n="29"/>
+     <lb xml:id="fol_53v.30" n="30"/>
+    </ab> 
+   </div>
+   
+   
+   <div n="fol_54r" type="edition"> <!--damaged-->
+    <ab>
+     <lb xml:id="fol_54r.1" n="1"/>
+     <lb xml:id="fol_54r.2" n="2"/> 
+     <lb xml:id="fol_54r.3" n="3"/>
+     <lb xml:id="fol_54r.4" n="4"/>
+     <lb xml:id="fol_54r.5" n="5"/>
+     <lb xml:id="fol_54r.6" n="6"/>
+     <lb xml:id="fol_54r.7" n="7"/>
+     <lb xml:id="fol_54r.8" n="8"/>
+     <lb xml:id="fol_54r.9" n="9"/>
+     <lb xml:id="fol_54r.10" n="10"/>
+     <lb xml:id="fol_54r.11" n="11"/>
+     <lb xml:id="fol_54r.12" n="12"/>
+     <lb xml:id="fol_54r.13" n="13"/>
+     <lb xml:id="fol_54r.14" n="14"/>
+     <lb xml:id="fol_54r.15" n="15"/>
+     <lb xml:id="fol_54r.16" n="16"/>
+     <lb xml:id="fol_54r.17" n="17"/>
+     <lb xml:id="fol_54r.18" n="18"/>
+     <lb xml:id="fol_54r.19" n="19"/>
+     <lb xml:id="fol_54r.20" n="20"/>
+     <lb xml:id="fol_54r.21" n="21"/>
+     <lb xml:id="fol_54r.22" n="22"/>
+     <lb xml:id="fol_54r.23" n="23"/>
+     <lb xml:id="fol_54r.24" n="24"/>
+     <lb xml:id="fol_54r.25" n="25"/>
+     <lb xml:id="fol_54r.26" n="26"/>
+     <lb xml:id="fol_54r.27" n="27"/>
+     <lb xml:id="fol_54r.28" n="28"/>
+     <lb xml:id="fol_54r.29" n="29"/>
+     <lb xml:id="fol_54r.30" n="30"/>
     </ab> 
    </div>
    
