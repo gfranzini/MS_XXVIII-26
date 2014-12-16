@@ -351,36 +351,37 @@
    
    <div n="fol_47r" type="edition">
     <ab>
-     <lb xml:id="fol_47r.1" n="1"/><w part="F">SU</w>
-     <lb xml:id="fol_47r.2" n="2"/> 
-     <lb xml:id="fol_47r.3" n="3"/>
-     <lb xml:id="fol_47r.4" n="4"/>
-     <lb xml:id="fol_47r.5" n="5"/>
-     <lb xml:id="fol_47r.6" n="6"/>
-     <lb xml:id="fol_47r.7" n="7"/>
-     <lb xml:id="fol_47r.8" n="8"/>
-     <lb xml:id="fol_47r.9" n="9"/>
-     <lb xml:id="fol_47r.10" n="10"/>
-     <lb xml:id="fol_47r.11" n="11"/>
-     <lb xml:id="fol_47r.12" n="12"/>
-     <lb xml:id="fol_47r.13" n="13"/>
-     <lb xml:id="fol_47r.14" n="14"/>
-     <lb xml:id="fol_47r.15" n="15"/>
-     <lb xml:id="fol_47r.16" n="16"/>
-     <lb xml:id="fol_47r.17" n="17"/>
-     <lb xml:id="fol_47r.18" n="18"/>
-     <lb xml:id="fol_47r.19" n="19"/>
-     <lb xml:id="fol_47r.20" n="20"/>
-     <lb xml:id="fol_47r.21" n="21"/>
-     <lb xml:id="fol_47r.22" n="22"/>
-     <lb xml:id="fol_47r.23" n="23"/>
-     <lb xml:id="fol_47r.24" n="24"/>
-     <lb xml:id="fol_47r.25" n="25"/>
-     <lb xml:id="fol_47r.26" n="26"/>
-     <lb xml:id="fol_47r.27" n="27"/>
-     <lb xml:id="fol_47r.28" n="28"/>
-     <lb xml:id="fol_47r.29" n="29"/>
-     <lb xml:id="fol_47r.30" n="30"/>
+     <note type="scholion" place="top">Lib X&#772;I&#772;I&#772;</note>
+     <lb xml:id="fol_47r.1" n="1"/><w part="F">SU</w> UEL UITA OMNINO CARENTIUM
+     <lb xml:id="fol_47r.2" n="2"/><choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> EORUM DISSOLUBILIS NATURA <w part="I">COR</w>
+     <lb xml:id="fol_47r.3" n="3"/><w part="F">RUMPITUR</w> DAMNABILIA PUTARE <w part="I">RIDICU</w>
+     <lb xml:id="fol_47r.4" n="4"/><w part="F">LUM</w> EST CUM ISTAE CREATURAE EUM <w part="I">MO</w>
+     <lb xml:id="fol_47r.5" n="5"/><w part="F">DUM</w> NUTU CREATORIS ACCEPERINT UT <w part="I">CE</w>
+     <lb xml:id="fol_47r.6" n="6"/><w part="F">DENDO</w> AC SUCCEDENDO PERAGANT <choice><sic><w part="I">INFI</w>
+     <lb xml:id="fol_47r.7" n="7"/><w part="F">M<del rend="strikethrough">U</del>M</w></sic><corr>INFIM<add place="above">A</add>M</corr></choice> PULCHRITUDINE <app><rdg wit="#CSEL40">PULCHRITUDINEM</rdg></app> TEMPORUM IN
+     <lb xml:id="fol_47r.8" n="8"/>GENERE SUO ISTIS <app><rdg wit="#CSEL40">ISTIUS</rdg></app> MUNDI <choice><abbr>PARTIB&#183;</abbr><expan>PARTIB<ex>US</ex></expan></choice> <w part="I">CON</w>
+     <lb xml:id="fol_47r.9" n="9"/><w part="F">GRUENTEM</w> NEQUE ENIM CAELESTIBUS
+     <lb xml:id="fol_47r.10" n="10"/>FUERANT TERRENA <choice><sic>COAEQUAND<del rend="erasure">O</del></sic><corr>COAEQUAND<add place="above">A</add></corr></choice> AUT IDEO
+     <lb xml:id="fol_47r.11" n="11"/>UNIUERSITATI DEESSE ISTA DEBUERUNT
+     <lb xml:id="fol_47r.12" n="12"/>QUONIAM SUNT ILLA MELIORA CUM ERGO
+     <lb xml:id="fol_47r.13" n="13"/>IN HIS LOCIS UBI ESSE TALIA CONPETEBAT
+     <lb xml:id="fol_47r.14" n="14"/>ALIIS ALIA <choice><abbr>DEFICIENTIB&#183;</abbr><expan><ex>DEFICIENTIBUS</ex></expan></choice> ORIUNTUR ET <w part="I">SUC</w>
+     <lb xml:id="fol_47r.15" n="15"/><w part="F">CUMBUNT</w> MINORA <choice><abbr>MAIORIB&#183;</abbr><expan>MAIORIB<ex>US</ex></expan></choice> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> IN <w part="I">QUA</w>
+     <lb xml:id="fol_47r.16" n="16"/><w part="F">LITATES</w> SUPERANTIUM SUPERATA <choice><abbr><w part="I">UERTU &#772;</w>
+      <lb xml:id="fol_47r.17" n="17"/><w part="F">TUR</w></abbr><expan>UERTU<ex>N</ex>TUR</expan></choice> RERUM EST ORDO TRANSEUNTIUM
+     <lb xml:id="fol_47r.18" n="18"/>CUIUS ORDINIS DECUS <choice><sic><del rend="strikethrough">M</del>OS</sic><corr><add place="above">N</add>OS</corr></choice> PROPTEREA
+     <lb xml:id="fol_47r.19" n="19"/>NON DELECTAT QUONIAM PARTI EIUS <supplied reason="lost">PRO</supplied>
+     <lb xml:id="fol_47r.20" n="20"/>CONDICIONE NOSTRAE MORTALITATIS <w part="I">IN</w>
+     <lb xml:id="fol_47r.21" n="21"/><w part="F">TEXTI</w> UNIUERSUM CUI PARTICULAE QUAE
+     <lb xml:id="fol_47r.22" n="22"/>NOS OFFENDUNT SATIS APTAE <app><rdg wit="#CSEL40">APTE</rdg></app> <choice><abbr>DECENTERQ&#183;</abbr><expan>DECENTERQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_47r.23" n="23"/>CONUENIUNT SENTIRE NON POSSUMUS <w part="I">UN</w>
+     <lb xml:id="fol_47r.24" n="24"/><w part="F">DE</w> NOBIS IN QUIBUS EAM CONTEMPLARI
+     <lb xml:id="fol_47r.25" n="25"/>MINUS IDONEI SUMUS RECTISSIME <supplied reason="lost"><w part="I">CRE</w></supplied>
+     <lb xml:id="fol_47r.26" n="26"/><w part="F">DENDA</w> PRAECIPITUR PROUIDENTIA <w part="I">CON</w>
+     <lb xml:id="fol_47r.27" n="27"/><w part="F">DITORIS</w> NE TANTI ARTIFICIS OPUS IN <w part="I">ALI</w>
+     <lb xml:id="fol_47r.28" n="28"/><w part="F">QUA</w> REPREHENDERE <del rend="strikethrough">H</del>UANITATE <w part="I">HUMA</w>
+     <lb xml:id="fol_47r.29" n="29"/><w part="F">NAE</w> TENMERITATIS AUDEAMUS <w part="I">QUAM</w>
+     <lb xml:id="fol_47r.30" n="30"/><w part="F">QUAM</w> ET UITIA RERUM <choice><abbr>TERRENARU &#772;</abbr><expan>TERRENARU<ex>M</ex></expan></choice>
     </ab> 
    </div>
    
