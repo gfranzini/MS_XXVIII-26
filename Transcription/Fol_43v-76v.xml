@@ -494,7 +494,7 @@
    </div>
    
    
-   <div n="fol_49r" type="edition"> <!--checj CSEL apparatus-->
+   <div n="fol_49r" type="edition">
     <ab>
      <lb xml:id="fol_49r.1" n="1"/>ENIM QUOD FACIT UOLUNTATEM <choice><abbr>MALA &#772;</abbr><expan>MALA<ex>M</ex></expan></choice>
      <lb xml:id="fol_49r.2" n="2"/>CUM <supplied reason="lost">IPSA</supplied> FACIAT OPUS MALUM AC PER HOC
@@ -522,7 +522,7 @@
      <lb xml:id="fol_49r.23" n="23"/>EST QUAE ALTERAM FECIT SI RESPONDETUR
      <lb xml:id="fol_49r.24" n="24"/>QUOD EAM NULLA RES <supplied reason="lost">FECERIT ET IDEO <w part="I">SEM</w></supplied>
      <lb xml:id="fol_49r.25" n="25"/><w part="F">PER</w> FUERIT QUAERO UTRUM IN ALIQUA <w part="I">NA</w>
-     <lb xml:id="fol_49r.26" n="26"/><w part="F">TURA</w> FUERIT SI ENIM IN NULLA FUIT SI <w part="I">AU</w>
+     <lb xml:id="fol_49r.26" n="26"/><w part="F">TURA</w> FUERIT SI ENIM IN NULLA FUIT <add place="above">OMNINO NON FUIT</add> SI <w part="I">AU</w>
      <lb xml:id="fol_49r.27" n="27"/><w part="F">TEM</w> IN ALIQUA UITIABAT <supplied reason="lost">EAM</supplied> ET <supplied reason="lost"><w part="I">CORRUM</w></supplied>
      <lb xml:id="fol_49r.28" n="28"/><w part="F">PEBAT</w> <choice><abbr>ERATQ&#183;</abbr><expan>ERATQ<ex>UE</ex></expan></choice> ILLI NOXIA AC PER <supplied reason="lost">HOC BONO</supplied>
      <lb xml:id="fol_49r.29" n="29"/>PRIUABAT ET IDEO IN MALA NATURA <choice><abbr><w part="I">UOLU &#772;</w>
