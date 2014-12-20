@@ -570,43 +570,42 @@
    <div n="fol_50r" type="edition"> <!--csel da qui-->
     <ab>
      <lb xml:id="fol_50r.1" n="1"/>MODO ERGO RES BONA EFFICIENS EST
-     <lb xml:id="fol_50r.2" n="2"/>UOLUNTATIS MALAE QUOMODO <choice><abbr>INQUA &#772;</abbr><expan>INQUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_50r.2" n="2"/>UOLUNTATIS MALAE QUO MODO <choice><abbr>INQUA &#772;</abbr><expan>INQUA<ex>M</ex></expan></choice>
      <lb xml:id="fol_50r.3" n="3"/>BONUM EST CAUSA MALI CUM ENIM SE
      <lb xml:id="fol_50r.4" n="4"/>UOLUNTAS RELICTO SUPERIORE AD <w part="I">INFE</w>
      <lb xml:id="fol_50r.5" n="5"/><w part="F">RIORA</w> CONUERTIT EFFICITUR MALA <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
-     <lb xml:id="fol_50r.6" n="6"/>QUIA MAL<!--?--> QUO SE CONUERTIT SED
-     <lb xml:id="fol_50r.7" n="7"/>QUIA PERUERSA EST <!--?--> CONUERSIO ID
-     <lb xml:id="fol_50r.8" n="8"/>CIRCO NON RES INFERIOR <choice><abbr>UOLUNTATE &#772;</abbr><expan>UOLUNTATE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_50r.6" n="6"/>QUIA MAL<supplied reason="lost">UM EST</supplied> QUO SE CONUERTIT SED
+     <lb xml:id="fol_50r.7" n="7"/>QUIA PERUERSA EST <supplied reason="lost">IPSA</supplied> CONUERSIO <w part="I">ID</w>
+     <lb xml:id="fol_50r.8" n="8"/><w part="F">CIRCO</w> NON RES INFERIOR <choice><abbr>UOLUNTATE &#772;</abbr><expan>UOLUNTATE<ex>M</ex></expan></choice>
      <lb xml:id="fol_50r.9" n="9"/>MALAM FECIT SED REM INFERIOREM
-     <lb xml:id="fol_50r.10" n="10"/>PRAUAE <choice><abbr>AEQ&#183;</abbr><expan>AEQ<ex>UE</ex></expan></choice> IN ORDINATAE IPSA QUIS
-     <lb xml:id="fol_50r.11" n="11"/>FACTA EST APPETIUIT SI ENUM ALIQUI DUO
+     <lb xml:id="fol_50r.10" n="10"/>PRAUAE <app><rdg wit="#CSEL40">PRAUE</rdg></app> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INORDINATAE IPSA QUIA
+     <lb xml:id="fol_50r.11" n="11"/>FACTA EST APPETIUIT <app><rdg wit="#CSEL40">ADPETIUIT</rdg></app> SI ENIM ALIQUI DUO
      <lb xml:id="fol_50r.12" n="12"/>AEQUALITER AFFECTI ANIMO ET CORPORE
      <lb xml:id="fol_50r.13" n="13"/>UIDEANT UNIUS CORPORIS <w part="I">PULCHRITU</w>
-     <lb xml:id="fol_50r.14" n="14"/><w part="F">DINEM</w> QUAMUIS <!--?--> ORUM AD
-     <lb xml:id="fol_50r.15" n="15"/><!--?-->CITAE FRUENDUM MOUEATUR <w part="I">AL</w>
+     <lb xml:id="fol_50r.14" n="14"/><w part="F">DINEM</w> QUAMUISA <supplied reason="lost">UNUS E</supplied>ORUM AD
+     <lb xml:id="fol_50r.15" n="15"/><supplied reason="lost">INLI</supplied>CITAE <app><rdg wit="#CSEL40">INLICITE</rdg></app> FRUENDUM MOUEATUR <w part="I">AL</w>
      <lb xml:id="fol_50r.16" n="16"/><w part="F">TER</w> IN UOLUNTATE PUDICA STABILIS <w part="I">PER</w>
      <lb xml:id="fol_50r.17" n="17"/><w part="F">SEUERET</w> QUID PUTAMUS ESSE CAUSAE
      <lb xml:id="fol_50r.18" n="18"/>UT IN ILLO FIAT IN ILLO NON FIAT <w part="I">UOLUN</w>
      <lb xml:id="fol_50r.19" n="19"/><w part="F">TAS</w> MALA QUAE ILLAM RES FECIT IN QUO
-     <lb xml:id="fol_50r.20" n="20"/>FACTA EST <choice><abbr>INEQ&#183;</abbr><expan>INEQ<ex>UE</ex></expan></choice> ENIM PULCHRITUDO ILLA
+     <lb xml:id="fol_50r.20" n="20"/>FACTA EST <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM PULCHRITUDO ILLA
      <lb xml:id="fol_50r.21" n="21"/>CORPORIS NAM EAM NON FECIT IN <w part="I">AM</w>
      <lb xml:id="fol_50r.22" n="22"/><w part="F">BOBUS</w> QUANDO QUIDEM AMBORUM
-     <lb xml:id="fol_50r.23" n="23"/>NON DISPARIT ITER<!--?--> OCCURRIT <choice><abbr>ASPECTIB&#183;</abbr><expan>ASPECTIB<ex>US</ex></expan></choice>
-     <lb xml:id="fol_50r.24" n="24"/><!--?--> INTUENTIS IN CAUSA EST QUUR
+     <lb xml:id="fol_50r.23" n="23"/>NON DISPARILITER OCCURRIT <choice><abbr>ASPECTIB&#183;</abbr><expan>ASPECTIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_50r.24" n="24"/><supplied reason="lost">AN CARO</supplied> INTUENTIS IN CAUSA EST QUUR
      <lb xml:id="fol_50r.25" n="25"/>NON ET ILLIUS AN UERO ANIMUS QUUR  
-     <lb xml:id="fol_50r.26" n="26"/>NON UTRIUS QUE AMBOS ENIM ET <w part="I">ANI</w>
+     <lb xml:id="fol_50r.26" n="26"/>NON UTRIUSQUE AMBOS ENIM ET <w part="I">ANI</w>
      <lb xml:id="fol_50r.27" n="27"/><w part="F">MO</w> ET CORPORE AEQUALITER AFFECTOS
-     <lb xml:id="fol_50r.28" n="28"/>FUISSE PRAEDIXIMUS AN DICENDUM<!--?-->
-     <lb xml:id="fol_50r.29" n="29"/>EST ALTERAM <!--?--> <w part="I">MALIG</w>
-     <lb xml:id="fol_50r.30" n="30"/><w part="F">NITAS</w><!--CORR--> <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <!--?-->TIONE <!--?-->
-     
+     <lb xml:id="fol_50r.28" n="28"/>FUISSE PRAEDIXIMUS AN DICENDUM
+     <lb xml:id="fol_50r.29" n="29"/>EST ALTERUM <supplied reason="lost">EORUM OCCULTA</supplied> <w part="I">MALIG</w>
+     <lb xml:id="fol_50r.30" n="30"/><w part="F">NI<del rend="strikethrough">TAS</del></w> <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <supplied reason="lost">SUGGES</supplied>TIONE <supplied reason="lost">TEMTATUM <app><rdg wit="#CSEL40">TENTATUM</rdg></app> <w part="I">QUA</w></supplied>
     </ab> 
    </div>
    
    
    <div n="fol_50v" type="edition">
     <ab>
-     <lb xml:id="fol_50v.1" n="1"/>SI NON EIDEM SUGGESTIONI ET <w part="I">QUA</w>
+     <lb xml:id="fol_50v.1" n="1"/><w part="F">SI</w> NON EIDEM SUGGESTIONI ET <w part="I">QUA</w>
      <lb xml:id="fol_50v.2" n="2"/><w part="F">LICUMQUE</w> SUA <!--?--> PROPRIA <choice><abbr><w part="I">UOLU &#772;</w>
      <lb xml:id="fol_50v.3" n="3"/><w part="F">TATE</w></abbr><expan>UOLU<ex>N</ex>TATE</expan></choice> CONSENSERIT HANC IGITUR <choice><abbr><w part="I">CO &#772;</w>
      <lb xml:id="fol_50v.4" n="4"/><w part="F">SENSIONEM</w></abbr><expan>CO<ex>N</ex>SENSIONEM</expan></choice> HANC MALAM QUAM <w part="I">MA</w>
@@ -716,7 +715,7 @@
    <div n="fol_52r" type="edition">
     <ab>
      <lb xml:id="fol_52r.1" n="1"/>SCIO
-     <lb xml:id="fol_52r.2" n="2"/> PROVA PROVA PROVA
+     <lb xml:id="fol_52r.2" n="2"/>
      <lb xml:id="fol_52r.3" n="3"/>
      <lb xml:id="fol_52r.4" n="4"/>
      <lb xml:id="fol_52r.5" n="5"/>
