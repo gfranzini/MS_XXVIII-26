@@ -579,7 +579,7 @@
      <lb xml:id="fol_50r.8" n="8"/><w part="F">CIRCO</w> NON RES INFERIOR <choice><abbr>UOLUNTATE &#772;</abbr><expan>UOLUNTATE<ex>M</ex></expan></choice>
      <lb xml:id="fol_50r.9" n="9"/>MALAM FECIT SED REM INFERIOREM
      <lb xml:id="fol_50r.10" n="10"/>PRAUAE <app><rdg wit="#CSEL40">PRAUE</rdg></app> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INORDINATAE IPSA QUIA
-     <lb xml:id="fol_50r.11" n="11"/>FACTA EST APPETIUIT <app><rdg wit="#CSEL40">ADPETIUIT</rdg></app> SI ENIM ALIQUI DUO
+     <lb xml:id="fol_50r.11" n="11"/>FACTA EST APPETIUIT <app><rdg wit="#CSEL40">ADPETIUIT</rdg></app> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note> SI ENIM ALIQUI DUO
      <lb xml:id="fol_50r.12" n="12"/>AEQUALITER AFFECTI ANIMO ET CORPORE
      <lb xml:id="fol_50r.13" n="13"/>UIDEANT UNIUS CORPORIS <w part="I">PULCHRITU</w>
      <lb xml:id="fol_50r.14" n="14"/><w part="F">DINEM</w> QUAMUISA <supplied reason="lost">UNUS E</supplied>ORUM AD
@@ -603,43 +603,43 @@
    </div>
    
    
-   <div n="fol_50v" type="edition"> <!--csel da qui-->
+   <div n="fol_50v" type="edition"> 
     <ab>
      <lb xml:id="fol_50v.1" n="1"/><w part="F">SI</w> NON EIDEM SUGGESTIONI ET <w part="I">QUA</w>
-     <lb xml:id="fol_50v.2" n="2"/><w part="F">LICUMQUE</w> SUA <!--?--> PROPRIA <choice><abbr><w part="I">UOLU &#772;</w>
+     <lb xml:id="fol_50v.2" n="2"/><w part="F">LICUMQUE</w> <supplied reason="lost">SUASIONI</supplied> PROPRIA <choice><abbr><w part="I">UOLU &#772;</w>
      <lb xml:id="fol_50v.3" n="3"/><w part="F">TATE</w></abbr><expan>UOLU<ex>N</ex>TATE</expan></choice> CONSENSERIT HANC IGITUR <choice><abbr><w part="I">CO &#772;</w>
      <lb xml:id="fol_50v.4" n="4"/><w part="F">SENSIONEM</w></abbr><expan>CO<ex>N</ex>SENSIONEM</expan></choice> HANC MALAM QUAM <w part="I">MA</w>
      <lb xml:id="fol_50v.5" n="5"/><w part="F">LE</w> SUADENTI ADHIBUIT UOLUNTATEM
      <lb xml:id="fol_50v.6" n="6"/>QUAE IN EO RES FECERIT QUAERIMUS
-     <lb xml:id="fol_50v.7" n="7"/>NAM UT HOC QUOQUE <choice><abbr>IMPEDIMENTU &#772;</abbr><expan>IMPEDIMENTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_50v.7" n="7"/>NAM UT HOC QUOQUE <choice><abbr>IMPEDIMENTU &#772;</abbr><expan>IMPEDIMENTU<ex>M</ex></expan></choice> <app><rdg wit="#CSEL40">INPEDIMENTUM</rdg></app>
      <lb xml:id="fol_50v.8" n="8"/>AB ISTA QUAESTIONE TOLLATUR SI <choice><abbr>EADE &#772;</abbr><expan>EADE<ex>M</ex></expan></choice>
-     <lb xml:id="fol_50v.9" n="9"/>TEMTATIONE AMBO TEMTENTUR ET UN<hi rend="ligature">US</hi>
-     <lb xml:id="fol_50v.10" n="10"/>EI CAEDAT <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> CONSENTIAT ALTERI DE<!--?-->
+     <lb xml:id="fol_50v.9" n="9"/>TEMTATIONE <app><rdg wit="#CSEL40">TENTATIONE</rdg></app> AMBO TEMTENTUR <app><rdg wit="#CSEL40">TENTENTUR</rdg></app> ET UN<hi rend="ligature">US</hi>
+     <lb xml:id="fol_50v.10" n="10"/>EI CAEDAT <app><rdg wit="#CSEL40">CEDAT</rdg></app> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> CONSENTIAT ALTER IDEM
      <lb xml:id="fol_50v.11" n="11"/>QUI FUERAT PERSEUERET QUID ALIUD <w part="I">AP</w>
-     <lb xml:id="fol_50v.12" n="12"/><w part="F">PARET</w> NISI UNUM NOLLUS SE ALTERUM
+     <lb xml:id="fol_50v.12" n="12"/><w part="F">PARET</w> NISI UNUM NOLUISSE ALTERUM
      <lb xml:id="fol_50v.13" n="13"/>UOLUISSE A CASTITATE DEFICERE UNDE <w part="I">NI</w>
      <lb xml:id="fol_50v.14" n="14"/><w part="F">SI</w> PROPRIA UOLUNTATE UBI EADEM <w part="I">FUE</w>
      <lb xml:id="fol_50v.15" n="15"/><w part="F">RAT</w> IN UTROQUE CORPORIS ET ANIMI <w part="I">AFFEC</w>
      <lb xml:id="fol_50v.16" n="16"/><w part="F">TIO</w> AMBORUM OCULIS PARITER UISA EST
      <lb xml:id="fol_50v.17" n="17"/>EADEM PULCHRITUDO <choice><abbr>AMBOB&#183;</abbr><expan>AMBOB<ex>US</ex></expan></choice> PARITER
-     <lb xml:id="fol_50v.18" n="18"/>INSTITIT OCCULTA TEMTATIO PROPRIA
+     <lb xml:id="fol_50v.18" n="18"/>INSTITIT OCCULTA TEMTATIO <app><rdg wit="#CSEL40">TENTATIO</rdg></app> PROPRIAM
      <lb xml:id="fol_50v.19" n="19"/>IGITUR IN UNO EORUM UOLUNTATEM
-     <lb xml:id="fol_50v.20" n="20"/>MALAM RES QUAE FECERIT<!--?--> <choice><abbr><w part="I">UOLEN</w>
-     <lb xml:id="fol_50v.21" n="21"/><w part="F">TIB&#183;</w></abbr><expan>UOLENTIB<ex>US</ex></expan></choice> SI BENE INTUEANTUR NIHILO <w part="I">OCCUR</w>
-     <lb xml:id="fol_50v.22" n="22"/><w part="F">RIT</w> SI ENIM DIXERIMUS QUOD IPSE <choice><abbr>EA &#772;</abbr><expan>EA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_50v.20" n="20"/>MALAM RES QUAE FECERIT <supplied reason="lost">SCIRE</supplied> <choice><abbr><w part="I">UOLEN</w>
+     <lb xml:id="fol_50v.21" n="21"/><w part="F">TIB&#183;</w></abbr><expan>UOLENTIB<ex>US</ex></expan></choice> SI BENE INTUEANTUR NIHIL <w part="I">OCCUR</w>
+     <lb xml:id="fol_50v.22" n="22"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note> <w part="F">RIT</w> SI ENIM DIXERIMUS QUOD IPSE <choice><abbr>EA &#772;</abbr><expan>EA<ex>M</ex></expan></choice>
      <lb xml:id="fol_50v.23" n="23"/>FECERIT QUID ERAT IPSE ANTE <w part="I">UOLUNTA</w>
      <lb xml:id="fol_50v.24" n="24"/><w part="F">TEM</w> MALAM NISI NATURA BONA CUIUS
      <lb xml:id="fol_50v.25" n="25"/>AUCTOR DEUS QUI EST INMUTABILE <choice><abbr>BONU &#772;</abbr><expan>BONU<ex>M</ex></expan></choice>
      <lb xml:id="fol_50v.26" n="26"/>QUI ERGO DICIT EUM QUI CONSENSIT <w part="I">TEM</w>
-     <lb xml:id="fol_50v.27" n="27"/><w part="F">TANT</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> SUADENTI <!--?--> NON CONSENSIT
-     <lb xml:id="fol_50v.28" n="28"/>ALIUS AD INLICITAE UTENDUM PULCHRO
+     <lb xml:id="fol_50v.27" n="27"/><w part="F">TANTI</w> <app><rdg wit="#CSEL40">TENTANTI</rdg></app> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> SUADENTI <supplied reason="lost">CUI</supplied> NON CONSENSIT
+     <lb xml:id="fol_50v.28" n="28"/>ALIUS AD INLICITAE <app><rdg wit="#CSEL40">INLICITE</rdg></app> UTENDUM PULCHRO
      <lb xml:id="fol_50v.29" n="29"/>CORPORE QUOD UIDENDUM AMBOBUS
-     <lb xml:id="fol_50v.30" n="30"/>PARITER AFFUIT CUM ANTE ILLAM <w part="I">UISIO</w>
+     <lb xml:id="fol_50v.30" n="30"/>PARITER AFFUIT <app><rdg wit="#CSEL40">ADFUIT</rdg></app> CUM ANTE ILLAM <w part="I">UISIO</w>
     </ab> 
    </div>
    
    
-   <div n="fol_51r" type="edition">
+   <div n="fol_51r" type="edition"> <!--supplied da qui-->
     <ab>
      <lb xml:id="fol_51r.1" n="1"/><w part="F">NEM</w> AC TEMTATIONEM SIMILES
      <lb xml:id="fol_51r.2" n="2"/>AMBO ANIMO ET CORPORE FUERINT
