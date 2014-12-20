@@ -460,35 +460,36 @@
    
    <div n="fol_48v" type="edition">
     <ab>
-     <lb xml:id="fol_48v.1" n="1"/>NON SUMME EST QUIS NEQUE ILLI
+     <lb xml:id="fol_48v.1" n="1"/>NON SUMME EST QUIA NEQUE ILLI
      <lb xml:id="fol_48v.2" n="2"/>AEQUALIS ESSE DEBERET QUAE DE NIHILO
-     <lb xml:id="fol_48v.3" n="3"/><!--?-->SSET NEQ<!--AB--> ULLO MODO ESSE POSSET
-     <lb xml:id="fol_48v.4" n="4"/><!--?--> NON ESSET NEC ULLORUM
-     <lb xml:id="fol_48v.5" n="5"/>UITIO<!--?--> FFENSIONE UITUPERANDIS
-     <lb xml:id="fol_48v.6" n="6"/>ET <!--?--> RARUM CONSIDERATIO 
-     <lb xml:id="fol_48v.7" n="7"/>NE <!--?--> EST PROINDE CAUSA BEATI
-     <lb xml:id="fol_48v.8" n="8"/><!--?-->RUM BONORUM EA UERIS
-     <lb xml:id="fol_48v.9" n="9"/><!--?--> PPETITUR QUO DE ADHERENT
-     <lb xml:id="fol_48v.10" n="10"/>QUI <!--?--> EST CUM UERO CAUSA MI
-     <lb xml:id="fol_48v.11" n="11"/><!--?--> ORUM ANGELORUM QUAERI
-     <lb xml:id="fol_48v.12" n="12"/><!--?--> RIT QUOD <!--?-->
-     <lb xml:id="fol_48v.13" n="13"/><!--?--> EST AUERSI AD SE IPSOS CON
-     <lb xml:id="fol_48v.14" n="14"/>UERSIS <!--?--> SUNT ET
-     <lb xml:id="fol_48v.15" n="15"/><!--?--> QUAM SUPERBIA
-     <lb xml:id="fol_48v.16" n="16"/><!--?-->QUIPPE OMNIS
-     <lb xml:id="fol_48v.17" n="17"/>PECCATIS <!--?--> UERUNT ERGO AD
-     <lb xml:id="fol_48v.18" n="18"/>ILLUM CUSTOD<!--?--> FORTITUDINEM SUA<!--M-->
-     <lb xml:id="fol_48v.19" n="19"/>ET QUI MAGIS <!--?--> EI QUIS <!--?--> IMME
-     <lb xml:id="fol_48v.20" n="20"/>EST ADHERENT SI ILLI PRAEFERENDO ID
-     <lb xml:id="fol_48v.21" n="21"/>QUOD MINUS EST PRAETULERUNT HIC PRI
-     <lb xml:id="fol_48v.22" n="22"/>MUS DE RECETUR ET PRIMA IN OPIA<!--?-->
-     <lb xml:id="fol_48v.23" n="23"/>QUE UITIUM E<add place="above">I</add>US NATURAE QUAE ITA CREA
-     <lb xml:id="fol_48v.24" n="24"/>TA EST UT NEC SUMMAE ESSET ET TAMEN AD
-     <lb xml:id="fol_48v.25" n="25"/>BEATITUDINEM HABENDAM EO QUI SUM
-     <lb xml:id="fol_48v.26" n="26"/>ME EST FRUI POSSET A QUO AUERSA NON
+     <lb xml:id="fol_48v.3" n="3"/><supplied reason="lost">FACTA E</supplied>SSET <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ULLO MODO ESSE POSSET
+     <lb xml:id="fol_48v.4" n="4"/><supplied reason="lost">SI AB ILLO FACTA</supplied> NON ESSET NEC ULLORUM
+     <lb xml:id="fol_48v.5" n="5"/>UITIO<supplied reason="lost">RUM O</supplied>FFENSIONE UITUPERAND<hi rend=
+      "ligature">US</hi>
+     <lb xml:id="fol_48v.6" n="6"/>ET <supplied reason="lost">OMNIUM NATU</supplied>RARUM <w part="I">CONSIDERATIO</w> 
+     <lb xml:id="fol_48v.7" n="7"/><note type="scholion" place="margin" subtype="chapter" n="6">VI</note> <w part="F">NE</w> <supplied reason="lost">LAUDANDUS</supplied> EST PROINDE CAUSA <w part="I">BEATI</w>
+     <lb xml:id="fol_48v.8" n="8"/><supplied reason="lost"><w part="F">TUDINIS</w> ANGELO</supplied>RUM BONORUM EA <w part="I">UERIS</w>
+     <lb xml:id="fol_48v.9" n="9"/><supplied reason="lost"><w part="F">SIMA</w> RE</supplied>PPERITUR <app><rdg wit="#CSEL40">REPERITUR</rdg></app> QUOD EI ADHERENT <app><rdg wit="#CSEL40">ADHERENT</rdg></app>
+     <lb xml:id="fol_48v.10" n="10"/>QUI <supplied reason="lost">SUMME</supplied> EST CUM UERO CAUSA <w part="I">MI</w>
+     <lb xml:id="fol_48v.11" n="11"/><supplied reason="lost"><w part="F">SERIAE</w> MAL</supplied>ORUM ANGELORUM <w part="I">QUAERI</w>
+     <lb xml:id="fol_48v.12" n="12"/><supplied reason="lost"><w part="F">TUR</w> EA MERITO OCCUR</supplied>RIT QUOD <supplied reason="lost">AB ILLO</supplied>
+     <lb xml:id="fol_48v.13" n="13"/><supplied reason="lost">QUI SUMME</supplied> EST AUERSI AD SE IPSOS <w part="I">CON</w>
+     <lb xml:id="fol_48v.14" n="14"/><w part="F">UERSI</w> <supplied reason="lost">SUNT QUI NON SUMME</supplied> SUNT ET
+     <lb xml:id="fol_48v.15" n="15"/><supplied reason="lost">HOC UITIUM QUID ALIUD</supplied> QUAM SUPERBIA
+     <lb xml:id="fol_48v.16" n="16"/><supplied reason="lost">NONCUPETUR INITIUM</supplied> QUIPPE OMNIS
+     <lb xml:id="fol_48v.17" n="17"/>PECCATI S<supplied reason="lost">UPERBIA NOL</supplied>UERUNT ERGO AD
+     <lb xml:id="fol_48v.18" n="18"/>ILLUM CUSTOD<supplied reason="lost">IRE</supplied> FORTITUDINEM <choice><abbr>SUA &#772;</abbr><expan>SUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_48v.19" n="19"/>ET QUI MAGIS <supplied reason="lost">ESSENT SI</supplied> EI QUI SUMME
+     <lb xml:id="fol_48v.20" n="20"/>EST ADHERERENT <app><rdg wit="#CSEL40">ADHAERERENT</rdg></app> SE ILLI PRAEFERENDO ID
+     <lb xml:id="fol_48v.21" n="21"/>QUOD MINUS EST PRAETULERUNT HIC <w part="I">PRI</w>
+     <lb xml:id="fol_48v.22" n="22"/><w part="F">MUS</w> DEFECTUS ET PRIMA INOPIA <supplied reason="lost"><w part="I">PRIMUM</w></supplied>
+     <lb xml:id="fol_48v.23" n="23"/><w part="F">QUE</w> UITIUM E<add place="above">I</add>US NATURAE QUAE ITA <w part="I">CREA</w>
+     <lb xml:id="fol_48v.24" n="24"/><w part="F">TA</w> EST UT NEC SUMMAE <app><rdg wit="#CSEL40">SUMME</rdg></app> ESSET ET TAMEN AD
+     <lb xml:id="fol_48v.25" n="25"/>BEATITUDINEM HABENDAM EO QUI <w part="I">SUM</w>
+     <lb xml:id="fol_48v.26" n="26"/><w part="F">ME</w> EST FRUI POSSET A QUO AUERSA NON
      <lb xml:id="fol_48v.27" n="27"/>QUIDEM NULLA SED TAMEN MINUS ESSET
-     <lb xml:id="fol_48v.28" n="28"/>ATQ<!--AB--> OB HOC MISERA FIERET HUIUS POR
-     <lb xml:id="fol_48v.29" n="29"/>RO MALE UOLUMTATIS CAUSA EFFICIENS
+     <lb xml:id="fol_48v.28" n="28"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> OB HOC MISERA FIERET HUIUS <w part="I">POR</w>
+     <lb xml:id="fol_48v.29" n="29"/><w part="F">RO</w> MALE <app><rdg wit="#CSEL40">MALAE</rdg></app> UOLUMTATIS <app><rdg wit="#CSEL40">UOLUNTATIS</rdg></app> CAUSA EFFICIENS
      <lb xml:id="fol_48v.30" n="30"/>SI QUAERATUR NIHIL INUENITUR QUID EST
     </ab> 
    </div>
