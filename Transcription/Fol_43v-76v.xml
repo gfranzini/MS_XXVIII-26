@@ -715,43 +715,43 @@
    
    <div n="fol_52r" type="edition">
     <ab>
-     <lb xml:id="fol_52r.1" n="1"/>SCIO
-     <lb xml:id="fol_52r.2" n="2"/>
-     <lb xml:id="fol_52r.3" n="3"/>
-     <lb xml:id="fol_52r.4" n="4"/>
-     <lb xml:id="fol_52r.5" n="5"/>
-     <lb xml:id="fol_52r.6" n="6"/>
-     <lb xml:id="fol_52r.7" n="7"/>
-     <lb xml:id="fol_52r.8" n="8"/>
-     <lb xml:id="fol_52r.9" n="9"/>
-     <lb xml:id="fol_52r.10" n="10"/>
-     <lb xml:id="fol_52r.11" n="11"/>
-     <lb xml:id="fol_52r.12" n="12"/>
-     <lb xml:id="fol_52r.13" n="13"/>
-     <lb xml:id="fol_52r.14" n="14"/>
-     <lb xml:id="fol_52r.15" n="15"/>
-     <lb xml:id="fol_52r.16" n="16"/>
-     <lb xml:id="fol_52r.17" n="17"/>
-     <lb xml:id="fol_52r.18" n="18"/>
-     <lb xml:id="fol_52r.19" n="19"/>
-     <lb xml:id="fol_52r.20" n="20"/>
-     <lb xml:id="fol_52r.21" n="21"/>
-     <lb xml:id="fol_52r.22" n="22"/>
-     <lb xml:id="fol_52r.23" n="23"/>
-     <lb xml:id="fol_52r.24" n="24"/>
-     <lb xml:id="fol_52r.25" n="25"/>
-     <lb xml:id="fol_52r.26" n="26"/>
-     <lb xml:id="fol_52r.27" n="27"/>
-     <lb xml:id="fol_52r.28" n="28"/>
-     <lb xml:id="fol_52r.29" n="29"/>
-     <lb xml:id="fol_52r.30" n="30"/>
+     <lb xml:id="fol_52r.1" n="1"/>SCIO IN QUO FIT MALA UOLUNTAS ID IN EO <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_52r.2" n="2"/>FIERI QUOD SI NOLLET NON FIERET ET IDEM <app><rdg wit="#CSEL40">IDEO</rdg></app>
+     <lb xml:id="fol_52r.3" n="3"/>NON NECESSARIOS SED UOLUNTARIOS <w part="I">DE</w>
+     <lb xml:id="fol_52r.4" n="4"/><w part="F">FECTUS</w> IUSTA POENA CONSEQUITUR <w part="I">DEFI</w>
+     <lb xml:id="fol_52r.5" n="5"/><w part="F">CITUR</w> ENIM NON AD MALA SED MALE ID EST
+     <lb xml:id="fol_52r.6" n="6"/>NON AD MALAS NATURAS SED IDEO MALE
+     <lb xml:id="fol_52r.7" n="7"/>QUIA CONTRA ORDINEM NATURARUM
+     <lb xml:id="fol_52r.8" n="8"/>AB EO QUOD SUMME EST AD ID QUOD <w part="I">MI</w>
+     <lb xml:id="fol_52r.9" n="9"/><w part="F">NUS</w> EST <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM AURI UITIUM EST <w part="I">AUA</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> <choice><abbr>auru &#772;</abbr><expan>auru<ex>m</ex></expan></choice> <!--non est ?--> <choice><abbr>uitiu &#772;</abbr><expan>uitiu<ex>m</ex></expan></choice></note>
+     <lb xml:id="fol_52r.10" n="10"/><w part="F">RITIA</w> SED HOMINIS PERUERSAE AMANTIS
+     <lb xml:id="fol_52r.11" n="11"/>AURUM IUSTITIA DERELICTA QUAE <w part="I">IN</w>
+     <lb xml:id="fol_52r.12" n="12"/><w part="F">CORPORALITER</w> <app><rdg wit="#CSEL40">INCOMPARABILITER</rdg></app> AURO DEBUIT ANTEPONI;
+     <lb xml:id="fol_52r.13" n="13"/>NEC <supplied reason="lost">LUXU</supplied>RIA UITIUM EST PULCHRORUM <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> pulcr. species corporis non est <choice><abbr>uitiu &#772;</abbr><expan>uitiu<ex>m</ex></expan></choice></note>
+     <lb xml:id="fol_52r.14" n="14"/><choice><abbr>SUAUI<supplied reason="lost">UM</supplied>Q&#183;</abbr><expan>SUAUIUMQ<ex>UE</ex></expan></choice> CORPORUM SED ANIMAE <w part="I">PER</w>
+     <lb xml:id="fol_52r.15" n="15"/><w part="F">UERSAE</w> <app><rdg wit="#CSEL40">PERUERSE</rdg></app> AMA<supplied reason="lost">NTIS CORPOREAS</supplied> UOLUPTATES
+     <lb xml:id="fol_52r.16" n="16"/>NEGLECTA TEMPER<supplied reason="lost">ANTIA QUA REBUS</supplied> <w part="I">SPIRITA</w>
+     <lb xml:id="fol_52r.17" n="17"/><w part="F">LITER</w> <choice><abbr>PULCHRIORIB&#183;</abbr><expan>PULCHRIORIB<ex>US</ex></expan></choice> ET <w part="I">INCORRUPTIBILI</w>
+     <lb xml:id="fol_52r.18" n="18"/><supplied reason="lost"><w part="F">TER</w></supplied> <choice><abbr>SUAUIORIB&#183;</abbr><expan>SUAUIORIB<ex>US</ex></expan></choice> <supplied reason="lost">COEP</supplied>TA<supplied reason="lost">RUM NEC</supplied> <choice><abbr><w part="I">IACTA &#772;</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_52r.19" n="19"/><w part="F">TIA</w></abbr><expan>IACTA<ex>N</ex>TIA</expan></choice> UITIUM EST <supplied reason="lost">LAUDIS HUMANAE</supplied> SED
+     <lb xml:id="fol_52r.20" n="20"/>ANIMAE PERUERSAE <app><rdg wit="#CSEL40">PERUERSE</rdg></app> AM<supplied reason="lost">ANTIS LAUDARI</supplied>
+     <lb xml:id="fol_52r.21" n="21"/><supplied reason="lost">AB <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice> SPRETO TESTIMONIO</supplied> <w part="I">CO<hi rend="ligature">NS</hi></w>
+     <lb xml:id="fol_52r.22" n="22"/><w part="F">CIENTIAE</w> <supplied reason="lost">NEC SUPERBIA UITIUM EST</supplied> <choice><abbr><w part="I">DA &#772;</w>
+     <lb xml:id="fol_52r.23" n="23"/><w part="F">TIS</w></abbr><expan>DA<ex>N</ex>TIS</expan></choice> POTESTATEM <supplied reason="lost">UEL IPSIUS ETIAM</supplied> <w part="I">POTESTA</w>
+     <lb xml:id="fol_52r.24" n="24"/><w part="F">TIS</w> SED ANIMAE PER<supplied reason="lost">UERSE AMANTIS</supplied>
+     <lb xml:id="fol_52r.25" n="25"/>POTESTATEM SUAM <supplied reason="lost">POTENTIORIS</supplied> <w part="I">IUSTIO</w>
+     <lb xml:id="fol_52r.26" n="26"/><w part="F">RE</w> CONTEMTAT <app><rdg wit="#CSEL40">CONTEMTA</rdg></app> AC PER HOC <supplied reason="lost">QUI</supplied> <w part="I">PERUER</w>
+     <lb xml:id="fol_52r.27" n="27"/><w part="F">SAE</w> <app><rdg wit="#CSEL40">PERUERSE</rdg></app> AMAT <supplied reason="lost">CUIUSLIBET NATURAE BONUM</supplied>
+     <lb xml:id="fol_52r.28" n="28"/>ETIAMSI ADIPISCATUR IPSE FIT IN BONO <w part="I">MA</w>
+     <lb xml:id="fol_52r.29" n="29"/><w part="F">LUS</w> ET MISER MELIORE PRIUATUS <note type="scholion" place="margin" subtype="chapter" n="9">IX</note> CUM <w part="I">ER</w>
+     <lb xml:id="fol_52r.30" n="30"/><w part="F">GO</w> MALE UOLUNTATIS EFFICIENS <w part="I">NATURA</w>
     </ab> 
    </div>
    
    
    <div n="fol_52v" type="edition">
     <ab>
-     <lb xml:id="fol_52v.1" n="1"/>
+     <lb xml:id="fol_52v.1" n="1"/><w part="F">LIS</w>
      <lb xml:id="fol_52v.2" n="2"/> 
      <lb xml:id="fol_52v.3" n="3"/>
      <lb xml:id="fol_52v.4" n="4"/>
