@@ -639,43 +639,43 @@
    </div>
    
    
-   <div n="fol_51r" type="edition"> <!--supplied da qui-->
+   <div n="fol_51r" type="edition">
     <ab>
-     <lb xml:id="fol_51r.1" n="1"/><w part="F">NEM</w> AC TEMTATIONEM SIMILES
+     <lb xml:id="fol_51r.1" n="1"/><w part="F">NEM</w> AC TEMTATIONEM <app><rdg wit="#CSEL40">TENTATIONEM</rdg></app> SIMILES
      <lb xml:id="fol_51r.2" n="2"/>AMBO ANIMO ET CORPORE FUERINT
      <lb xml:id="fol_51r.3" n="3"/>IPSUM SIBI FECISSE UOLUNTATEM <choice><abbr>MALA &#772;</abbr><expan>MALA<ex>M</ex></expan></choice>
-     <lb xml:id="fol_51r.4" n="4"/>QUI UTIQUE BONUS ANTE UOLUNTATE<!--?-->
-     <lb xml:id="fol_51r.5" n="5"/>MALAM FUERIT QUAERATUR QUUR
+     <lb xml:id="fol_51r.4" n="4"/>QUI UTIQUE BONUS ANTE UOLUNTATEM
+     <lb xml:id="fol_51r.5" n="5"/>MALAM FUERIT QUAERATUR <app><rdg wit="#CSEL40">QUAERAT</rdg></app> QUUR
      <lb xml:id="fol_51r.6" n="6"/>EAM FECERIT UTRUM QUIA NATURA
      <lb xml:id="fol_51r.7" n="7"/>EST AN QUIA EX NIHILO FACTA EST ET <w part="I">INUE</w>
-     <lb xml:id="fol_51r.8" n="8"/><w part="F">NIET</w> UOLUNTATEM MALAM NON EXEO
+     <lb xml:id="fol_51r.8" n="8"/><w part="F">NIET</w> UOLUNTATEM MALAM NON EX EO
      <lb xml:id="fol_51r.9" n="9"/>ESSE INCIPERE QUOD NATURA EST SED
      <lb xml:id="fol_51r.10" n="10"/>EX EO QUOD DE NIHILO FACTA NATURA EST
-     <lb xml:id="fol_51r.11" n="11"/>NAM SI NATURA CAUSA EST UOLUNTATIS
+     <lb xml:id="fol_51r.11" n="11"/>NAM SI NATURA CAUSA EST UOLUNTATIS <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
      <lb xml:id="fol_51r.12" n="12"/>MALAE QUID ALIUD COGIMUR DICERE <w part="I">NI</w>
-     <lb xml:id="fol_51r.13" n="13"/><w part="F">SI</w> AB<!--?--> BONUM ESSE
-     <lb xml:id="fol_51r.14" n="14"/>CAUSAM MALI <!--?--> NATURA <w part="I">BO</w>
+     <lb xml:id="fol_51r.13" n="13"/><w part="F">SI</w> A B<supplied reason="lost">ONO FIERI MALUM ET</supplied> BONUM ESSE
+     <lb xml:id="fol_51r.14" n="14"/>CAUSAM MALI <supplied reason="lost">SI QUIDEM A</supplied> NATURA <w part="I">BO</w>
      <lb xml:id="fol_51r.15" n="15"/><w part="F">NA</w> FIT UOLUNTAS MALA QUOD UNDE <w part="I">FIE</w>
-     <lb xml:id="fol_51r.16" n="16"/><w part="F">RI</w> POTEST <!--?--> NATURA BONA QUAMUIS
+     <lb xml:id="fol_51r.16" n="16"/><w part="F">RI</w> POTEST <supplied reason="lost">UT</supplied> NATURA BONA QUAMUIS
      <lb xml:id="fol_51r.17" n="17"/>MUTABILIS ANTEQUAM HABEAT <w part="I">UOLUN</w>
-     <lb xml:id="fol_51r.18" n="18"/><w part="F">TATEM</w> MALAM <!--?--> ALIQUID MALI HOC
-     <lb xml:id="fol_51r.19" n="19"/>EST IPSA <!--?--> TATEM MALAM NEMO
-     <lb xml:id="fol_51r.20" n="20"/>SCITUR QUAERAT EFFICIENTEM CAUSAM
-     <lb xml:id="fol_51r.21" n="21"/>MALAE UOLUNTATE <!--?--> EST <!--?-->
-     <lb xml:id="fol_51r.22" n="22"/>FIERENT <!--ADDITION--> <!--?-->
-     <lb xml:id="fol_51r.23" n="23"/>AB EO QUOD SUMME EST <!--? AND ADDITION--> QUOD <!--?-->
-     <lb xml:id="fol_51r.24" n="24"/><!--?--> EST HOC EST INCIPERE <!--?-->
-     <lb xml:id="fol_51r.25" n="25"/>TATEM AL<!--?--> TIONU<!--M-->
-     <lb xml:id="fol_51r.26" n="26"/>ISTARUM <!--?--> NON <!--?--> UT
-     <lb xml:id="fol_51r.27" n="27"/>DIXI SED DEFICI <!--?--> <add place="above">UELLE</add> <!--?-->
-     <lb xml:id="fol_51r.28" n="28"/>TALE EST AC SI QUISQUAM <!--?-->
-     <lb xml:id="fol_51r.29" n="29"/>TENEBRAS <!--?--> QUOD
+     <lb xml:id="fol_51r.18" n="18"/><w part="F">TATEM</w> MALAM <supplied reason="lost">FACIAT</supplied> ALIQUID MALI HOC
+     <lb xml:id="fol_51r.19" n="19"/>EST IPSA<supplied reason="lost">M UOLUN</supplied>TATEM MALAM <note type="scholion" place="margin" subtype="chapter" n="7">VII</note> NEMO
+     <lb xml:id="fol_51r.20" n="20"/>IGITUR QUAERAT EFFICIENTEM CAUSAM
+     <lb xml:id="fol_51r.21" n="21"/>MALAE UOLUNTATI<supplied reason="lost">S NON ENIM</supplied> EST <w part="I">EF</w>
+     <lb xml:id="fol_51r.22" n="22"/><w part="F">FICIENS</w> <add place="above">SED DEFICIENS QUIA NEC ILLA EFFECTIO</add> <supplied reason="lost">SED DEFECTIO DEFICERE NAMQUE</supplied>
+     <lb xml:id="fol_51r.23" n="23"/>AB EO QUOD SUMME EST <add place="below">A</add>D ID QUOD <w part="I">MI</w>
+     <lb xml:id="fol_51r.24" n="24"/><w part="F">NUS</w> EST HOC EST INCIPERE <supplied reason="lost">HABERE <w part="I">UOLUN</w></supplied>
+     <lb xml:id="fol_51r.25" n="25"/><w part="F">TATEM</w> <supplied reason="lost">MALAM CAUSAS PO<add place="above">RR</add>O</supplied> <choice><abbr>DEFECTIONU &#772;</abbr><expan>DEFECTIONU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_51r.26" n="26"/>ISTARUM CUM EFFICIE<add place="above">NTES</add> NON <supplied reason="lost">SINT</supplied> UT
+     <lb xml:id="fol_51r.27" n="27"/>DIXI SED DEFICI<supplied reason="lost">ENTES</supplied> <add place="above">UELLE</add> <supplied reason="lost">INUENIRE</supplied>
+     <lb xml:id="fol_51r.28" n="28"/>TALE EST AC SI QUISQUAM <supplied reason="lost">UELIT</supplied> <add place="above">UI</add>DERE
+     <lb xml:id="fol_51r.29" n="29"/>TENEBRAS <supplied reason="lost">UEL AUDIRE</supplied> <choice><abbr>SILEN<add place="above">TIU&#772;</add></abbr><expan>SILENTIU<ex>M</ex></expan></choice> QUOD
      <lb xml:id="fol_51r.30" n="30"/>TAMEN <choice><abbr>UTRUMQ&#183;</abbr><expan>UTRUMQ<ex>UE</ex></expan></choice> NOBIS NOTUM EST
     </ab> 
    </div>
    
    
-   <div n="fol_51v" type="edition">
+   <div n="fol_51v" type="edition">  <!--supplied da qui-->
     <ab>
      <lb xml:id="fol_51v.1" n="1"/><choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ILLUD NISI PER OCULOS <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> HOC
      <lb xml:id="fol_51v.2" n="2"/>ISI PER AURES NON UANE IN SPECIE SED
