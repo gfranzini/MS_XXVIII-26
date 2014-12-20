@@ -567,7 +567,7 @@
    </div>
    
    
-   <div n="fol_50r" type="edition"> <!--csel da qui-->
+   <div n="fol_50r" type="edition"> 
     <ab>
      <lb xml:id="fol_50r.1" n="1"/>MODO ERGO RES BONA EFFICIENS EST
      <lb xml:id="fol_50r.2" n="2"/>UOLUNTATIS MALAE QUO MODO <choice><abbr>INQUA &#772;</abbr><expan>INQUA<ex>M</ex></expan></choice>
@@ -603,7 +603,7 @@
    </div>
    
    
-   <div n="fol_50v" type="edition">
+   <div n="fol_50v" type="edition"> <!--csel da qui-->
     <ab>
      <lb xml:id="fol_50v.1" n="1"/><w part="F">SI</w> NON EIDEM SUGGESTIONI ET <w part="I">QUA</w>
      <lb xml:id="fol_50v.2" n="2"/><w part="F">LICUMQUE</w> SUA <!--?--> PROPRIA <choice><abbr><w part="I">UOLU &#772;</w>
