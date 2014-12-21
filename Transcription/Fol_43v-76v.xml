@@ -1039,36 +1039,36 @@
    
    <div n="fol_56v" type="edition">
     <ab>
-     <lb xml:id="fol_56v.1" n="1"/>
-     <lb xml:id="fol_56v.2" n="2"/> 
-     <lb xml:id="fol_56v.3" n="3"/>
-     <lb xml:id="fol_56v.4" n="4"/>
-     <lb xml:id="fol_56v.5" n="5"/>
-     <lb xml:id="fol_56v.6" n="6"/>
-     <lb xml:id="fol_56v.7" n="7"/>
-     <lb xml:id="fol_56v.8" n="8"/>
-     <lb xml:id="fol_56v.9" n="9"/>
-     <lb xml:id="fol_56v.10" n="10"/>
-     <lb xml:id="fol_56v.11" n="11"/>
-     <lb xml:id="fol_56v.12" n="12"/>
-     <lb xml:id="fol_56v.13" n="13"/>
-     <lb xml:id="fol_56v.14" n="14"/>
-     <lb xml:id="fol_56v.15" n="15"/>
-     <lb xml:id="fol_56v.16" n="16"/>
-     <lb xml:id="fol_56v.17" n="17"/>
-     <lb xml:id="fol_56v.18" n="18"/>
-     <lb xml:id="fol_56v.19" n="19"/>
-     <lb xml:id="fol_56v.20" n="20"/>
-     <lb xml:id="fol_56v.21" n="21"/>
-     <lb xml:id="fol_56v.22" n="22"/>
-     <lb xml:id="fol_56v.23" n="23"/>
-     <lb xml:id="fol_56v.24" n="24"/>
-     <lb xml:id="fol_56v.25" n="25"/>
-     <lb xml:id="fol_56v.26" n="26"/>
-     <lb xml:id="fol_56v.27" n="27"/>
-     <lb xml:id="fol_56v.28" n="28"/>
-     <lb xml:id="fol_56v.29" n="29"/>
-     <lb xml:id="fol_56v.30" n="30"/>
+     <lb xml:id="fol_56v.1" n="1"/>EX QUO <supplied reason="lost">ESSE</supplied> COEPISSE IN SACRIS <w part="I">LITTE</w>
+     <lb xml:id="fol_56v.2" n="2"/><w part="F">RIS</w> IN<supplied reason="lost">UENITUR SI</supplied> ENIM BREUITAS
+     <lb xml:id="fol_56v.3" n="3"/>EOS <supplied reason="lost ">OFFENDIT</supplied> TEMPORIS QUOD TAM <w part="I">PAU</w>
+     <lb xml:id="fol_56v.4" n="4"/>CI <supplied reason="lost">EIS</supplied> UIDENTUR ANNI EX QUO <w part="I">INSTITU</w>
+     <lb xml:id="fol_56v.5" n="5"/><w part="F">TUS</w> HOMO <supplied reason="lost">IN NO</supplied>STRIS <choice><abbr>AUCTORITATIB&#183;</abbr><expan>AUCTORITATIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_56v.6" n="6"/>LEGITUR <supplied reason="lost">CONSI</supplied>DERENT NIHIL ESSE <supplied reason="lost"><w part="I">DIU</w></supplied>
+     <lb xml:id="fol_56v.7" n="7"/><supplied reason="lost"><w part="F">TURNUM</w></supplied> IN QUO EST ALIQUID <choice><abbr>EXTREMU &#772;</abbr><expan>EXTREMU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_56v.8" n="8"/>ET OMNIA SECULORUM <app><rdg wit="#CSEL40">SAECULORUM</rdg></app> SPATIA DEFINITA
+     <lb xml:id="fol_56v.9" n="9"/>SI AETERNITATI INTER<supplied reason="lost">MIN</supplied>AE <choice><abbr><w part="I">COMPARE &#772;</w>
+     <lb xml:id="fol_56v.10" n="10"/><w part="F">TUR</w></abbr><expan>COMPARE<ex>N</ex>TUR</expan></choice> NON <supplied reason="lost">EXIGUA</supplied> EXISTIMANDA ESSE
+     <lb xml:id="fol_56v.11" n="11"/>SED NULLA <supplied reason="lost">AC PER</supplied> HOC SI NON <choice><abbr>QUINQ&#183;</abbr><expan>QUINQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_56v.12" n="12"/>UEL SEX UER<supplied reason="lost">UM ETIAM</supplied> SEXAGINTA MILIA
+     <lb xml:id="fol_56v.13" n="13"/>SIUE SES<supplied reason="lost">CENTA</supplied> AUT SEXAGIES <app><rdg wit="#CSEL40">SEXAGIENS</rdg></app> AUT <choice><abbr><w part="I">SESCE &#772;</w>
+     <lb xml:id="fol_56v.14" n="14"/><w part="F">TIENS</w></abbr><expan>SESCE<ex>N</ex>TIENS</expan></choice> <supplied reason="lost">AUT SESCENTIENS</supplied> MILIENS <w part="I">DICE</w>
+     <lb xml:id="fol_56v.15" n="15"/><w part="F">RENTUR</w> <supplied reason="lost">ANN</supplied>ORUM AUT <supplied reason="lost">ITI</supplied>DEM PER <w part="I">TOT</w>
+     <lb xml:id="fol_56v.16" n="16"/><w part="F">IDEM</w> TOTIENS MULTIPLICARENTUR HAEC
+     <lb xml:id="fol_56v.17" n="17"/>SUMMA <supplied reason="lost">UBI IAM</supplied> NULLUM NUMERI <w part="I">NO</w>
+     <lb xml:id="fol_56v.18" n="18"/><w part="F">MEN</w> HABEREMUS EX QUO DEUS <w part="I">HOMI</w>
+     <lb xml:id="fol_56v.19" n="19"/><w part="F">NEM</w> FECIT SIMILITER QUAERI POSSET
+     <lb xml:id="fol_56v.20" n="20"/>QUUR ANTE NON FECERIT DEI QUIPPE AB
+     <lb xml:id="fol_56v.21" n="21"/>HOMINIS CREATIONE CESSATIO <w part="I">RETROR</w>
+     <lb xml:id="fol_56v.22" n="22"/><w part="F">SUS</w> AETERNA SINE INITIO TANTA EST UT
+     <lb xml:id="fol_56v.23" n="23"/>SI EI CONFERATUR QUAMLIBET MAGNA
+     <lb xml:id="fol_56v.24" n="24"/>ET INEFFABILIS NUMEROSITAS <choice><abbr>TEMPORU &#772;</abbr><expan>TEMPORU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_56v.25" n="25"/>QUAE TAMEN FINE CONCLUSA CERTI SPATII
+     <lb xml:id="fol_56v.26" n="26"/>TERMINATUR NEC <choice><sic>SALT<del rend="strikethrough">A</del>M</sic><corr>SALT<add place="above">E</add>M</corr></choice> TANTI UIDERI
+     <lb xml:id="fol_56v.27" n="27"/>DEBEAT QUANTA SI UMORIS <choice><abbr>BREUISSIMA &#772;</abbr><expan>BREUISSIMA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_56v.28" n="28"/>GUTTAM UNIUERSO MARI ETIAM <choice><abbr>QUANTU &#772;</abbr><expan>QUANTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_56v.29" n="29"/>OCEANUS CIRCUMFLUIT CONPAREMUS
+     <lb xml:id="fol_56v.30" n="30"/>QUONIAM ISTORUM DUORUM UNUM
     </ab> 
    </div>
    
