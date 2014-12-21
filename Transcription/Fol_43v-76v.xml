@@ -785,7 +785,7 @@
    </div>
    
    
-   <div n="fol_53r" type="edition">
+   <div n="fol_53r" type="edition"> <!--damaged -->
     <ab>
      <lb xml:id="fol_53r.1" n="1"/>PROPTEREA
      <lb xml:id="fol_53r.2" n="2"/> 
@@ -821,7 +821,7 @@
    </div>
    
    
-   <div n="fol_53v" type="edition">
+   <div n="fol_53v" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_53v.1" n="1"/>
      <lb xml:id="fol_53v.2" n="2"/> 
@@ -855,9 +855,9 @@
      <lb xml:id="fol_53v.30" n="30"/>
     </ab> 
    </div>
+    
    
-   
-   <div n="fol_54r" type="edition">
+   <div n="fol_54r" type="edition">  <!--damaged-->
     <ab>
      <lb xml:id="fol_54r.1" n="1"/>
      <lb xml:id="fol_54r.2" n="2"/> 
@@ -893,7 +893,7 @@
    </div>
    
    
-   <div n="fol_54v" type="edition">
+   <div n="fol_54v" type="edition">  <!--damaged-->
     <ab>
      <lb xml:id="fol_54v.1" n="1"/>
      <lb xml:id="fol_54v.2" n="2"/> 
@@ -931,7 +931,7 @@
    
    <div n="fol_55r" type="edition">
     <ab>
-     <lb xml:id="fol_55r.1" n="1"/>
+     <lb xml:id="fol_55r.1" n="1"/>TEMUS UNDE
      <lb xml:id="fol_55r.2" n="2"/> 
      <lb xml:id="fol_55r.3" n="3"/>
      <lb xml:id="fol_55r.4" n="4"/>
@@ -965,7 +965,7 @@
    </div>
    
    
-   <div n="fol_55v" type="edition">
+   <div n="fol_55v" type="edition">  <!--damaged-->
     <ab>
      <lb xml:id="fol_55v.1" n="1"/>
      <lb xml:id="fol_55v.2" n="2"/> 
@@ -1003,36 +1003,36 @@
    
    <div n="fol_56r" type="edition">
     <ab>
-     <lb xml:id="fol_56r.1" n="1"/>
-     <lb xml:id="fol_56r.2" n="2"/> 
-     <lb xml:id="fol_56r.3" n="3"/>
-     <lb xml:id="fol_56r.4" n="4"/>
-     <lb xml:id="fol_56r.5" n="5"/>
-     <lb xml:id="fol_56r.6" n="6"/>
-     <lb xml:id="fol_56r.7" n="7"/>
-     <lb xml:id="fol_56r.8" n="8"/>
-     <lb xml:id="fol_56r.9" n="9"/>
-     <lb xml:id="fol_56r.10" n="10"/>
-     <lb xml:id="fol_56r.11" n="11"/>
-     <lb xml:id="fol_56r.12" n="12"/>
-     <lb xml:id="fol_56r.13" n="13"/>
-     <lb xml:id="fol_56r.14" n="14"/>
-     <lb xml:id="fol_56r.15" n="15"/>
-     <lb xml:id="fol_56r.16" n="16"/>
-     <lb xml:id="fol_56r.17" n="17"/>
-     <lb xml:id="fol_56r.18" n="18"/>
-     <lb xml:id="fol_56r.19" n="19"/>
-     <lb xml:id="fol_56r.20" n="20"/>
-     <lb xml:id="fol_56r.21" n="21"/>
-     <lb xml:id="fol_56r.22" n="22"/>
-     <lb xml:id="fol_56r.23" n="23"/>
-     <lb xml:id="fol_56r.24" n="24"/>
-     <lb xml:id="fol_56r.25" n="25"/>
-     <lb xml:id="fol_56r.26" n="26"/>
-     <lb xml:id="fol_56r.27" n="27"/>
-     <lb xml:id="fol_56r.28" n="28"/>
-     <lb xml:id="fol_56r.29" n="29"/>
-     <lb xml:id="fol_56r.30" n="30"/>
+     <lb xml:id="fol_56r.1" n="1"/>INTERUALLIS <supplied reason="lost">INNUMERABILITER</supplied> <w part="I">ORI</w>
+     <lb xml:id="fol_56r.2" n="2"/><w part="F">RI</w> ET OCCIDERE NECESSE EST FATEANTUR
+     <lb xml:id="fol_56r.3" n="3"/>HOMINUM GENUS PRIUS SINE <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_56r.4" n="4"/><choice><abbr>GIGNENTIB&#183;</abbr><expan>GIGNETIB<ex>US</ex></expan></choice> <supplied reason="lost">EXTITISSE</supplied> <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> <supplied reason="lost">ENIM UT</supplied> <choice><abbr><w part="I">AL</w>
+     <lb xml:id="fol_56r.5" n="5"/><w part="F">LUUIONIB&#183;</w></abbr><expan>ALLUUIONIB<ex>US</ex></expan></choice> INCENDIIS<supplied reason="lost">QUE TERRARU</supplied>M
+     <lb xml:id="fol_56r.6" n="6"/>QUAS ILLI NON PUTA<supplied reason="lost">NT TOTO PRORSUS O</supplied>RBE
+     <lb xml:id="fol_56r.7" n="7"/>CONTINGERE ET IDEO PAUCOS HOMINES
+     <lb xml:id="fol_56r.8" n="8"/>EX <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> MULTITUDO PRISTINA <supplied reason="lost"><w part="I">REPARE</w></supplied>
+     <lb xml:id="fol_56r.9" n="9"/><w part="F">TUR</w> SEMPER REMAN<supplied reason="lost">ERE CONTEN</supplied>DU<hi rend="ligature">NT</hi>
+     <lb xml:id="fol_56r.10" n="10"/>ITA ET HI POSSUNT PU<supplied reason="lost">TARE</supplied> QUOD ALIQUID
+     <lb xml:id="fol_56r.11" n="11"/>HOMINUM PEREUNTE MUNDO <w part="I">RELIN</w>
+     <lb xml:id="fol_56r.12" n="12"/><w part="F">QUANTUR</w> <app><rdg wit="#CSEL40">RELINQUATUR</rdg></app> IN MUNDO S<supplied reason="lost">ED SICUT IPSUM</supplied>
+     <lb xml:id="fol_56r.13" n="13"/>MUNDUM EX MATERIA SUA RENASCI
+     <lb xml:id="fol_56r.14" n="14"/>EXISTIMANT ITA <supplied reason="lost">IN ILLO EX ELEME</supplied>NTIS
+     <lb xml:id="fol_56r.15" n="15"/>EIUS GENUS HUMANUM <supplied reason="lost">AC DEINDE</supplied>
+     <lb xml:id="fol_56r.16" n="16"/><choice><abbr>PARENTIB&#183;</abbr><expan>PARENTIB<ex>US</ex></expan></choice> PROGENIEM <supplied reason="lost">PULLULA</supplied>RE <w part="I">MOR</w>
+     <lb xml:id="fol_56r.17" n="17"/><w part="F">TALIUM</w> SICUT ALIORUM AN<supplied reason="lost">IMALIUM</supplied>
+     <lb xml:id="fol_56r.18" n="18"/><note type="scholion" place="margin" subtype="chapter" n="13">XIII</note> QUOD AUTEM <supplied reason="lost">RESPONDIMUS CUM</supplied> DE
+     <lb xml:id="fol_56r.19" n="19"/>MUNDI ORIGINE QUAEST<supplied reason="lost">IO UERTETUR</supplied>
+     <lb xml:id="fol_56r.20" n="20"/>EIS QUI NOLUNT CREDERE <supplied reason="lost">NON EUM</supplied> <w part="I">SEM</w> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_56r.21" n="21"/><w part="F">PER</w> FUISSE SED ESSE COEPISSE SICUT <choice><abbr>ETIA &#772;</abbr><expan>ETIA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_56r.22" n="22"/>PLATO APERTISSIME CONFITETUR <supplied reason="lost"><w part="I">QUAM</w></supplied>
+     <lb xml:id="fol_56r.23" n="23"/><w part="F">UIS</w> A NONNULLIS CONTRA QUAM <w part="I">LOQUI</w>
+     <lb xml:id="fol_56r.24" n="24"/><w part="F">TUR</w> SENSISSE CREDATUR HOC ETIAM DE
+     <lb xml:id="fol_56r.25" n="25"/>PRIMA HOMINIS CONDITIONE <w part="I">RESPON</w>
+     <lb xml:id="fol_56r.26" n="26"/><w part="F">DERIM</w> PROPTER EOS QUI SIMIL<add place="above">IT</add>EMR <app><rdg wit="#CSEL40">SIMILITER</rdg></app> <w part="I">AMO</w>
+     <lb xml:id="fol_56r.27" n="27"/><w part="F">UENTUR</w> QUUR HOMO PER <w part="I">INNUMERA</w>
+     <lb xml:id="fol_56r.28" n="28"/><w part="F">BILIA</w> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INFINITA RETRO TEMPORA <w part="I">CREA</w>
+     <lb xml:id="fol_56r.29" n="29"/><w part="F">TUS</w> NON SIT TAMQUE SERO SIT CREATUS
+     <lb xml:id="fol_56r.30" n="30"/>UT MINUS QUAM SEX MILIA SINT <choice><abbr>ANNORU &#772;</abbr><expan>ANNORU<ex>M</ex></expan></choice>
     </ab> 
    </div>
    
