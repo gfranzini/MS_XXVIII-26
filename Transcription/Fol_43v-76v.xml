@@ -1183,43 +1183,43 @@
    
    <div n="fol_58v" type="edition">
     <ab>
-     <lb xml:id="fol_58v.1" n="1"/><w part="F">CULIS</w>
-     <lb xml:id="fol_58v.2" n="2"/> 
-     <lb xml:id="fol_58v.3" n="3"/>
-     <lb xml:id="fol_58v.4" n="4"/>
-     <lb xml:id="fol_58v.5" n="5"/>
-     <lb xml:id="fol_58v.6" n="6"/>
-     <lb xml:id="fol_58v.7" n="7"/>
-     <lb xml:id="fol_58v.8" n="8"/>
-     <lb xml:id="fol_58v.9" n="9"/>
-     <lb xml:id="fol_58v.10" n="10"/>
-     <lb xml:id="fol_58v.11" n="11"/>
-     <lb xml:id="fol_58v.12" n="12"/>
-     <lb xml:id="fol_58v.13" n="13"/>
-     <lb xml:id="fol_58v.14" n="14"/>
-     <lb xml:id="fol_58v.15" n="15"/>
-     <lb xml:id="fol_58v.16" n="16"/>
-     <lb xml:id="fol_58v.17" n="17"/>
-     <lb xml:id="fol_58v.18" n="18"/>
-     <lb xml:id="fol_58v.19" n="19"/>
-     <lb xml:id="fol_58v.20" n="20"/>
-     <lb xml:id="fol_58v.21" n="21"/>
-     <lb xml:id="fol_58v.22" n="22"/>
-     <lb xml:id="fol_58v.23" n="23"/>
-     <lb xml:id="fol_58v.24" n="24"/>
-     <lb xml:id="fol_58v.25" n="25"/>
-     <lb xml:id="fol_58v.26" n="26"/>
-     <lb xml:id="fol_58v.27" n="27"/>
-     <lb xml:id="fol_58v.28" n="28"/>
-     <lb xml:id="fol_58v.29" n="29"/>
-     <lb xml:id="fol_58v.30" n="30"/>
+     <lb xml:id="fol_58v.1" n="1"/><w part="F">CULIS</w> QUAE FUERUNT ANTE NOS
+     <lb xml:id="fol_58v.2" n="2"/>PROPTER HOS CIRCUITUS IN EADEM <choice><abbr><w part="I">REDEU &#772;</w>
+     <lb xml:id="fol_58v.3" n="3"/><w part="F">TES</w></abbr><expan>REDEU<ex>N</ex>TES</expan></choice> ET IN EADEM CUNCTA REUOCANTES
+     <lb xml:id="fol_58v.4" n="4"/>DICTUM INTELLEGI UOLUNT QUOD ILLE A<hi rend="ligature">UT</hi>
+     <lb xml:id="fol_58v.5" n="5"/>DE HIS <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> DIXIT DE <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> SUPERIUS <choice><abbr><w part="I">LOQ&#183;</w>
+      <lb xml:id="fol_58v.6" n="6"/><w part="F">BATUR</w></abbr><expan>LOQ<ex>UE</ex>BATUR</expan></choice> HOC EST DE <choice><abbr>GENERATIONIB&#183;</abbr><expan>GENERATIONIB<ex>US</ex></expan></choice> ALIIS <choice><abbr><w part="I">EU &#772;</w>
+     <lb xml:id="fol_58v.7" n="7"/><w part="F">TIB&#183;</w></abbr><expan>EU<ex>N</ex>TIB<ex>US</ex></expan></choice> ALIIS <choice><abbr>UENIENTIB&#183;</abbr><expan>UENIENTIB<ex>US</ex></expan></choice> DE SOLIS AN <choice><abbr>FRACTIB&#183;</abbr><expan>FRACTIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_58v.8" n="8"/>DE TORRENTIUM <choice><abbr>LAPSIB&#183;</abbr><expan>LAPSIB<ex>US</ex></expan></choice> AUT CERTE DE <w part="I">OM</w>
+     <lb xml:id="fol_58v.9" n="9"/><w part="F">NIUM</w> RERUM <choice><abbr>GENERIB&#183;</abbr><expan>GENERIB<ex>US</ex></expan></choice> QUAE ORIUNTUR
+     <lb xml:id="fol_58v.10" n="10"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> OCCIDUNT FUERUNT ENIM HOMINES
+     <lb xml:id="fol_58v.11" n="11"/>ANTE NOS SUNT ET NOBISCUM ERUNT ET
+     <lb xml:id="fol_58v.12" n="12"/>POST NOS ITA <choice><abbr>QUAEQ&#183;</abbr><expan>QUAEQ<ex>UE</ex></expan></choice> ANIMANTIA UEL
+     <lb xml:id="fol_58v.13" n="13"/>ARBUSTA MONSTRA <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> IPSA QUAE <w part="I">IN</w>
+     <lb xml:id="fol_58v.14" n="14"/><w part="F">UNTATA</w> <app><rdg wit="#CSEL40">INUSITATA</rdg></app> NASCUNTUR QUAMUIS INTER SE
+     <lb xml:id="fol_58v.15" n="15"/>DIUERSA SINT ET QUAEDAM EORUM <w part="I">SE</w>
+     <lb xml:id="fol_58v.16" n="16"/><w part="F">MEL</w> FACTA NARRENTUR TAMEN <w part="I">SECUN</w>
+     <lb xml:id="fol_58v.17" n="17"/><w part="F">DUM</w> JD QUOD GENERALITER MIRACULA ET
+     <lb xml:id="fol_58v.18" n="18"/>MONSTRA SUNT <choice><abbr>UTIQ&#183;</abbr><expan>UTIQ<ex>UE</ex></expan></choice> ET FUERUNT ET ERU<hi rend="ligature">NT</hi>
+     <lb xml:id="fol_58v.19" n="19"/>NEC RECENS ET NOUUM EST UT <choice><abbr>MONSTRU &#772;</abbr><expan>MONSTRU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_58v.20" n="20"/>SUB SOLE NASCATUR QUAMUIS HAEC <w part="I">UER</w>
+     <lb xml:id="fol_58v.21" n="21"/><w part="F">BA</w> QUIDAM SIC INTELLEXERINT <choice><abbr>TAMQUA &#772;</abbr><expan>TAMQUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_58v.22" n="22"/>IN PRAEDESTINATIONE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> FACTA <app><rdg wit="CSEL40">IAM FACTA</rdg></app> FUISSE
+     <lb xml:id="fol_58v.23" n="23"/>OMNIA SAPIENS ILLE UOLUISSET INTELLEGI
+     <lb xml:id="fol_58v.24" n="24"/>ET IDEO NIHIL RECENS ESSE SUB SOLE ABSIT
+     <lb xml:id="fol_58v.25" n="25"/>AUTEM A RECTA FIDE UT HIS SALOMONIS
+     <lb xml:id="fol_58v.26" n="26"/>UERBIS ILLOS CIRCUITUS SIGNIFICATOS
+     <lb xml:id="fol_58v.27" n="27"/>ESSE CREDAMUS <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> ILLI PUTANT SIC
+     <lb xml:id="fol_58v.28" n="28"/>EADEM TEMPORUM <choice><abbr>TEMPORALIUMQ&#183;</abbr><expan>TEMPORALIUMQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_58v.29" n="29"/>RERUM UOLUMINA REPETI UT UERBI
+     <lb xml:id="fol_58v.30" n="30"/>GRATIA SICUT ISTO SAECULO PLATO <w part="I">PHILO</w>
     </ab> 
    </div>
    
    
    <div n="fol_59r" type="edition">
     <ab>
-     <lb xml:id="fol_59r.1" n="1"/>
+     <lb xml:id="fol_59r.1" n="1"/><w part="F">SOPHUS</w>
      <lb xml:id="fol_59r.2" n="2"/> 
      <lb xml:id="fol_59r.3" n="3"/>
      <lb xml:id="fol_59r.4" n="4"/>
