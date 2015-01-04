@@ -1219,43 +1219,43 @@
    
    <div n="fol_59r" type="edition">
     <ab>
-     <lb xml:id="fol_59r.1" n="1"/><w part="F">SOPHUS</w>
-     <lb xml:id="fol_59r.2" n="2"/> 
-     <lb xml:id="fol_59r.3" n="3"/>
-     <lb xml:id="fol_59r.4" n="4"/>
-     <lb xml:id="fol_59r.5" n="5"/>
-     <lb xml:id="fol_59r.6" n="6"/>
-     <lb xml:id="fol_59r.7" n="7"/>
-     <lb xml:id="fol_59r.8" n="8"/>
-     <lb xml:id="fol_59r.9" n="9"/>
-     <lb xml:id="fol_59r.10" n="10"/>
-     <lb xml:id="fol_59r.11" n="11"/>
-     <lb xml:id="fol_59r.12" n="12"/>
-     <lb xml:id="fol_59r.13" n="13"/>
-     <lb xml:id="fol_59r.14" n="14"/>
-     <lb xml:id="fol_59r.15" n="15"/>
-     <lb xml:id="fol_59r.16" n="16"/>
-     <lb xml:id="fol_59r.17" n="17"/>
-     <lb xml:id="fol_59r.18" n="18"/>
-     <lb xml:id="fol_59r.19" n="19"/>
-     <lb xml:id="fol_59r.20" n="20"/>
-     <lb xml:id="fol_59r.21" n="21"/>
-     <lb xml:id="fol_59r.22" n="22"/>
-     <lb xml:id="fol_59r.23" n="23"/>
-     <lb xml:id="fol_59r.24" n="24"/>
-     <lb xml:id="fol_59r.25" n="25"/>
-     <lb xml:id="fol_59r.26" n="26"/>
-     <lb xml:id="fol_59r.27" n="27"/>
-     <lb xml:id="fol_59r.28" n="28"/>
-     <lb xml:id="fol_59r.29" n="29"/>
-     <lb xml:id="fol_59r.30" n="30"/>
+     <lb xml:id="fol_59r.1" n="1"/><w part="F">SOPHUS</w> IN URBE ATHENIENSI <supplied reason="lost">ET IN</supplied> EA
+     <lb xml:id="fol_59r.2" n="2"/>SCHOLA QUAE ACHADEMIA <app><rdg wit="#CSEL40">ACADEMIA</rdg></app> DICTA EST <w part="I">DIS</w>
+     <lb xml:id="fol_59r.3" n="3"/><w part="F">CIPULOS</w> DOCUIT ITA PER INNUMERABILIA
+     <lb xml:id="fol_59r.4" n="4"/>RETRO SAECULA MULTUM QUIDEM <w part="I">PROLI</w>
+     <lb xml:id="fol_59r.5" n="5"/><w part="F">XIS</w> INTERUALLIS SED TAMEN CERTIS ET <choice><abbr>IDE &#772;</abbr><expan>IDE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_59r.6" n="6"/>PLATO ET EADEM CIUITAS ET EADEM SCHOLA
+     <lb xml:id="fol_59r.7" n="7"/><choice><abbr>IDEMQ&#183;</abbr><expan>IDEMQ<ex>UE</ex></expan></choice> DISCIPULI REPETITI ET PER <w part="I">INNU</w>
+     <lb xml:id="fol_59r.8" n="8"/><w part="F">MERABILIA</w> DEINDE SAECULA REPETENDI
+     <lb xml:id="fol_59r.9" n="9"/>SINT ABSIT INQUAM UT NOS ISTA <w part="I">CREDA</w>
+     <lb xml:id="fol_59r.10" n="10"/><w part="F">MUS</w> SEMEL ENIM <choice><abbr>X&#772;P&#772;S&#772;</abbr><expan>CHR<ex>ISTU</ex>S</expan></choice>&#183; MORTUUS EST
+     <lb xml:id="fol_59r.11" n="11"/>PRO PECCATIS NOSTRIS SURGENS AUTEM
+     <lb xml:id="fol_59r.12" n="12"/>A MORTUIS TAM NON MORITUR ET MORS
+     <lb xml:id="fol_59r.13" n="13"/>EI ULTRA NON DOMINABITUR ET NOS <supplied reason="lost">POST</supplied>
+     <lb xml:id="fol_59r.14" n="14"/>RESURRECTIONEM SEMPER CUM <choice><abbr>D&#772;N&#772;O&#772;</abbr><expan>D<ex>OMI</ex>NO</expan></choice>
+     <lb xml:id="fol_59r.15" n="15"/>ERIMUS CUI MODO DICIMUS QUOD SACER
+     <lb xml:id="fol_59r.16" n="16"/>AMMONET <app><rdg wit="#CSEL40">ADMONET</rdg></app> PSALMUS TU <choice><abbr>D&#772;N&#772;E&#772;</abbr><expan>D<ex>OMI</ex>NE</expan></choice> SERUABIS
+     <lb xml:id="fol_59r.17" n="17"/>NOS <supplied reason="lost">ET</supplied> CUSTODIES NOS A GENERATIONE
+     <lb xml:id="fol_59r.18" n="18"/>HAC ET IN AETERNUM SATIS AUTEM ISTIS
+     <lb xml:id="fol_59r.19" n="19"/>EXISTIMO CONUENIRE QUOD SEQUITUR 
+     <lb xml:id="fol_59r.20" n="20"/>IN CURCUITU IMPII <app><rdg wit="#CSEL40">INPII</rdg></app> AMBULABUNT NON
+     <lb xml:id="fol_59r.21" n="21"/>QUIA PER CIRCULOS QUOS OPINANTUR
+     <lb xml:id="fol_59r.22" n="22"/>EORUM UITA EST RECURSURA SED <supplied reason="lost">QUIA <w part="I">MO</w></supplied>
+     <lb xml:id="fol_59r.23" n="23"/><w part="F">DO</w> TALIS EST ERRORIS EORUM <supplied reason="lost">UIA ID EST</supplied>
+     <lb xml:id="fol_59r.24" n="24"/>FALSA DOCTRINA <note type="scholion" place="margin" subtype="chapter" n="15">XV</note> QUID AUTEM <supplied reason="lost">MIRUM</supplied>
+     <lb xml:id="fol_59r.25" n="25"/>EST SI IN <supplied reason="lost">HIS</supplied> <choice><abbr>CIRCUITIB&#183;</abbr><expan>CIRCUITIB<ex>US</ex></expan></choice> ERRANTES <supplied reason="lost">NEC <w part="I">ADI</w></supplied>
+     <lb xml:id="fol_59r.26" n="26"/><w part="F">TUM</w> <supplied reason="lost">NEC EXITUM</supplied> INUENIUNT QUIA <supplied reason="lost">GENUS</supplied>
+     <lb xml:id="fol_59r.27" n="27"/>HUMANUM <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> <supplied reason="lost">ISTA NOSTRA MORTALITAS</supplied>
+     <lb xml:id="fol_59r.28" n="28"/>NEC QUO IN<supplied reason="lost">ITIO COEPTA SIT</supplied> SCIUNT NEC
+     <lb xml:id="fol_59r.29" n="29"/>QUO FINE CLAUD<supplied reason="lost">ATUR QUANDO</supplied> QUID<supplied reason="lost">EM</supplied>
+     <lb xml:id="fol_59r.30" n="30"/>ALTITUDINEM DEI PEN<supplied reason="lost">ETRARE NON <w part="I">POS</w></supplied>
     </ab> 
    </div>
    
    
    <div n="fol_59v" type="edition">
     <ab>
-     <lb xml:id="fol_59v.1" n="1"/>
+     <lb xml:id="fol_59v.1" n="1"/><w part="F">SUNT</w>
      <lb xml:id="fol_59v.2" n="2"/> 
      <lb xml:id="fol_59v.3" n="3"/>
      <lb xml:id="fol_59v.4" n="4"/>
