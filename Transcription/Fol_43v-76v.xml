@@ -1255,43 +1255,43 @@
    
    <div n="fol_59v" type="edition">
     <ab>
-     <lb xml:id="fol_59v.1" n="1"/><w part="F">SUNT</w>
-     <lb xml:id="fol_59v.2" n="2"/> 
-     <lb xml:id="fol_59v.3" n="3"/>
-     <lb xml:id="fol_59v.4" n="4"/>
-     <lb xml:id="fol_59v.5" n="5"/>
-     <lb xml:id="fol_59v.6" n="6"/>
-     <lb xml:id="fol_59v.7" n="7"/>
-     <lb xml:id="fol_59v.8" n="8"/>
-     <lb xml:id="fol_59v.9" n="9"/>
-     <lb xml:id="fol_59v.10" n="10"/>
-     <lb xml:id="fol_59v.11" n="11"/>
-     <lb xml:id="fol_59v.12" n="12"/>
-     <lb xml:id="fol_59v.13" n="13"/>
-     <lb xml:id="fol_59v.14" n="14"/>
-     <lb xml:id="fol_59v.15" n="15"/>
-     <lb xml:id="fol_59v.16" n="16"/>
-     <lb xml:id="fol_59v.17" n="17"/>
-     <lb xml:id="fol_59v.18" n="18"/>
-     <lb xml:id="fol_59v.19" n="19"/>
-     <lb xml:id="fol_59v.20" n="20"/>
-     <lb xml:id="fol_59v.21" n="21"/>
-     <lb xml:id="fol_59v.22" n="22"/>
-     <lb xml:id="fol_59v.23" n="23"/>
-     <lb xml:id="fol_59v.24" n="24"/>
-     <lb xml:id="fol_59v.25" n="25"/>
-     <lb xml:id="fol_59v.26" n="26"/>
-     <lb xml:id="fol_59v.27" n="27"/>
-     <lb xml:id="fol_59v.28" n="28"/>
-     <lb xml:id="fol_59v.29" n="29"/>
-     <lb xml:id="fol_59v.30" n="30"/>
+     <lb xml:id="fol_59v.1" n="1"/><w part="F">SUNT</w> QUAM <app><rdg wit="#CSEL40">QUA</rdg></app> CUM IPSI COATERNUS <app><rdg wit="#CSEL40">IPSE SIT AETERNUS</rdg></app>
+     <lb xml:id="fol_59v.2" n="2"/>ET SINE INITIO AB ALIQUO TAMEN INITIO
+     <lb xml:id="fol_59v.3" n="3"/>EXORSUS EST TEMPORA ET HOMINEM
+     <lb xml:id="fol_59v.4" n="4"/>QUEM NUMQUAM ANTEA FECERAT FECIT
+     <lb xml:id="fol_59v.5" n="5"/>IN TEMPORE NON TAMEN NOUO ET <choice><abbr><w part="I">REPE &#772;</w>
+     <lb xml:id="fol_59v.6" n="6"/><w part="F">TINO</w></abbr><expan>REPE<ex>N</ex>TINO</expan></choice> SED IMMUTABILI <app><rdg wit="#CSEL40">INMUTABILI</rdg></app> AETERNOQUE
+     <lb xml:id="fol_59v.7" n="7"/>CONSILIO QUIS HANC UALEAT <choice><abbr>ALTITUDINE &#772;</abbr><expan>ALTITUDINE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_59v.8" n="8"/>INUESTIGABILE <app><rdg wit="#CSEL40">INUESTIGABILEM</rdg></app> UESTIGARE ET <w part="I">INSCRUTA</w>
+     <lb xml:id="fol_59v.9" n="9"/><w part="F">BILEM</w> PERSCRUTARI SECUNDUM QUAM
+     <lb xml:id="fol_59v.10" n="10"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> HOMINEM TEMPORALEM ANTE <choice><abbr>QUE &#772;</abbr><expan>QUE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_59v.11" n="11"/>NEMO UMQUAM HOMINUM FUIT NON
+     <lb xml:id="fol_59v.12" n="12"/>MUTABILI UOLUNTATE IN TEMPORE <w part="I">CON</w>
+     <lb xml:id="fol_59v.13" n="13"/><w part="F">DIDIT</w> ET GENUS HUMANUM EX UNO <w part="I">MUL</w>
+     <lb xml:id="fol_59v.14" n="14"/><w part="F">TIPLICAUIT</w> QUANDO QUIDEM PSALMUS
+     <lb xml:id="fol_59v.15" n="15"/>IPSE CUM PRAEMISISSET <add place="above">AT</add>Q&#183; <app><rdg wit="#CSEL40">ADQUE</rdg></app> DIXISSET TU
+     <lb xml:id="fol_59v.16" n="16"/><choice><abbr>D&#772;N&#772;E&#772;</abbr><expan>D<ex>OMI</ex>NE</expan></choice> SERUABIS NOS ET CUSTODIES NOS
+     <lb xml:id="fol_59v.17" n="17"/>A GENERATIONE HAC ET IN AETERNUM
+     <lb xml:id="fol_59v.18" n="18"/>AC DEINDE REPERCUSSISS<del rend="strikethrough">E</del>ET EOS IN <w part="I">QUO</w>
+     <lb xml:id="fol_59v.19" n="19"/><w part="F">RUM</w> STULTA IMPIAQUE DOCTRINA <w part="I">NUL</w>
+     <lb xml:id="fol_59v.20" n="20"/><w part="F">LA</w> LIBERATIONIS ET BEATITUDINIS <w part="I">ANI</w>
+     <lb xml:id="fol_59v.21" n="21"/><w part="F">MAE</w> SERUATUR AETERNITAS CONTINUO
+     <lb xml:id="fol_59v.22" n="22"/>SUBICIENS IN CIRCUITU IMPII <w part="I">AMBULA</w>
+     <lb xml:id="fol_59v.23" n="23"/><w part="F">BUNT</w> TAMQUAM EI DICERETUR QUID
+     <lb xml:id="fol_59v.24" n="24"/>ERGO TU CREDIS SENTIS INTELLEGIS <choice><abbr><w part="I">NU &#772;</w>
+     <lb xml:id="fol_59v.25" n="25"/><w part="F">QUIDNAM</w></abbr><expan>NU<ex>M</ex>QUIDNAM</expan></choice> EXISTIMANDUM EST <w part="I">SUBI</w>
+     <lb xml:id="fol_59v.26" n="26"/><w part="F">TO</w> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice>&#183; PLACUISSE HOMINEM FACERE <choice><abbr>QUE &#772;</abbr><expan>QUE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_59v.27" n="27"/>NUMQUAM ANTE<add place="above">A</add> INFINITA RETRO <w part="I">AE</w>
+     <lb xml:id="fol_59v.28" n="28"/><w part="F">TERNITATE</w> FECISSET CUI NIHIL NOUI <w part="I">ACCI</w>
+     <lb xml:id="fol_59v.29" n="29"/><w part="F">DERE</w> POTEST IN QUO MUTABILE ALIQUID
+     <lb xml:id="fol_59v.30" n="30"/>NON EST CONTINUO RESPONDIT AD <choice><abbr>IPSU &#772;</abbr><expan>IPSU<ex>M</ex></expan></choice>
     </ab> 
    </div>
    
    
    <div n="fol_60r" type="edition">
     <ab>
-     <lb xml:id="fol_60r.1" n="1"/>
+     <lb xml:id="fol_60r.1" n="1"/>DEUM
      <lb xml:id="fol_60r.2" n="2"/> 
      <lb xml:id="fol_60r.3" n="3"/>
      <lb xml:id="fol_60r.4" n="4"/>
