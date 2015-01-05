@@ -1291,36 +1291,36 @@
    
    <div n="fol_60r" type="edition">
     <ab>
-     <lb xml:id="fol_60r.1" n="1"/>DEUM
-     <lb xml:id="fol_60r.2" n="2"/> 
-     <lb xml:id="fol_60r.3" n="3"/>
-     <lb xml:id="fol_60r.4" n="4"/>
-     <lb xml:id="fol_60r.5" n="5"/>
-     <lb xml:id="fol_60r.6" n="6"/>
-     <lb xml:id="fol_60r.7" n="7"/>
-     <lb xml:id="fol_60r.8" n="8"/>
-     <lb xml:id="fol_60r.9" n="9"/>
-     <lb xml:id="fol_60r.10" n="10"/>
-     <lb xml:id="fol_60r.11" n="11"/>
-     <lb xml:id="fol_60r.12" n="12"/>
-     <lb xml:id="fol_60r.13" n="13"/>
-     <lb xml:id="fol_60r.14" n="14"/>
-     <lb xml:id="fol_60r.15" n="15"/>
-     <lb xml:id="fol_60r.16" n="16"/>
-     <lb xml:id="fol_60r.17" n="17"/>
-     <lb xml:id="fol_60r.18" n="18"/>
-     <lb xml:id="fol_60r.19" n="19"/>
-     <lb xml:id="fol_60r.20" n="20"/>
-     <lb xml:id="fol_60r.21" n="21"/>
-     <lb xml:id="fol_60r.22" n="22"/>
-     <lb xml:id="fol_60r.23" n="23"/>
-     <lb xml:id="fol_60r.24" n="24"/>
-     <lb xml:id="fol_60r.25" n="25"/>
-     <lb xml:id="fol_60r.26" n="26"/>
-     <lb xml:id="fol_60r.27" n="27"/>
-     <lb xml:id="fol_60r.28" n="28"/>
-     <lb xml:id="fol_60r.29" n="29"/>
-     <lb xml:id="fol_60r.30" n="30"/>
+     <lb xml:id="fol_60r.1" n="1"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>&#183; LOQUENS SECUNDUM <choice><abbr>ALTITUDINE &#772;</abbr><expan>ALTITUDINE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_60r.2" n="2"/>TUAM MULTIPLICASTI FILIOS <choice><abbr>HOMINU &#772;</abbr><expan>HOMINU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_60r.3" n="3"/>SENTIA<add place="above">N</add>T INQUIT HOMINES QUOD PUTA<hi rend="ligature">NT</hi>
+     <lb xml:id="fol_60r.4" n="4"/>ET QUOD EIS PLACET OPINENTUR ET <w part="I">DISPU</w>
+     <lb xml:id="fol_60r.5" n="5"/><w part="F">TENT</w> SECUNDUM ALTITUDINEM TUAM
+     <lb xml:id="fol_60r.6" n="6"/>QUAM NULLUS POTEST NOSSE <choice><abbr>HOMINU &#772;</abbr><expan>HOMINU<ex>M</ex></expan></choice> <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="fol_60r.7" n="7"/>MULTIPLICASTI FILIOS HOMINUM UALDE
+     <lb xml:id="fol_60r.8" n="8"/>QUIPPE ALTUM EST ET SEMPER FUISSE ET
+     <lb xml:id="fol_60r.9" n="9"/>HOMINEM <choice><sic>QUE<del rend="strikethrough">NUMQUE</del></sic><corr>QUE<add place="above">M</add></corr></choice> NUMQUAM
+     <lb xml:id="fol_60r.10" n="10"/>FECERAT EX QUO <app><rdg wit="#CSEL40">ALIQUO</rdg></app> TEMPORE PRIMUM <w part="I">FA</w>
+     <lb xml:id="fol_60r.11" n="11"/><w part="F">CERE</w> UOLUISSE NEC CONSILIUM <choice><abbr><w part="I">UOLU &#772;</w>
+     <lb xml:id="fol_60r.12" n="12"/><w part="F">TATEMQ&#183;</w></abbr><expan>UOLU<ex>N</ex>TATEMQ<ex>UE</ex></expan></choice> MUTASSE <note type="scholion" place="margin" subtype="chapter" n="16">XVI</note> EGO QUIDEM SICUT
+     <lb xml:id="fol_60r.13" n="13"/><choice><abbr>D&#772;N&#772;M&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>M</expan></choice>&#183; <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> ALIQUANDO <choice><abbr>D&#772;N&#772;M&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>M</expan></choice>&#183; NON <w part="I">FUIS</w>
+     <lb xml:id="fol_60r.14" n="14"/><w part="F">SE</w> DICERE NON AUDEO ITA HOMINEM
+     <lb xml:id="fol_60r.15" n="15"/>NUMQUAM ANTEA FUISSE ET EX <w part="I">QUO</w>
+     <lb xml:id="fol_60r.16" n="16"/><w part="F">DAM</w> TEMPORE PRIMUM HOMINEM <w part="I">CREA</w>
+     <lb xml:id="fol_60r.17" n="17"/><w part="F">TUM</w> ESSE DUBITARE NON DEBEO SED
+     <lb xml:id="fol_60r.18" n="18"/>CUM COGITO CUIUS REI <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> SEMPER <note type="scholion" place="margin"><!--?--></note>
+     <lb xml:id="fol_60r.19" n="19"/>FUERIT SI SEMPER CREATURA NON FUIT
+     <lb xml:id="fol_60r.20" n="20"/>AFFIRMARE <app><rdg wit="#CSEL40">ADFIRMARE</rdg></app> ALIQUID PERTIMESCO QUIA
+     <lb xml:id="fol_60r.21" n="21"/>ET ME IPSUM INTUEOR ET SCRIBTUM <app><rdg wit="#CSEL40">SCRIPTUM</rdg></app>
+     <lb xml:id="fol_60r.22" n="22"/>ESSE RECOLO QUIS HOMINUM POTEST <w part="I">SCI</w>
+     <lb xml:id="fol_60r.23" n="23"/><w part="F">RE</w> CONSILIUM DEI AUT QUIS POTERIT <w part="I">CO</w>
+     <lb xml:id="fol_60r.24" n="24"/><w part="F">GITARE</w> QUID UELIT <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>&#183; <!--a question mark?--> COGITATIONES
+     <lb xml:id="fol_60r.25" n="25"/>ENIM MORTALIUM TIMIDAE ET <w part="I">INCER</w>
+     <lb xml:id="fol_60r.26" n="26"/><w part="F">TAE</w> ADINUENTIONES NOSTRAE; <w part="I">CORRUP</w>
+     <lb xml:id="fol_60r.27" n="27"/><w part="F">TIBILE</w> ENIM CORPUS <choice><sic>AGGRA<del rend="strikethrough">B</del>AT</sic><corr>AGGRA<add place="above">U</add>AT</corr></choice> <app><rdg wit="#CSEL40">ADGRAUAT</rdg></app> <choice><abbr>ANIMA &#772;</abbr><expan>ANIMA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_60r.28" n="28"/>ET DEPRIMIT TERRENA INHABITATIO <choice><abbr><w part="I">SE &#772;</w>
+     <lb xml:id="fol_60r.29" n="29"/><w part="F">SUM</w></abbr><expan>SE<ex>N</ex>SUM</expan></choice> MULTA COGITANTEM EX HIS IGIT<hi rend="ligature">UR</hi>
+     <lb xml:id="fol_60r.30" n="30"/>QUAE IN HAC TERRENA INHABITATIONE
     </ab> 
    </div>
    
