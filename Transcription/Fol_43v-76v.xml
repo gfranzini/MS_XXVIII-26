@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+ <?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -1327,36 +1327,36 @@
    
    <div n="fol_60v" type="edition">
     <ab>
-     <lb xml:id="fol_60v.1" n="1"/>
-     <lb xml:id="fol_60v.2" n="2"/> 
-     <lb xml:id="fol_60v.3" n="3"/>
-     <lb xml:id="fol_60v.4" n="4"/>
-     <lb xml:id="fol_60v.5" n="5"/>
-     <lb xml:id="fol_60v.6" n="6"/>
-     <lb xml:id="fol_60v.7" n="7"/>
-     <lb xml:id="fol_60v.8" n="8"/>
-     <lb xml:id="fol_60v.9" n="9"/>
-     <lb xml:id="fol_60v.10" n="10"/>
-     <lb xml:id="fol_60v.11" n="11"/>
-     <lb xml:id="fol_60v.12" n="12"/>
-     <lb xml:id="fol_60v.13" n="13"/>
-     <lb xml:id="fol_60v.14" n="14"/>
-     <lb xml:id="fol_60v.15" n="15"/>
-     <lb xml:id="fol_60v.16" n="16"/>
-     <lb xml:id="fol_60v.17" n="17"/>
-     <lb xml:id="fol_60v.18" n="18"/>
-     <lb xml:id="fol_60v.19" n="19"/>
-     <lb xml:id="fol_60v.20" n="20"/>
-     <lb xml:id="fol_60v.21" n="21"/>
-     <lb xml:id="fol_60v.22" n="22"/>
-     <lb xml:id="fol_60v.23" n="23"/>
-     <lb xml:id="fol_60v.24" n="24"/>
-     <lb xml:id="fol_60v.25" n="25"/>
-     <lb xml:id="fol_60v.26" n="26"/>
-     <lb xml:id="fol_60v.27" n="27"/>
-     <lb xml:id="fol_60v.28" n="28"/>
-     <lb xml:id="fol_60v.29" n="29"/>
-     <lb xml:id="fol_60v.30" n="30"/>
+     <lb xml:id="fol_60v.1" n="1"/>MULTA COGITO IDEO UTIQUE MULTA
+     <lb xml:id="fol_60v.2" n="2"/>QUIA UNUM QUOD EX ILLIS UEL PRAETER
+     <lb xml:id="fol_60v.3" n="3"/>ILLA QUOD FORTE NON COGITO UERUM EST 
+     <lb xml:id="fol_60v.4" n="4"/>INUENIRE NON POSSUM<add place="above">US</add> SI DIXERO <w part="I">SEM</w>
+     <lb xml:id="fol_60v.5" n="5"/><w part="F">PER</w> FUISSE CREATURAM CUIUS <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> ESSET
+     <lb xml:id="fol_60v.6" n="6"/>QUI SEMPER EST <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>&#183; NEC <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>&#183; UMQUAM
+     <lb xml:id="fol_60v.7" n="7"/>NON FUIT SED NUNC ILLAM NUNC ALIAM
+     <lb xml:id="fol_60v.8" n="8"/>PER ALIA <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ALIA TEMPORUM SPATIA NE <w part="I">ALI</w>
+     <lb xml:id="fol_60v.9" n="9"/><w part="F">QUAM</w> CREATORI COATERNAM ESSE <w part="I">DI</w>
+     <lb xml:id="fol_60v.10" n="10"/><w part="F">CAMUS</w> QUOD FIDES RATIOQUE SANA <choice><abbr><w part="I">CO &#772;</w>
+     <lb xml:id="fol_60v.11" n="11"/><w part="F">DEMNAT</w></abbr><expan>CO<ex>N</ex>DEMNAT</expan></choice>; CAUENDUM EST NE SIT <w part="I">ABSUR</w>
+     <lb xml:id="fol_60v.12" n="12"/><supplied reason="lost"><w part="F">DUM</w> ET A LUCE</supplied> UERITATIS ALIENUM <w part="I">MOR</w>
+     <lb xml:id="fol_60v.13" n="13"/><supplied reason="lost"><w part="F">TALEM</w></supplied> QUIDEM PER UICES TEMPORUM
+     <lb xml:id="fol_60v.14" n="14"/><supplied reason="lost">SEMPER</supplied> FUISSE CREATURAM <choice><abbr>DECEDENTE &#772;</abbr><expan>DECEDENTE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_60v.15" n="15"/><supplied reason="lost">ALIA</supplied>M ALIAM SUCCEDENTEM <w part="I">IMMORTA</w>
+     <lb xml:id="fol_60v.16" n="16"/><supplied reason="lost"><w part="F">LEM</w> UERO</supplied> NON ESSE COEPISSE NISI CUM
+     <lb xml:id="fol_60v.17" n="17"/><supplied reason="lost">AD NOSTRUM</supplied> SAECULUM UENTUM EST
+     <lb xml:id="fol_60v.18" n="18"/><supplied reason="lost">QUANDO ET</supplied> ANGELI CREATI SUNT SI EOS
+     <lb xml:id="fol_60v.19" n="19"/><supplied reason="lost">RECTE LUX</supplied>ILLA PRIMUM FACTA SIGNIFICAT
+     <lb xml:id="fol_60v.20" n="20"/><supplied reason="lost">AUT ILLUD</supplied> POTIUS CAELUM DE QUO <choice><abbr>DICTU &#772;</abbr><expan>DICTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_60v.21" n="21"/><supplied reason="lost">EST IN PR</supplied>INCIPIO FECIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> CAELUM<!--AD--> ET <choice><abbr>TERRA &#772;</abbr><expan>TERRA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_60v.22" n="22"/><supplied reason="lost">CUM TA</supplied>MEN NON FUERINT ANTEQUAM
+     <lb xml:id="fol_60v.23" n="23"/><supplied reason="lost">FIERE</supplied>NT NE IMMORTALES SI SEMPER <w part="I">FUIS</w>
+     <lb xml:id="fol_60v.24" n="24"/><supplied reason="lost"><w part="F">SE</w> DICU</supplied>NTUR <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> COATERNI ESSE <w part="I">CREDA &#772;</w> <!--cannot add CHOICE tag or file will not validate -->
+     <lb xml:id="fol_60v.25" n="25"/><supplied reason="lost"><w part="F">TUR</w> SI</supplied> AUTEM DIXERO NON IN TEMPORE
+     <lb xml:id="fol_60v.26" n="26"/><supplied reason="lost">CREATOS</supplied> ANGELOS SED ANTE OMNIA <w part="I">TEM</w>
+     <lb xml:id="fol_60v.27" n="27"/><supplied reason="lost"><w part="F">PORA</w> ET IPSOS FUISEE</supplied> QUORUM <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>
+     <lb xml:id="fol_60v.28" n="28"/><supplied reason="lost">ESSET QUI NUM</supplied>QUAM NISI <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice> FUIT
+     <lb xml:id="fol_60v.29" n="29"/><supplied reason="lost">QUAERETUR A ME ET</supplied>IAM SI ANTE OMNIA
+     <lb xml:id="fol_60v.30" n="30"/><supplied reason="lost">TEMPORA FAC</supplied>TI SUNT UTRUM SEMPER
     </ab> 
    </div>
    
