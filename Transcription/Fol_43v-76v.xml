@@ -1314,7 +1314,7 @@
      <lb xml:id="fol_60r.21" n="21"/>ET ME IPSUM INTUEOR ET SCRIBTUM <app><rdg wit="#CSEL40">SCRIPTUM</rdg></app>
      <lb xml:id="fol_60r.22" n="22"/>ESSE RECOLO QUIS HOMINUM POTEST <w part="I">SCI</w>
      <lb xml:id="fol_60r.23" n="23"/><w part="F">RE</w> CONSILIUM DEI AUT QUIS POTERIT <w part="I">CO</w>
-     <lb xml:id="fol_60r.24" n="24"/><w part="F">GITARE</w> QUID UELIT <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>&#183; <!--a question mark?--> COGITATIONES
+     <lb xml:id="fol_60r.24" n="24"/><w part="F">GITARE</w> QUID UELIT <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>&#183;<add place="above">?</add> COGITATIONES
      <lb xml:id="fol_60r.25" n="25"/>ENIM MORTALIUM TIMIDAE ET <w part="I">INCER</w>
      <lb xml:id="fol_60r.26" n="26"/><w part="F">TAE</w> ADINUENTIONES NOSTRAE; <w part="I">CORRUP</w>
      <lb xml:id="fol_60r.27" n="27"/><w part="F">TIBILE</w> ENIM CORPUS <choice><sic>AGGRA<del rend="strikethrough">B</del>AT</sic><corr>AGGRA<add place="above">U</add>AT</corr></choice> <app><rdg wit="#CSEL40">ADGRAUAT</rdg></app> <choice><abbr>ANIMA &#772;</abbr><expan>ANIMA<ex>M</ex></expan></choice>
@@ -1390,7 +1390,7 @@
      <lb xml:id="fol_61r.25" n="25"/>OMNI TEMPORE FUERUNT <supplied reason="lost">QUANDO <w part="I">QUI</w></supplied>
      <lb xml:id="fol_61r.26" n="26"/><w part="F">DEM</w> CUM ILLIS FACTA SUNT TEMP<supplied reason="lost">ORA QUIS</supplied> <note type="scholion" place="margin"><!--?--></note>
      <lb xml:id="fol_61r.27" n="27"/>AUTEM DICAT NON SEMPER <supplied reason="lost">FUIT QUOD</supplied>
-     <lb xml:id="fol_61r.28" n="28"/>OMNI TEMPORE FUIT? SED SI HOC <supplied reason="lost"><w part="I">RESPON</w></supplied>
+     <lb xml:id="fol_61r.28" n="28"/>OMNI TEMPORE FUIT<add place="above">?</add> SED SI HOC <supplied reason="lost"><w part="I">RESPON</w></supplied>
      <lb xml:id="fol_61r.29" n="29"/><w part="F">DERO</w> DICETUR MIHI; QUO M<supplied reason="lost">ODO ERGO NON</supplied>
      <lb xml:id="fol_61r.30" n="30"/>COAETERNI CREATORI <supplied reason="lost">SI SEMPER ILLE SI <w part="I">SEM</w></supplied>
      
@@ -1400,43 +1400,43 @@
    
    <div n="fol_61v" type="edition">
     <ab>
-     <lb xml:id="fol_61v.1" n="1"/><w part="F">PER</w>
-     <lb xml:id="fol_61v.2" n="2"/> 
-     <lb xml:id="fol_61v.3" n="3"/>
-     <lb xml:id="fol_61v.4" n="4"/>
-     <lb xml:id="fol_61v.5" n="5"/>
-     <lb xml:id="fol_61v.6" n="6"/>
-     <lb xml:id="fol_61v.7" n="7"/>
-     <lb xml:id="fol_61v.8" n="8"/>
-     <lb xml:id="fol_61v.9" n="9"/>
-     <lb xml:id="fol_61v.10" n="10"/>
-     <lb xml:id="fol_61v.11" n="11"/>
-     <lb xml:id="fol_61v.12" n="12"/>
-     <lb xml:id="fol_61v.13" n="13"/>
-     <lb xml:id="fol_61v.14" n="14"/>
-     <lb xml:id="fol_61v.15" n="15"/>
-     <lb xml:id="fol_61v.16" n="16"/>
-     <lb xml:id="fol_61v.17" n="17"/>
-     <lb xml:id="fol_61v.18" n="18"/>
-     <lb xml:id="fol_61v.19" n="19"/>
-     <lb xml:id="fol_61v.20" n="20"/>
-     <lb xml:id="fol_61v.21" n="21"/>
-     <lb xml:id="fol_61v.22" n="22"/>
-     <lb xml:id="fol_61v.23" n="23"/>
-     <lb xml:id="fol_61v.24" n="24"/>
-     <lb xml:id="fol_61v.25" n="25"/>
-     <lb xml:id="fol_61v.26" n="26"/>
-     <lb xml:id="fol_61v.27" n="27"/>
-     <lb xml:id="fol_61v.28" n="28"/>
-     <lb xml:id="fol_61v.29" n="29"/>
-     <lb xml:id="fol_61v.30" n="30"/>
+     <lb xml:id="fol_61v.1" n="1"/><w part="F">PER</w> ILLI FUERUNT<add place="above">?</add> QUO MODO ETIAM
+     <lb xml:id="fol_61v.2" n="2"/>CREATI DICENDJ SUNT SI SEMPER <w part="I">FUIS</w>
+     <lb xml:id="fol_61v.3" n="3"/><w part="F">SE</w> INTELLEGUNTUR<add place="above">?</add>AD HOC QUID <choice><abbr><w part="I">RESPO &#772;</w>
+     <lb xml:id="fol_61v.4" n="4"/><w part="F">DEBITUR</w></abbr><expan>RESPO<ex>N</ex>DEBITUR</expan></choice> AN DICENDUM EST ET SEMPER
+     <lb xml:id="fol_61v.5" n="5"/>FUISSE <app><rdg wit="#CSEL40">SEMPER EOS FUISSE</rdg></app> QUONIAM OMNI TEMPORE <w part="I">FUE</w>
+     <lb xml:id="fol_61v.6" n="6"/><w part="F">RUNT</w> QUI CUM TEMPORE FACTI SUNT<add place="above">?</add> A<hi rend="ligature">UT</hi>
+     <lb xml:id="fol_61v.7" n="7"/>CUM <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> FACTA SUNT <add place="above">T</add>EMPORA ET <choice><abbr>TAME &#772;</abbr><expan>TAME<ex>N</ex></expan></choice>
+     <lb xml:id="fol_61v.8" n="8"/>CREATOS; <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM ET IPSA TEMPORA
+     <lb xml:id="fol_61v.9" n="9"/><note type="scholion" place="margin"><!--?--></note> CREATA ESSE <choice><sic>NEGAUIMUS</sic><corr>NEGABIMUS</corr></choice> QUAMUIS <w part="I">OM</w>
+     <lb xml:id="fol_61v.10" n="10"/><w part="F">NI</w> TEMPORE TEMPUS FUISSE NEMO <w part="I">AMBI</w>
+     <lb xml:id="fol_61v.11" n="11"/><w part="F">GAT</w>: NAM SI NON OMNI TEMPORE FUIT
+     <lb xml:id="fol_61v.12" n="12"/>TEMPUS ERAT ERGO TEMPUS QUANDO
+     <lb xml:id="fol_61v.13" n="13"/>NULLUM ERAT TEMPUS QUIS HOC <w part="I">STULTIS</w>
+     <lb xml:id="fol_61v.14" n="14"/><w part="F">SIMUS</w> DIXERIT&#183;<add place="above">?</add> POSSUMUS ENIM <w part="I">REC</w>
+     <lb xml:id="fol_61v.15" n="15"/><w part="F">TE</w> DICERE ERAT TEMPUS QUANDO NON
+     <lb xml:id="fol_61v.16" n="16"/>ERAT ROMA ERAT TEMPUS QUANDO NON
+     <lb xml:id="fol_61v.17" n="17"/>ERAT HIERUSALEM ERAT TEMPUS <w part="I">QUAN</w>
+     <lb xml:id="fol_61v.18" n="18"/><w part="F">DO</w> NON ERAT ABRAHAM ERAT TEMPUS
+     <lb xml:id="fol_61v.19" n="19"/>QUANDO NON ERAT HOMO ET SI QUID <w part="I">HU</w>
+     <lb xml:id="fol_61v.20" n="20"/><w part="F">IUS</w> MODI POSTREMO SI NON CUM INITIO
+     <lb xml:id="fol_61v.21" n="21"/>TEMPORIS SED POST <choice><sic>ALIQU<del rend="strikethrough">I</del>D</sic><corr>ALIQU<add place="above">O</add>D</corr></choice> TEMPUS <w part="I">FAC</w>
+     <lb xml:id="fol_61v.22" n="22"/><w part="F">TUS</w> EST MUNDUS POSSUMUS DICERE ERAT
+     <lb xml:id="fol_61v.23" n="23"/>TEMPUS QUANDO NON ERAT MUNDUS AT
+     <lb xml:id="fol_61v.24" n="24"/>UERO ERAT TEMPUS QUANDO NULLUM
+     <lb xml:id="fol_61v.25" n="25"/>ERAT TEMPUS TAM INCONUENIENTER
+     <lb xml:id="fol_61v.26" n="26"/>DICIMUS AC SI QUISQUAM DICAT ERAT <w part="I">HO</w>
+     <lb xml:id="fol_61v.27" n="27"/><w part="F">MO</w> QUANDO NULLUS ERAT HOMO AUT
+     <lb xml:id="fol_61v.28" n="28"/>ERAT ISTE MUNDUS QUANDO ISTE <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
+     <lb xml:id="fol_61v.29" n="29"/>ERAT MUNDUS SI ENUM DE ALIO <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ALIO
+     <lb xml:id="fol_61v.30" n="30"/>INTELLEGATUR POTEST DICI ALIQUO <w part="I">MO</w>
     </ab> 
    </div>
    
    
    <div n="fol_62r" type="edition">
     <ab>
-     <lb xml:id="fol_62r.1" n="1"/>
+     <lb xml:id="fol_62r.1" n="1"/><w part="F">DO</w>
      <lb xml:id="fol_62r.2" n="2"/> 
      <lb xml:id="fol_62r.3" n="3"/>
      <lb xml:id="fol_62r.4" n="4"/>
