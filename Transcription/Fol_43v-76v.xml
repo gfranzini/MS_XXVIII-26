@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -929,7 +929,7 @@
    </div>
    
    
-   <div n="fol_55r" type="edition">
+   <div n="fol_55r" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_55r.1" n="1"/>TEMUS UNDE
      <lb xml:id="fol_55r.2" n="2"/> 
@@ -1363,43 +1363,44 @@
    
    <div n="fol_61r" type="edition">
     <ab>
-     <lb xml:id="fol_61r.1" n="1"/>
-     <lb xml:id="fol_61r.2" n="2"/> 
-     <lb xml:id="fol_61r.3" n="3"/>
-     <lb xml:id="fol_61r.4" n="4"/>
-     <lb xml:id="fol_61r.5" n="5"/>
-     <lb xml:id="fol_61r.6" n="6"/>
-     <lb xml:id="fol_61r.7" n="7"/>
-     <lb xml:id="fol_61r.8" n="8"/>
-     <lb xml:id="fol_61r.9" n="9"/>
-     <lb xml:id="fol_61r.10" n="10"/>
-     <lb xml:id="fol_61r.11" n="11"/>
-     <lb xml:id="fol_61r.12" n="12"/>
-     <lb xml:id="fol_61r.13" n="13"/>
-     <lb xml:id="fol_61r.14" n="14"/>
-     <lb xml:id="fol_61r.15" n="15"/>
-     <lb xml:id="fol_61r.16" n="16"/>
-     <lb xml:id="fol_61r.17" n="17"/>
-     <lb xml:id="fol_61r.18" n="18"/>
-     <lb xml:id="fol_61r.19" n="19"/>
-     <lb xml:id="fol_61r.20" n="20"/>
-     <lb xml:id="fol_61r.21" n="21"/>
-     <lb xml:id="fol_61r.22" n="22"/>
-     <lb xml:id="fol_61r.23" n="23"/>
-     <lb xml:id="fol_61r.24" n="24"/>
-     <lb xml:id="fol_61r.25" n="25"/>
-     <lb xml:id="fol_61r.26" n="26"/>
-     <lb xml:id="fol_61r.27" n="27"/>
-     <lb xml:id="fol_61r.28" n="28"/>
-     <lb xml:id="fol_61r.29" n="29"/>
-     <lb xml:id="fol_61r.30" n="30"/>
+     <lb xml:id="fol_61r.1" n="1"/>POTUERINT ESSE QUI FACTI SUNT <supplied reason="lost">HIC <w part="I">RES</w></supplied>
+     <lb xml:id="fol_61r.2" n="2"/><supplied reason="lost"><w part="F">PONDENDUM</w></supplied> FORTE UIDEAT <supplied reason="lost">QUO <w part="I">MO</w></supplied>
+     <lb xml:id="fol_61r.3" n="3"/><supplied reason="lost"><w part="F">DO</w> NON</supplied> SEMPER CUM ID QUOD <supplied reason="lost">EST OMNI</supplied>
+     <lb xml:id="fol_61r.4" n="4"/>TEMPORE NON INCONUENIENTER <supplied reason="lost"><w part="I">SEM</w></supplied>
+     <lb xml:id="fol_61r.5" n="5"/><w part="F">PER</w> ESSE DICATUR <choice><abbr>USQ&#183;</abbr><expan>USQ<ex>UE</ex></expan></choice> ADEO AUTEM <supplied reason="lost">ISTI</supplied> <note type="scholion" place="margin"><!--?--></note>
+     <lb xml:id="fol_61r.6" n="6"/>OMNI TEMPORE FUERUNT UT ETIAM AN<supplied reason="lost">TE</supplied>
+     <lb xml:id="fol_61r.7" n="7"/>OMNIA T<add place="above">E</add>MPORA FACTI SINT SI TAMEN <supplied reason="lost">A <w part="I">CAE</w></supplied>
+     <lb xml:id="fol_61r.8" n="8"/><w part="F">LO</w> COEPTA SUNT TEMPORA ET ILLI <supplied reason="lost">IAM ERANT</supplied>
+     <lb xml:id="fol_61r.9" n="9"/>ANTE CAELUM AT SI TEMPUS NON <supplied reason="lost">A CAELO</supplied>
+     <lb xml:id="fol_61r.10" n="10"/>UERUM ET ANTE CAELUM FUIT NON <supplied reason="lost">QUIDEM</supplied>
+     <lb xml:id="fol_61r.11" n="11"/>IN HORIS ET <choice><abbr>DIEB&#183;</abbr><expan>DIEB<ex>US</ex></expan></choice> ET <choice><abbr>MENSIB&#183;</abbr><expan>MENSIB<ex>US</ex></expan></choice> ET ANN<supplied reason="lost">IS</supplied>
+     <lb xml:id="fol_61r.12" n="12"/>NAM <supplied reason="lost">ISTAE DI</supplied>MENSIONES TEMPORA<supplied reason="lost">LIUM</supplied>
+     <lb xml:id="fol_61r.13" n="13"/>SPATIORUM QUAE USITATAE <app><rdg wit="#CSEL40">USITATE</rdg></app> AC PROP<supplied reason="lost">RIE</supplied>
+     <lb xml:id="fol_61r.14" n="14"/>DICUNTUR TEMPORA MAN<supplied reason="lost">IFESTUM EST</supplied>
+     <lb xml:id="fol_61r.15" n="15"/>QUOD A MO<add place="above">TU</add> SIDERUM CEPERINT <app><rdg wit="#CSEL40">COEPERINT</rdg></app> U<supplied reason="lost">NDE</supplied>
+     <lb xml:id="fol_61r.16" n="16"/>ET <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; CUM HAEC INSTITUERET D<supplied reason="lost">IXIT ET SINT</supplied>
+     <lb xml:id="fol_61r.17" n="17"/>IN SIGNA ET IN TEMPORA ET IN D<supplied reason="lost">IES ET IN</supplied>
+     <lb xml:id="fol_61r.18" n="18"/>ANNOS SE<supplied reason="lost">D IN</supplied> ALIQUO <supplied reason="lost">MUTABILI MOTU</supplied>
+     <lb xml:id="fol_61r.19" n="19"/>CUIUS AL<supplied reason="lost">IUD</supplied> PRIUS ALIUD POS<supplied reason="lost">TERIUS</supplied>
+     <lb xml:id="fol_61r.20" n="20"/>PRAETERIT EO QUOD SIMUL ES<supplied reason="lost">SE NON <w part="I">POS</w></supplied>
+     <lb xml:id="fol_61r.21" n="21"/><w part="F">SUNT</w> SI ERGO ANTE CAELUM <supplied reason="lost">IN <w part="I">ANGELI</w></supplied>
+     <lb xml:id="fol_61r.22" n="22"/><w part="F">CIS</w> <choice><abbr>MOTIB&#183;</abbr><expan>MOTIB<ex>US</ex></expan></choice> TALE ALIQUID FUIT ET <supplied reason="lost">IDEO <w part="I">TEM</w></supplied>
+     <lb xml:id="fol_61r.23" n="23"/><w part="F">PUS</w> IAM FUIT <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ANGELI EX QUO <supplied reason="lost">FACTI SUNT</supplied>
+     <lb xml:id="fol_61r.24" n="24"/>TEMPORALITER MOUEBANTUR <supplied reason="lost">ETIAM SIC</supplied>
+     <lb xml:id="fol_61r.25" n="25"/>OMNI TEMPORE FUERUNT <supplied reason="lost">QUANDO <w part="I">QUI</w></supplied>
+     <lb xml:id="fol_61r.26" n="26"/><w part="F">DEM</w> CUM ILLIS FACTA SUNT TEMP<supplied reason="lost">ORA QUIS</supplied> <note type="scholion" place="margin"><!--?--></note>
+     <lb xml:id="fol_61r.27" n="27"/>AUTEM DICAT NON SEMPER <supplied reason="lost">FUIT QUOD</supplied>
+     <lb xml:id="fol_61r.28" n="28"/>OMNI TEMPORE FUIT? SED SI HOC <supplied reason="lost"><w part="I">RESPON</w></supplied>
+     <lb xml:id="fol_61r.29" n="29"/><w part="F">DERO</w> DICETUR MIHI; QUO M<supplied reason="lost">ODO ERGO NON</supplied>
+     <lb xml:id="fol_61r.30" n="30"/>COAETERNI CREATORI <supplied reason="lost">SI SEMPER ILLE SI <w part="I">SEM</w></supplied>
+     
     </ab> 
    </div>
    
    
    <div n="fol_61v" type="edition">
     <ab>
-     <lb xml:id="fol_61v.1" n="1"/>
+     <lb xml:id="fol_61v.1" n="1"/><w part="F">PER</w>
      <lb xml:id="fol_61v.2" n="2"/> 
      <lb xml:id="fol_61v.3" n="3"/>
      <lb xml:id="fol_61v.4" n="4"/>
