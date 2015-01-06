@@ -2156,43 +2156,43 @@
    
    <div n="fol_72r" type="edition">
     <ab>
-     <lb xml:id="fol_72r.1" n="1"/>EOQUE
-     <lb xml:id="fol_72r.2" n="2"/>
-     <lb xml:id="fol_72r.3" n="3"/>
-     <lb xml:id="fol_72r.4" n="4"/>
-     <lb xml:id="fol_72r.5" n="5"/>
-     <lb xml:id="fol_72r.6" n="6"/>
-     <lb xml:id="fol_72r.7" n="7"/>
-     <lb xml:id="fol_72r.8" n="8"/>
-     <lb xml:id="fol_72r.9" n="9"/>
-     <lb xml:id="fol_72r.10" n="10"/>
-     <lb xml:id="fol_72r.11" n="11"/>
-     <lb xml:id="fol_72r.12" n="12"/>
-     <lb xml:id="fol_72r.13" n="13"/>
-     <lb xml:id="fol_72r.14" n="14"/>
-     <lb xml:id="fol_72r.15" n="15"/>
-     <lb xml:id="fol_72r.16" n="16"/>
-     <lb xml:id="fol_72r.17" n="17"/>
-     <lb xml:id="fol_72r.18" n="18"/>
-     <lb xml:id="fol_72r.19" n="19"/>
-     <lb xml:id="fol_72r.20" n="20"/>
-     <lb xml:id="fol_72r.21" n="21"/>
-     <lb xml:id="fol_72r.22" n="22"/>
-     <lb xml:id="fol_72r.23" n="23"/>
-     <lb xml:id="fol_72r.24" n="24"/>
-     <lb xml:id="fol_72r.25" n="25"/>
-     <lb xml:id="fol_72r.26" n="26"/>
-     <lb xml:id="fol_72r.27" n="27"/>
-     <lb xml:id="fol_72r.28" n="28"/>
-     <lb xml:id="fol_72r.29" n="29"/>
-     <lb xml:id="fol_72r.30" n="30"/>
+     <lb xml:id="fol_72r.1" n="1"/>EOQUE PROGRESSUROS PECCANDI <w part="I">IM</w>
+     <lb xml:id="fol_72r.2" n="2"/><w part="F">MANITATE</w> <app><rdg wit="#CSEL40">INMANITATE</rdg></app> MORTALES UT TUTIUS <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app>
+     <lb xml:id="fol_72r.3" n="3"/>PACATIUS INTER SE RATIONALI <app><rdg wit="#CSEL40">RATIONALIS</rdg></app> <w part="I">UOLUNTA</w>
+     <lb xml:id="fol_72r.4" n="4"/><w part="F">TIS</w> EXPERTES BESTIAE SUI GENERIS <w part="I">UIUE</w>
+     <lb xml:id="fol_72r.5" n="5"/><w part="F">RENT</w> QUARUM EX AQUIS ET TERRIS <w part="I">PLU</w>
+     <lb xml:id="fol_72r.6" n="6"/><w part="F">RIUM</w> PULLULAUIT EXORDIUM QUAM
+     <lb xml:id="fol_72r.7" n="7"/>HOMINES QUORUM GENUS EX UNO EST
+     <lb xml:id="fol_72r.8" n="8"/>AD COMMENDANDAM CONCORDIAM
+     <lb xml:id="fol_72r.9" n="9"/>PROPAGATUM <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM UMQUAM <w part="I">IN</w>
+     <lb xml:id="fol_72r.10" n="10"/><w part="F">TER</w> SE LEONES AUT INTER SE DRACONES
+     <lb xml:id="fol_72r.11" n="11"/>QUALIA HOMINES BELLA GESSERUNT
+     <lb xml:id="fol_72r.12" n="12"/>SED PRAEUIDEBAT ETIAM GRATIA SUA <w part="I">PO</w>
+     <lb xml:id="fol_72r.13" n="13"/><w part="F">PULUM</w> PIORUM IN ADOPTIONEM <choice><abbr><w part="I">UOCA &#772;</w>
+     <lb xml:id="fol_72r.14" n="14"/><w part="F">DUM</w></abbr><expan>UOCA<ex>N</ex>DUM</expan></choice> <choice><abbr>REMISSISQ&#183;</abbr><expan>REMISSISQ<ex>UE</ex></expan></choice> PECCATIS IUSTIFICA<supplied reason="lost">TUM</supplied>
+     <lb xml:id="fol_72r.15" n="15"/><choice><abbr>S&#772;P&#772;U&#772;</abbr><expan>SP<ex>IRIT</ex>U</expan></choice>&#183; <choice><abbr>S&#772;C&#772;O&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>O</expan></choice>&#183; <choice><abbr>S&#772;C&#772;I&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>T</ex>IS</expan></choice>&#183; ANGELIS IN AETERNA PACE
+     <lb xml:id="fol_72r.16" n="16"/>SOCIANDUM NOUIS<supplied reason="lost">SIMA INIMICA <w part="I">MOR</w></supplied>
+     <lb xml:id="fol_72r.17" n="17"/><w part="F">TE</w> DESTRUCTA CUI POPULO ESSET HUIUS
+     <lb xml:id="fol_72r.18" n="18"/>REI CONSIDERATIO PROFUTURA QUOD
+     <lb xml:id="fol_72r.19" n="19"/>EX UNO HOMINE DEUS AD <choice><abbr><w part="I">COMMENDA &#772;</w>
+      <lb xml:id="fol_72r.20" n="20"/><w part="F">DUM</w></abbr><expan>COMMENDA<ex>N</ex>DUM</expan></choice> <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice> QUAM EI GRATA SIT <choice><abbr>ETIA &#772;</abbr><expan>ETIA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_72r.21" n="21"/>IN <choice><abbr>PLURIB&#183;</abbr><expan>PLURIB<ex>US</ex></expan></choice> UNITAS GENUS INSTITUISSET
+     <lb xml:id="fol_72r.22" n="22"/>HUMANUM <note type="scholion" place="margin" subtype="chapter" n="24">XXIIII</note> FECIT ERGO <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> HOMINEM
+     <lb xml:id="fol_72r.23" n="23"/>AD IMAGINEM SUAM <supplied reason="lost">TA</supplied>LEM QUIPPE ILLI
+     <lb xml:id="fol_72r.24" n="24"/>ANIMAM CREAUIT QUA PER RATIONEM
+     <lb xml:id="fol_72r.25" n="25"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INTELLEGENTIAM <choice><abbr>OMNIB&#183;</abbr><expan>OMNIB<ex>US</ex></expan></choice> ESSET <w part="I">PRAES</w>
+     <lb xml:id="fol_72r.26" n="26"/><w part="F">TANTIOR</w> <choice><abbr>ANIMAB&#183;</abbr><expan>ANIMAB<ex>US</ex></expan></choice> <app><rdg wit="#CSEL40">ANIMALIBUS</rdg></app> <choice><abbr>TERRESTRIB&#183;</abbr><expan>TERRESTRIB<ex>US</ex></expan></choice> ET <choice><abbr><w part="I">NATA</w>
+     <lb xml:id="fol_72r.27" n="27"/><w part="F">TILIB&#183;</w></abbr><expan>NATATILIB<ex>US</ex></expan></choice> ET <choice><abbr>UOLATILIB&#183;</abbr><expan>UOLATILIB<ex>US</ex></expan></choice> QUAE MENTEM HUI<hi rend="ligature">US</hi>
+     <lb xml:id="fol_72r.28" n="28"/>MODI NON HABERENT ET CUM <choice><abbr>UIRU &#772;</abbr><expan>UIRU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_72r.29" n="29"/>TERRENO FORMASSET EX PULUERE <choice><abbr>EIQ&#183;</abbr><expan>EIQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_72r.30" n="30"/>ANIMAM QUALEM DIXI SIUE QUAM <supplied reason="lost">IAM</supplied>
     </ab> 
    </div>
    
    
    <div n="fol_72v" type="edition">
     <ab>
-     <lb xml:id="fol_72v.1" n="1"/>
+     <lb xml:id="fol_72v.1" n="1"/>FECERAT
      <lb xml:id="fol_72v.2" n="2"/> 
      <lb xml:id="fol_72v.3" n="3"/>
      <lb xml:id="fol_72v.4" n="4"/>
