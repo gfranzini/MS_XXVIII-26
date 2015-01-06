@@ -1436,43 +1436,43 @@
    
    <div n="fol_62r" type="edition">
     <ab>
-     <lb xml:id="fol_62r.1" n="1"/><w part="F">DO</w>
-     <lb xml:id="fol_62r.2" n="2"/> 
-     <lb xml:id="fol_62r.3" n="3"/>
-     <lb xml:id="fol_62r.4" n="4"/>
-     <lb xml:id="fol_62r.5" n="5"/>
-     <lb xml:id="fol_62r.6" n="6"/>
-     <lb xml:id="fol_62r.7" n="7"/>
-     <lb xml:id="fol_62r.8" n="8"/>
-     <lb xml:id="fol_62r.9" n="9"/>
-     <lb xml:id="fol_62r.10" n="10"/>
-     <lb xml:id="fol_62r.11" n="11"/>
-     <lb xml:id="fol_62r.12" n="12"/>
-     <lb xml:id="fol_62r.13" n="13"/>
-     <lb xml:id="fol_62r.14" n="14"/>
-     <lb xml:id="fol_62r.15" n="15"/>
-     <lb xml:id="fol_62r.16" n="16"/>
-     <lb xml:id="fol_62r.17" n="17"/>
-     <lb xml:id="fol_62r.18" n="18"/>
-     <lb xml:id="fol_62r.19" n="19"/>
-     <lb xml:id="fol_62r.20" n="20"/>
-     <lb xml:id="fol_62r.21" n="21"/>
-     <lb xml:id="fol_62r.22" n="22"/>
-     <lb xml:id="fol_62r.23" n="23"/>
-     <lb xml:id="fol_62r.24" n="24"/>
-     <lb xml:id="fol_62r.25" n="25"/>
-     <lb xml:id="fol_62r.26" n="26"/>
-     <lb xml:id="fol_62r.27" n="27"/>
-     <lb xml:id="fol_62r.28" n="28"/>
-     <lb xml:id="fol_62r.29" n="29"/>
-     <lb xml:id="fol_62r.30" n="30"/>
+     <lb xml:id="fol_62r.1" n="1"/><w part="F">DO</w> HOC EST ERAT ALIUS HOMO QUANDO
+     <lb xml:id="fol_62r.2" n="2"/>NON ERAT ISTE HOMO SIC ERGO ERAT ALIUD
+     <lb xml:id="fol_62r.3" n="3"/>TEMPUS QUANDO NON ERAT HOC TEMP<hi rend="ligature">US</hi>
+     <lb xml:id="fol_62r.4" n="4"/>RECTE POSSUMUS DICERE AT UERO ERAT
+     <lb xml:id="fol_62r.5" n="5"/>TEMPUS QUANDO NULLUM ERAT TEMP<hi rend="ligature">US</hi>
+     <lb xml:id="fol_62r.6" n="6"/>QUIS UEL INSIPIENTISSIMUS DIXERIT
+     <lb xml:id="fol_62r.7" n="7"/>SICUT ERGO DICIMUS CREATUM TEMP<hi rend="ligature">US</hi>
+     <lb xml:id="fol_62r.8" n="8"/>CUM IDEO SEMPER FUISSE DICATUR
+     <lb xml:id="fol_62r.9" n="9"/>QUIA OMNI TEMPORE TEMPUS FUIT ITA
+     <lb xml:id="fol_62r.10" n="10"/>NON EST CONSEQUENS UT SI SEMPER <w part="I">FUE</w>
+     <lb xml:id="fol_62r.11" n="11"/><w part="F">RUNT</w> ANGELI IDEO NON SINT CREATI UT
+     <lb xml:id="fol_62r.12" n="12"/>PROPTEREA SEMPER FUISSE DICANTUR
+     <lb xml:id="fol_62r.13" n="13"/>QUIA OMNI TEMPORE FUERUNT ET <w part="I">PROP</w>
+     <lb xml:id="fol_62r.14" n="14"/><w part="F">TEREA</w> OMNI TEMPORE FUERUNT QUIA
+     <lb xml:id="fol_62r.15" n="15"/>NULLO MODO SINE HIS IPSA TEMPORA <w part="I">ES</w>
+     <lb xml:id="fol_62r.16" n="16"/><w part="F">SE</w> POTUERUNT UBI ENIM NULLA <w part="I">CREA</w>
+     <lb xml:id="fol_62r.17" n="17"/><w part="F">TURA</w> EST CUIUS <choice><abbr>MUTABILIB&#183;</abbr><expan>MUTABILIB<ex>US</ex></expan></choice> <choice><abbr>MOTIB&#183;</abbr><expan>MOTIB<ex>US</ex></expan></choice> <choice><abbr><w part="I">TE &#772;</w>
+     <lb xml:id="fol_62r.18" n="18"/><w part="F">PORA</w></abbr><expan>TE<ex>M</ex>PORA</expan></choice> <supplied reason="lost">PERA</supplied>GUNTUR <app><rdg wit="#CSEL40">PERAGANTUR</rdg></app> TEMPORA OMNINO
+     <lb xml:id="fol_62r.19" n="19"/><supplied reason="lost">ESSE NON</supplied> POSSUNT AC PER HOC ETSI <w part="I">SEM</w>
+     <lb xml:id="fol_62r.20" n="20"/><w part="F">PER</w> <supplied reason="lost">FUERUNT</supplied> CREATI SUNT NEC SI <w part="I">SEM</w>
+     <lb xml:id="fol_62r.21" n="21"/><w part="F">PER</w> <supplied reason="lost">FUERUNT</supplied> IDEO CREATORI COAETERNI
+     <lb xml:id="fol_62r.22" n="22"/><supplied reason="lost">SUNT ILLE ENIM</supplied> SEMPER FUIT <w part="I">AETERNI</w>
+     <lb xml:id="fol_62r.23" n="23"/><supplied reason="lost"><w part="F">TATE</w> IMMUTABILI</supplied> ISTI AUTEM FACTI SUNT
+     <lb xml:id="fol_62r.24" n="24"/><supplied reason="lost">SED IDEO SEMPER FUISSE</supplied> DICUNTUR QUIA
+     <lb xml:id="fol_62r.25" n="25"/><supplied reason="lost">OMNI TEMPORE FUE</supplied>RUNT SINE QUIBUS
+     <lb xml:id="fol_62r.26" n="26"/>TEMPOR<supplied reason="lost">A NULLO MODO</supplied> ESSE POTUERUNT
+     <lb xml:id="fol_62r.27" n="27"/>TEMPUS <supplied reason="lost">AUTEM QUONIAM</supplied> <w part="I">MUTABILITA</w>
+     <lb xml:id="fol_62r.28" n="28"/><supplied reason="lost"><w part="F">TE</w> TRANSCURRIT AETERNITATI</supplied> <w part="I">IMMUTA</w>
+     <lb xml:id="fol_62r.29" n="29"/><supplied reason="lost"><w part="F">BILI</w> <app><rdg wit="#CSEL40">INMUTABILI</rdg></app> NON POTEST ESSE COATERNU</supplied>M AC
+     <lb xml:id="fol_62r.30" n="30"/><supplied reason="lost">PER HOC ETIAMSI IMMORTALITAS</supplied> <w part="I">ANGE</w>
     </ab> 
    </div>
    
    
-   <div n="fol_62v" type="edition">
+   <div n="fol_62v" type="edition"> <!--damaged-->
     <ab>
-     <lb xml:id="fol_62v.1" n="1"/>
+     <lb xml:id="fol_62v.1" n="1"/><w part="F">LORUM</w>
      <lb xml:id="fol_62v.2" n="2"/> 
      <lb xml:id="fol_62v.3" n="3"/>
      <lb xml:id="fol_62v.4" n="4"/>
@@ -1506,7 +1506,7 @@
    </div>
    
    
-   <div n="fol_63r" type="edition">
+   <div n="fol_63r" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_63r.1" n="1"/>
      <lb xml:id="fol_63r.2" n="2"/> 
@@ -1542,7 +1542,7 @@
    </div>
    
    
-   <div n="fol_63v" type="edition">
+   <div n="fol_63v" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_63v.1" n="1"/>
      <lb xml:id="fol_63v.2" n="2"/> 
@@ -1578,7 +1578,7 @@
    </div>
    
    
-   <div n="fol_64r" type="edition">
+   <div n="fol_64r" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_64r.1" n="1"/>
      <lb xml:id="fol_64r.2" n="2"/> 
@@ -1614,7 +1614,7 @@
    </div>
    
    
-   <div n="fol_64v" type="edition">
+   <div n="fol_64v" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_64v.1" n="1"/>
      <lb xml:id="fol_64v.2" n="2"/> 
@@ -1650,7 +1650,7 @@
    </div>
    
    
-   <div n="fol_65r" type="edition">
+   <div n="fol_65r" type="edition"> <!-- partly damaged-->
     <ab>
      <lb xml:id="fol_65r.1" n="1"/>
      <lb xml:id="fol_65r.2" n="2"/> 
@@ -1686,7 +1686,7 @@
    </div>
    
    
-   <div n="fol_65v" type="edition">
+   <div n="fol_65v" type="edition"> <!--partly damaged-->
     <ab>
      <lb xml:id="fol_65v.1" n="1"/>
      <lb xml:id="fol_65v.2" n="2"/> 
@@ -1722,7 +1722,7 @@
    </div>
    
    
-   <div n="fol_66r" type="edition">
+   <div n="fol_66r" type="edition"> <!--partly damaged-->
     <ab>
      <lb xml:id="fol_66r.1" n="1"/>
      <lb xml:id="fol_66r.2" n="2"/> 
@@ -1758,7 +1758,7 @@
    </div>
    
    
-   <div n="fol_66v" type="edition">
+   <div n="fol_66v" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_66v.1" n="1"/>
      <lb xml:id="fol_66v.2" n="2"/> 
@@ -1794,7 +1794,7 @@
    </div>
    
    
-   <div n="fol_67r" type="edition">
+   <div n="fol_67r" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_67r.1" n="1"/>
      <lb xml:id="fol_67r.2" n="2"/> 
@@ -1829,8 +1829,8 @@
     </ab> 
    </div>
    
-   
-   <div n="fol_67v" type="edition">
+    
+   <div n="fol_67v" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_67v.1" n="1"/>
      <lb xml:id="fol_67v.2" n="2"/> 
@@ -1866,7 +1866,7 @@
    </div>
    
    
-   <div n="fol_68r" type="edition">
+   <div n="fol_68r" type="edition"> <!--damaged-->
     <ab>
      <lb xml:id="fol_68r.1" n="1"/>
      <lb xml:id="fol_68r.2" n="2"/> 
@@ -1902,7 +1902,7 @@
    </div>
    
    
-   <div n="fol_68v" type="edition">
+   <div n="fol_68v" type="edition">  <!--damaged-->
     <ab>
      <lb xml:id="fol_68v.1" n="1"/>
      <lb xml:id="fol_68v.2" n="2"/> 
@@ -1940,7 +1940,7 @@
    
    <div n="fol_69r" type="edition">
     <ab>
-     <lb xml:id="fol_69r.1" n="1"/>
+     <lb xml:id="fol_69r.1" n="1"/> <!--partly damaged-->
      <lb xml:id="fol_69r.2" n="2"/> 
      <lb xml:id="fol_69r.3" n="3"/>
      <lb xml:id="fol_69r.4" n="4"/>
@@ -1974,7 +1974,7 @@
    </div>
    
    
-   <div n="fol_69v" type="edition">
+   <div n="fol_69v" type="edition"> <!--partly damaged-->
     <ab>
      <lb xml:id="fol_69v.1" n="1"/>
      <lb xml:id="fol_69v.2" n="2"/> 
@@ -2010,7 +2010,7 @@
    </div>
    
    
-   <div n="fol_70r" type="edition">
+   <div n="fol_70r" type="edition"> <!--partly damaged-->
     <ab>
      <lb xml:id="fol_70r.1" n="1"/>
      <lb xml:id="fol_70r.2" n="2"/> 
@@ -2046,7 +2046,7 @@
    </div>
    
    
-   <div n="fol_70v" type="edition">
+   <div n="fol_70v" type="edition"> <!--partly damaged-->
     <ab>
      <lb xml:id="fol_70v.1" n="1"/>
      <lb xml:id="fol_70v.2" n="2"/> 
@@ -2082,7 +2082,7 @@
    </div>
    
    
-   <div n="fol_71r" type="edition">
+   <div n="fol_71r" type="edition"> <!--partly damaged-->
     <ab>
      <lb xml:id="fol_71r.1" n="1"/>
      <lb xml:id="fol_71r.2" n="2"/> 
@@ -2118,7 +2118,7 @@
    </div>
    
    
-   <div n="fol_71v" type="edition">
+   <div n="fol_71v" type="edition"> <!--partly damaged-->
     <ab>
      <lb xml:id="fol_71v.1" n="1"/>
      <lb xml:id="fol_71v.2" n="2"/> 
@@ -2156,8 +2156,8 @@
    
    <div n="fol_72r" type="edition">
     <ab>
-     <lb xml:id="fol_72r.1" n="1"/>
-     <lb xml:id="fol_72r.2" n="2"/> 
+     <lb xml:id="fol_72r.1" n="1"/>EOQUE
+     <lb xml:id="fol_72r.2" n="2"/>
      <lb xml:id="fol_72r.3" n="3"/>
      <lb xml:id="fol_72r.4" n="4"/>
      <lb xml:id="fol_72r.5" n="5"/>
