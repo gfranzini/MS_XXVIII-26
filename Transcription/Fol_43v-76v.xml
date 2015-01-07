@@ -2192,36 +2192,36 @@
    
    <div n="fol_72v" type="edition">
     <ab>
-     <lb xml:id="fol_72v.1" n="1"/>FECERAT
-     <lb xml:id="fol_72v.2" n="2"/> 
-     <lb xml:id="fol_72v.3" n="3"/>
-     <lb xml:id="fol_72v.4" n="4"/>
-     <lb xml:id="fol_72v.5" n="5"/>
-     <lb xml:id="fol_72v.6" n="6"/>
-     <lb xml:id="fol_72v.7" n="7"/>
-     <lb xml:id="fol_72v.8" n="8"/>
-     <lb xml:id="fol_72v.9" n="9"/>
-     <lb xml:id="fol_72v.10" n="10"/>
-     <lb xml:id="fol_72v.11" n="11"/>
-     <lb xml:id="fol_72v.12" n="12"/>
-     <lb xml:id="fol_72v.13" n="13"/>
-     <lb xml:id="fol_72v.14" n="14"/>
-     <lb xml:id="fol_72v.15" n="15"/>
-     <lb xml:id="fol_72v.16" n="16"/>
-     <lb xml:id="fol_72v.17" n="17"/>
-     <lb xml:id="fol_72v.18" n="18"/>
-     <lb xml:id="fol_72v.19" n="19"/>
-     <lb xml:id="fol_72v.20" n="20"/>
-     <lb xml:id="fol_72v.21" n="21"/>
-     <lb xml:id="fol_72v.22" n="22"/>
-     <lb xml:id="fol_72v.23" n="23"/>
-     <lb xml:id="fol_72v.24" n="24"/>
-     <lb xml:id="fol_72v.25" n="25"/>
-     <lb xml:id="fol_72v.26" n="26"/>
-     <lb xml:id="fol_72v.27" n="27"/>
-     <lb xml:id="fol_72v.28" n="28"/>
-     <lb xml:id="fol_72v.29" n="29"/>
-     <lb xml:id="fol_72v.30" n="30"/>
+     <lb xml:id="fol_72v.1" n="1"/>FECERAT SUFLANDO INDIDISSET SIUE
+     <lb xml:id="fol_72v.2" n="2"/><supplied reason="lost">POTIUS</supplied> SUFLANDO <app><rdg wit="#CSEL40">SUFFLANDO</rdg></app> FECISSET EUMQUE
+     <lb xml:id="fol_72v.3" n="3"/>F<supplied reason="lost">LATUM</supplied> QUEM SUFLANDO <app><rdg wit="#CSEL40">SUFFLANDO</rdg></app> FECIT NAM
+     <lb xml:id="fol_72v.4" n="4"/>QUID EST ALIUD SUFLARE <app><rdg wit="#CSEL40">SUFFLARE</rdg></app> QUAM FLATUM
+     <lb xml:id="fol_72v.5" n="5"/><supplied reason="lost">FACERE ANI</supplied>MAM HOMINIS ESSE <w part="I">UOLUIS</w>
+     <lb xml:id="fol_72v.6" n="6"/><supplied reason="lost"><w part="F">SET</w></supplied> ETIAM CONIUGEM ILLI IN <w part="I">ADIUTO</w>
+     <lb xml:id="fol_72v.7" n="7"/><supplied reason="lost"><w part="F">RIUM</w></supplied> GENERANDI EX EIUS LATERE OSSE
+     <lb xml:id="fol_72v.8" n="8"/><supplied reason="lost">DETRACTO FECIT UT</supplied> DEUS <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> ENIM
+     <lb xml:id="fol_72v.9" n="9"/><supplied reason="lost">HAEC CARNALI</supplied> CONSUETUDINE <w part="I">COGITA &#772;</w>
+     <lb xml:id="fol_72v.10" n="10"/><supplied reason="lost"><w part="F">DA</w> SUNT UT</supplied> UIDERE SOLEMUS OPIFICES
+     <lb xml:id="fol_72v.11" n="11"/><supplied reason="lost">EX MATERIA</supplied> <choice><abbr>QUACUMQ&#183;</abbr><expan>QUACUMQ<ex>UE</ex></expan></choice> TERRENA <w part="I">COR</w>
+     <lb xml:id="fol_72v.12" n="12"/><supplied reason="lost"><w part="F">PORALIBUS</w> ME</supplied>MBRIS QUOD ARTIS <w part="I">IND<hi rend="ligature">US</hi></w>
+     <lb xml:id="fol_72v.13" n="13"/><supplied reason="lost"><w part="F">TRIA</w> POTU</supplied>ERINT FABRICANTES MAN<hi rend="ligature">US</hi>
+     <lb xml:id="fol_72v.14" n="14"/><supplied reason="lost">DEI POTENTIA</supplied> DEI EST QUI ETIAM <w part="I">UISIBI</w>
+     <lb xml:id="fol_72v.15" n="15"/><supplied reason="lost"><w part="F">LIA</w> INUISIBILI</supplied>TER OPERATUR SED HAEC
+     <lb xml:id="fol_72v.16" n="16"/><supplied reason="lost">FABULOSA</supplied>POTIUS QUAM <supplied reason="lost">UERA ESSE <w part="I">AR</w></supplied>
+     <lb xml:id="fol_72v.17" n="17"/><w part="F"><supplied reason="lost">BITRA</supplied>NTUR</w> QUI UIRTUTEM AC <w part="I">SAPIEN</w>
+     <lb xml:id="fol_72v.18" n="18"/><supplied reason="lost"><w part="F">TIAM</w></supplied> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUA NO<supplied reason="lost">UIT ET POT</supplied>EST ETIAM SINE
+     <lb xml:id="fol_72v.19" n="19"/><choice><abbr><supplied reason="lost">SE</supplied>MINIB&#183;</abbr><expan>SEMINIB<ex>US</ex></expan></choice> IPSA CERTE FACERE SEMINA
+     <lb xml:id="fol_72v.20" n="20"/><supplied reason="lost">EX HIS U</supplied>SITATIS ET COTTIDIANIS <supplied reason="lost"><w part="I">METIUN</w></supplied>
+     <lb xml:id="fol_72v.21" n="21"/><supplied reason="lost"><w part="F">TUR</w> OPERIBUS EA</supplied>UERO QUAE PRIMITUS
+     <lb xml:id="fol_72v.22" n="22"/><supplied reason="lost">INSTITUTA</supplied>SUNT QUONIAM NON <w part="I">NOUE</w>
+     <lb xml:id="fol_72v.23" n="23"/><w part="F">RUNT</w> IN<supplied reason="lost">FIDELIT</supplied>ER COGITANT QUASI <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
+     <lb xml:id="fol_72v.24" n="24"/><supplied reason="lost">HAEC IPSA QUAE</supplied> NOUERUNT D<supplied reason="lost">E <w part="I">HUMA</w></supplied>
+     <lb xml:id="fol_72v.25" n="25"/><supplied reason="lost"><w part="F">NIS</w> CONCEPTIBUS</supplied> <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> <choice><sic><choice><abbr>PART<del rend="strikethrough">I</del>B&#183;</abbr><expan>PARTIB<ex>US</ex></expan></choice></sic><corr>PART<add place="above">U</add>BUS</corr></choice> SI <w part="I">INEXPER</w>
+     <lb xml:id="fol_72v.26" n="26"/><supplied reason="lost"><w part="F">TIS</w> NARRAREN</supplied>TUR INCREDIBILIOR <w part="I">UI</w>
+    <lb xml:id="fol_72v.27" n="27"/><supplied reason="lost"><w part="F">DERENTUR</w> QUAMUI</supplied>S ET EA IPSA <choice><abbr>PLERIQ&#183;</abbr><expan>PLERIQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_72v.28" n="28"/><supplied reason="lost">MAGIS NATURAE</supplied> <choice><abbr>CORPORALIB&#183;</abbr><expan>CORPORALIB<ex>US</ex></expan></choice> CAUSIS <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
+     <lb xml:id="fol_72v.29" n="29"/><supplied reason="lost">OPERIBUS DIUINAE</supplied> MENTIS ASSIGNENT <app><rdg wit="#CSEL40">ADSIGNENT</rdg></app>
+     <lb xml:id="fol_72v.30" n="30"/><note type="scholion" place="margin" subtype="chapter" n="25">XXV</note> <supplied reason="lost">SED CUM HIS NULL</supplied>UM NOBIS EST IN HIS
     </ab> 
    </div>
    
