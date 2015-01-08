@@ -2264,36 +2264,36 @@
    
    <div n="fol_73v" type="edition">
     <ab>
-     <lb xml:id="fol_73v.1" n="1"/>UERO
-     <lb xml:id="fol_73v.2" n="2"/> 
-     <lb xml:id="fol_73v.3" n="3"/>
-     <lb xml:id="fol_73v.4" n="4"/>
-     <lb xml:id="fol_73v.5" n="5"/>
-     <lb xml:id="fol_73v.6" n="6"/>
-     <lb xml:id="fol_73v.7" n="7"/>
-     <lb xml:id="fol_73v.8" n="8"/>
-     <lb xml:id="fol_73v.9" n="9"/>
-     <lb xml:id="fol_73v.10" n="10"/>
-     <lb xml:id="fol_73v.11" n="11"/>
-     <lb xml:id="fol_73v.12" n="12"/>
-     <lb xml:id="fol_73v.13" n="13"/>
-     <lb xml:id="fol_73v.14" n="14"/>
-     <lb xml:id="fol_73v.15" n="15"/>
-     <lb xml:id="fol_73v.16" n="16"/>
-     <lb xml:id="fol_73v.17" n="17"/>
-     <lb xml:id="fol_73v.18" n="18"/>
-     <lb xml:id="fol_73v.19" n="19"/>
-     <lb xml:id="fol_73v.20" n="20"/>
-     <lb xml:id="fol_73v.21" n="21"/>
-     <lb xml:id="fol_73v.22" n="22"/>
-     <lb xml:id="fol_73v.23" n="23"/>
-     <lb xml:id="fol_73v.24" n="24"/>
-     <lb xml:id="fol_73v.25" n="25"/>
-     <lb xml:id="fol_73v.26" n="26"/>
-     <lb xml:id="fol_73v.27" n="27"/>
-     <lb xml:id="fol_73v.28" n="28"/>
-     <lb xml:id="fol_73v.29" n="29"/>
-     <lb xml:id="fol_73v.30" n="30"/>
+     <lb xml:id="fol_73v.1" n="1"/>UERO QUAE INTRINSECUS <choice><abbr><w part="I">EFFICIE &#772;</w>
+     <lb xml:id="fol_73v.2" n="2"/><w part="F">TES</w></abbr><expan>EFFICIE<ex>N</ex>TES</expan></choice> CAUSAS HABET DE SECRETO ET <w part="I">OC</w> 
+     <lb xml:id="fol_73v.3" n="3"/><w part="F">CULTATO</w> <app><rdg wit="#CSEL40">OCCULTO</rdg></app> NATURAE UIUENTIS <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> <w part="I">IN</w>
+     <lb xml:id="fol_73v.4" n="4"/><w part="F">TELLEGENTIS</w> ARBITRIO QUAE NON <choice><abbr>SOLU &#772;</abbr><expan>SOLU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_73v.5" n="5"/>NATURALES CORPORUM SPECIES <choice><abbr>UERU &#772;</abbr><expan>UERU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_73v.6" n="6"/>ETIAM IPSAS ANIMANTIUM ANIMAS
+     <lb xml:id="fol_73v.7" n="7"/>DUM NON FIT FACIT SUPRA DICTA ILLA <w part="I">SPE</w>
+     <lb xml:id="fol_73v.8" n="8"/><w part="F">CIES</w> ARTIFICIBUS <choice><abbr>QUIB&#183;QUE</abbr><expan>QUIB<ex>US</ex>QUE</expan></choice> TRIBUATUR
+     <lb xml:id="fol_73v.9" n="9"/>HAEC AUTEM ALTERA NON NISI UNI <w part="I">ARTIFI</w>
+     <lb xml:id="fol_73v.10" n="10"/><w part="F">CI</w> CREATORI ET CONDITORI <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> QUI <w part="I">MUN</w>
+     <lb xml:id="fol_73v.11" n="11"/><w part="F">DUM</w> IPSUM ET ANGELOS SINE ULLO <choice><abbr><w part="I">MU &#772;</w>
+     <lb xml:id="fol_73v.12" n="12"/><w part="F">DO</w></abbr><expan>MU<ex>N</ex>DO</expan></choice> ET SINE ULLIS ANGELIS FECIT QUA <choice><abbr>ENI &#772;</abbr><expan>ENI<ex>M</ex></expan></choice>
+     <lb xml:id="fol_73v.13" n="13"/>UI DIUINA ET UT ITA DICAM EFFECTIUA
+     <lb xml:id="fol_73v.14" n="14"/>QUAE FIERI NESCIT SED FACERE ACCEPIT
+     <lb xml:id="fol_73v.15" n="15"/>SPECIEM CUM MUNDUS FIERET <w part="I">RUTUN</w>
+     <lb xml:id="fol_73v.16" n="16"/><w part="F">DITAS</w> CAELI ET RUTUNDITAS SOLIS <choice><abbr>EADE &#772;</abbr><expan>EADE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_73v.17" n="17"/>UI DIUINA ET EFFECTIUA QUAE FIERI <w part="I">NES</w>
+     <lb xml:id="fol_73v.18" n="18"/><w part="F">CII</w> SED FACERE ACCEPIT SPECIEM <w part="I">RUTUN</w>
+     <lb xml:id="fol_73v.19" n="19"/><w part="F">DITAS</w> OCULI ET RUTUNDITAS POMI ET <w part="I">CE</w>
+     <lb xml:id="fol_73v.20" n="20"/><w part="F">TERAE</w> FIGURAE NATURALES QUAS <w part="I">UIDE</w>
+     <lb xml:id="fol_73v.21" n="21"/><w part="F">MUS</w> IN <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> <choice><abbr>QUIB&#183;Q&#183;</abbr><expan>QUIB<ex>US</ex>Q<ex>UE</ex></expan></choice> <choice><abbr>NASCENTIB&#183;</abbr><expan>NASCENTIB<ex>US</ex></expan></choice> NON
+     <lb xml:id="fol_73v.22" n="22"/>EXTRINSECUS ATHIBERI <app><rdg wit="# SEL40">ADHIBERI</rdg></app> SED INTIMA <w part="I">CREA</w>
+     <lb xml:id="fol_73v.23" n="23"/><w part="F">TORIS</w> <del rend="strikethrough">CREATORIS</del> POTENTIA QUI DIXIT <w part="I">CAE</w>
+     <lb xml:id="fol_73v.24" n="24"/><w part="F">LUM</w> ET TERRAM EGO IMPLEO ET CUIUS
+     <lb xml:id="fol_73v.25" n="25"/>SAPIENTIA EST QUAE ATTINGIT <app><rdg wit="#CSEL40">ADTINGIT</rdg></app> A FINE <choice><abbr>USQ&#183;</abbr><expan>USQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_73v.26" n="26"/>AD FINEM FORTITER ET DISPONIT OMNIA
+     <lb xml:id="fol_73v.27" n="27"/>SAPIENTER <app><rdg wit="#CSEL40">SUAUITER</rdg></app> PROINDE FACTI PRIMIT<hi rend="ligature">US</hi>
+     <lb xml:id="fol_73v.28" n="28"/>ANGELI CUIUS MODI MINISTERIUM <w part="I">PR&#198;</w>
+     <lb xml:id="fol_73v.29" n="29"/><w part="F">BUERINT</w> CREATORI CETERA FACIENTI
+     <lb xml:id="fol_73v.30" n="30"/>NESCIO NEC TRIBUERE ILLIS AUDEO QUOD
     </ab> 
    </div>
    
