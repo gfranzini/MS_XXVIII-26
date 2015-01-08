@@ -2228,43 +2228,43 @@
    
    <div n="fol_73r" type="edition">
     <ab>
-     <lb xml:id="fol_73r.1" n="1"/>
-     <lb xml:id="fol_73r.2" n="2"/> 
-     <lb xml:id="fol_73r.3" n="3"/>
-     <lb xml:id="fol_73r.4" n="4"/>
-     <lb xml:id="fol_73r.5" n="5"/>
-     <lb xml:id="fol_73r.6" n="6"/>
-     <lb xml:id="fol_73r.7" n="7"/>
-     <lb xml:id="fol_73r.8" n="8"/>
-     <lb xml:id="fol_73r.9" n="9"/>
-     <lb xml:id="fol_73r.10" n="10"/>
-     <lb xml:id="fol_73r.11" n="11"/>
-     <lb xml:id="fol_73r.12" n="12"/>
-     <lb xml:id="fol_73r.13" n="13"/>
-     <lb xml:id="fol_73r.14" n="14"/>
-     <lb xml:id="fol_73r.15" n="15"/>
-     <lb xml:id="fol_73r.16" n="16"/>
-     <lb xml:id="fol_73r.17" n="17"/>
-     <lb xml:id="fol_73r.18" n="18"/>
-     <lb xml:id="fol_73r.19" n="19"/>
-     <lb xml:id="fol_73r.20" n="20"/>
-     <lb xml:id="fol_73r.21" n="21"/>
-     <lb xml:id="fol_73r.22" n="22"/>
-     <lb xml:id="fol_73r.23" n="23"/>
-     <lb xml:id="fol_73r.24" n="24"/>
-     <lb xml:id="fol_73r.25" n="25"/>
-     <lb xml:id="fol_73r.26" n="26"/>
-     <lb xml:id="fol_73r.27" n="27"/>
-     <lb xml:id="fol_73r.28" n="28"/>
-     <lb xml:id="fol_73r.29" n="29"/>
-     <lb xml:id="fol_73r.30" n="30"/>
+     <lb xml:id="fol_73r.1" n="1"/>LIBRIS NEGOTIUM QUI DIUINAM <choice><abbr><w part="I">ME &#772;</w>
+     <lb xml:id="fol_73r.2" n="2"/><w part="F">TEM</w></abbr><expan>ME<ex>N</ex>TEM</expan></choice> FACERE UEL CURARE ISTA NON <w part="I">CRE</w>
+     <lb xml:id="fol_73r.3" n="3"/><w part="F">DUNT</w> ILLI AUTEM QUI PLANTONI SUO <w part="I">CRE</w>
+     <lb xml:id="fol_73r.4" n="4"/><w part="F">DUNT</w> NON AB ILLO SUMMO <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> QUI <supplied reason="lost"><w part="I">FABRI</w></supplied>
+     <lb xml:id="fol_73r.5" n="5"/><w part="F">CATUS</w> EST MUNDUM SED AB ALIIS <choice><abbr><w part="I">MINO</w>
+     <lb xml:id="fol_73r.6" n="6"/><w part="F">RIB&#183;</w></abbr><expan>MINORIB<ex>US</ex></expan></choice> QUOS QUIDEM IPSE CREAUERIT <w part="I">PER</w>
+     <lb xml:id="fol_73r.7" n="7"/><w part="F">MISSU</w> SIUE IUSSU EIUS ANIMALIA FAC<supplied reason="lost">TA</supplied>
+     <lb xml:id="fol_73r.8" n="8"/>ESSE CUNCTA MORTALIA IN  <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> HOM<supplied reason="lost">MO</supplied>
+     <lb xml:id="fol_73r.9" n="9"/><choice><sic>PRAECIPUU<del rend="strikethrough">N</del></sic><corr>PRAECIPUU<add place="above">M</add></corr></choice> <choice><abbr>DISQ&#183;</abbr><expan>DISQ<ex>UE</ex></expan></choice> IPSIS COGNATUM <supplied reason="lost"><w part="I">TENE</w></supplied>
+     <lb xml:id="fol_73r.10" n="10"/><w part="F">RET</w> LOCUM <supplied reason="lost">SI</supplied> SUPERSTITIONE CAREANT
+     <lb xml:id="fol_73r.11" n="11"/>QUA QUAERUNT UNDE IUSTAE <app><rdg wit="#CSEL40">IUSTE</rdg></app> <w part="I">UIDEAN</w>
+     <lb xml:id="fol_73r.12" n="12"/><w part="F">TUR</w> SACRA ET SACRIFICIA FACERE QU<supplied reason="lost">ASI</supplied>
+     <lb xml:id="fol_73r.13" n="13"/><choice><abbr>CONDITORIB&#183;</abbr><expan>CONDITORIB<ex>US</ex></expan></choice> SUIS FACILE CARE<supplied reason="lost">BUNT ETIAM</supplied>
+     <lb xml:id="fol_73r.14" n="14"/>HUIUS OPINIONIS ERRORE <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> <supplied reason="lost">ENIM</supplied>
+     <lb xml:id="fol_73r.15" n="15"/>FAS EST ULLIUS NATURAE QUAM<supplied reason="lost">LIBET</supplied>
+     <lb xml:id="fol_73r.16" n="16"/>MINIME <app><rdg wit="#CSEL40">MINIMAE</rdg></app> <choice><abbr>MORTALISQ&#183;</abbr><expan>MORTALISQ<ex>UE</ex></expan></choice> CREA<supplied reason="lost">TOREM <w part="I">NI</w></supplied>
+     <lb xml:id="fol_73r.17" n="17"/><w part="F">SI</w> <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> CREDERE AC DICERE ET <supplied reason="lost">ANTEQUAM</supplied>
+     <lb xml:id="fol_73r.18" n="18"/>POSSIT INTELLEGI ANGELI AUTEM <supplied reason="lost">QUOS <w part="I">IL</w></supplied>
+     <lb xml:id="fol_73r.19" n="19"/><w part="F">LI</w> DEOS LIBENTIUS APPELLANT ET<supplied reason="lost">IAMSI <w part="I">AD</w></supplied>
+     <lb xml:id="fol_73r.20" n="20"/><w part="F">HIBENT</w> UEL IUSSI UEL PERMIS<supplied reason="lost">SI <w part="I">OPERA</w></supplied>
+     <lb xml:id="fol_73r.21" n="21"/><w part="F">TIONEM</w> SUAM <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> QUAE GIG<supplied reason="lost">NUNTUR</supplied>
+     <lb xml:id="fol_73r.22" n="22"/>IN MUNDO TAM NON EOS DI<supplied reason="lost">CIMUS <w part="F">CREA</w></supplied>
+     <lb xml:id="fol_73r.23" n="23"/><w part="F">TORES</w> ANIMALIUM QUAM N<supplied reason="lost">EC <w part="I">AGRICO</w></supplied>
+     <lb xml:id="fol_73r.24" n="24"/><w part="F">LAS</w> FRUGUM <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ARBORUM <note type="scholion" place="margin" subtype="chapter" n="26">XXVI</note> <supplied reason="lost">CUM ENIM</supplied>
+     <lb xml:id="fol_73r.25" n="25"/>ALIA SIT SPECIES QUAE ADHIB<supplied reason="lost">ETUR <w part="I">EXTRIN</w></supplied>
+     <lb xml:id="fol_73r.26" n="26"/><w part="F">SECUS</w>  <choice><abbr>CUICUMQ&#183;</abbr><expan>CUICUMQ<ex>UE</ex></expan></choice> MATERIAE <supplied reason="lost">CORPORALI</supplied>
+     <lb xml:id="fol_73r.27" n="27"/>SICUT OPERANTUR HOMIN<supplied reason="lost">ES FIGULI</supplied>
+     <lb xml:id="fol_73r.28" n="28"/>ET FABRI <choice><abbr>A<add place="above">T</add>Q&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> ID GEN<supplied reason="lost">US OPIFICES QUI</supplied>
+     <lb xml:id="fol_73r.29" n="29"/>ETIAM PINGUNT ET <supplied reason="lost">EFFING</supplied>UNT FOR<supplied reason="lost">MAS</supplied>
+     <lb xml:id="fol_73r.30" n="30"/>SIMILES CORPOR<supplied reason="lost">IBUS ANIMALIUM ALIA</supplied>
     </ab> 
    </div>
    
    
    <div n="fol_73v" type="edition">
     <ab>
-     <lb xml:id="fol_73v.1" n="1"/>
+     <lb xml:id="fol_73v.1" n="1"/>UERO
      <lb xml:id="fol_73v.2" n="2"/> 
      <lb xml:id="fol_73v.3" n="3"/>
      <lb xml:id="fol_73v.4" n="4"/>
