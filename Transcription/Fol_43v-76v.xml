@@ -2336,43 +2336,43 @@
    
    <div n="fol_74v" type="edition">
     <ab>
-     <lb xml:id="fol_74v.1" n="1"/><w part="F">NENDIS</w>
-     <lb xml:id="fol_74v.2" n="2"/> 
-     <lb xml:id="fol_74v.3" n="3"/>
-     <lb xml:id="fol_74v.4" n="4"/>
-     <lb xml:id="fol_74v.5" n="5"/>
-     <lb xml:id="fol_74v.6" n="6"/>
-     <lb xml:id="fol_74v.7" n="7"/>
-     <lb xml:id="fol_74v.8" n="8"/>
-     <lb xml:id="fol_74v.9" n="9"/>
-     <lb xml:id="fol_74v.10" n="10"/>
-     <lb xml:id="fol_74v.11" n="11"/>
-     <lb xml:id="fol_74v.12" n="12"/>
-     <lb xml:id="fol_74v.13" n="13"/>
-     <lb xml:id="fol_74v.14" n="14"/>
-     <lb xml:id="fol_74v.15" n="15"/>
-     <lb xml:id="fol_74v.16" n="16"/>
-     <lb xml:id="fol_74v.17" n="17"/>
-     <lb xml:id="fol_74v.18" n="18"/>
-     <lb xml:id="fol_74v.19" n="19"/>
-     <lb xml:id="fol_74v.20" n="20"/>
-     <lb xml:id="fol_74v.21" n="21"/>
-     <lb xml:id="fol_74v.22" n="22"/>
-     <lb xml:id="fol_74v.23" n="23"/>
-     <lb xml:id="fol_74v.24" n="24"/>
-     <lb xml:id="fol_74v.25" n="25"/>
-     <lb xml:id="fol_74v.26" n="26"/>
-     <lb xml:id="fol_74v.27" n="27"/>
-     <lb xml:id="fol_74v.28" n="28"/>
-     <lb xml:id="fol_74v.29" n="29"/>
-     <lb xml:id="fol_74v.30" n="30"/>
+     <lb xml:id="fol_74v.1" n="1"/><w part="F">NENDIS</w> <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> ADHIBEANTUR SIUE <choice><abbr><w part="I">OPE</w>
+      <lb xml:id="fol_74v.2" n="2"/><w part="F">RATIONIB&#183;</w></abbr><expan>OPERATIONIB<ex>US</ex></expan></choice> ANGELORUM AUT <choice><abbr>HOMINU &#772;</abbr><expan>HOMINU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_74v.3" n="3"/>AUT <choice><abbr>QUORUMQ&#183;</abbr><expan>QUORUMQ<ex>UE</ex></expan></choice> ANIMALIUM SIUE <w part="I">MA</w>
+     <lb xml:id="fol_74v.4" n="4"/><w part="F">RIUM</w> <choice><abbr>FEMINARUMQ&#183;</abbr><expan>FEMINARUMQ<ex>UE</ex></expan></choice> MIXTIONIBUS
+     <lb xml:id="fol_74v.5" n="5"/>QUAELIBET ETIAM DESIDERIA <w part="I">MOTUS</w>
+     <lb xml:id="fol_74v.6" n="6"/><w part="F">UE</w> ANIMAE MATRIS UALEANT ALIQUID
+     <lb xml:id="fol_74v.7" n="7"/>LINIAMENTORUM AUT COLORUM <w part="I">ASPER</w>
+     <lb xml:id="fol_74v.8" n="8"/><w part="F">GERE</w> TENERIS <choice><abbr>MOLLIB&#183;QUE</abbr><expan>MOLLIB<ex>US</ex>QUE</expan></choice> <choice><abbr>CONCEPTIB&#183;</abbr><expan>CONCEPTIB<ex>US</ex></expan></choice>
+     <lb xml:id="fol_74v.9" n="9"/>IPSAS OMNINO NATURAS QUAE SIC UEL
+     <lb xml:id="fol_74v.10" n="10"/>SIC IN SUO GENERE AFFICIANTUR NON
+     <lb xml:id="fol_74v.11" n="11"/>FACIT NISI SUMMUS <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; CUIUS OCCULTA
+     <lb xml:id="fol_74v.12" n="12"/>POTENTIA CUNCTA PENETRANS <choice><abbr><w part="I">INCO &#772;</w>
+     <lb xml:id="fol_74v.13" n="13"/><w part="F">TAMINABILI</w></abbr><expan>INCO<ex>N</ex>TAMINABILI</expan></choice> PRAESENTIA FACIT ESSE
+     <lb xml:id="fol_74v.14" n="14"/>QUIDQUID ALIQUO MODO <supplied reason="lost">EST IN</supplied> <choice><abbr><w part="I">QUA &#772;</w>
+      <lb xml:id="fol_74v.15" n="15"/><w part="F">TUMCUMQ&#183;</w></abbr><expan>QUA<ex>N</ex>TUMCUMQ<ex>UE</ex></expan></choice> EST QUIA NISI FACIENTE ILLO
+     <lb xml:id="fol_74v.16" n="16"/>NON TALE UEL TALE ESSE SED PRORSU<supplied reason="lost">S <w part="I">ES</w></supplied>
+     <lb xml:id="fol_74v.17" n="17"/><w part="F">SE</w> NON POSSET QUAROPTER SI IN ILLA
+     <lb xml:id="fol_74v.18" n="18"/>SPECIE QUAM FORINSECUS <supplied reason="lost"><choice><abbr>CORPORALIB&#183;</abbr><expan>CORPORALIB<ex>US</ex></expan></choice></supplied>
+     <lb xml:id="fol_74v.19" n="19"/>OPIFICES <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> IMPONUNT UR<supplied reason="lost">BEM <w part="I">RO</w></supplied>
+     <lb xml:id="fol_74v.20" n="20"/><supplied reason="lost"><w part="F">MAM</w> ET URBEM ALEXANDRIAM NON</supplied>
+     <lb xml:id="fol_74v.21" n="21"/>FA<supplied reason="lost">BRO</supplied>S ET ARCITECTOS <app><rdg wit="#CSEL40">ARCHITECTOS</rdg></app> SED REGES <choice><abbr>QUORU &#772;</abbr><expan>QUORU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_74v.22" n="22"/>UOLUNTATE CONSILIO IMPERIO <w part="I">FABRI</w>
+     <lb xml:id="fol_74v.23" n="23"/><w part="F">CATAE</w> SUNT ILLAM ROMULUM ILLAM
+     <lb xml:id="fol_74v.24" n="24"/>ALEXANDRUM HABU<supplied reason="lost">ISSE DICI</supplied>MUS <choice><abbr><w part="I">CO &#772;</w>
+     <lb xml:id="fol_74v.25" n="25"/><w part="F">DITORES</w></abbr><expan>CO<ex>N</ex>DITORES</expan></choice> QUANTO POTIUS NON <supplied reason="lost">NISI DEUM</supplied>
+     <lb xml:id="fol_74v.26" n="26"/><supplied reason="lost">DEBEMUS</supplied> CONDITOREM DICERE <supplied reason="lost"><w part="I">NATU</w></supplied>
+     <lb xml:id="fol_74v.27" n="27"/><w part="F">RARUM</w> QUI <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> EX EA MATERIA FACIT
+     <lb xml:id="fol_74v.28" n="28"/>ALIQUID QUAM IPSE NON FECERIT NEC
+     <lb xml:id="fol_74v.29" n="29"/>OPERARIOS HABET NISI QUOS IPSE <w part="I">CREA</w>
+     <lb xml:id="fol_74v.30" n="30"/><supplied reason="lost"><w part="F">UERIT</w> ET SI</supplied> POTENTIAM SUAM UT ITA <choice><abbr>DICA &#772;</abbr><expan>DICA<ex>M</ex></expan></choice>
     </ab> 
    </div>
    
    
    <div n="fol_75r" type="edition">
     <ab>
-     <lb xml:id="fol_75r.1" n="1"/>
+     <lb xml:id="fol_75r.1" n="1"/>FABRI
      <lb xml:id="fol_75r.2" n="2"/> 
      <lb xml:id="fol_75r.3" n="3"/>
      <lb xml:id="fol_75r.4" n="4"/>
