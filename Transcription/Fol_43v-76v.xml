@@ -2300,43 +2300,43 @@
    
    <div n="fol_74r" type="edition">
     <ab>
-     <lb xml:id="fol_74r.1" n="1"/>
-     <lb xml:id="fol_74r.2" n="2"/> 
-     <lb xml:id="fol_74r.3" n="3"/>
-     <lb xml:id="fol_74r.4" n="4"/>
-     <lb xml:id="fol_74r.5" n="5"/>
-     <lb xml:id="fol_74r.6" n="6"/>
-     <lb xml:id="fol_74r.7" n="7"/>
-     <lb xml:id="fol_74r.8" n="8"/>
-     <lb xml:id="fol_74r.9" n="9"/>
-     <lb xml:id="fol_74r.10" n="10"/>
-     <lb xml:id="fol_74r.11" n="11"/>
-     <lb xml:id="fol_74r.12" n="12"/>
-     <lb xml:id="fol_74r.13" n="13"/>
-     <lb xml:id="fol_74r.14" n="14"/>
-     <lb xml:id="fol_74r.15" n="15"/>
-     <lb xml:id="fol_74r.16" n="16"/>
-     <lb xml:id="fol_74r.17" n="17"/>
-     <lb xml:id="fol_74r.18" n="18"/>
-     <lb xml:id="fol_74r.19" n="19"/>
-     <lb xml:id="fol_74r.20" n="20"/>
-     <lb xml:id="fol_74r.21" n="21"/>
-     <lb xml:id="fol_74r.22" n="22"/>
-     <lb xml:id="fol_74r.23" n="23"/>
-     <lb xml:id="fol_74r.24" n="24"/>
-     <lb xml:id="fol_74r.25" n="25"/>
-     <lb xml:id="fol_74r.26" n="26"/>
-     <lb xml:id="fol_74r.27" n="27"/>
-     <lb xml:id="fol_74r.28" n="28"/>
-     <lb xml:id="fol_74r.29" n="29"/>
-     <lb xml:id="fol_74r.30" n="30"/>
+     <lb xml:id="fol_74r.1" n="1"/>FORTE NON POSSUNT NEC DEBEO <w part="I">DE</w>
+     <lb xml:id="fol_74r.2" n="2"/><w part="F">ROGARE</w> QUOD POSSUNT <choice><abbr>CREATIONE &#772;</abbr><expan>CREATIONE<ex>M</ex></expan></choice>
+     <lb xml:id="fol_74r.3" n="3"/>TAMEN <choice><abbr>CONDITIONEMQ&#183;</abbr><expan>CONDITIONEMQ<ex>UE</ex></expan></choice> OMNIUM <w part="I">NA</w>
+     <lb xml:id="fol_74r.4" n="4"/><w part="F">TURARUM</w> QUA FIT UT OMNINO NATUR&#198;
+     <lb xml:id="fol_74r.5" n="5"/>SINT EIS <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> <choice><abbr>FABENTIB&#183;</abbr><expan>FABENTIB<ex>US</ex></expan></choice> <app><rdg wit="#CSEL40">FAUENTIBUS</rdg></app> ILLI<del rend="strikethrough">S</del> <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> TRIBUO
+     <lb xml:id="fol_74r.6" n="6"/>CUI SE ETIAM IPSI DEBERE QUOD SUNT <choice><abbr>CU &#772;</abbr><expan>CU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_74r.7" n="7"/>GRATIARUM ACTIONE NOUERUNT NON
+     <lb xml:id="fol_74r.8" n="8"/>SOLUM IGITUR AGRICOLAS NON DICIM<hi rend="ligature">US</hi>
+     <lb xml:id="fol_74r.9" n="9"/>FRUCTUUM <choice><abbr>QUORUMQ&#183;</abbr><expan>QUORUMQ<ex>UE</ex></expan></choice> CREATORES <choice><abbr>CU &#772;</abbr><expan>CU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_74r.10" n="10"/>LEGAMUS <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> QUI PLANTAT EST ALIQUID
+     <lb xml:id="fol_74r.11" n="11"/><choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> QUI RIGAT SED QUI <choice><abbr>INCREMENTU &#772;</abbr><expan>INCREMENTU<ex>M</ex></expan></choice>
+     <lb xml:id="fol_74r.12" n="12"/>DAT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; SED NE IPSAM QUIDEM TERRAM
+     <lb xml:id="fol_74r.13" n="13"/>QUAMUIS MATER OMNIUM FECUNDA <w part="I">UI</w>
+     <lb xml:id="fol_74r.14" n="14"/><w part="F">DEATUR</w> QUAE <choice><abbr>GERMINIB&#183;</abbr><expan>GERMINIB<ex>US</ex></expan></choice> ERUMPENTIA
+     <lb xml:id="fol_74r.15" n="15"/>PROMOUET ET FIXA <choice><abbr>RADICIB&#183;</abbr><expan>RADICIB<ex>US</ex></expan></choice> CONTINET
+     <lb xml:id="fol_74r.16" n="16"/>CUM ITIDEM LEGAMUS DEUS ILLI DAT <w part="I">COR</w>
+     <lb xml:id="fol_74r.17" n="17"/><w part="F">PUS</w> QUO MODO UOLUERIT ET <choice><abbr>UNICUIQ&#183;</abbr><expan>UNICUIQ<ex>UE</ex></expan></choice>
+     <lb xml:id="fol_74r.18" n="18"/>SEMINUM PROPRIUM CORPUS ITA NEC
+     <lb xml:id="fol_74r.19" n="19"/>FEMINAM SUI PUERPERII CREATRICEM
+     <lb xml:id="fol_74r.20" n="20"/>APPELLARE DEBEMUS SED POTIUS ILLUM
+     <lb xml:id="fol_74r.21" n="21"/>QUI CUIDAM FAMULO SUO DIXIT <w part="I">PRIUS</w>
+     <lb xml:id="fol_74r.22" n="22"/><w part="F">QUAM</w> TE FORMAREM IN UTERO NOUI TE
+     <lb xml:id="fol_74r.23" n="23"/>ET QUAMUIS ANIMA SIC UEL SIC AFFECTA
+     <lb xml:id="fol_74r.24" n="24"/>PREGNANTIS <app><rdg wit="#CSEL40">PRAEGNANTIS</rdg></app> UALEAT <choice><abbr>ALIQUIB&#183;</abbr><expan>ALIQUIB<ex>US</ex></expan></choice> UELUT <w part="I">IN</w>
+     <lb xml:id="fol_74r.25" n="25"/><w part="F">DUERE</w> QUALITATI<add place="above">BU</add>S <supplied reason="lost">FETUM</supplied> SICUT DE <w part="I">UIR</w>
+     <lb xml:id="fol_74r.26" n="26"/><w part="F">GIS</w> UARIATIS FECIT <supplied reason="lost">IACOB UT</supplied> PECORA <w part="I">COLO</w>
+     <lb xml:id="fol_74r.27" n="27"/><w part="F">RE</w> UARIA GIGNER<supplied reason="lost">ENTUR NATURAM TAMEN</supplied> 
+     <lb xml:id="fol_74r.28" n="28"/>ILLAM QUAE GIGNIT<supplied reason="lost">UR TAM</supplied> IPSA NON FECIT
+     <lb xml:id="fol_74r.29" n="29"/>QUAM NEC IPSA SE FECIT <supplied reason="lost">QUAELIBET IGIT</supplied>UR
+     <lb xml:id="fol_74r.30" n="30"/>CORPORALES UEL SEMINALES CAUSAE <w part="I">GIG</w>
     </ab> 
    </div>
    
    
    <div n="fol_74v" type="edition">
     <ab>
-     <lb xml:id="fol_74v.1" n="1"/>
+     <lb xml:id="fol_74v.1" n="1"/><w part="F">NENDIS</w>
      <lb xml:id="fol_74v.2" n="2"/> 
      <lb xml:id="fol_74v.3" n="3"/>
      <lb xml:id="fol_74v.4" n="4"/>
