@@ -112,7 +112,7 @@
    <div n="fol_7r" type="edition">
    <ab>
      <note type="scholion" place="top">&#9767;</note>
-     <lb xml:id="fol_7r.1" n="1"/>CIUITATEM<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> DICIMUS CUIUS EA <w part="I">SCRIB</w>
+     <lb xml:id="fol_7r.1" n="1"/><note type="scholion" subtype="chapter" n="1" place="margin">I</note>CIUITATEM<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> DICIMUS CUIUS EA <w part="I">SCRIB</w>
      <lb xml:id="fol_7r.2" n="2"/><w part="F">TURA</w> <app><rdg wit="#CSEL40">SCRIPTURA</rdg></app> TESTIS EST QUAE NON FORTUITIS <w part="I">MO</w>
      <lb xml:id="fol_7r.3" n="3"/><w part="F">TIBUS</w> ANIMORUM SED PLANE SUMM<choice><abbr>E&#0327;</abbr><expan><ex>A</ex>E</expan></choice> <app><note>The cauda was added later</note></app> <w part="I">DIS</w> 
      <lb xml:id="fol_7r.4" n="4"/><w part="F">POSITIONE</w> PROUIDENTIAE SUPER OMNES 
