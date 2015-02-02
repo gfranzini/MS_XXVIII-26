@@ -171,7 +171,7 @@
      <lb xml:id="fol_7v.21" n="21"/>DICAM QUEM AMMODUM <app><rdg wit="#CSEL40">AD MODUM</rdg></app> EXORDIA
      <lb xml:id="fol_7v.22" n="22"/>DUARUM ISTARUM CIUITATUM IN <w part="I">AN</w>
      <lb xml:id="fol_7v.23" n="23"/><w part="F">GELORUM</w> DIUERSITATE PRAECESSERINT,
-     <lb xml:id="fol_7v.24" n="24"/>MAGNUM EST ET AMMODUM <app><rdg wit="#CSEL40">ADMODUM</rdg></app> RARUM <w part="I">UNI</w>
+     <lb xml:id="fol_7v.24" n="24"/><note type="scholion" subtype="chapter" n="2" place="margin">II</note>MAGNUM EST ET AMMODUM <app><rdg wit="#CSEL40">ADMODUM</rdg></app> RARUM <w part="I">UNI</w>
      <lb xml:id="fol_7v.25" n="25"/><w part="F">UERSAM</w> CREATURAM CORPOREAM ET <w part="I">IN</w>
      <lb xml:id="fol_7v.26" n="26"/><w part="F">CORPOREAM</w> CONSIDERATAM <w part="I"><choice><abbr>COMPERTA &#772;</abbr><expan><ex>M</ex></expan></choice></w> <app><rdg wit="#CSEL40">CONPERTAMQUE</rdg></app>
      <lb xml:id="fol_7v.27" n="27"/><w part="F">QUE</w> MUTABILEM INTENTIONE MENTIS <w part="I">EX</w> 
