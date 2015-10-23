@@ -548,7 +548,7 @@
    
    <div n="fol_13r" type="edition">
      <ab>
-      <lb xml:id="fol_13r.1" n="1"/><w part="F">BO</w> <choice><abbr>DI<choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice></abbr><expan>D<ex>E</ex>I</expan></choice> FACTA <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INTER IPSAM ET <w part="I">TENE</w>               
+      <lb xml:id="fol_13r.1" n="1"/><w part="F">BO</w> <choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> FACTA <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> INTER IPSAM ET <w part="I">TENE</w>               
       <lb xml:id="fol_13r.2" n="2"/><w part="F">BRAS</w> <choice><abbr>DS&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> SEPARASSE NARRATUR ET <choice><abbr>EANDE &#772;</abbr><expan>EANDE<ex>M</ex></expan></choice>
       <lb xml:id="fol_13r.3" n="3"/>LUCEM UOCASSE DIEM TENEBRAS AUTEM
       <lb xml:id="fol_13r.4" n="4"/><choice><abbr>NOCTE &#772;</abbr><expan>NOCTE<ex>M</ex></expan></choice> SED QUALIS ILLA <add place="above">SIT</add> LUX ET QUO <w part="I">ALTER</w> <note type="scholion" place="margin">R&#772; quid ... non ....<!--illegible--></note>
