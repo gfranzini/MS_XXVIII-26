@@ -333,7 +333,7 @@
     <ab>
      <lb xml:id="fol_10r.1" n="1"/>A FORTUITA TEMERITATE DEFENDERE NE  
      <lb xml:id="fol_10r.2" n="2"/>SUBITO ILLI UENISSE CREDATUR IN <choice><abbr>MENTE&#772;</abbr><expan>MENTE<ex>M</ex></expan></choice>
-     <lb xml:id="fol_10r.3" n="3"/>QUOD NUMQUAM <choice><sic>INTE</sic><corr>ANTE</corr></choice> UENISSE<add place="above">T</add> FACERE <w part="I">MU&#772;</w>
+     <lb xml:id="fol_10r.3" n="3"/>QUOD NUMQUAM <choice><sic>INTE</sic><corr>ANTE</corr></choice> UENISSE<add place="above">T</add> FACERE <w part="I">MU &#772;</w>
      <lb xml:id="fol_10r.4" n="4"/><w part="F">DUM</w> ET ACCIDISSE ILLI UOLUNTATEM <choice><abbr>NOUA&#772;</abbr><expan>NOUA<ex>M</ex></expan></choice> <app><rdg wit="#CSEL40">NOUAM UOLUNTATEM</rdg></app>
      <lb xml:id="fol_10r.5" n="5"/>CUM IN <add place="above">N</add>ULLO SIT OMNINO MUTABILIS
      <lb xml:id="fol_10r.6" n="6"/>SED NON UIDEO QUO MODO EIS POSSIT IN <w part="I">CETE</w>
