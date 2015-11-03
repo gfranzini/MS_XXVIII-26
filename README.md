@@ -6,6 +6,6 @@ Digital edition and transcription of manuscript V, Verona, XXVIII(26): the oldes
 ## File list
 This repository contains:
 
-* *Palladio*: This folder contains data to produce a visualisation of the distribution of (digitised) _De civitate Dei_ manuscripts. 
-* *Transcription*: This folder contains the manuscript transcription files.
-* *mss_dcd.csv*: This file is a duplicate of the .xls file contained in the Palladio folder. 
+* **Palladio**: This folder contains data to produce a visualisation of the distribution of (digitised) _De civitate Dei_ manuscripts. 
+* **Transcription**: This folder contains the manuscript transcription files.
+* **mss_dcd.csv**: This file is a duplicate of the .xls file contained in the Palladio folder. 
