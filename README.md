@@ -18,35 +18,35 @@ _De civitate Dei_ is traditionally made up of 22 volumes. MS XXVIII(26), however
 * [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_01v-06r.xml)
 * TXT
 
-### Book 11: folia 7r-43r 
+#### Book 11: folia 7r-43r 
 * [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_07r-43r.xml) 
 * [TXT-in progress](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Book_11_plain.xml)
 
 Damaged (not transcribed) folia: 8v; 21v-22v.
 
-### Book 12: folia 43v-76v
+#### Book 12: folia 43v-76v
 * [XML-in progress](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_43v-76v.xml)
 * TXT
 
 Damaged (not transcribed) folia: 53r-55v; 62v-68v; 69v-71v.
 
-### Book 13: folia 76v-109v 
+#### Book 13: folia 76v-109v 
 * XML 
 * TXT
 
-### Book 14: folia 109v-148v 
+#### Book 14: folia 109v-148v 
 * XML
 * TXT
 
-### Book 15: folia 148v-197r 
+#### Book 15: folia 148v-197r 
 * XML
 * TXT
 
-### Book 16: folia 197r-253v 
+#### Book 16: folia 197r-253v 
 * XML
 * TXT
 
-### Back**: folia 254v-255r 
+#### Back**: folia 254v-255r 
 * XML
 * TXT
 
