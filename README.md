@@ -46,7 +46,7 @@ Damaged (not transcribed) folia: 53r-55v; 62v-68v; 69v-71v.
 * XML
 * TXT
 
-#### Back**: folia 254v-255r 
+#### Back: folia 254v-255r 
 * XML
 * TXT
 
