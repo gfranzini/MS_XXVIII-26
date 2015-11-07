@@ -11,7 +11,7 @@ Date,Shelfmark(s),Add. Info,Book(s).(chapter),Locus,Place,Institution,DOI,URL,Li
 775-779,Fr.lat.9,,16.36-37,1r-v,Dillingen,Studienbibliothek,TM68670,www.trismegistos.org/text/68670,
 8th,Frag. N.I.4.2,,,,Basel,Universitätsbibliothek,TM66991,www.trismegistos.org/text/66991,
 8th,483 (12),,,1r-1v,Freiburg,Universitätsbibliothek,TM66991,,
-8th,131,,,,Orl̩ans,Biblioth̬èque Municipale,,,
+8th,131,,,,Orl̩éans,Biblioth̬èque Municipale,,,
 8th-9th,SDL-Hss XV Fragm. 9,XV Fragm. 9,,,Dillingen,Studienbibliothek,urn:nbn:de:bvb:12-bsb00005828-4,http://daten.digitale-sammlungen.de/~db/0000/bsb00005828/images/index.html?seite=00001&l=en,
 8th-9th,Harley 4980,,16.8-10; 16.15-16,1-2v,London,British Library,TM66306,http://prodigi.bl.uk/illcat/record.asp?MSID=7388&CollID=8&NStart=4980,
 8th-9th (750-850),9641 (1145),,,,Bruxelles,Bibliothè̬que Royale,TM67711,www.trismegistos.org/text/67711,
@@ -82,11 +82,12 @@ first half 10th,337,,22.8,83-96,Orl̩é ans,Biblioth̬èque Municipale,,,
 10th,216,,,,Paris,Bibliothè̬que Sainte-Genevi̬ève,,,
 10th,lat. 7400B,,,,Paris,Bibliothè̬que Nationale,,,
 10th,296,,22.8,40v,Reims,Biblioth̬èque Municipale,,,
+10th,K11:014,De civitate Dei,,,Düsseldorf,Heinrich-Heine-Universität,,"http://www.manuscripta-mediaevalia.de/dokumente/html/obj30000126,T",
 11th,Paris lat. 11639,Codex Germanense,,,,,,,
 11th,Paris Sorbonne 28,Codex Geruasianus,,,,,,,
 1076-1125,Vat.lat.425,,,1r-321r,Città del Vaticano,Biblioteca Apostolica Vaticana,81881,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81881,
 11th-12th,Avranches 89,Codex Michaelinus,,,,,,,
-1150-1300,Mss/9557,De civitate Dei,,,Madrid,Biblioteca Nacional de Espa̱ña,http://bdh.bne.es/bnesearch/detalle/bdh0000007627,http://bdh.bne.es/bnesearch/detalle/bdh0000007627,CC-BY NC?
+1150-1300,Mss/9557,De civitate Dei,,,Madrid,Biblioteca Nacional de Espa̱ña,bdh0000007627,http://bdh.bne.es/bnesearch/detalle/bdh0000007627,CC-BY NC?
 1st half 12th,SDL-Hss XV Fragm. 11,XV Fragm. 11,,,Dillingen ,Studienbibliothek,urn:nbn:de:bvb:12-bsb00005826-3,http://daten.digitale-sammlungen.de/~db/0000/bsb00005826/images/index.html?seite=00001&l=en,
 12th,Cod. 17,,,,Engelberg,Stiftsbibliothek,10.5076/e-codices-bke-0017,http://www.e-codices.unifr.ch/en/list/one/bke/0017,CC-BY-NC
 12th,Cod. 1008,,,,Engelberg,Stiftsbibliothek,10.5076/e-codices-bke-1008,http://www.e-codices.unifr.ch/en/list/one/bke/1008,CC-BY-NC
@@ -94,6 +95,7 @@ first half 10th,337,,22.8,83-96,Orl̩é ans,Biblioth̬èque Municipale,,,
 12th,Vat.lat.435,,,1v-292v,Città del Vaticano,Biblioteca Apostolica Vaticana,81889,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81889,
 12th,Vat.lat.438,,,1r-242r,Città del Vaticano,Biblioteca Apostolica Vaticana,81892,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81892,
 12th,Vat.lat.439,,,10r-269r,Città del Vaticano,Biblioteca Apostolica Vaticana,81893,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81893,
+13th,K06:075,De civitate Dei,,,Düsseldorf,Heinrich-Heine-Universität,,"http://www.manuscripta-mediaevalia.de/dokumente/html/obj30000207,T",
 13th-14th,MS Typ 0228,,,,"Cambridge, Massachussets",Houghton Library,N/A,http://ucblibrary4.berkeley.edu:8088/xtf22/search?rmode=digscript;smode=basic;text=de%20civitate%20dei;docsPerPage=1;fullview=yes;startDoc=2,
 1201-1300,Mss/528,De civitate Dei,,,Madrid,Biblioteca Nacional de Espa̱ña,bdh0000100185,http://bdh.bne.es/bnesearch/detalle/bdh0000100185,CC-BY NC?
 14th,Ott.lat.2091,Excerpta,"8.14, 19",10r,Città del Vaticano,Biblioteca Apostolica Vaticana,81902,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81902,
@@ -105,8 +107,10 @@ first half 10th,337,,22.8,83-96,Orl̩é ans,Biblioth̬èque Municipale,,,
 1430,Cod. Guelf. 294 Helmst. (Heinemann-Nr. ),,,82r-v,Wolfenbüttel,Herzog-August-Bibliothek,,,NO IMAGES
 1439,Vat.lat.431,,,1v-282r,Città del Vaticano,Biblioteca Apostolica Vaticana,81886,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81886,
 1441,Vat.lat.430,,,1v-258v,Città del Vaticano,Biblioteca Apostolica Vaticana,81885,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81885,
+1466,Ms 265,Tabula super librum de civitate Dei beati Augustini facta per tabulam alphabeti,,,Leipzig,Universitätsbibliothek,,http://www.manuscripta-mediaevalia.de/dokumente/html/obj31561923,
 1468,Vat.lat.427,,,1v-530v,Città del Vaticano,Biblioteca Apostolica Vaticana,81883,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81883,
 first quarter 15th,Cod. Guelf. 277 Helmst. (Heinemann-Nr. 310),,,121r,Wolfenbüttel,Herzog-August-Bibliothek,,http://diglib.hab.de/?db=mss&list=ms&id=277-helmst&catalog=Lesser,NO IMAGES
+15th,"Fonds 183, Nr. 984",De civitate Dei,,,Moskau,Russische Staatsbibliothek,,http://www.manuscripta-mediaevalia.de/dokumente/html/obj31300114,
 15th,Urb.lat.45,De civitate Dei - Excerptum in laudem s. Paulini,1.1,17r-v,Città del Vaticano,Biblioteca Apostolica Vaticana,81899,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81899,
 15th,Urb.lat.73,,,1r-295v,Città del Vaticano,Biblioteca Apostolica Vaticana,81897,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81897,
 15th,Urb.lat.77,,18.46-47,206v,Città del Vaticano,Biblioteca Apostolica Vaticana,81911,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81911,
