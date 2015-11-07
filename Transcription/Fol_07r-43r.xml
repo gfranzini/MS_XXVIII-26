@@ -295,7 +295,7 @@
     <ab>
      <note type="scholion" place="margin">R&#772; <choice><abbr>qd&#772;</abbr><expan>q<ex>uo</ex>d</expan></choice> ... sapientia&#772; per ... sua... narrat</note> <!--illegible scholion-->
      <lb xml:id="fol_9v.1" n="1"/>OPERA SUA SINE STREPITU INTUS <w part="I"><choice><sic>ERRAR</sic><corr>ENAR</corr></choice></w>
-     <lb xml:id="fol_9v.2" n="2"/><w part="F">RAT</w>; <!-- three-dot group --> LOCUNTUR<app><rdg wit="#CSEL40">LOQUUNTUR</rdg></app> EIS <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> ANGELI <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUI
+     <lb xml:id="fol_9v.2" n="2"/><w part="F">RAT</w>; &quaddot; LOCUNTUR<app><rdg wit="#CSEL40">LOQUUNTUR</rdg></app> EIS <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> ANGELI <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUI
      <lb xml:id="fol_9v.3" n="3"/>SEMPER UIDENT FACIEM PATRIS <w part="I">UOLUN</w>
      <lb xml:id="fol_9v.4" n="4"/><w part="F">TATEMQUE</w> EIUS QUIBUS<del rend="strikethrough">Q</del> OPORTET <w part="I">AN</w>
      <lb xml:id="fol_9v.5" n="5"/><w part="F">NUNTIANT</w> <app><rdg wit="#CSEL40">ADNUNTIANT</rdg></app> EX HIS UNUS ERAT ISTE <w part="I">PRO</w>
@@ -1918,7 +1918,7 @@
      <lb xml:id="fol_32r.17" n="17"/><w part="F">TAE</w> SUMMAM NEMO CUNCTATUR TRIA
      <lb xml:id="fol_32r.18" n="18"/>ETIAM SUNT QUAE IN UNOQUOQUE <w part="I">HOMI</w>
      <lb xml:id="fol_32r.19" n="19"/><w part="F">NE</w> ARTIFICE SPECTANTUR UT ALIQUID <w part="I">EFFI</w>
-     <lb xml:id="fol_32r.20" n="20"/><w part="F">CIAT</w> NATURA DOCTRINA USUS;<!--CRUX--> NATURA
+     <lb xml:id="fol_32r.20" n="20"/><w part="F">CIAT</w> NATURA DOCTRINA USUS; &dagger; NATURA
      <lb xml:id="fol_32r.21" n="21"/>INGENIO DOCTRINA SCIENTIA USUS FRUCTU
      <lb xml:id="fol_32r.22" n="22"/>DIIUDICANDUS EST NEC IGNORO QUOD
      <lb xml:id="fol_32r.23" n="23"/>PROPRIAE <app><rdg wit="#CSEL40">PROPRIE</rdg></app> FRUCTUS FRUENTIS <supplied reason="lost">USUS <w part="I">UTEN</w></supplied>
