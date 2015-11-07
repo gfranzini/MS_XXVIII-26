@@ -295,7 +295,7 @@
     <ab>
      <note type="scholion" place="margin">R&#772; <choice><abbr>qd&#772;</abbr><expan>q<ex>uo</ex>d</expan></choice> ... sapientia&#772; per ... sua... narrat</note> <!--illegible scholion-->
      <lb xml:id="fol_9v.1" n="1"/>OPERA SUA SINE STREPITU INTUS <w part="I"><choice><sic>ERRAR</sic><corr>ENAR</corr></choice></w>
-     <lb xml:id="fol_9v.2" n="2"/><w part="F">RAT</w>; &quaddot; LOCUNTUR<app><rdg wit="#CSEL40">LOQUUNTUR</rdg></app> EIS <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> ANGELI <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUI
+     <lb xml:id="fol_9v.2" n="2"/><w part="F">RAT</w>; &tridotscomposit; LOCUNTUR<app><rdg wit="#CSEL40">LOQUUNTUR</rdg></app> EIS <choice><abbr>QUOQ&#183;</abbr><expan>QUOQ<ex>UE</ex></expan></choice> ANGELI <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUI
      <lb xml:id="fol_9v.3" n="3"/>SEMPER UIDENT FACIEM PATRIS <w part="I">UOLUN</w>
      <lb xml:id="fol_9v.4" n="4"/><w part="F">TATEMQUE</w> EIUS QUIBUS<del rend="strikethrough">Q</del> OPORTET <w part="I">AN</w>
      <lb xml:id="fol_9v.5" n="5"/><w part="F">NUNTIANT</w> <app><rdg wit="#CSEL40">ADNUNTIANT</rdg></app> EX HIS UNUS ERAT ISTE <w part="I">PRO</w>
@@ -688,7 +688,7 @@
      <lb xml:id="fol_14v.28" n="28"/><w part="F">TUS</w> FECIT SICUT SCRIBTURA <app><rdg wit="#CSEL40">SCRIPTURA</rdg></app> <w part="I">CONSEQUEN</w>
      <lb xml:id="fol_14v.29" n="29"/><w part="F">TER</w> ELOQUITUR INUISIBILIS ET <w part="I">INCOM</w>
      <lb xml:id="fol_14v.30" n="30"/><w part="F">POSITA</w> NONDUMQUE <del rend="strikethrough">CA</del>L<add place="above">UC</add>E FACTA UTIQUE
-     <note type="scholion" place="bottom"><choice><abbr>q&qslstrok;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> I&#772;</note>
+     <note type="scholion" place="bottom"><choice><abbr>q&#42841;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> I&#772;</note>
     </ab> 
    </div>
    
@@ -1242,7 +1242,7 @@
      <lb xml:id="fol_22v.28" n="28"/>
      <lb xml:id="fol_22v.29" n="29"/>
      <lb xml:id="fol_22v.30" n="30"/>
-     <note type="scholion" place="bottom"><choice><abbr>q&qslstrok;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> I&#772;I&#772;</note>
+     <note type="scholion" place="bottom"><choice><abbr>q&#42841;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> I&#772;I&#772;</note>
     </ab> 
    </div>
    
@@ -1821,7 +1821,7 @@
      <lb xml:id="fol_30v.28" n="28"/>UTRUM AUTEM BONI PATRIS ET BONI <sic>FILI</sic> <app><rdg wit="#CSEL40">FILII</rdg></app>
      <lb xml:id="fol_30v.29" n="29"/><choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice> <choice><abbr>S&#772;C&#772;S&#772;</abbr><expan>S<ex>AN</ex>C<ex>TU</ex>S</expan></choice> QUIA COMMUNIS AMBOBUS EST
      <lb xml:id="fol_30v.30" n="30"/>RECTE BONITAS DICI POSSIT AMBORUM <choice><abbr>NO &#772;</abbr><expan>NO<ex>N</ex></expan></choice>
-     <note type="scholion" place="bottom"><choice><abbr>q&qslstrok;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> I&#772;I&#772;I&#772;</note> 
+     <note type="scholion" place="bottom"><choice><abbr>q&#42841;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> I&#772;I&#772;I&#772;</note> 
     </ab> 
    </div>
    
@@ -2392,7 +2392,7 @@
      <lb xml:id="fol_38v.28" n="28"/><w part="F">SURAM</w> ET PONDUS NEGLEGERE IUDICEM<hi rend="ligature">UR</hi>
      <lb xml:id="fol_38v.29" n="29"/>HOC ITAQUE <add place="above">SATIS</add> SIT AMMONERE <app><rdg wit="#CSEL40">ADMONERE</rdg></app> QUOD TOTUS
      <lb xml:id="fol_38v.30" n="30"/><note type="scholion" place="margin">par <choice><abbr>nu&#772;m&#772;</abbr><expan>num<ex>erus</ex></expan></choice></note> IMPAR <app><rdg wit="#CSEL40">INPAR PRIMUS</rdg></app> NUMERUS TERNARIUS EST TOT<hi rend="ligature">US</hi>
-     <note type="scholion" place="bottom"><choice><abbr>q&qslstrok;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> II&#772;I&#772;I</note>
+     <note type="scholion" place="bottom"><choice><abbr>q&#42841;&#772;</abbr><expan>q<ex>uaternio</ex></expan></choice> II&#772;I&#772;I</note>
     </ab> 
    </div>
    
