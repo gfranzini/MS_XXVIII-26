@@ -6,7 +6,7 @@
   <fileDesc>
    
    <titleStmt>
-    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003" xml:id="edition">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
     <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
     <editor>Greta Franzini</editor>
     <respStmt>
@@ -106,7 +106,7 @@
   
   <body>
    <head>
-    <title>Liber XI</title>
+    <title xml:id="book">Liber XI</title>
    </head>
    
    <div n="fol_7r" type="edition">
