@@ -7,9 +7,9 @@ For more information, please visit: http://decivitatedei.eu
 ## File list
 This repository contains:
 
-* **Palladio**: This folder contains data to produce a visualisation of the distribution of (digitised) _De civitate Dei_ manuscripts. 
 * **Transcription**: This folder contains the manuscript transcription files.
-* **mss_dcd.csv**: This file is a duplicate of the .xls file contained in the Palladio folder. 
+* **Edition**: This folder contains the files that make up the edition of MS XXVIII(26).
+* **mss_dcd.csv**: This file lists (digitised) manuscripts of _De civitate Dei_. 
 
 ## About
 _De civitate Dei_ is traditionally made up of 22 volumes. MS XXVIII(26), however, preserves only books 11-16 (254 pages) along with a 9th century introduction and back matter. Once complete, the digital version of MS XXVIII(26) will consist of two different files (XML and .txt) per book, and two files for the front and back matter:
