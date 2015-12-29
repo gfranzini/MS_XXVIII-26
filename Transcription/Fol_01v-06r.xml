@@ -41,9 +41,13 @@
                         <idno>MS XXVIII(26)</idno>
                     </msIdentifier>
                     <msContents>
-                        <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+                        <msItem> <incipit><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</incipit>
+                            </msItem>
+                        <msItemStruct>
+                            <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+                        </msItemStruct>
                    </msContents>
-                    <physDesc>
+                   <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="parchment">
                                 <support><p>Parchment</p></support>
@@ -86,12 +90,9 @@
 
     <text>
         <body>
-            <div n="fol_1r" type="edition">
-                <ab>                    <incipit><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</incipit>
-                </ab>
-            </div>
+            
           
-            <div n="fol_1v" type="edition">
+            <div n="Folio 1v" type="edition">
                 <ab>
                     <lb xml:id="fol_1v.1" n="1"/><num value="1">I</num>. De ea parte operis qua duarum ciuitatum id est 
                     <lb xml:id="fol_1v.2" n="2"/>celestis <app><rdg wit="#CSEL40">caelestis</rdg></app> atque <app><rdg wit="#CSEL40">adque</rdg></app> terren&#230; initia et fines incipient 
@@ -129,7 +130,7 @@
                 </ab>
             </div>
             
-            <div n="fol_2r" type="edition"> 
+            <div n="Folio 2r" type="edition"> 
                 <ab>
                     <lb xml:id="fol_2r.1" n="1"/>sui semper habuerunt &#183; etiam illos <choice><abbr>sp&#772;s</abbr><expan>sp<ex>iritu</ex>s</expan></choice> qui in <w part="I">ueri</w>
                     <lb xml:id="fol_2r.2" n="2"/><w part="F">tate</w> non steterunt participes fuisse <choice><abbr>credendu&#772;</abbr><expan>credendu<ex>m</ex></expan></choice> sit; 
@@ -165,7 +166,7 @@
                 </ab>
             </div>
 
-            <div n="fol_2v" type="edition"> 
+            <div n="Folio 2v" type="edition"> 
                 <ab>
                     <lb xml:id="fol_2v.1" n="1" />malam esse naturam;
                     <lb xml:id="fol_2v.2" n="2" /><num value="23">XXIII</num>. De errore in quo origenis doctrina culpatur;
@@ -200,7 +201,7 @@
                 </ab>
             </div>
           
-            <div n="fol_3r" type="edition"> 
+            <div n="Folio 3r" type="edition"> 
                 <ab>
                     <lb xml:id="fol_3r.1" n="1" />qui summe <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> semper est &#183; hoc in totum uidetur <w part="I">diuer</w> 
                     <lb xml:id="fol_3r.2" n="2" /><w part="F">sum</w> esse quod non est;
@@ -235,7 +236,7 @@
                 </ab>
             </div>
            
-            <div n="fol_3v" type="edition">
+            <div n="Folio 3v" type="edition">
                 <ab>
                     <lb xml:id="fol_3v.1" n="1" />que speciem reditura &#183; quidam philosophi crediderunt;
                     <lb xml:id="fol_3v.2" n="2" /><num value="15">XV</num>. De temporalj conditione genesis humani quam <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> nec <w part="I">no</w>
@@ -270,7 +271,7 @@
                 </ab>
             </div>
             
-            <div n="fol_4r" type="edition">
+            <div n="Folio 4r" type="edition">
                 <ab>
                     <lb xml:id="fol_4r.1" n="1" />non nisi <choice><abbr>oper&#281;</abbr><expan>oper<ex>ae</ex></expan></choice> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> fieri atque <app><rdg wit="#CSEL40">adque</rdg></app> formari; 
                     <lb xml:id="fol_4r.2" n="2" /><num value="27">XXVII</num>. De plathonicorum opinione qua putauerunt
@@ -305,7 +306,7 @@
                 </ab>
             </div>
            
-            <div n="fol_4v" type="edition">
+            <div n="Folio 4v" type="edition">
                 <ab>
                     <lb xml:id="fol_4v.1" n="1" /><num value="11">XI</num>. An quisquam simul <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> uiuens esse possit <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> mortuus;
                     <lb xml:id="fol_4v.2" n="2" /><num value="12">XII</num>. Quam mortem primis hominibus <choice><abbr>ds&#772;</abbr><expan>d<ex>eu</ex>s</expan></choice> si mandatum
@@ -340,7 +341,7 @@
                 </ab>
             </div>
             
-            <div n="fol_5r" type="edition">
+            <div n="Folio 5r" type="edition">
                 <ab>
                     <lb xml:id="fol_5r.1" n="1" />resurrectionem <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> sic spiritalja erunt ut non in spiritum
                     <lb xml:id="fol_5r.2" n="2" />caro uertatur:
@@ -375,7 +376,7 @@
                 </ab>
             </div>
           
-            <div n="fol_5v" type="edition">
+            <div n="Folio 5v" type="edition">
                 <ab>
                     <lb xml:id="fol_5v.1" n="1" /><num value="9">VIIII</num>. De perturbationibus animi quarum adfectus rectos 
                     <lb xml:id="fol_5v.2" n="2" /><choice><abbr>hab&#38;</abbr><expan>hab<ex>et</ex></expan></choice> uita iustorum; 
@@ -410,7 +411,7 @@
                 </ab>
             </div>
 
-            <div n="fol_6r" type="edition">
+            <div n="Folio 6r" type="edition">
                 <ab>
                     <lb xml:id="fol_6r.1" n="1" />pugnatura illic <choice><abbr>fuiss&#38;</abbr><expan>fuiss<ex>et</ex></expan></choice> ratio castitatis; 
                     <lb xml:id="fol_6r.2" n="2" /><num value="24">XXIIII</num>. Quod insontes homines <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> merito <choice><abbr>oboedienti&#281;</abbr><expan>oboedienti<ex>ae</ex></expan></choice> in paradyso <app><rdg wit="#CSEL40">paradiso</rdg></app>
