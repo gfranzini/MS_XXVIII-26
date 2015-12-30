@@ -12,11 +12,11 @@ This repository contains:
 * **mss_dcd.csv**: This file lists (digitised) manuscripts of _De civitate Dei_. 
 
 ## About
-_De civitate Dei_ is traditionally made up of 22 volumes. MS XXVIII(26), however, preserves only books 11-16 (254 pages) along with a 9th century introduction and back matter. Once complete, the digital version of MS XXVIII(26) will consist of two different files (XML and .txt) per book, and two files for the front and back matter:
+_De civitate Dei_ is traditionally made up of 22 volumes. MS XXVIII(26), however, preserves only books 11-16 (254 pages) along with 9th century _capitula_ and back matter. Once complete, the digital version of MS XXVIII(26) will consist of two different files (XML and .txt) per book, and two files for the _capitula_ and back matter:
 
 #### Capitula: folia 01v-6r 
 * [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_01v-06r.xml)
-* TXT
+* [TXT](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_01v-06r.txt)
 
 #### Book 11: folia 7r-43r 
 * [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_07r-43r.xml) 
