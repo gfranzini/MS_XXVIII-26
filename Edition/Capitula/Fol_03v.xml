@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+                <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+                <editor>Greta Franzini</editor>
+                <respStmt>
+                    <persName>Greta Franzini</persName>
+                    <resp>PhD student</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Melissa Terras</persName>
+                    <resp>First supervisor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Simon Mahony</persName>
+                    <resp>Second supervisor</resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1">First digital edition</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Greta Franzini</authority>
+                <idno>Fol_01v-06r.xml</idno>
+                <authority>UCL Centre for Digital Humanities</authority>
+                <availability>
+                    <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+                </availability>
+                <date>2014</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Verona</settlement>
+                        <repository>Biblioteca Capitolare</repository>
+                        <idno>MS XXVIII(26)</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem> <incipit><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</incipit>
+                            </msItem>
+                        <msItemStruct>
+                            <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+                        </msItemStruct>
+                   </msContents>
+                   <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="parchment">
+                                <support><p>Parchment</p></support>
+                                <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+                                        <height>292</height>
+                                        <width>190</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"><p>In a single column</p></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding contemporary="unknown">
+                                <p>Bound in <material>rigid parchment</material>, possibly in 18th
+                                    century, and rebound using the same support in 1926.</p>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+                            </p>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>The following text was encoded in accordance with EpiDoc standards.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <body>
+            
+            <head>
+                <title xml:id="book">Capitula</title>
+            </head>
+            
+            <div n="Folio 3v" type="edition">
+                <ab>
+                    <lb xml:id="fol_3v.1" n="1" />que &#383;peciem reditura &#183; quidam philo&#383;ophi crediderunt;
+                    <lb xml:id="fol_3v.2" n="2" /><num value="15">XV</num>. De temporalj conditione &#7545;ene&#383;i&#383; humani quam <choice><abbr>d&#383;&#772;</abbr><expan>d<ex>eu</ex>&#383;</expan></choice> nec <w part="I">no</w>
+                    <lb xml:id="fol_3v.3" n="3" /><w part="F">uo</w> con&#383;iljo in&#383;tituerit nec mutabilj uoluntate.
+                    <lb xml:id="fol_3v.4" n="4" /><num value="16">XVI</num>. An ut <choice><abbr>d&#383;&#772;</abbr><expan>d<ex>eu</ex>&#383;</expan></choice> &#383;emper etiam <choice><abbr>dn&#772;&#383;&#772;</abbr><expan>d<ex>omi</ex>n<ex>u</ex>&#383;</expan></choice> fui&#383;&#383;e intelle&#7545;atur <w part="I">creden</w>
+                    <lb xml:id="fol_3v.5" n="5" /><w part="F">dum</w> &#383;it creaturam quoque numquam defui&#383;&#383;e cui <w part="I">domi</w>
+                    <lb xml:id="fol_3v.6" n="6" /><w part="F">naretur</w> &#183; <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> quo modo dicatur &#383;emper creatum quod dici
+                    <lb xml:id="fol_3v.7" n="7" />non pote&#383;t coaeternum;
+                    <lb xml:id="fol_3v.8" n="8" /><num value="17">XVII</num>. Quo modo intelle&#7545;enda &#383;it promi&#383;&#383;a homini a <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> uita
+                    <lb xml:id="fol_3v.9" n="9" />&#230;terna ante tempora &#230;terna;
+                    <lb xml:id="fol_3v.10" n="10" /><num value="18">XVIII</num>. Quid de incommutabilj con&#383;iljo ac uoluntate <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> fide&#383;
+                    <lb xml:id="fol_3v.11" n="11" />&#383;ana defendat contra ratiocinatione&#383; eorum qui
+                    <lb xml:id="fol_3v.12" n="12" />opera <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ex &#230;ternitate repetita per eo&#383;dem &#383;emper
+                    <lb xml:id="fol_3v.13" n="13" />uolunt <choice><abbr>&#383;&#281;culorum</abbr><expan>&#383;<ex>ae</ex>culorum</expan></choice> redire circuitu&#383;;
+                    <lb xml:id="fol_3v.14" n="14" /><num value="19">XVIIII</num>. Contra eo&#383; qui dicunt <sic><choice><abbr>&#230;aqu&#281;</abbr><expan>aqu<ex>ae</ex></expan></choice></sic> <app><rdg wit="#CSEL40">ea quae</rdg></app> infinita &#383;unt &#183; nec <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> <w part="I">po&#383;</w>
+                    <lb xml:id="fol_3v.15" n="15" /><w part="F">&#383;e</w> &#383;cientia comprehendi;
+                    <lb xml:id="fol_3v.16" n="16" /><num value="20">XX</num>. De <choice><abbr>&#383;&#281;culi&#383;</abbr><expan>&#383;<ex>ae</ex>culi&#383;</expan></choice> <choice><abbr>&#383;&#281;culorum</abbr><expan>&#383;<ex>ae</ex>culorum</expan></choice>;
+                    <lb xml:id="fol_3v.17" n="17" /><num value="21">XXI</num>. De <choice><abbr>inpi&#281;tate</abbr><expan>inpi<ex>ae</ex>tate</expan></choice> <app><rdg wit="#CSEL40">inpietate</rdg></app> eorum qui ad&#383;erunt anima&#383; &#383;umme <app><rdg wit="#CSEL40">summae</rdg></app> <w part="I">be</w>
+                    <lb xml:id="fol_3v.18" n="18" /><w part="F">reque</w> <app><rdg wit="#CSEL40">ueraeque</rdg></app> beatitudini&#383; participe&#383; &#183; iterum atque <app><rdg wit="#CSEL40">adque</rdg></app> iterum
+                    <lb xml:id="fol_3v.19" n="19" />per circuitu&#383; temporum ad ea&#383;dem mi&#383;eria&#383; <w part="I">lauore&#383;</w>
+                    <lb xml:id="fol_3v.20" n="20" /><w part="F">que</w> <app><rdg wit="#CSEL40">labore&#383;que</rdg></app> &#183; reditura&#383;;
+                    <lb xml:id="fol_3v.21" n="21" /><num value="22">XXII</num>. De conditione uniu&#383; primi homini&#383; atque in <sic>e</sic> <app><rdg wit="#CSEL40">eo</rdg></app> &#7545;eneri&#383; 
+                    <lb xml:id="fol_3v.22" n="22" />humani;
+                    <lb xml:id="fol_3v.23" n="23" /><num value="23">XXIII</num>. Quod <choice><abbr>pr&#281;&#383;cierit</abbr><expan>pr<ex>ae</ex>&#383;cierit</expan></choice> <app><note><hi rend="italics">Prae&#383;cierit</hi> i&#383; a &#383;yncopated ver&#383;ion of <hi rend="italics">prae&#383;civerit; the &#383;yncopated perfect often drop&#383; the 'v'.</hi></note></app> <choice><abbr>d&#383;&#772;</abbr><expan>d<ex>eu</ex>&#383;</expan></choice> hominem quem primum condidit
+                    <lb xml:id="fol_3v.24" n="24" />peccaturum &#183; &#383;imul &#183; que <app><rdg wit="#CSEL40">simulque</rdg></app> <choice><abbr>pr&#281;uiderit</abbr><expan>pr<ex>ae</ex>uiderit</expan></choice> quantum piorum
+                    <lb xml:id="fol_3v.25" n="25" />populum ex eiu&#383; &#7545;enere in an&#7545;eljcum con&#383;ortium
+                    <lb xml:id="fol_3v.26" n="26" />&#383;ua e&#383;&#383;et &#7545;ratia tran&#383;laturu&#383;;
+                    <lb xml:id="fol_3v.27" n="27" /><num value="24">XXIIII</num>. De natura <choice><abbr>human&#281;</abbr><expan>human<ex>ae</ex></expan></choice> <choice><abbr>anim&#281;</abbr><expan>anim<ex>ae</ex></expan></choice> <choice><abbr>creat&#281;</abbr><expan>creat<ex>ae</ex></expan></choice> ad ima&#7545;inem <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice>,
+                    <lb xml:id="fol_3v.28" n="28" /><num value="25">XXV</num>. An ullju&#383; uel minime <app><rdg wit="#CSEL40">minimae</rdg></app> <choice><abbr>creatur&#281;</abbr><expan>creatur<ex>ae</ex></expan></choice> po&#383;&#383;int dici an&#7545;elj
+                    <lb xml:id="fol_3v.29" n="29" />creatore&#383;;
+                    <lb xml:id="fol_3v.30" n="30" /><num value="26">XXVI</num>. Omnem naturam <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> omnem &#383;peciem <choice><abbr>uniuer&#383;&#281;</abbr><expan>uniuer&#383;<ex>ae</ex></expan></choice> <sic>creature</sic> <app><rdg wit="#CSEL40">creaturae</rdg></app> &#183;
+                </ab>
+            </div>
+            
+            
+        </body>
+
+    </text>
+</TEI>

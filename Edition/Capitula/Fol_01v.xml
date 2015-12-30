@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+                <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+                <editor>Greta Franzini</editor>
+                <respStmt>
+                    <persName>Greta Franzini</persName>
+                    <resp>PhD student</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Melissa Terras</persName>
+                    <resp>First supervisor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Simon Mahony</persName>
+                    <resp>Second supervisor</resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1">First digital edition</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Greta Franzini</authority>
+                <idno>Fol_01v-06r.xml</idno>
+                <authority>UCL Centre for Digital Humanities</authority>
+                <availability>
+                    <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+                </availability>
+                <date>2014</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Verona</settlement>
+                        <repository>Biblioteca Capitolare</repository>
+                        <idno>MS XXVIII(26)</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem> <incipit><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</incipit>
+                            </msItem>
+                        <msItemStruct>
+                            <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+                        </msItemStruct>
+                   </msContents>
+                   <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="parchment">
+                                <support><p>Parchment</p></support>
+                                <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+                                        <height>292</height>
+                                        <width>190</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"><p>In a single column</p></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding contemporary="unknown">
+                                <p>Bound in <material>rigid parchment</material>, possibly in 18th
+                                    century, and rebound using the same support in 1926.</p>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+                            </p>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>The following text was encoded in accordance with EpiDoc standards.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <body>
+            
+            <head>
+                <title xml:id="book">Capitula</title>
+            </head>
+          
+            <div n="Folio 1v" type="edition">
+                <ab>
+                    <lb xml:id="fol_1v.1" n="1"/><num value="1">I</num>. De ea parte operi&#383; qua duarum ciuitatum id e&#383;t 
+                    <lb xml:id="fol_1v.2" n="2"/>cele&#383;ti&#383; <app><rdg wit="#CSEL40">caelestis</rdg></app> atque <app><rdg wit="#CSEL40">adque</rdg></app> terren&#230; initia et fine&#383; incipient 
+                    <lb xml:id="fol_1v.3" n="3"/>demon&#383;trari; 
+                    <lb xml:id="fol_1v.4" n="4"/><num value="2">II</num>. De co&#7545;no&#383;cendo <choice><abbr>do&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> ad cuiu&#383; notitiam nemo <choice><abbr>hominu&#772;</abbr><expan><ex>m</ex></expan></choice>
+                    <lb xml:id="fol_1v.5" n="5"/>peruenit &#183; ni&#383;i per mediatorem <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> et hominum &#772; &#183; 
+                    <lb xml:id="fol_1v.6" n="6"/>hominem <choice><abbr>xp&#772;m&#772;</abbr><expan>Chr<ex>istu</ex>m</expan></choice> <choice><abbr>ih&#772;m&#772;</abbr><expan>Ih<ex>esu</ex>m</expan></choice>;
+                    <lb xml:id="fol_1v.7" n="7"/><num value="3">III</num>. De auctoritate canonic<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> &#383;criptur&#230; diuino <choice><abbr>&#383;p&#772;u&#772;</abbr><expan>&#383;p<ex>irit</ex>u</expan></choice>
+                    <lb xml:id="fol_1v.8" n="8"/>conditae; 
+                    <lb xml:id="fol_1v.9" n="9"/><num value="4">IIII</num>. De conditione mundi
+                    qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> nec intemporali&#383; &#383;it 
+                    <lb xml:id="fol_1v.10" n="10"/>nec nobo <app><rdg wit="#CSEL40">nouo</rdg></app> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> ordinata con&#383;iljo qua&#383;i po&#383;tea <w part="I">uolue</w>
+                    <lb xml:id="fol_1v.11" n="11"/><w part="F">rit</w> quod ante noluerat; 
+                    <lb xml:id="fol_1v.12" n="12"/><num value="5">V</num>. Tam non e&#383;&#383;e co&#7545;itandum de infiniti&#383; temporum 
+                    <lb xml:id="fol_1v.13" n="13"/>&#383;patii&#383; ante mundum quam nec de infiniti&#383; <choice><abbr>locoru&#772;</abbr><expan><ex>m</ex></expan></choice>
+                    <lb xml:id="fol_1v.14" n="14"/>&#383;patii&#383; <sic>axtra</sic> <app><rdg wit="#CSEL40">extra</rdg></app> mundum &#183; quia &#383;icut nulla ante 
+                    <lb xml:id="fol_1v.15" n="15"/><choice><abbr>ip&#383;u&#772;</abbr><expan><ex>m</ex></expan></choice> &#383;unt tempora &#183; ita nulla extra <choice><abbr>ip&#383;u &#772;</abbr><expan><ex>m</ex></expan></choice> &#383;unt loca. 
+                    <lb xml:id="fol_1v.16" n="16"/><num value="6">VI</num>. Creationi&#383; mundi et temporum unum e&#383;&#383;e <w part="I">prin</w>
+                    <lb xml:id="fol_1v.17" n="17"/><w part="F">cipium</w> nec aljud aljo pr&#230;ueniri; 
+                    <lb xml:id="fol_1v.18" n="18"/><num value="7">VII</num>. De qualjtate primorum dierum qui <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice> ante
+                    <lb xml:id="fol_1v.19" n="19"/>quam &#383;ol <choice><abbr>fier&#38;</abbr><expan>fier<ex>et</ex></expan></choice> ue&#383;peram et mane traduntur
+                    <lb xml:id="fol_1v.20" n="20"/>habui&#383;&#383;e; 
+                    <lb xml:id="fol_1v.21" n="21"/><num value="8">VIII</num>. Qu<choice><abbr>&#281;</abbr><expan><ex>ae</ex></expan></choice> qualj&#383;que
+                    <sic>intele&#7545;enda</sic> <app><rdg wit="#CSEL40">intellegenda</rdg></app> &#383;it <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> requie&#383; &#183; qua po&#383;t
+                    <lb xml:id="fol_1v.22" n="22"/>opera &#383;ex dierum requiebit <app><rdg wit="#CSEL40">requieuit</rdg></app> in &#383;eptimo; 
+                    <lb xml:id="fol_1v.23" n="23"/><num value="8">VIII</num>. De an&#7545;elorum conditione quid &#383;ecundum diuina 
+                    <lb xml:id="fol_1v.24" n="24"/>te&#383;timonia &#383;entiendum &#383;it; 
+                    <lb xml:id="fol_1v.25" n="25"/><num value="9">VIIII</num>. De &#383;implici <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> incommutabilji&#383; trinitate <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> patri&#383;
+                    <lb xml:id="fol_1v.26" n="26"/><choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> filji &#183; et <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> <choice><abbr>&#383;p&#772;&#383;&#772;</abbr><expan>&#383;p<ex>iritu</ex>&#383;</expan></choice> <choice><abbr>&#383;c&#772;i&#772;</abbr><expan>&#383;<ex>an</ex>c<ex>t</ex>i</expan></choice>
+                    &#183; uniu&#383; <choice><abbr>di&#772;</abbr><expan>d<ex>e</ex>i</expan></choice> &#183;
+                    cui non e&#383;t alju<add place="above">d</add> <w part="I">qualj</w> 
+                    <lb xml:id="fol_1v.27" n="27"/><w part="F">tas</w> aljudque &#383;ub&#383;tantia; 
+                    <lb xml:id="fol_1v.28" n="28"/><num value="10">X</num>. An eiu&#383; beatitudini&#383; &#183; quam <choice><abbr>&#383;c&#772;i&#772;</abbr><expan>&#383;<ex>an</ex>c<ex>t</ex>i</expan></choice> &#183; an&#7545;elj ab initio
+                
+                </ab>
+            </div>
+            
+            
+
+        </body>
+
+    </text>
+</TEI>

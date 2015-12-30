@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+                <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+                <editor>Greta Franzini</editor>
+                <respStmt>
+                    <persName>Greta Franzini</persName>
+                    <resp>PhD student</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Melissa Terras</persName>
+                    <resp>First supervisor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Simon Mahony</persName>
+                    <resp>Second supervisor</resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1">First digital edition</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Greta Franzini</authority>
+                <idno>Fol_01v-06r.xml</idno>
+                <authority>UCL Centre for Digital Humanities</authority>
+                <availability>
+                    <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+                </availability>
+                <date>2014</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Verona</settlement>
+                        <repository>Biblioteca Capitolare</repository>
+                        <idno>MS XXVIII(26)</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem> <incipit><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</incipit>
+                            </msItem>
+                        <msItemStruct>
+                            <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+                        </msItemStruct>
+                   </msContents>
+                   <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="parchment">
+                                <support><p>Parchment</p></support>
+                                <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+                                        <height>292</height>
+                                        <width>190</width>
+                                    </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"><p>In a single column</p></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding contemporary="unknown">
+                                <p>Bound in <material>rigid parchment</material>, possibly in 18th
+                                    century, and rebound using the same support in 1926.</p>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+                            </p>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>The following text was encoded in accordance with EpiDoc standards.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+
+
+    <text>
+        <body>
+            
+            <head>
+                <title xml:id="book">Capitula</title>
+            </head>
+          
+            <div n="Folio 5v" type="edition">
+                <ab>
+                    <lb xml:id="fol_5v.1" n="1" /><num value="9">VIIII</num>. De perturbationibu&#383; animi quarum adfectu&#383; recto&#383; 
+                    <lb xml:id="fol_5v.2" n="2" /><choice><abbr>hab&#38;</abbr><expan>hab<ex>et</ex></expan></choice> uita iu&#383;torum; 
+                    <lb xml:id="fol_5v.3" n="3" /><num value="10">X</num>. An primo&#383; omine&#383; in parady&#383;o <app><rdg wit="#CSEL40">paradiso</rdg></app> con&#383;tituto&#383; ulli&#383; &#183; <w part="I">per</w>
+                    <lb xml:id="fol_5v.4" n="4" /><w part="F">turbationibu&#383;</w> priu&#383;quam delinquerent affecto&#383; <app><rdg wit="#CSEL40">adfectos</rdg></app>
+                    <lb xml:id="fol_5v.5" n="5" />fui&#383;&#383;e credendum &#383;it;
+                    <lb xml:id="fol_5v.6" n="6" /><num value="11">XI</num>. De lap&#383;u primi homini&#383; in quo bene condita natura
+                    <lb xml:id="fol_5v.7" n="7" />uitiata e&#383;t nec pote&#383;t ni&#383;i a &#383;uo autore <app><rdg wit="#CSEL40">auctore</rdg></app> repara<del>r</del>ri; 
+                    <lb xml:id="fol_5v.8" n="8" /><num value="12">XII</num>. De qualitate peccati a primi&#383; hominibu&#383; ammi&#383;&#383;i <app><rdg wit="#CSEL40">admissi</rdg></app>;
+                    <lb xml:id="fol_5v.9" n="9" /><num value="13">XIII</num>. Quod in <choice><abbr>pr&#281;baricatione</abbr><expan>pr<ex>ae</ex>baricatione</expan></choice> <app><rdg wit="#CSEL40">praeuaricatione</rdg></app> ad&#230; opu&#383; malum uolunta&#383;
+                    <lb xml:id="fol_5v.10" n="10" /><choice><abbr>pr&#281;ce&#383;&#383;erit</abbr><expan>pr<ex>ae</ex>ce&#383;&#383;erit</expan></choice> mala;
+                    <lb xml:id="fol_5v.11" n="11" />XIIII. De &#383;uperuia <app><rdg wit="#CSEL40">superbia</rdg></app> tran&#383;&#7545;re&#383;&#383;ori&#383; <choice><abbr>qu&#281;</abbr><expan>qu<ex>ae</ex></expan></choice> ip&#383;a fuit <w part="I">tran&#383;&#7545;re&#383;</w>
+                    <lb xml:id="fol_5v.12" n="12" /><w part="F">&#383;ione</w> deterior;
+                    <lb xml:id="fol_5v.13" n="13" /><num value="15">XV</num>. De Iu&#383;titia retributioni&#383; quam primi homine&#383; pro &#383;ua
+                    <lb xml:id="fol_5v.14" n="14" />inoboedientia receperunt &#183;
+                    <lb xml:id="fol_5v.15" n="15" /><num value="16">XVI</num>. De libidini&#383; malo cuiu&#383; nomen cum multi&#383; uitii&#383; con&#7545;ruat &#183;
+                    <lb xml:id="fol_5v.16" n="16" /><sic><choice><abbr>propri&#281;</abbr><expan>propri<ex>ae</ex></expan></choice></sic> <app><rdg wit="#CSEL40">proprie</rdg></app> tamen motibu&#383; <sic>ob&#383;&#230;ni</sic> <app><rdg wit="#CSEL40">obsceni</rdg></app> calori&#383; a&#383;cribitur <app><rdg wit="#CSEL40">adscribitur</rdg></app>;
+                    <lb xml:id="fol_5v.17" n="17" /><num value="17">XVII</num>. De nuditate primorum hominum quam po&#383;t <choice><abbr>peccatu &#772;</abbr><expan>peccatu<ex>m</ex></expan></choice>
+                    <lb xml:id="fol_5v.18" n="18" />turpem pudendamque uiderunt;
+                    <lb xml:id="fol_5v.19" n="19" /><num value="18">XVIII</num>. De pudore concubitu&#383; &#183; non &#383;olum uul&#7545;ari&#383; &#383;ed <choice><abbr>&#38;iam</abbr><expan><ex>et</ex>iam</expan></choice>
+                    <lb xml:id="fol_5v.20" n="20" />coniu&#7545;alj&#383;;
+                    <lb xml:id="fol_5v.21" n="21" /><num value="19">XVIIII</num>. Quod <sic>pater</sic> <app><rdg wit="#CSEL40">partes</rdg></app> ir&#230; adque liuidini&#383; <app><rdg wit="#CSEL40">libidinis</rdg></app> &#183; qu&#230; In homine &#183; tam 
+                    <lb xml:id="fol_5v.22" n="22" />uitio&#383;e mouentur &#183; ut ea&#383; nece&#383;&#383;e &#383;it freni&#383; &#383;apienti&#230;
+                    <lb xml:id="fol_5v.23" n="23" />co<add place="above">h</add>iberi in illa ante peccatum natur&#230; &#383;anitate non fuerint; 
+                    <lb xml:id="fol_5v.24" n="24" /><num value="20">XX</num>. De uani&#383;&#383;ima turpitudine cynicorum; 
+                    <lb xml:id="fol_5v.25" n="25" /><num value="21">XXI</num>. De benedictione multiplicand&#230; fecunditati&#383; <choice><abbr>human&#281;</abbr><expan>human<ex>ae</ex></expan></choice>
+                    <lb xml:id="fol_5v.26" n="26" />ante peccatum data quam preuaricatio non ademerit &#183;
+                    <lb xml:id="fol_5v.27" n="27" /><choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> cui liuidini&#383; <app><rdg wit="#CSEL40">libidinis</rdg></app> morbu&#383; acce&#383;&#383;erit; 
+                    <lb xml:id="fol_5v.28" n="28" /><num value="22">XXII</num>. De copula coniu&#7545;ali a <choice><abbr>d&#772;o&#772;</abbr><expan>d<ex>e</ex>o</expan></choice> primitu&#383; in&#383;tituta atque <app><rdg wit="#CSEL40">adque</rdg></app> benedicta;
+                    <lb xml:id="fol_5v.29" n="29" /><num value="23">XXIII</num>. An etiam in parady&#383;o <app><rdg wit="#CSEL40">paradiso</rdg></app> &#7545;eneramdum fui&#383;&#383;et &#183;
+                    <lb xml:id="fol_5v.30" n="30" />&#383;i nemo pecca&#383;&#383;et &#183; uel utrum contra &#230;&#383;tum libidini&#383; &#183; 
+                </ab>
+            </div>
+ 
+        </body>
+
+    </text>
+</TEI>
