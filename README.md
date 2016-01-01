@@ -31,7 +31,7 @@ The [Transcription](https://github.com/gfranzini/MS_XXVIII-26-/tree/master/Trans
 
 While initially comparing the manuscript to a standard edition, I'm in the process of collecting transcriptions and images of a handful of 5th-8th century witnesses with a view to further enhancing the edition.
 
-The .TXT files retain <add> and <sic> elements but remove <del> tags, and abbreviations are expanded.
+The .TXT files retain `<add>` and `<sic>` elements but remove `<del>` tags, and abbreviations are expanded.
 
 ## Schema
 The manuscript is encoded in accordance with [EpiDoc](http://sourceforge.net/p/epidoc/wiki/Home/) standards, a subset of the TEI framework.  
