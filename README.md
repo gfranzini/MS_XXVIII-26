@@ -14,41 +14,16 @@ This repository contains:
 ## About
 _De civitate Dei_ is traditionally made up of 22 volumes. MS XXVIII(26), however, preserves only books 11-16 (254 pages) along with 9th century _capitula_ and back matter. Once complete, the digital version of MS XXVIII(26) will consist of two different files (XML and .txt) per book, and two files for the _capitula_ and back matter:
 
-#### Capitula: folia 01v-6r 
-* [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_01v-06r.xml)
-* [TXT](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_01v-06r.txt)
-
-#### Book 11: folia 7r-43r 
-* [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_07r-43r.xml) 
-* [TXT-in progress](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Book_11_plain.xml)
-
-Damaged (not transcribed) folia: 8v; 21v-22v.
-
-#### Book 12: folia 43v-76v
-* [XML-in progress](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_43v-76v.xml)
-* TXT
-
-Damaged (not transcribed) folia: 53r-55v; 62v-68v; 69v-71v.
-
-#### Book 13: folia 76v-109v 
-* XML 
-* TXT
-
-#### Book 14: folia 109v-148v 
-* XML
-* TXT
-
-#### Book 15: folia 148v-197r 
-* XML
-* TXT
-
-#### Book 16: folia 197r-253v 
-* XML
-* TXT
-
-#### Back: folia 254v-255r 
-* XML
-* TXT
+* **Capitula**: folia 01v-6r. [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_01v-06r.xml); [TXT](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_01v-06r.txt).
+* **Book 11**: folia 7r-43r. [XML](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_07r-43r.xml); [TXT-in progress](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Book_11_plain.xml).
+  * Damaged (not transcribed) folia: 8v; 21v-22v.
+* **Book 12**: folia 43v-76v. [XML-in progress](https://github.com/gfranzini/MS_XXVIII-26-/blob/master/Transcription/Fol_43v-76v.xml); TXT.
+  * Damaged (not transcribed) folia: 53r-55v; 62v-68v; 69v-71v.
+* **Book 13**: folia 76v-109v. XML; TXT.
+* **Book 14**: folia 109v-148v. XML; TXT.
+* **Book 15**: folia 148v-197r. XML; TXT.
+* **Book 16**: folia 197r-253v. XML; TXT.
+* **Back**: folia 254v-255r. XML; TXT.
 
 These files will be uploaded and updated as the project progresses.
 
@@ -56,8 +31,7 @@ The [Transcription](https://github.com/gfranzini/MS_XXVIII-26-/tree/master/Trans
 
 While initially comparing the manuscript to a standard edition, I'm in the process of collecting transcriptions and images of a handful of 5th-8th century witnesses with a view to further enhancing the edition.
 
-The layout of the text in the .TXT follows the structure needed by the visualisation tool TRAViz in order to display variant readings. It also allows to more easily identify folio divisions in the transcription.
-Editorial changes, both ancient and current (such as `<add>`), are removed from the .TXT in order to show the "first" text, as it were. Similarly, text in `<del>` tags is kept in order to preserve the original reading.
+The .TXT files retain <add> and <sic> elements but remove <del> tags, and abbreviations are expanded.
 
 ## Schema
 The manuscript is encoded in accordance with [EpiDoc](http://sourceforge.net/p/epidoc/wiki/Home/) standards, a subset of the TEI framework.  
