@@ -130,6 +130,8 @@ first quarter 15th,Cod. Guelf. 277 Helmst. (Heinemann-Nr. 310),,,121r,Wolfenbüt
 15th,Vat.lat.444,Tabula de auctoribus Bibliae,N/A,90v-103v,Città del Vaticano,Biblioteca Apostolica Vaticana,81929,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81929,All rights reserved
 15th,Cod. Guelf. 56.3.2 Aug. 4° (Heinemann-Nr. 3594),,,,Wolfenbüttel,Herzog-August-Bibliothek,,http://diglib.hab.de/?db=mss&list=ms&id=56-3-2-aug-4f&catalog=Heinemann,NO IMAGES
 1418,Barb.lat.32,Excerptum,6.3,12v(2),Città del Vaticano,Biblioteca Apostolica Vaticana,84572,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=84572,All rights reserved
+1434,BETA manid 1824,Ciudad de Dios,8-18,3ra-222rb,San Lorenzo de El Escorial,Real Biblioteca del Monasterio de San Lorenzo de El Escorial,,http://pb.lib.berkeley.edu/saxon/SaxonServlet?source=BETA/Display/1824MsEd.xml&style=BETA/templates/MsEd.xsl&gobk=http%3A%2F%2Fpb.lib.berkeley.edu%2Fxtf%2Fservlet%2Forg.cdlib.xtf.crossQuery.CrossQuery%3Fcreator%3D%26title%3DDe%20civitate%20Dei%26incipit%3D%26explicit%3D%26assocname%3D%26daterange%3D%26placeofcomposition%3D%26subject%3D%26everyone%3D%26text-join%3Dand%26rmode%3Dphilobeta%26browseout%3Dwork%26sort%3Dmoniker,NO IMAGES
+1434-1466,BETA manid 1823,Ciudad de Dios,19-22,2rb-148vb,San Lorenzo de El Escorial,Real Biblioteca del Monasterio de San Lorenzo de El Escorial,,http://pb.lib.berkeley.edu/saxon/SaxonServlet?source=BETA/Display/1823MsEd.xml&style=BETA/templates/MsEd.xsl&gobk=http%3A%2F%2Fpb.lib.berkeley.edu%2Fxtf%2Fservlet%2Forg.cdlib.xtf.crossQuery.CrossQuery%3Fcreator%3D%26title%3DDe%20civitate%20Dei%26incipit%3D%26explicit%3D%26assocname%3D%26daterange%3D%26placeofcomposition%3D%26subject%3D%26everyone%3D%26text-join%3Dand%26rmode%3Dphilobeta%26browseout%3Dwork%26sort%3Dmoniker,NO IMAGES
 mid 15th,Urb.lat.78,,1-22,3r-374v,Città del Vaticano,Biblioteca Apostolica Vaticana,81898,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81898,All rights reserved
 mid 15th,Vat.lat.226,,20.30.5,180v(1),Città del Vaticano,Biblioteca Apostolica Vaticana,81914,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81914,All rights reserved
 1453,Vat.lat.441,Prologi in libros,N/A,1r-255r passim,Città del Vaticano,Biblioteca Apostolica Vaticana,81927,http://www.mss.vatlib.it/guii/console?service=shortDetail&id=81927,All rights reserved
@@ -142,3 +144,11 @@ mid 15th,Vat.lat.226,,20.30.5,180v(1),Città del Vaticano,Biblioteca Apostolica 
 1475,Harley MS 3801,Leaves of 9th cent MS,,,London,British Library,N/A,http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_3802,
 1490,2 Inc.c.a. 2369 d,,,,Basel,,urn:nbn:de:bvb:12-bsb00025317-8,http://daten.digitale-sammlungen.de/~db/0002/bsb00025317/image_18,
 1498,479,,,ff. 1ra-216va,Ravenna,Biblioteca Classense,,http://www.manoscrittidatati.it/cgi-bin/wxis.exe/?IsisScript=mdi/export.xis&tag6100=Mdi&tag5997=11&tag5998=77,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Date,Shelfmark(s),Add. Info,Book(s).(chapter),Locus,Place,Institution,DOI,URL,Licence (images)
