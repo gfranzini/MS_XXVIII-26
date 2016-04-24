@@ -130,7 +130,7 @@
      <lb xml:id="Folio8r.15" n="15"/><supplied reason="lost">SIT</supplied> IDONEUS AD AUDIENDUM MENTE NON
      <lb xml:id="Folio8r.16" n="16"/><supplied reason="lost">CORPORE AD</supplied> ILLUD ENIM HOMINIS ITA
      <lb xml:id="Folio8r.17" n="17"/>LOQUITUR QUOD IN HOMINE CETERIS <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice>
-     <lb xml:id="Folio8r.18" n="18"/><supplied reason="lost">HOMO CONSTAT EST MELIUS ET QUO</supplied> IPSE <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>
+     <lb xml:id="Folio8r.18" n="18"/><supplied reason="lost">HOMO CONSTAT EST MELIUS ET QUO</supplied> <app><rdg wit="#7Weiss">HOMO EST UT EST MELIUS ET QUO</rdg></app> IPSE <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>
      <lb xml:id="Folio8r.19" n="19"/><supplied reason="lost">SOLUS EST MELIOR CUM ENIM HOMO RECTIS</supplied>
      <lb xml:id="Folio8r.20" n="20"/>SIME <supplied reason="lost">INTELLEGATUR UEL SI HOC</supplied> NON POTEST
      <lb xml:id="Folio8r.21" n="21"/><supplied reason="lost">SALTEM CREDATUR FACTUS AD IMAGINEM</supplied> <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>

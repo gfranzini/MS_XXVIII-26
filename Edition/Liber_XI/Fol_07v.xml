@@ -117,29 +117,29 @@
      <lb xml:id="Folio7v.4" n="4"/><w part="F">DITIS</w> QUAERUNT SED DEORUM PIORUM 
      <lb xml:id="Folio7v.5" n="5"/><choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> SANCTORUM QUI POTIUS SE IPSOS UNI
      <lb xml:id="Folio7v.6" n="6"/>SUBDERE QUAM MULTOS SIBI &#183; POTIUSQUE
-     <lb xml:id="Folio7v.7" n="7"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> &#183; COLERE QUAM PRO <add place="above">D</add>EO DELECTANTUR <app><rdg wit="#CSEL40">COLI DELECTANTUR</rdg></app>
+     <lb xml:id="Folio7v.7" n="7"/><choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice> &#183; COLERE QUAM PRO <add place="above">D</add>EO DELECTANTUR <app><rdg wit="#CSEL40 #7Weiss">COLI DELECTANTUR</rdg></app>
      <lb xml:id="Folio7v.8" n="8"/>COLI, SED HUIUS SANCTAE CIUITATIS <w part="I">INI</w>
      <lb xml:id="Folio7v.9" n="9"/><w part="F">MICIS</w> DECEM <choice><abbr>SUPERIORIB&#183;</abbr><expan>SUPERIORIB<ex>US</ex></expan></choice> LIBRIS <choice><abbr>QUANTU &#772;</abbr><expan><ex>M</ex></expan></choice>
      <lb xml:id="Folio7v.10" n="10"/>POTUIMUS <choice><abbr>D&#772;N&#772;O&#772;</abbr><expan>D<ex>OMI</ex>NO</expan></choice> ET REGE NOSTRO <w part="I"><choice><sic><choice><abbr>ADIUBA &#772;</abbr><expan>ADIUBA<ex>N</ex></expan></choice></sic><corr>ADIUUAN</corr></choice></w>
      <lb xml:id="Folio7v.11" n="11"/><w part="F">TE</w> RESPONDIMUS; NUNC UERO QUID A M<add place="right">E</add>
-     <lb xml:id="Folio7v.12" n="12"/><choice><sic>ETIAM</sic><corr>IAM</corr></choice> EXPECTETUR AGNOSCENS MEIQUE
-     <lb xml:id="Folio7v.13" n="13"/>NON INMEMOR DEBITI DE DUARUM <w part="I">CIUI</w>
+     <lb xml:id="Folio7v.12" n="12"/><del rend="expunction">ET</del>IAM EXPECTETUR AGNOSCENS MEIQUE
+     <lb xml:id="Folio7v.13" n="13"/>NON INMEMOR <app><rdg wit="#7Weiss">IMMEMOR</rdg></app> DEBITI DE DUARUM <w part="I">CIUI</w>
      <lb xml:id="Folio7v.14" n="14"/><w part="F">TATUM</w> TERRENAE SCILICET ET CAELESTIS
      <lb xml:id="Folio7v.15" n="15"/>QUAS IN HOC INTERIM SAECULO PERPLEXAS
      <lb xml:id="Folio7v.16" n="16"/>QUODAM MODO DIXIMUS <choice><abbr>INUICEMQ&#183;</abbr><expan>INUICEMQ<ex>UE</ex></expan></choice> <w part="I">PER</w>
-     <lb xml:id="Folio7v.17" n="17"/><w part="F">MIXTAS</w> EXORTU ET EXCURSU ET DEBITIS <choice><abbr>FINIB&#183;</abbr><expan>FINIB<ex>US</ex></expan></choice>
+     <lb xml:id="Folio7v.17" n="17"/><w part="F">MIXTAS</w> EXORTU ET EXCURSU <app><rdg wit="#7Weiss">EXCESSU</rdg></app> ET DEBITIS <choice><abbr>FINIB&#183;</abbr><expan>FINIB<ex>US</ex></expan></choice>
      <lb xml:id="Folio7v.18" n="18"/>QUANTUM UALUERO DISPUTARE EIUS <w part="I">IP</w>   
      <lb xml:id="Folio7v.19" n="19"/><w part="F">SIUS</w> <choice><abbr>D&#772;N&#772;I&#772;</abbr><expan>D<ex>OMI</ex>NI</expan></choice> &#183; <add place="above">ET</add> REGIS NOSTRI UBIQUE <w part="I">OPITULA</w>
      <lb xml:id="Folio7v.20" n="20"/><w part="F">TIONE</w> FRETUS AGGREDIAR <app><rdg wit="#CSEL40">ADGREDIAR</rdg></app>; PRIMUMQUE
-     <lb xml:id="Folio7v.21" n="21"/>DICAM QUEM AMMODUM <app><rdg wit="#CSEL40">AD MODUM</rdg></app> EXORDIA
+     <lb xml:id="Folio7v.21" n="21"/>DICAM QUEM AMMODUM <app><rdg wit="#CSEL40 #7Weiss">AD MODUM</rdg></app> EXORDIA
      <lb xml:id="Folio7v.22" n="22"/>DUARUM ISTARUM CIUITATUM IN <w part="I">AN</w>
      <lb xml:id="Folio7v.23" n="23"/><w part="F">GELORUM</w> DIUERSITATE PRAECESSERINT,
      <note type="scholion" subtype="chapter" n="2" place="margin">II</note><lb xml:id="Folio7v.24" n="24"/>MAGNUM EST ET AMMODUM <app><rdg wit="#CSEL40">ADMODUM</rdg></app> RARUM <w part="I">UNI</w>
      <lb xml:id="Folio7v.25" n="25"/><w part="F">UERSAM</w> CREATURAM CORPOREAM ET <w part="I">IN</w>
-     <lb xml:id="Folio7v.26" n="26"/><w part="F">CORPOREAM</w> CONSIDERATAM <w part="I"><choice><abbr>COMPERTA &#772;</abbr><expan><ex>M</ex></expan></choice></w> <app><rdg wit="#CSEL40">CONPERTAMQUE</rdg></app>
+     <lb xml:id="Folio7v.26" n="26"/><w part="F">CORPOREAM</w> CONSIDERATAM <w part="I"><choice><abbr>COMPERTA &#772;</abbr><expan><ex>M</ex></expan></choice></w> <app><rdg wit="#CSEL40 #7Weiss">CONPERTAMQUE</rdg></app>
      <lb xml:id="Folio7v.27" n="27"/><w part="F">QUE</w> MUTABILEM INTENTIONE MENTIS <w part="I">EX</w> 
-     <lb xml:id="Folio7v.28" n="28"/><w part="F">CEDERE</w> <choice><sic>ADQUE</sic><corr>ATQUE</corr></choice> AD INCOMMUTABILEM <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>
-     <lb xml:id="Folio7v.29" n="29"/>SUBSTANTIAM PERUENIRE ET ILLIC DISCERE
+     <lb xml:id="Folio7v.28" n="28"/><w part="F">CEDERE</w> A<del rend="strikethrough">D</del><add place="above">T</add>QUE AD INCOMMUTABILEM <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>
+     <lb xml:id="Folio7v.29" n="29"/>SUBSTANTIAM <app><rdg wit="#7Weiss">AD INCOMMUTABILEM SUBSTANTIAM</rdg></app> PERUENIRE ET ILLIC DISCERE
      <lb xml:id="Folio7v.30" n="30"/>EX IPSO QUOD CUNCTAM NATURAM QUAE
     </ab>
    </div> 
