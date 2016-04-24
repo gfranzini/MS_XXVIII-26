@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   
+   <titleStmt>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003" xml:id="edition">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>First supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>Second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   
+   <editionStmt>
+    <edition n="1">First digital edition</edition>
+   </editionStmt>
+   
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol_07r-43r.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     
+     <msContents>
+      <msItem>
+       <locus>f. 7r-43r</locus>
+       <explicit>
+        <locus>f. 43r</locus>
+        <lb />AUGUSTINI EPISCOPI 
+        <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
+        <lb />CONTRA PAGANOS 
+        <lb />LIBER &#183; XI &#183; EXPLICIT
+       </explicit>
+      </msItem>
+     </msContents>
+     
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+     </physDesc>
+     
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards.</p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+  
+ </teiHeader>
+    
+ 
+ <text>
+  
+  <body>
+   <head>
+    <title xml:id="book">Liber XI</title>
+   </head>
+   
+   <div n="Folio 25v" type="edition">
+    <ab>
+     <lb xml:id="Folio25v.1" n="1"/>ET <supplied reason="lost">PAU</supplied>LO POST; ET FECIT INQUIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> DUO <w part="I">LU</w>
+     <lb xml:id="Folio25v.2" n="2"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note> <w part="F">MINARIA</w> MAGNA LUMINARE MAIUS IN
+     <lb xml:id="Folio25v.3" n="3"/>PRINCIPIA DIEI ET LUMINARE MINUS IN
+     <lb xml:id="Folio25v.4" n="4"/>PRINCIPIA NOCTIS ET STELLAS ET POSUIT ILLA
+     <lb xml:id="Folio25v.5" n="5"/><choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> IN FIRMAMENTO CAELI LUCERE SUPER
+     <lb xml:id="Folio25v.6" n="6"/>TERRAM ET PRAEESSE DIEI ET NOCTI ET <w part="I">DI</w>
+     <lb xml:id="Folio25v.7" n="7"/><w part="F">UIDERE</w> INTER LUCEM ET TENEBRAS
+     <lb xml:id="Folio25v.8" n="8"/>INTER ILLAM UERO LUCEM QUAE SANCTA <w part="I">SO</w>
+     <lb xml:id="Folio25v.9" n="9"/><w part="F">CIETAS</w> ANGELORUM EST INLUSTRATIONE
+     <lb xml:id="Folio25v.10" n="10"/>UERITATIS INTELLEGIBILITER FULGENS ET 
+     <lb xml:id="Folio25v.11" n="11"/>EI CONTRARIAS TENEBRAS ID EST MALORUM
+     <lb xml:id="Folio25v.12" n="12"/>ANGELORUM AUERSORUM A LUCE IUSTITI&#198;
+     <lb xml:id="Folio25v.13" n="13"/>TETERRIMAS <app><rdg wit="#CSEL40">TAETERRIMAS</rdg></app> MENTES IPSE DIUIDERE <w part="I">POTU</w>
+     <lb xml:id="Folio25v.14" n="14"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note> <w part="F">IT</w> CUI ETIAM IN FUTURUM <app><rdg wit="#CSEL40">ETIAM FUTURUM</rdg></app> NON NATURAE
+     <lb xml:id="Folio25v.15" n="15"/>SED UOLUNTATIS MALUM OCCULTUM AUT
+     <lb xml:id="Folio25v.16" n="16"/>INCERTUM ESSE NON POTUIT DENIQUE
+     <lb xml:id="Folio25v.17" n="17"/>NEC ILLUD EST PRAETEREUNDUM SILENTIO
+     <lb xml:id="Folio25v.18" n="18"/>QUOD UBI DIXIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; FIAT LUX ET FACTA EST LUX
+     <lb xml:id="Folio25v.19" n="19"/>CONTINUO SUBIUNCTUM EST ET UIDIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>
+     <lb xml:id="Folio25v.20" n="20"/>LUCEM QUIA BONA EST NON POSTEA <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
+     <lb xml:id="Folio25v.21" n="21"/>SEPARAUIT INTER LUCEM ET TENEBRAS ET
+     <lb xml:id="Folio25v.22" n="22"/>UOCAUIT LUCEM DIEM ET TENEBRAS <w part="I">NOC</w>
+     <lb xml:id="Folio25v.23" n="23"/><w part="F">TEM</w> NE SIMUL CUM LUCE ETIAM <choice><abbr>TALIB&#183;</abbr><expan>TALIB<ex>US</ex></expan></choice> <w part="I">TE</w>
+     <lb xml:id="Folio25v.24" n="24"/><w part="F">NEBRIS</w> TESTIMONIUM PLACITI SUI <w part="I">PERHI</w>
+     <lb xml:id="Folio25v.25" n="25"/><w part="F">BUISSE</w> UIDERETUR NAM UBI TENEBR&#198;
+     <lb xml:id="Folio25v.26" n="26"/>INCULPABILES SUNT INTER QUAS ET <choice><abbr>LUCE &#772;</abbr><expan>LUCE<ex>M</ex></expan></choice>
+     <lb xml:id="Folio25v.27" n="27"/>ISTAM HIS OCULIS CONSPICUAM <w part="I">LUMINA</w>
+     <lb xml:id="Folio25v.28" n="28"/><w part="F">RIA</w> CELI <app><rdg wit="#CSEL40">CAELI</rdg></app> DIUIDUNT NON ANTE SED POST
+     <lb xml:id="Folio25v.29" n="29"/>INFERTUR ET UIDIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> QUIA BONUM EST
+     <lb xml:id="Folio25v.30" n="30"/>POSUIT ILLA INQUIT IN FIRMAMENTO CAELI
+    </ab>     
+   </div>
+   
+      </body>
+    </text>  
+  
+</TEI>

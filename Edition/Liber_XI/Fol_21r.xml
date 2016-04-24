@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   
+   <titleStmt>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003" xml:id="edition">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>First supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>Second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   
+   <editionStmt>
+    <edition n="1">First digital edition</edition>
+   </editionStmt>
+   
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol_07r-43r.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     
+     <msContents>
+      <msItem>
+       <locus>f. 7r-43r</locus>
+       <explicit>
+        <locus>f. 43r</locus>
+        <lb />AUGUSTINI EPISCOPI 
+        <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
+        <lb />CONTRA PAGANOS 
+        <lb />LIBER &#183; XI &#183; EXPLICIT
+       </explicit>
+      </msItem>
+     </msContents>
+     
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+     </physDesc>
+     
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards.</p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+  
+ </teiHeader>
+    
+ 
+ <text>
+  
+  <body>
+   <head>
+    <title xml:id="book">Liber XI</title>
+   </head>
+   
+   <div n="Folio 21r" type="edition">
+    <ab>
+     <lb xml:id="Folio21r.1" n="1"/><w part="F">TE</w> CAECIDISSENT <supplied reason="lost">PROCUL DUBIO <w part="I">MUL</w></supplied>
+     <lb xml:id="Folio21r.2" n="2"/><w part="F">TO</w> EST <supplied reason="lost">DURIUS NUNC PUTARE</supplied> ANGELOS
+     <lb xml:id="Folio21r.3" n="3"/>SANCTOS AETERNA<supplied reason="lost">E SUAE BEATITUDINIS</supplied>
+     <lb xml:id="Folio21r.4" n="4"/>INCERTOS <supplied reason="lost">ET IPSOS DE SEMET IPSIS IGNORARE</supplied>
+     <lb xml:id="Folio21r.5" n="5"/>QUOD NOS <supplied reason="lost">DE ILLIS PER SCRIPTURAS <w part="I">SANC</w></supplied>
+     <lb xml:id="Folio21r.6" n="6"/><w part="F">TAS</w> NOSSE POTUIMUS <supplied reason="lost">QUIS ENIM</supplied> <w part="I">CATHO</w> <note type="scholion" place="margin">R&#772;</note>
+     <lb xml:id="Folio21r.7" n="7"/><w part="F">LICUS</w> <supplied reason="lost">CHRISTIANUS IGNORAT NU</supplied>LLUM <choice><abbr>NOUU &#772;</abbr><expan>NOUU<ex>M</ex></expan></choice>
+     <lb xml:id="Folio21r.8" n="8"/>DIABULUM <supplied reason="lost">EX BONIS</supplied> ANGELIS ULERIUS
+     <lb xml:id="Folio21r.9" n="9"/><supplied reason="lost">FUTURUM</supplied> SICUT NEC ISTUM IN <w part="I">SOCIETA</w>
+     <lb xml:id="Folio21r.10" n="10"/><w part="F">TEM</w> BONORUM ANGEL<supplied reason="lost">ORUM</supplied> ULTERIUS
+     <lb xml:id="Folio21r.11" n="11"/><supplied reason="lost">REDITURUM</supplied>; UERITAS QUIPPE IN <supplied reason="lost"><w part="I">EUAN</w></supplied>
+     <lb xml:id="Folio21r.12" n="12"/><w part="F">GELIO</w> SAN<supplied reason="lost">CTIS FIDELIBUSQUE PROMITTIT QUOD</supplied> 
+     <lb xml:id="Folio21r.13" n="13"/>ERUNT <add place="above">A</add>EQUALES ANGELIS <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> QUI<supplied reason="lost">BUS</supplied> ET<supplied reason="lost">IAM</supplied>
+     <lb xml:id="Folio21r.14" n="14"/>PROMITTITUR QUOD IBUNT <supplied reason="lost">IN UITAM</supplied> <w part="I">AE</w>
+     <lb xml:id="Folio21r.15" n="15"/><w part="F">TERNAM</w>; PORRO AUTEM SI N<supplied reason="lost">OS CERTI</supplied>
+     <lb xml:id="Folio21r.16" n="16"/>SUMUS NUMQUAM NOS EX I<supplied reason="lost">LLA <w part="I">IN</w></supplied>
+     <lb xml:id="Folio21r.17" n="17"/><w part="F">MORTALI</w> FELICITATE CASUROS ILL<supplied reason="lost">I UERO</supplied> 
+     <lb xml:id="Folio21r.18" n="18"/><supplied reason="lost">CERTI NON</supplied> SUNT IAM POTIOR<supplied reason="lost">ES NON <w part="I">AE</w></supplied>
+     <lb xml:id="Folio21r.19" n="19"/><w part="F">QUALES</w> ERIMUS <app><rdg wit="#CSEL40">EIS ERIMUS</rdg></app> SED <supplied reason="lost">QUIA</supplied> NEQUA<supplied reason="lost">QUAM</supplied>
+     <lb xml:id="Folio21r.20" n="20"/>UERTIAS FALLIT ET AEQUALES E<supplied reason="lost">IS ERIMUS</supplied>
+     <lb xml:id="Folio21r.21" n="21"/>PROFECTO ETIAM IPSI CERTI SUNT <supplied reason="lost">SUAE <w part="I">FE</w></supplied>
+     <lb xml:id="Folio21r.22" n="22"/><w part="F"><supplied reason="lost">LICI</supplied>TATIS</w> AETERNAE CUIUS ILLI <supplied reason="lost">ALII QUIA</supplied>
+     <lb xml:id="Folio21r.23" n="23"/>CERTI NON FUERUNT NON ENIM ERA<supplied reason="lost">T</supplied>
+     <lb xml:id="Folio21r.24" n="24"/>EORUM AETERNA FELICITAS CUIUS CERTI
+     <lb xml:id="Folio21r.25" n="25"/>ESSENT QUAE FINE<supplied reason="lost">M FU</supplied>ERAT HABITURA
+     <lb xml:id="Folio21r.26" n="26"/><supplied reason="lost">RESTAT UT</supplied> AUT <supplied reason="lost">INPARES FU</supplied>ERINT <supplied reason="lost">AUT SI</supplied>      
+     <lb xml:id="Folio21r.27" n="27"/>PARES FUERUNT POST <supplied reason="lost">ISTO</supplied>RUM RUINA <app><rdg wit="#CSEL40">RUINAM</rdg></app>
+     <lb xml:id="Folio21r.28" n="28"/>ILLIS CERTA SCIENTIA SU<add place="above">AE</add> <w part="I">SEMPI</w>
+     <lb xml:id="Folio21r.29" n="29"/><w part="F">TERNAE</w> FELICITATIS ACCESSERIT
+     <lb xml:id="Folio21r.30" n="30"/>NISI FORTE QUIS <supplied reason="lost">DICAT ID</supplied> QUO <choice><abbr>D&#772;N&#772;S&#772;</abbr><expan>D<ex>OMI</ex>N<ex>U</ex>S</expan></choice>
+    </ab>  
+   </div>
+   
+      </body>
+    </text>  
+  
+</TEI>
