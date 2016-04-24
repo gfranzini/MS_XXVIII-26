@@ -294,6 +294,10 @@
         <span style="color: #86B300;"><del><xsl:apply-templates/></del></span>
     </xsl:template>
     
+    <xsl:template match="del[@rend='expunction']">
+        <span style="color: #86B300;">&#729;<del><xsl:apply-templates/></del></span>
+    </xsl:template>
+    
     
     <!--The SPAN element adds style to SUPPLIED content-->
     <xsl:template match="supplied"> 
