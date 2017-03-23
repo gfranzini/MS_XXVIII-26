@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   
+   <titleStmt>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003" xml:id="edition">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>First supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>Second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   
+   <editionStmt>
+    <edition n="1">First digital edition</edition>
+   </editionStmt>
+   
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol_07r-43r.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     
+     <msContents>
+      <msItem>
+       <locus>f. 7r-43r</locus>
+       <explicit>
+        <locus>f. 43r</locus>
+        <lb />AUGUSTINI EPISCOPI 
+        <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
+        <lb />CONTRA PAGANOS 
+        <lb />LIBER &#183; XI &#183; EXPLICIT
+       </explicit>
+      </msItem>
+     </msContents>
+     
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+     </physDesc>
+     
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards.</p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+  
+ </teiHeader>
+    
+ 
+ <text>
+  
+  <body>
+   <head>
+    <title xml:id="book">Liber XI</title>
+   </head>
+   
+   <div n="Folio 16v" type="edition">
+    <ab>
+     <lb xml:id="Folio16v.1" n="1"/>CUM ENIM DIXIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> FIAT <supplied reason="lost">LUX ET</supplied> FACTA EST
+     <lb xml:id="Folio16v.2" n="2"/>LUX SI RECTE IN HAC LUCE CREATIO <w part="I">INTELLEGI</w>
+     <lb xml:id="Folio16v.3" n="3"/><note type="scholion" place="margin">R&#772; creat...<!--illegible--></note><w part="F">TUR</w> ANGELORUM PROFECTO FACTI SUNT
+     <lb xml:id="Folio16v.4" n="4"/>PARTICIPES LUCIS AETERNAE QUOD EST IPSA
+     <lb xml:id="Folio16v.5" n="5"/>INCOMMUTABILIS SAPIENTIA <choice><abbr>DI&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> PER <choice><abbr>QUA &#772;</abbr><expan>QUA<ex>M</ex></expan></choice>
+     <lb xml:id="Folio16v.6" n="6"/>FACTA SUNT OMNIA QUEM DICIMUS <w part="I">UNIGE</w>
+     <lb xml:id="Folio16v.7" n="7"/><w part="F">NITUM</w> DEI FILIUM UT EA LUCE <w part="I">INLUMINA</w>
+     <lb xml:id="Folio16v.8" n="8"/><w part="F">TI</w> Q<supplied reason="lost">UA C</supplied>REATI FIERENT LUX ET UOCARENTUR
+     <lb xml:id="Folio16v.9" n="9"/>DIES <choice><sic><supplied reason="lost">PARTI</supplied>CIPATIONIS</sic><corr>PARTICIPATIONE</corr></choice> INCOMMUTABILIS
+     <lb xml:id="Folio16v.10" n="10"/><supplied reason="lost">LUCIS ET DIEI</supplied> QUOD EST UERBUM <supplied reason="lost">DEI</supplied>
+     <lb xml:id="Folio16v.11" n="11"/><supplied reason="lost">PER QUOD ET</supplied> IPSI ET OMNIA FACTA SUNT <choice><abbr>LUME &#772;</abbr><expan>LUME<ex>N</ex></expan></choice>
+     <lb xml:id="Folio16v.12" n="12"/>QUIPPE UERUM QUOD INLUMINAT <choice><abbr>OMNE &#772;</abbr><expan>OMNE<ex>M</ex></expan></choice>
+     <lb xml:id="Folio16v.13" n="13"/>HOMINEM UENIENTEM IN HUNC <choice><abbr>MUNDU &#772;</abbr><expan>MUNDU<ex>M</ex></expan></choice>
+     <lb xml:id="Folio16v.14" n="14"/>HOC INLUMINAT ET OMNEM ANGELUM <w part="I">MUN</w>
+     <lb xml:id="Folio16v.15" n="15"/><w part="F">DUM</w> UT SIT LUX NON IN SE IPSO SED IN <choice><abbr>DO&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> &#183; A QUO 
+     <lb xml:id="Folio16v.16" n="16"/>SI AUERTITUR ANGELUS FIT IMMUNDUS <app><rdg wit="#CSEL40">INMUNDUS</rdg></app> SIC<hi rend="ligature">UT</hi>
+     <lb xml:id="Folio16v.17" n="17"/>SUNT OMNES QUI UOCANTUR INMUNDI <choice><abbr>S&#772;P&#772;S&#772;</abbr><expan>SP<ex>IRITU</ex>S</expan></choice>
+     <lb xml:id="Folio16v.18" n="18"/>NEC IAM LUX IN <choice><abbr>D&#772;N&#772;O&#772;</abbr><expan>D<ex>OMI</ex>NO</expan></choice> SED IN SE IPSI<supplied reason="lost">S TENEBRAE</supplied>
+     <lb xml:id="Folio16v.19" n="19"/><supplied reason="lost">PRIUATI</supplied> PARTICIPATIONE LUCJS AETERNAE:
+     <lb xml:id="Folio16v.20" n="20"/><note type="scholion" place="margin">R&#772;</note> <supplied reason="lost">MALI ENIM</supplied> NULLA NATURA EST &#183; SED AMISSIO <w part="I">BO</w>
+     <lb xml:id="Folio16v.21" n="21"/><supplied reason="lost"><w part="F">NI</w> MALI</supplied> NOMEN ACCEPIT <note type="scholion" subtype="chapter" n="10" place="margin">X</note> EST <choice><abbr>ITAQ&#183;</abbr><expan>ITAQ<ex>UE</ex></expan></choice> BONUM 
+     <lb xml:id="Folio16v.22" n="22"/>SOLUM SIMPLEX ET OB HOC SOLUM <w part="I">INCOM</w>
+     <lb xml:id="Folio16v.23" n="23"/><w part="F">MUTABILE</w> QUOD EST <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> &#183; AB HOC SONO <w part="I">CREA</w>
+     <lb xml:id="Folio16v.24" n="24"/><w part="F">TA</w> SUNT OMNIA BONA SED NON SIMPLICIA
+     <lb xml:id="Folio16v.25" n="25"/>ET <add place="above">OB</add> HOC MUTABILIA CREATA SANE I<supplied reason="lost">NQUAM</supplied>
+     <lb xml:id="Folio16v.26" n="26"/>ID EST FACTA NON GENITA QUOD ENIM DE
+     <lb xml:id="Folio16v.27" n="27"/>SIMPLICI BONO GENJTUM EST PARITER <w part="I">SIM</w>
+     <lb xml:id="Folio16v.28" n="28"/><supplied reason="lost"><w part="F">PLEX</w></supplied> EST ET <del rend="expunction">OB</del> HOC EST QUOD ILLUD DE QUO <w part="I">GE</w>
+     <lb xml:id="Folio16v.29" n="29"/><w part="F">NITUM</w> EST; QUAE DUO PATREM ET FILIUM <w part="I">DI</w>
+     <lb xml:id="Folio16v.30" n="30"/><w part="F">CIMUS</w> <supplied reason="lost">ET</supplied> <choice><abbr>UTRUMQ&#183;</abbr><expan>UTRUMQ<ex>UE</ex></expan></choice> HOC CUM <choice><abbr>S&#772;P&#772;U&#772;</abbr><expan>SP<ex>IRIT</ex>U</expan></choice> SUO UN<hi rend="ligature">US</hi>
+    </ab>  
+   </div>
+   
+      </body>
+    </text>  
+  
+</TEI>

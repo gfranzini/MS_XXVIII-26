@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   
+   <titleStmt>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003" xml:id="edition">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>First supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>Second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   
+   <editionStmt>
+    <edition n="1">First digital edition</edition>
+   </editionStmt>
+   
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol_07r-43r.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     
+     <msContents>
+      <msItem>
+       <locus>f. 7r-43r</locus>
+       <explicit>
+        <locus>f. 43r</locus>
+        <lb />AUGUSTINI EPISCOPI 
+        <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
+        <lb />CONTRA PAGANOS 
+        <lb />LIBER &#183; XI &#183; EXPLICIT
+       </explicit>
+      </msItem>
+     </msContents>
+     
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+     </physDesc>
+     
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards.</p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+  
+ </teiHeader>
+    
+ 
+ <text>
+  
+  <body>
+   <head>
+    <title xml:id="book">Liber XI</title>
+   </head>
+   
+   <div n="Folio 40v" type="edition">
+    <ab>
+     <lb xml:id="Folio40v.1" n="1"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> qui eis <!--?--> carcer <!--?--></note> JMA DETRUSOS QUI EIS UELUT CARCER
+     <lb xml:id="Folio40v.2" n="2"/>EST USQUE AD FUTURAM IN DIE IUDICII
+     <lb xml:id="Folio40v.3" n="3"/>ULTIMAM DAMNATIONEM APOSTOLUS
+     <lb xml:id="Folio40v.4" n="4"/>PETRUS APERTISSIME OSTENDIT DICENS;
+     <lb xml:id="Folio40v.5" n="5"/>QUOD <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice>&#183; ANGELIS <choice><abbr>PECCANTIB&#183;</abbr><expan>PECCANTIB<ex>US</ex></expan></choice> NON <w part="I">PEPERCE</w>
+     <lb xml:id="Folio40v.6" n="6"/><w part="F">RIT</w> SED <choice><abbr>CARCERIB&#183;</abbr><expan>CARCERIB<ex>US</ex></expan></choice> CALIGINES <app><rdg wit="#CSEL40">CALIGINIS</rdg></app> INFERI <w part="I">RETRU</w>
+     <lb xml:id="Folio40v.7" n="7"/><w part="F">DENS</w> TRADIDERIT IN IUDICIO PUNJENDOS
+     <lb xml:id="Folio40v.8" n="8"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice><!--?--> lucis de tenebras</note> RESERUARI; INTER HOS ERGO ET ILLOS <choice><abbr>D&#772;M&#772;</abbr><expan>D<ex>EU</ex>M</expan></choice>
+     <lb xml:id="Folio40v.9" n="9"/>UEL PRAESCIENTJA UEL OPERE DIUISISSE
+     <lb xml:id="Folio40v.10" n="10"/>QUIS DUBITET ILLOSQUE LUCE MERITO <w part="I">APPEL</w>
+     <lb xml:id="Folio40v.11" n="11"/><w part="F">LARI</w> QUIS CONTRADICAT QUANDO QUIDEM
+     <lb xml:id="Folio40v.12" n="12"/>NOS ADHUC IN FIDE UIUENTES ET EORUM <app><rdg wit="#CSEL40">UIUENTES EORUM</rdg></app>
+     <lb xml:id="Folio40v.13" n="13"/>AEQUALITATEM ADHUC SPERANTES UTIQUE
+     <lb xml:id="Folio40v.14" n="14"/><note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> <choice><abbr>qd&#772;</abbr><expan>q<ex>uo</ex>d</expan></choice> <choice><abbr>&#38;</abbr><expan><ex>et</ex></expan></choice> <choice><abbr>ia&#772;</abbr><expan>ia<ex>m</ex></expan></choice> nos in fide lux appellam&#7633;;</note> NONDUM TENENTES IAM LUX DICTI AB <w part="I">AP<hi rend="ligature">OS</hi></w>
+     <lb xml:id="Folio40v.15" n="15"/><w part="F">TOLO</w> SUMUS; FUISTIS ENIM INQUIT <choice><abbr><w part="I">ALIQUA &#772;</w>
+     <lb xml:id="Folio40v.16" n="16"/><w part="F">DO</w></abbr><expan>ALIQUA<ex>N</ex>DO</expan></choice> TENEBRAE NUNC AUTEM LUX IN <choice><abbr>D&#772;N&#772;O&#772;</abbr><expan>D<ex>OMI</ex>NO</expan></choice>;
+     <lb xml:id="Folio40v.17" n="17"/>ISTOS UERO DESERTORES TENEBRAS <w part="I">APTISSI</w>
+     <lb xml:id="Folio40v.18" n="18"/><w part="F">ME</w> NUNCUPARI PROFECTO ADUERTUNT QUI
+     <lb xml:id="Folio40v.19" n="19"/>PEIORES ESSE <choice><abbr>HOMINIB&#183;</abbr><expan>HOMINIB<ex>US</ex></expan></choice> <choice><abbr>INFIDELIB&#183;</abbr><expan>INFIDELIB<ex>US</ex></expan></choice> SIUE <w part="I">IN</w>
+     <lb xml:id="Folio40v.20" n="20"/><w part="F">TELLEGANT</w> <app><rdg wit="#CSEL40">INTELLEGUNT</rdg></app> SIUE CREDANT&#183; <app><rdg wit="#CSEL40">CREDUNT</rdg></app> QUAPROPTER
+     <lb xml:id="Folio40v.21" n="21"/>ETSI ALIA LUX IN ISTO HUIUS LIBRI LOCO <w part="I">INTEL</w>
+     <lb xml:id="Folio40v.22" n="22"/><w part="F">LEGENDA</w> EST UBI LEGIMUS DIXIT FIAT <app><rdg wit="#CSEL40">DIXIT DEUS FIAT</rdg></app> LUX
+     <lb xml:id="Folio40v.23" n="23"/>ET ALIAE TENEBRAE SIGNIFICATAE SUNT IN
+     <lb xml:id="Folio40v.24" n="24"/>EO QUOD SCRIBTUM <app><rdg wit="#CSEL40">SCRIPTUM</rdg></app> EST DIUISIT <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> INTER
+     <lb xml:id="Folio40v.25" n="25"/>LUCEM ET TENEBRAS; NOS TAMEN HAS DUAS
+     <lb xml:id="Folio40v.26" n="26"/>ANGELICA SOCIETATE <app><rdg wit="#CSEL40">ANGELICAS SOCIETATES</rdg></app> UNAM FRUENTEM <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice>&#183;
+     <lb xml:id="Folio40v.27" n="27"/><supplied reason="lost">ALTE</supplied>RAM T<add place="above">U</add>MENTEM TYFO <app><rdg wit="#CSEL40">TYPHO</rdg></app> UNAM CUI <w part="I">DI</w>
+     <lb xml:id="Folio40v.28" n="28"/><w part="F"><supplied reason="lost">CITUR</supplied></w> ADORATE EUM OMNES ANGELI EI<hi rend="ligature">US</hi>
+     <lb xml:id="Folio40v.29" n="29"/>ALI<supplied reason="lost">AM</supplied> CUIUS PRINCEPS DICIT &#183; HAEC OMNIA TIBI
+     <lb xml:id="Folio40v.30" n="30"/>DABO SI PROSTRATUS ADORAUERIS ME; <choice><abbr>UNA &#772;</abbr><expan>UNA<ex>M</ex></expan></choice>
+    </ab>    
+   </div>
+   
+      </body>
+    </text>  
+  
+</TEI>

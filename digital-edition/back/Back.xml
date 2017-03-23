@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+                <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+                <editor>Greta Franzini</editor>
+                <respStmt>
+                    <persName>Greta Franzini</persName>
+                    <resp>PhD student</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Melissa Terras</persName>
+                    <resp>First supervisor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Simon Mahony</persName>
+                    <resp>Second supervisor</resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition n="1">First digital edition</edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Greta Franzini</authority>
+                <idno>Fol_0253v-06r.xml</idno>
+                <authority>UCL Centre for Digital Humanities</authority>
+                <availability>
+                    <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+                </availability>
+                <date>2014</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Verona</settlement>
+                        <repository>Biblioteca Capitolare</repository>
+                        <idno>MS XXVIII(26)</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem> <incipit><choice><abbr>I&#772;N&#772;C&#772;P</abbr><expan>INC<ex>I</ex>P<ex>IT</ex></expan></choice>:CAPITULA:<choice><abbr>L&#772;I&#772;B&#772;</abbr><expan>LIB<ex>RI</ex></expan></choice>:XI:DECIUITATE<choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice>:</incipit>
+                        </msItem>
+                        <msItemStruct>
+                            <p>Books 11-16. Annotations by Ireneo Pacifico (778-846) and Raterio da Verona (887-974).</p>
+                        </msItemStruct>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="parchment">
+                                <support><p>Parchment</p></support>
+                                <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+                                    <height>292</height>
+                                    <width>190</width>
+                                </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"><p>In a single column</p></layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding contemporary="unknown">
+                                <p>Bound in <material>rigid parchment</material>, possibly in 18th
+                                    century, and rebound using the same support in 1926.</p>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+                            </p>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>The following text was encoded in accordance with EpiDoc standards.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            
+            <head>
+                <title xml:id="book">Back</title>
+            </head>
+            
+            <div n="Folio 253v" type="edition">
+                <ab>
+                    <lb xml:id="fol_253v.1" n="1"/>
+                    <lb xml:id="fol_253v.2" n="2"/> 
+                    <lb xml:id="fol_253v.3" n="3"/>
+                    <lb xml:id="fol_253v.4" n="4"/>
+                    <lb xml:id="fol_253v.5" n="5"/> 
+                    <lb xml:id="fol_253v.6" n="6"/>
+                    <lb xml:id="fol_253v.7" n="7"/>
+                    <lb xml:id="fol_253v.8" n="8"/>
+                    <lb xml:id="fol_253v.9" n="9"/>
+                    <lb xml:id="fol_253v.10" n="10"/>
+                    <lb xml:id="fol_253v.11" n="11"/> 
+                    <lb xml:id="fol_253v.12" n="12"/>
+                    <lb xml:id="fol_253v.13" n="13"/>
+                    <lb xml:id="fol_253v.14" n="14"/>
+                    <lb xml:id="fol_253v.15" n="15"/>
+                    <lb xml:id="fol_253v.16" n="16"/>
+                    <lb xml:id="fol_253v.17" n="17"/> 
+                    <lb xml:id="fol_253v.18" n="18"/>
+                    <lb xml:id="fol_253v.19" n="19"/>
+                    <lb xml:id="fol_253v.20" n="20"/> 
+                    <lb xml:id="fol_253v.21" n="21"/>
+                    <lb xml:id="fol_253v.22" n="22"/>
+                    <lb xml:id="fol_253v.23" n="23"/> 
+                    <lb xml:id="fol_253v.24" n="24"/>
+                    <lb xml:id="fol_253v.25" n="25"/>
+                    <lb xml:id="fol_253v.26" n="26"/>
+                    <lb xml:id="fol_253v.27" n="27"/>
+                    <lb xml:id="fol_253v.28" n="28"/>
+                </ab>
+            </div>
+            
+            
+            
+        </body>
+        
+    </text>
+</TEI>

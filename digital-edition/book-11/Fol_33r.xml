@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   
+   <titleStmt>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003" xml:id="edition">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>First supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>Second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   
+   <editionStmt>
+    <edition n="1">First digital edition</edition>
+   </editionStmt>
+   
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol_07r-43r.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     
+     <msContents>
+      <msItem>
+       <locus>f. 7r-43r</locus>
+       <explicit>
+        <locus>f. 43r</locus>
+        <lb />AUGUSTINI EPISCOPI 
+        <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
+        <lb />CONTRA PAGANOS 
+        <lb />LIBER &#183; XI &#183; EXPLICIT
+       </explicit>
+      </msItem>
+     </msContents>
+     
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+     </physDesc>
+     
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards.</p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+  
+ </teiHeader>
+    
+ 
+ <text>
+  
+  <body>
+   <head>
+    <title xml:id="book">Liber XI</title>
+   </head>
+   
+   <div n="Folio 33r" type="edition">
+    <ab>
+     <lb xml:id="Folio33r.1" n="1"/><w part="F">ETSI</w> NON AEQUALEM <sic>INMO</sic> <app><rdg wit="#CSEL40">IMMO</rdg></app> UALDE <choice><abbr><w part="I">LON</w>
+     <lb xml:id="Folio33r.2" n="2"/><w part="F">GEQ&#183;</w></abbr><expan>LONGEQ<ex>UE</ex></expan></choice> DISTANTEM <choice><abbr>NEQ&#183;</abbr><expan>NEQ<ex>UE</ex></expan></choice> COAETERNAM ET
+     <lb xml:id="Folio33r.3" n="3"/>QUO BREUIUS TOTUM DICITUR NON <w part="I">EIUS</w>
+     <lb xml:id="Folio33r.4" n="4"/><w part="F">DEM</w> SUBSTANTIAE CUIUS <choice><abbr>D&#772;S&#772;</abbr><expan>D<ex>EU</ex>S</expan></choice> EST TAMEN
+     <lb xml:id="Folio33r.5" n="5"/>QU<del rend="strikethrough">I</del>A <choice><abbr>D&#772;O&#772;</abbr><expan>D<ex>E</ex>O</expan></choice> &#183; NIHIL SIT IN <choice><abbr>REB&#183;</abbr><expan>REB<ex>US</ex></expan></choice> AB EO FACTIS <w part="I">NATU</w>
+     <lb xml:id="Folio33r.6" n="6"/><w part="F">RAM</w> <app><rdg wit="#CSEL40">NATURA</rdg></app> PROPINQUIUS IMAGINEM <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> HOC
+     <lb xml:id="Folio33r.7" n="7"/>EST ILLIUS SUMMAE TRINITATIS <w part="I">AGNOS</w>
+     <lb xml:id="Folio33r.8" n="8"/><w part="F">CIMUS</w> ADHUC REFORMATIONEM <app><rdg wit="#CSEL40">REFORMATIONE</rdg></app> <w part="I">PERFI</w>
+     <lb xml:id="Folio33r.9" n="9"/><w part="F">CIENDAM</w> UT SIT ETIAM SIMILITUDINE <w part="I">PRO</w>
+     <lb xml:id="Folio33r.10" n="10"/><w part="F">XIMA</w> NAM ET SUMUS ET NOS ESSE <w part="I">NO</w>
+     <lb xml:id="Folio33r.11" n="11"/><w part="F">UIMUS</w> ET ESSE <app><rdg wit="#CSEL40">ET ID ESSE</rdg></app> AC NOSSE DILIGIMUS IN HIS
+     <lb xml:id="Folio33r.12" n="12"/>AUTEM <choice><abbr>TRIB&#183;</abbr><expan>TRIB<ex>US</ex></expan></choice> QUAE DIXI NULLA NOS FALSITAS
+     <lb xml:id="Folio33r.13" n="13"/>UERI SIMILIS TURBAT; NON ENIM EA SICUT <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice></note>
+     <lb xml:id="Folio33r.14" n="14"/>ILLA QUAE FORIS SUNT ULLO SENSU <w part="I">CORPO</w>
+     <lb xml:id="Folio33r.15" n="15"/><w part="F">RIS</w> TANGIMUS UELUT COLORES UIDENDO <w part="I">SO</w>
+     <lb xml:id="Folio33r.16" n="16"/><w part="F">NOS</w> AUDIENDO<del rend="strikethrough">S</del> ODORES OLFACIENDO <w part="I">SA</w>
+     <lb xml:id="Folio33r.17" n="17"/><w part="F">PORES</w> GUSTANDO DURA ET MOLLIA <w part="I">CONTREC</w>
+     <lb xml:id="Folio33r.18" n="18"/><w part="F">TANDO</w> SENTIMUS QUORUM <choice><abbr>SENSIBILIU &#772;</abbr><expan>SENSIBILIU<ex>M</ex></expan></choice>
+     <lb xml:id="Folio33r.19" n="19"/>ETIAM IMAGINES EIS SIMILLIMAS NEC IAM
+     <lb xml:id="Folio33r.20" n="20"/>CORPOREAS CONGITATIONE UERSAMUS <w part="I">ME</w>
+     <lb xml:id="Folio33r.21" n="21"/><w part="F">MORIA</w> TENEMUS ET PER IPSAS IN ISTORUM
+     <lb xml:id="Folio33r.22" n="22"/>DESIDERIA CONCITAMUR SED SINE ULLA
+     <lb xml:id="Folio33r.23" n="23"/>FANTASIARUM UEL FANTHASMAT<supplied reason="lost">UM</supplied> <app><rdg wit="#CSEL40">PHANTASIARUM UEL PHANTASMATUM</rdg></app> <w part="I">IMA</w>
+     <lb xml:id="Folio33r.24" n="24"/><w part="F">GINATIONE</w> LUDIFICATORIA MIHI ESSE <supplied reason="lost">ME</supplied>
+     <lb xml:id="Folio33r.25" n="25"/><choice><abbr>IDQ&#183;</abbr><expan>IDQ<ex>UE</ex></expan></choice> NOSSE ET AMARE CERTISSIMUM EST
+     <lb xml:id="Folio33r.26" n="26"/>NULLA IN HIS UERIS ACHADEMICO<supplied reason="lost">RUM</supplied> <app><rdg wit="#CSEL40">ACADEMICORUM</rdg></app>
+     <lb xml:id="Folio33r.27" n="27"/>ARGUMENTA FORMIDO DICENTIUM QUID
+     <lb xml:id="Folio33r.28" n="28"/>SI FALLERIS SI ENIM FALLOR SUM NAM QUI <note type="scholion" place="margin"><choice><abbr>R&#772;</abbr><expan>R<ex>equire</ex></expan></choice> si fa<add place="above">l</add>lor <choice><abbr>su &#772;</abbr><expan>su<ex>m</ex></expan></choice></note>
+     <lb xml:id="Folio33r.29" n="29"/>NON EST UTIQUE NEC FALLI POTEST AC PER
+     <lb xml:id="Folio33r.30" n="30"/>HOC SUM SI FALLOR QUIA ERGO SUM <app><rdg wit="#CSEL40">QUIA SUM ERGO SI FALLOR</rdg></app> QUO
+    </ab>     
+   </div>
+   
+      </body>
+    </text>  
+  
+</TEI>

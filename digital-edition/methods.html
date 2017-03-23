@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Digital edition</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />	
+		<!--<script type="text/javascript" src="javascript.js"></script>-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  		<script src="zoom/jquery-1.8.3.min.js"></script> <!--for image zooming-->
+		<script src="zoom/jquery.elevatezoom.js"></script> <!--for image zooming-->
+	</head>
+	
+	<body>	
+		<div class="container-fluid">
+
+			<div class="page-header">
+  				<h1>Digital edition of MS XXVIII(26), Biblioteca Capitolare di Verona<br />
+            	<small>The oldest surviving manuscript of St Augustine's <em>De civitate Dei</em></small></h1>
+            	<br />
+            	<p>Franzini, G. <em>De civitate Dei: MS XXVIII(26) Biblioteca Capitolare di Verona.</em> http://decivitatedei.eu/edition</p>
+			</div>
+
+			<nav class="navbar navbar-default">
+				<div class="container-fluid">
+				    <!-- Brand and toggle get grouped for better mobile display -->
+				    <div class="navbar-header">
+				      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+				      	</button>
+				      	
+				      
+				    </div>
+
+				    <!-- Collect the nav links, forms, and other content for toggling -->
+				    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				      	<ul class="nav navbar-nav">
+					    	<li><a href="index.html">About</a></li>
+					    	<li><a href="edition.html">Edition</a></li>
+					        <li class="active"><a href="methods.html">Methods</a></li>
+					    </ul>
+			      
+
+			    		<ul class="nav navbar-nav navbar-right">
+			            </ul>
+			    </div><!-- /.navbar-collapse -->
+			  </div><!-- /.container-fluid -->
+			</nav>
+
+
+		    
+		    <h2>Methods</h2>
+		    <p class="lead">As mentioned in the <a href="index.html">About</a> page of this website, this digital edition is the result of a study of the numerous digital edition projects contained in the <a href="https://dig-ed-cat.eos.arz.oeaw.ac.at/" title="Opens in new page" target="_blank">Catalogue of Digital Editions</a> but also of personal conversations with creators of digital editions. The simplicity of the digital edition of MS XXVIII(26) was designed to support access to, and reuse of, its underlying data. By avoiding the adoption of advanced technologies or languages, it hopes to minimise the risk of obsolescence. There are, of course, drawbacks to using a simple HTML framework, namely searching and streamline updating, but it fulfills the purpose of this project.</p>
+
+
+		    <h3>Editorial</h3>
+			<p class="lead">I encode the manuscript in accordance with <a href="https://sourceforge.net/p/epidoc/wiki/Home/" target="_blank" title="Opens in new page">EpiDoc</a> standards, a subset of the TEI framework. Only a handful of EpiDoc tags are used to transcribe the text (LIST). The aim is not to encode every single detail but to provide a minimum reading aid.<!--The transcription thus far does not make a distinction between the different scribal hands. Corrections and deletions are marked but no information is provided as to whom made those changes. Not yet, at least.--></p>
+
+			<p class="lead">Manuscripts currently being included in the <em>Notes</em> are:</p>
+
+			<ul>
+			<li><a href="http://www.e-codices.unifr.ch/en/list/one/csg/0178" title="Opens in new tab" target="_blank">Codex Sangallensis 178</a> [ca. 850]</li>
+			<li><a href="http://daten.digitale-sammlungen.de/0003/bsb00039815/images/index.html?fip=193.174.98.30&id=00039815&seite=321" title="Opens in new tab" target="_blank">BSB-Hss Clm 6267</a> [9th cent.]</li>
+			<li><a href="http://diglib.hab.de/mss/7-weiss/start.htm" target="_blank" title="Opens in new tab">Wolfenbüttel, Cod. Guelf. 7 Weiss.</a> [9th cent.]</li>
+			</ul>
+
+			<p class="lead">with more to be added. I'm not producing full transcriptions of the witnesses referenced but I provide the standard readings published in the <em>Corpus Scriptorum Ecclesiasticorum Latinorum</em> (CSEL) edition of <em>De civitate Dei</em> (volume 40). The PDF version of CSEL 40 published by the Internet Archive is split into <a href="https://archive.org/details/corpusscriptoru20wiengoog" target="_blank" title="Opens in new tab">part 1</a> and <a href="http://archive.org/stream/corpusscriptoru07wiengoog#page/n7/mode/2up" target="_blank" title="Opens in new tab">part 2</a>. A EpiDoc XML version of CSEL 40 is available <a href="http://opengreekandlatin.github.io/csel-dev/" target="_blank" title="Opens in new tab">here</a>.</p>
+
+			<p class="lead">I strive to provide both XML and TXT versions of the transcription for different users and uses. This edition targets researchers, students and the interested public.</p>
+
+
+		   	<h3>Technical</h3>
+			<p class="lead">No search function because there's no underlying database. It's all pure HTML Bootstrap-CSS with short snippets of JQuery (image zooming). Reasons:</p>
+			1. Lighter project, easier maintenance as I do not depend on experts.
+			2. HTML/CSS less subject to versioning conflicts and deprecation.
+			3. The current alternative to string searching is to download the .txt versions of the transcriptions and search those. 
+
+			<h3>Current issues</h3>
+		    <p class="lead">Bugs and issues with the edition are recorded in this project's GitHub repository. One current bug is the HTML display of macrons, which is not always consistent.</p>
+
+		    <h3>Value</h3>
+			<p class="lead">To the best of my knowledge, this is the only project that provides a (digital) transcription of MS XXVIII(26) and the first attempt to make its contents openly available for download and reuse. Secondly, this edition seeks to dynamically link MS XXVIII(26) to other relevant digital initiatives, breaking the constraints of existing print publications and bringing readers closer to the primary sources.</p>
+
+			<br />
+
+
+			<!--FOOTER-->	 
+				<div class="footer">
+					<p style="text-align: center;"> 
+	                    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">De civitate Dei</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.gretafranzini.com" property="cc:attributionName" rel="cc:attributionURL">Greta Franzini</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+	                </p>    
+				</div>
+			
+
+
+
+		</div>    <!--END OF CONTAINER FLUID-->   			
+		
+	
+	</body>
+</html>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model RNGSchema="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="msxxviii26.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   
+   <titleStmt>
+    <title ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040.stoa003" xml:id="edition">Contra Paganos De Civitate Dei: A Digital Edition of the Oldest Surviving Manuscript</title>
+    <author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Aurelius Augustinus</author>
+    <editor>Greta Franzini</editor>
+    <respStmt>
+     <persName>Greta Franzini</persName>
+     <resp>PhD student</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Melissa Terras</persName>
+     <resp>First supervisor</resp>
+    </respStmt>
+    <respStmt>
+     <persName>Simon Mahony</persName>
+     <resp>Second supervisor</resp>
+    </respStmt>
+   </titleStmt>
+   
+   <editionStmt>
+    <edition n="1">First digital edition</edition>
+   </editionStmt>
+   
+   <publicationStmt>
+    <authority>Greta Franzini</authority>
+    <idno>Fol_07r-43r.xml</idno>
+    <authority>UCL Centre for Digital Humanities</authority>
+    <availability>
+     <p>Available under a Creative Commons Attribution-ShareAlike International 4.0 License</p>
+    </availability>
+    <date>2014</date>
+   </publicationStmt>
+   
+   <sourceDesc>
+    <msDesc>
+     <msIdentifier>
+      <settlement>Verona</settlement>
+      <repository>Biblioteca Capitolare</repository>
+      <idno>MS XXVIII(26)</idno>
+     </msIdentifier>
+     
+     <msContents>
+      <msItem>
+       <locus>f. 7r-43r</locus>
+       <explicit>
+        <locus>f. 43r</locus>
+        <lb />AUGUSTINI EPISCOPI 
+        <lb />CATHOLICI DE CIUITATE <choice><abbr>D&#772;I&#772;</abbr><expan>D<ex>E</ex>I</expan></choice> 
+        <lb />CONTRA PAGANOS 
+        <lb />LIBER &#183; XI &#183; EXPLICIT
+       </explicit>
+      </msItem>
+     </msContents>
+     
+     <physDesc>
+      <objectDesc form="codex">
+       <supportDesc material="parchment">
+        <support><p>Parchment</p></support>
+        <extent>ff.253 <dimensions scope="all" type="leaf" unit="mm">
+         <height>292</height>
+         <width>190</width>
+        </dimensions>
+        </extent>
+       </supportDesc>
+       <layoutDesc>
+        <layout columns="1"><p>In a single column</p></layout>
+       </layoutDesc>
+      </objectDesc>
+      
+      <bindingDesc>
+       <binding contemporary="unknown">
+        <p>Bound in <material>rigid parchment</material>, possibly in 18th
+         century, and rebound using the same support in 1926.</p>
+       </binding>
+      </bindingDesc>
+     </physDesc>
+     
+     <history>
+      <origin>
+       <p>Written in <origPlace>North Africa</origPlace> in the <origDate>early 5th century.</origDate>
+       </p>
+      </origin>
+     </history>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <p>The following text was encoded in accordance with EpiDoc standards.</p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="la">Latin</language>
+   </langUsage>
+  </profileDesc>
+  
+ </teiHeader>
+    
+ 
+ <text>
+  
+  <body>
+   <head>
+    <title xml:id="book">Liber XI</title>
+   </head>
+   
+   <div n="Folio 35r" type="edition">
+    <ab>
+     <lb xml:id="Folio35r.1" n="1"/>RERUM CORPORALIUM NON QUIA <w part="I">SEN</w>
+     <lb xml:id="Folio35r.2" n="2"/><w part="F">TIUNT</w> SED QUIA <choice><sic>SENTI<del rend="strikethrough">A</del>NTUR</sic><corr>SENTI<add place="above">U</add>NTUR</corr></choice> SENSIBILIA
+     <lb xml:id="Folio35r.3" n="3"/>NUNCUPATA SUNT QUORUM IN ARBUSTIS
+     <lb xml:id="Folio35r.4" n="4"/>HOC SIMILE EST <choice><abbr>SENSIB&#183;</abbr><expan>SENSIB<ex>US</ex></expan></choice> QUOD ALUNTUR <supplied reason="lost">ET</supplied>
+     <lb xml:id="Folio35r.5" n="5"/>GIGNUNT UERUM TAMEN ET HAEC OM<supplied reason="lost">NIA</supplied> <app><rdg wit="#CSEL40">ET OMNIA</rdg></app>
+     <lb xml:id="Folio35r.6" n="6"/>CORPORALIA LATENTES IN NATURA CAUSAS
+     <lb xml:id="Folio35r.7" n="7"/>HABENT SED FORMAS SUAS <choice><abbr>QUIB&#183;</abbr><expan>QUIB<ex>US</ex></expan></choice> MUNDI <supplied reason="lost"><w part="I">HU</w></supplied>
+     <lb xml:id="Folio35r.8" n="8"/><w part="F">IUS</w> UISIBILIS STRUCTURA FORMOSA EST <w part="I">SEN</w>
+     <lb xml:id="Folio35r.9" n="9"/><w part="F">TIENDAS</w> <choice><abbr>SENSIB&#183;</abbr><expan>SENSIB<ex>US</ex></expan></choice> PRAEBENT UT <add place="above">PRO</add> EO QUOD
+     <lb xml:id="Folio35r.10" n="10"/>NOSSE NON POSSUNT QUASI <w part="I">INNO<supplied reason="lost">TESCE</supplied></w>
+     <lb xml:id="Folio35r.11" n="11"/><w part="F">RE</w> UELLE UIDETUR <app><rdg wit="#CSEL40">UIDEANTUR</rdg></app> SED NOS EA SENSU
+     <lb xml:id="Folio35r.12" n="12"/>CORPORIS ITA CAPIMUS UT DE HIS NON SENSU
+     <lb xml:id="Folio35r.13" n="13"/>CORPORIS IUDICEMUS HABEMUS ENIM
+     <lb xml:id="Folio35r.14" n="14"/>ALIUM INTERIORIS HOMINIS SENSUM ISTO
+     <lb xml:id="Folio35r.15" n="15"/>LONGE PRAESTANTIOREM QUO IUSTA ET <w part="I">INIUS</w>
+     <lb xml:id="Folio35r.16" n="16"/><w part="F">TA</w> <supplied reason="lost">SENTIEMUS IUSTA</supplied> PER INTELLEGIBILEM
+     <lb xml:id="Folio35r.17" n="17"/>SPECIEM INIUSTA PER EIUS PRIUATIONEM
+     <lb xml:id="Folio35r.18" n="18"/>AD HUIUS SENSUS OFFICIUM NON ACIES <w part="I">PU</w>
+     <lb xml:id="Folio35r.19" n="19"/><w part="F">PULAE</w> NON FORAMEN AURICULAE NON <w part="I">SPI</w>
+     <lb xml:id="Folio35r.20" n="20"/><w part="F">RAMENTA</w> NARIUM NON GUSTUS FA<add place="above">U</add>CIUM
+     <lb xml:id="Folio35r.21" n="21"/>NON ULLUS CORPOREUS TACTUS ACCEDIT
+     <lb xml:id="Folio35r.22" n="22"/>IBI ME ET ESSE ET IN HOC NOSSE CERTUS SUM
+     <lb xml:id="Folio35r.23" n="23"/>ET HAEC AMO <choice><abbr>ATQ&#183;</abbr><expan>ATQ<ex>UE</ex></expan></choice> <app><rdg wit="#CSEL40">ADQUE</rdg></app> AMARE ME SIMILITER <w part="I">CER</w>
+     <lb xml:id="Folio35r.24" n="24"/><w part="F">TUS</w> SUUM <app><rdg wit="#CSEL40">SUM</rdg></app> SED DE <choice><abbr>DUOB&#183;</abbr><expan>DUOB<ex>US</ex></expan></choice> ILLIS ESSENTIA
+     <lb xml:id="Folio35r.25" n="25"/>SCILICET ET NOTITIA QUANTUM AMENTUR
+     <lb xml:id="Folio35r.26" n="26"/>IN NOBIS ET QUEM AMMODUM <app><rdg wit="#CSEL40">AD MODUM</rdg></app> ETIAM IN
+     <lb xml:id="Folio35r.27" n="27"/>CETERIS REBUS QUAE INFRA SUNT EORUM
+     <lb xml:id="Folio35r.28" n="28"/>REPPERIATUR <app><rdg wit="#CSEL40">REPERIATUR</rdg></app> ETSI DIFFERENS QUAEDAM
+     <lb xml:id="Folio35r.29" n="29"/>TAMEN SIMILITUDO QUANTUM SUSCEPIT
+     <lb xml:id="Folio35r.30" n="30"/>HUIUS OPERIS RATIO UISA EST POSTULARE
+    </ab> 
+   </div>
+   
+      </body>
+    </text>  
+  
+</TEI>
