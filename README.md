@@ -2,7 +2,8 @@ MS_XXVIII-26
 =============
 
 Digital edition and transcription of manuscript V, Verona, XXVIII(26): the oldest surviving manuscript of Augustine's _De civitate Dei_.
-For more information, please visit: http://decivitatedei.eu
+
+PREVIOUSLY AT: http://decivitatedei.eu
 
 ## About
 _De civitate Dei_ is traditionally made up of 22 volumes. MS XXVIII(26), however, preserves only books 11-16 (254 pages) along with 9th century _capitula_ and back matter.
