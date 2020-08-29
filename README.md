@@ -1,4 +1,4 @@
-MS_XXVIII-26
+MS XXVIII(26)
 =============
 
 **Ongoing** digital edition and transcription of manuscript MS XXVIII(26): the oldest surviving manuscript of Augustine's _De civitate Dei_.
