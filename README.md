@@ -11,9 +11,9 @@ _De civitate Dei_ is traditionally made up of 22 volumes. MS XXVIII(26), however
 ## File list
 This repository contains:
 
-* **digital-edition**: This folder contains the files that make up this digital edition of MS XXVIII(26).
+* **digital-edition.zip**: This folder contains the files that make up this ongoing digital edition of MS XXVIII(26).
+* **transcription**: This folder contains the ongoing transcription of MS XXVIII(26).
 * **mss_dcd.csv**: This file collects (digitised) manuscripts/witnesses of _De civitate Dei_. 
-* **plain-text**: This folder contains a plain text version of the transcription (the .txt files retain `<add>` and `<sic>` elements but remove `<del>` tags, and abbreviations are expanded).
 
 
 #### Visit this repository's [wiki](https://github.com/gfranzini/MS_XXVIII-26/wiki) for more information.
